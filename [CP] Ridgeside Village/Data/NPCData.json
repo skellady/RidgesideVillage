@@ -11,36 +11,36 @@
 		"Target": "Data/NPCDispositions",
 		"Entries": {
 		
-			"Aguar": "adult/rude/neutral/negative/male/not-datable/null/Town/summer 27//AguarBasement 2 8/{{i18n:Name.Aguar}}",
-			"Alissa": "teen/polite/shy/neutral/female/datable/null/Town/spring 5/Bert 'dad' Olga 'mom' Trinnie 'sister'/AlissaHouse 11 5/{{i18n:Name.Alissa}}",
-			"Bert": "adult/nuetral/neutral/neutral/male/non-datable/null/Town/spring 28/Olga 'wife' Trinnie 'daughter' Alissa 'daughter'/BertHouse2ndFloor 2 5/{{i18n:Name.Bert}}",
-			"Corine": "teen/polite/outgoing/positive/female/datable/null/Town/fall 26/Ezekiel 'dad'/EzekielHouse 31 5/{{i18n:Name.Corine}}",
-			"Ezekiel": "adult/rude/outgoing/positive/male/not-datable/null/Town/spring 12/Corine 'daughter'/EzekielHouse 4 5/{{i18n:Name.Ezekiel}}",
-			"Flor": "teen/neutral/shy/negative/female/datable/null/Town/summer 14//LogCabinHotel2ndFloor 3 5/{{i18n:Name.Flor}}",
-			"Freddie": "adult/polite/outgoing/positive/male/non-datable/null/Town/winter 18/Lola 'wife'/FreddieHouse 3 5/{{i18n:Name.Freddie}}",
-			"Ian": "teen/polite/shy/positive/male/datable/null/Town/fall 14//IanHouse 17 9/{{i18n:Name.Ian}}",
-			"Jeric": "teen/polite/neutral/neutral/male/datable/null/Town/winter 2//JericHouse 18 5/{{i18n:Name.Jeric}}",
-			"Jio": "teen/neutral/neutral/neutral/male/non-datable/null/Other/null//RSVNinjaHouse 14 5/{{i18n:Name.Jio}}",
-			"Keahi": "child/polite/outgoing/positive/male/non-datable/null/Town/winter 11/Pika 'dad'/PikaHouse 26 5/{{i18n:Name.Keahi}}",
-			"Kenneth": "teen/neutral/neutral/neutral/male/datable/null/Town/summer 18//KennethHouse 16 5/{{i18n:Name.Kenneth}}",
-			"Kiwi": "child/rude/outgoing/negative/female/non-datable/null/Other/null//RSVHiddenWarp 10 1/{{i18n:Name.Kiwi}}",
-			"Lenny": "adult/polite/outgoing/positive/female/non-datable/null/Town/summer 16/Lewis 'brother'/LennyHouse 21 5/{{i18n:Name.Lenny}}",
-			"Lola": "adult/polite/neutral/neutral/female/non-datable/null/Town/summer 2/Freddie 'husband'/FreddieHouse 4 5/{{i18n:Name.Lola}}",
-			"Maddie": "teen/rude/neutral/neutral/female/datable/null/Town/fall 23//MaddieHouse 20 5/{{i18n:Name.Maddie}}",
-			"Olga": "adult/polite/neutral/positive/female/non-datable/null/Town/summer 9/Bert 'husband' Trinnie 'daughter' Alissa 'daughter'/BertHouse2ndFloor 3 5/{{i18n:Name.Olga}}",
-			"Philip": "teen/polite/outgoing/positive/male/datable/null/Town/spring 17//LogCabinHotel2ndFloor 13 22/{{i18n:Name.Philip}}",
-			"Pika": "adult/polite/outgoing/neutral/male/non-datable/null/Town/winter 21/Keahi 'son'/PikaHouse 18 5/{{i18n:Name.Pika}}",
-			"Richard": "adult/neutral/neutral/neutral/male/non-datable/null/Town/fall 3/Ysabelle 'granddaughter'/LogCabinHotel3rdFloor 3 12/{{i18n:Name.Richard}}",
-			"Shiro": "teen/rude/shy/negative/male/datable/null/Town/winter 28/Yuuma 'brother'/ShiroHouse 10 5/{{i18n:Name.Shiro}}",
-			"Trinnie": "child/polite/outgoing/negative/female/non-datable/null/Town/spring 16/Bert 'dad' Olga 'mom' Alissa 'sister'/BertHouse2ndFloor 18 5/{{i18n:Name.Trinnie}}",
-			"Ysabelle": "teen/rude/outgoing/positive/female/datable/null/Town/spring 11/Richard 'grandfather'/LogCabinHotel2ndFloor 14 5/{{i18n:Name.Ysabelle}}",
-			"Yuuma": "child/neutral/neutral/neutral/male/non-datable/null/Town/fall 4/Shiro 'brother'/ShiroHouse 14 5/{{i18n:Name.Yuuma}}",
-			"Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//RSVAbandonedHouse 5 5/{{i18n:Name.Undreya}}",
-			"Helen": "adult/neutral/neutral/neutral/female/non-datable/null/Other/null/Ezekiel 'husband' Corine 'daughter'/RSVHiddenWarp2 5 5/{{i18n:Name.Helen}}",
+			"Aguar": "adult/rude/neutral/negative/male/not-datable/null/Town/summer 27//Custom_Ridgeside_AguarBasement 2 8/{{i18n:Name.Aguar}}",
+			"Alissa": "teen/polite/shy/neutral/female/datable/null/Town/spring 5/Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'/Custom_Ridgeside_AlissaHouse 11 5/{{i18n:Name.Alissa}}",
+			"Bert": "adult/neutral/neutral/neutral/male/non-datable/null/Town/spring 28/Olga 'wife' Trinnie 'daughter' Alissa 'niece Alissa'/Custom_Ridgeside_BertHouse2ndFloor 2 5/{{i18n:Name.Bert}}",
+			"Corine": "teen/polite/outgoing/positive/female/datable/null/Town/fall 26/Ezekiel 'dad'/Custom_Ridgeside_EzekielHouse 31 5/{{i18n:Name.Corine}}",
+			"Ezekiel": "adult/rude/outgoing/positive/male/not-datable/null/Town/spring 12/Corine 'daughter'/Custom_Ridgeside_EzekielHouse 4 5/{{i18n:Name.Ezekiel}}",
+			"Flor": "teen/neutral/shy/negative/female/datable/null/Town/summer 14//Custom_Ridgeside_LogCabinHotel2ndFloor 3 5/{{i18n:Name.Flor}}",
+			"Freddie": "adult/polite/outgoing/positive/male/non-datable/null/Town/winter 18/Lola 'wife'/Custom_Ridgeside_FreddieHouse 3 5/{{i18n:Name.Freddie}}",
+			"Ian": "teen/polite/shy/positive/male/datable/null/Town/fall 14//Custom_Ridgeside_IanHouse 17 9/{{i18n:Name.Ian}}",
+			"Jeric": "teen/polite/neutral/neutral/male/datable/null/Town/winter 2//Custom_Ridgeside_JericHouse 18 5/{{i18n:Name.Jeric}}",
+			"Jio": "teen/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ridgeside_RSVNinjaHouse 14 5/{{i18n:Name.Jio}}",
+			"Keahi": "child/polite/outgoing/positive/male/non-datable/null/Town/winter 11/Pika 'dad'/Custom_Ridgeside_PikaHouse 26 5/{{i18n:Name.Keahi}}",
+			"Kenneth": "teen/neutral/neutral/neutral/male/datable/null/Town/summer 18//Custom_Ridgeside_KennethHouse 16 5/{{i18n:Name.Kenneth}}",
+			"Kiwi": "child/rude/outgoing/negative/female/non-datable/null/Other/null//Custom_Ridgeside_RSVHiddenWarp 10 1/{{i18n:Name.Kiwi}}",
+			"Lenny": "adult/polite/outgoing/positive/female/non-datable/null/Town/summer 16/Lewis 'brother'/Custom_Ridgeside_LennyHouse 21 5/{{i18n:Name.Lenny}}",
+			"Lola": "adult/polite/neutral/neutral/female/non-datable/null/Town/summer 2/Freddie 'husband'/Custom_Ridgeside_FreddieHouse 4 5/{{i18n:Name.Lola}}",
+			"Maddie": "teen/rude/neutral/neutral/female/datable/null/Town/fall 23//Custom_Ridgeside_MaddieHouse 20 5/{{i18n:Name.Maddie}}",
+			"Olga": "adult/polite/neutral/positive/female/non-datable/null/Town/summer 9/Bert 'husband' Trinnie 'daughter' Alissa 'daughter'/Custom_Ridgeside_BertHouse2ndFloor 3 5/{{i18n:Name.Olga}}",
+			"Philip": "teen/polite/outgoing/positive/male/datable/null/Town/spring 17//Custom_Ridgeside_LogCabinHotel2ndFloor 13 22/{{i18n:Name.Philip}}",
+			"Pika": "adult/polite/outgoing/neutral/male/non-datable/null/Town/winter 21/Keahi 'son'/Custom_Ridgeside_PikaHouse 18 5/{{i18n:Name.Pika}}",
+			"Richard": "adult/neutral/neutral/neutral/male/non-datable/null/Town/fall 3/Ysabelle 'granddaughter'/Custom_Ridgeside_LogCabinHotel3rdFloor 3 12/{{i18n:Name.Richard}}",
+			"Shiro": "teen/rude/shy/negative/male/datable/null/Town/winter 28/Yuuma 'brother'/Custom_Ridgeside_ShiroHouse 10 5/{{i18n:Name.Shiro}}",
+			"Trinnie": "child/polite/outgoing/negative/female/non-datable/null/Town/spring 16/Bert 'dad' Olga 'mom' Alissa 'sister'/Custom_Ridgeside_BertHouse2ndFloor 18 5/{{i18n:Name.Trinnie}}",
+			"Ysabelle": "teen/rude/outgoing/positive/female/datable/null/Town/spring 11/Richard 'grandfather'/Custom_Ridgeside_LogCabinHotel2ndFloor 14 5/{{i18n:Name.Ysabelle}}",
+			"Yuuma": "child/neutral/neutral/neutral/male/non-datable/null/Town/fall 4/Shiro 'brother'/Custom_Ridgeside_ShiroHouse 14 5/{{i18n:Name.Yuuma}}",
+			"Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//Custom_Ridgeside_RSVAbandonedHouse 5 5/{{i18n:Name.Undreya}}",
+			"Helen": "adult/neutral/neutral/neutral/female/non-datable/null/Other/null/Ezekiel 'husband' Corine 'daughter'/Custom_Ridgeside_RSVHiddenWarp2 5 5/{{i18n:Name.Helen}}",
 			
 		},
 	},
-	
+
 //------------------------
 // G I F T S              
 //------------------------
@@ -110,14 +110,14 @@
 		"LogName": "Portraits",
 		"Action": "Load",
 		"Target": "Portraits/Aguar, Portraits/Alissa, Portraits/Bert, Portraits/Corine, Portraits/Ezekiel, Portraits/Flor, Portraits/Freddie, Portraits/Ian, Portraits/Jeric, Portraits/Jio, Portraits/Keahi, Portraits/Kenneth, Portraits/Kiwi, Portraits/Lenny, Portraits/Lola, Portraits/Maddie, Portraits/Olga, Portraits/Philip, Portraits/Pika, Portraits/Richard, Portraits/Shiro, Portraits/Trinnie, Portraits/Ysabelle, Portraits/Yuuma, Portraits/Undreya, Portraits/Helen",
-		"FromFile": "assets/Portraits/{{TargetWithoutPath}}.png"
+		"FromFile": "Assets/Portraits/{{TargetWithoutPath}}.png"
 	},
 	
 	{
 		"LogName": "Beach Portraits",
 		"Action": "Load",
 		"Target": "Portraits/Aguar_Beach, Portraits/Alissa_Beach, Portraits/Bert_Beach, Portraits/Corine_Beach, Portraits/Ezekiel_Beach, Portraits/Flor_Beach, Portraits/Freddie_Beach, Portraits/Ian_Beach, Portraits/Jeric_Beach, Portraits/Jio_Beach, Portraits/Keahi_Beach, Portraits/Kenneth_Beach, Portraits/Kiwi_Beach, Portraits/Lenny_Beach, Portraits/Lola_Beach, Portraits/Maddie_Beach, Portraits/Olga_Beach, Portraits/Philip_Beach, Portraits/Pika_Beach, Portraits/Richard_Beach, Portraits/Shiro_Beach, Portraits/Trinnie_Beach, Portraits/Ysabelle_Beach, Portraits/Yuuma_Beach, Portraits/Undreya_Beach, Portraits/Helen_Beach",
-		"FromFile": "assets/BeachPortraits/{{TargetWithoutPath}}.png"
+		"FromFile": "Assets/BeachPortraits/{{TargetWithoutPath}}.png"
 	},
 	
 
@@ -129,14 +129,14 @@
 		"LogName": "Sprites",
 		"Action": "Load",
 		"Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
-		"FromFile": "assets/{{Target}}.png"
+		"FromFile": "Assets/{{Target}}.png"
 	},
 	
 	{
 		"LogName": "Beach Sprites",
 		"Action": "Load",
 		"Target": "Characters/Aguar_Beach, Characters/Alissa_Beach, Characters/Bert_Beach, Characters/Corine_Beach, Characters/Ezekiel_Beach, Characters/Flor_Beach, Characters/Freddie_Beach, Characters/Ian_Beach, Characters/Jeric_Beach, Characters/Jio_Beach, Characters/Keahi_Beach, Characters/Kenneth_Beach, Characters/Kiwi_Beach, Characters/Lenny_Beach, Characters/Lola_Beach, Characters/Maddie_Beach, Characters/Olga_Beach, Characters/Philip_Beach, Characters/Pika_Beach, Characters/Richard_Beach, Characters/Shiro_Beach, Characters/Trinnie_Beach, Characters/Ysabelle_Beach, Characters/Yuuma_Beach, Characters/Undreya_Beach, Characters/Helen_Beach",
-		"FromFile": "assets/BeachCharacters/{{TargetWithoutPath}}.png"
+		"FromFile": "Assets/BeachCharacters/{{TargetWithoutPath}}.png"
 	},
 	
 
@@ -148,7 +148,7 @@
 		"LogName": "Corine Ninja Outfit Portrait",
 		"Action": "EditImage",
 		"Target": "Portraits/Corine",
-		"FromFile": "assets/Portraits/{{TargetWithoutPath}}_Ninja.png",
+		"FromFile": "Assets/Portraits/{{TargetWithoutPath}}_Ninja.png",
 		"Update": "OnLocationChange",
 		"When": {
 			"HasSeenEvent: hostPlayer": 75160125,
@@ -160,7 +160,7 @@
 		"LogName": "Corine Ninja Outfit Sprite",
 		"Action": "EditImage",
 		"Target": "Characters/Corine",
-		"FromFile": "assets/{{Target}}_Ninja.png",
+		"FromFile": "Assets/{{Target}}_Ninja.png",
 		"Update": "OnLocationChange",
 		"When": {
 			"HasSeenEvent: hostPlayer": 75160125,
@@ -178,7 +178,7 @@
 		"LogName": "Dialogue",
 		"Action": "Load",
 		"Target": "Characters/Dialogue/Aguar, Characters/Dialogue/Alissa, Characters/Dialogue/Bert, Characters/Dialogue/Corine, Characters/Dialogue/Ezekiel, Characters/Dialogue/Flor, Characters/Dialogue/Freddie, Characters/Dialogue/Ian, Characters/Dialogue/Jeric, Characters/Dialogue/Jio, Characters/Dialogue/Keahi, Characters/Dialogue/Kenneth, Characters/Dialogue/Kiwi, Characters/Dialogue/Lenny, Characters/Dialogue/Lola, Characters/Dialogue/Maddie, Characters/Dialogue/Olga, Characters/Dialogue/Philip, Characters/Dialogue/Pika, Characters/Dialogue/Richard, Characters/Dialogue/Shiro, Characters/Dialogue/Trinnie, Characters/Dialogue/Ysabelle, Characters/Dialogue/Yuuma, Characters/Dialogue/Undreya, Characters/Dialogue/Helen",
-		"FromFile": "assets/Dialogue/{{Language}}/{{TargetWithoutPath}}.json",
+		"FromFile": "Assets/Dialogue/{{Language}}/{{TargetWithoutPath}}.json",
 		"When": { "HasFile:{{FromFile}}":true }
 	},
 	
@@ -186,18 +186,34 @@
 // S C H E D U L E S      
 //------------------------
 
+//Year 1 Schedules
 	{
 		"LogName": "Schedules",
 		"Action": "Load",
 		"Target": "Characters/schedules/Aguar, Characters/schedules/Alissa, Characters/schedules/Bert, Characters/schedules/Corine, Characters/schedules/Ezekiel, Characters/schedules/Flor, Characters/schedules/Freddie, Characters/schedules/Ian, Characters/schedules/Jeric, Characters/schedules/Jio, Characters/schedules/Keahi, Characters/schedules/Kenneth, Characters/schedules/Lenny, Characters/schedules/Lola, Characters/schedules/Maddie, Characters/schedules/Olga, Characters/schedules/Philip, Characters/schedules/Pika, Characters/schedules/Richard, Characters/schedules/Shiro, Characters/schedules/Trinnie, Characters/schedules/Ysabelle, Characters/schedules/Yuuma, Characters/schedules/Undreya, Characters/schedules/Helen",
-		"FromFile": "assets/Schedules/{{TargetWithoutPath}}.json"
+		"FromFile": "Assets/Schedules/{{TargetWithoutPath}}.json",
+	    "When": {
+        "Year": "1"
+    	},		
 	},
-	
+
+//Year 2 Schedules
+	{
+		"LogName": "Schedules",
+		"Action": "Load",
+		"Target": "Characters/schedules/Aguar, Characters/schedules/Alissa, Characters/schedules/Bert, Characters/schedules/Corine, Characters/schedules/Ezekiel, Characters/schedules/Flor, Characters/schedules/Freddie, Characters/schedules/Ian, Characters/schedules/Jeric, Characters/schedules/Jio, Characters/schedules/Keahi, Characters/schedules/Kenneth, Characters/schedules/Lenny, Characters/schedules/Lola, Characters/schedules/Maddie, Characters/schedules/Olga, Characters/schedules/Philip, Characters/schedules/Pika, Characters/schedules/Richard, Characters/schedules/Shiro, Characters/schedules/Trinnie, Characters/schedules/Ysabelle, Characters/schedules/Yuuma, Characters/schedules/Undreya, Characters/schedules/Helen",
+		"FromFile": "Assets/Schedules/year_2/{{TargetWithoutPath}}.json",
+	    "When": {
+        "Year": "2"
+    	},
+	},	
+
+//Schedule Mod Compat Map Patches
 	{
 		"LogName": "Karmylla's Map Patch - Flor",
 		"Action": "EditData",
 		"Target": "Characters/schedules/Flor",
-		"Entries": { "Tue": "610 Town 103 90 2/1100 ArchaeologyHouse 11 10 2 flor_read/1400 Town 89 100 3/1600 LogCabinHotel2ndFloor 2 9 1/2200 LogCabinHotel2ndFloor 3 5 0 flor_sleep", },
+		"Entries": { "Tue": "610 Town 103 90 2/1100 ArchaeologyHouse 11 10 2 flor_read/1400 Town 89 100 3/1600 Custom_Ridgeside_LogCabinHotel2ndFloor 2 9 1/2200 Custom_Ridgeside_LogCabinHotel2ndFloor 3 5 0 flor_sleep", },
 		"When": { "HasMod: |contains=Karmylla.ImmersiveMaps": true, },
 	},
 	
@@ -205,7 +221,7 @@
 		"LogName": "Karmylla's Map Patch - Keahi",
 		"Action": "EditData",
 		"Target": "Characters/schedules/Keahi",
-		"Entries": { "Tue": "610 Town 103 92 2 square_2_2_2/1100 ArchaeologyHouse 15 11 1/1130 ArchaeologyHouse 14 11 3 keahi_read/1400 Town 86 98 2 square_2_2_2/1600 RidgesideVillage 76 60 2 square_1_2_2/1800 PikaHouse 7 10 3/2200 PikaHouse 26 5 0 keahi_sleep", },
+		"Entries": { "Tue": "610 Town 103 92 2 square_2_2_2/1100 ArchaeologyHouse 15 11 1/1130 ArchaeologyHouse 14 11 3 keahi_read/1400 Town 86 98 2 square_2_2_2/1600 Custom_Ridgeside_RidgesideVillage 76 60 2 square_1_2_2/1800 Custom_Ridgeside_PikaHouse 7 10 3/2200 Custom_Ridgeside_PikaHouse 26 5 0 keahi_sleep", },
 		"When": { "HasMod: |contains=Karmylla.ImmersiveMaps": true, },
 	},
 	
@@ -214,11 +230,11 @@
 		"Action": "EditData",
 		"Target": "Characters/schedules/Kenneth",
 		"Entries": {
-			"spring": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 80 38 3/1400 RidgesideVillage 89 38 1/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
-			"summer": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 84 61 2/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
-			"fall": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 ScienceHouse 2 22 1/1500 Mountain 20 26 2/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
-			"winter": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Mountain 30 21 0/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
-			"marriage_Mon": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 80 38 3/1400 RidgesideVillage 89 38 1/2200 BusStop -1 23 3",
+			"spring": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 80 38 3/1400 Custom_Ridgeside_RidgesideVillage 89 38 1/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
+			"summer": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 84 61 2/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
+			"fall": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 ScienceHouse 2 22 1/1500 Mountain 20 26 2/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
+			"winter": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Mountain 30 21 0/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
+			"marriage_Mon": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 80 38 3/1400 Custom_Ridgeside_RidgesideVillage 89 38 1/2200 BusStop -1 23 3",
 		},
 		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, },
 	},

@@ -11,7 +11,7 @@
 //Miscellaneous
 //-------------
 
-"Find.Undreya": "Huh? Who are you!?#You managed to spot me huh... Maybe you're who he meant...# Uhmm... Hey, return here tomorrow night, same time. I want to meet you properly.",
+"Find.Undreya": "Huh? Who are you!?#You managed to spot me, huh. Maybe you're who he meant...# Uhmm... Hey, return here tomorrow night, same time. I want to meet you properly.",
 "Ember.of.Resolutions": "Ember of Resolutions",
 "EoR.Bonfire": "Should we start the bonfire? It's getting close to midnight now.",
 "EoR.Yes": "Yes, let's start.",
@@ -55,7 +55,7 @@
 //--------------------
 //Gift Taste Dialogues
 //--------------------
-
+//Love
 "Gift.Love.Aguar": "I'm truly grateful for this gift.",
 "Gift.Love.Alissa": "I love this! Thank you so much, @!",
 "Gift.Love.Bert": "Wow! You're really giving me this? Thanks a bunch!",
@@ -80,7 +80,7 @@
 "Gift.Love.Trinnie": "This is great! Thank you, @!!",
 "Gift.Love.Ysabelle": "This is just delightful, @! Thank you!",
 "Gift.Love.Yuuma": "Thank you, @! Thanks for thinking of me!",
-
+//Like
 "Gift.Like.Aguar": "This is adequate, thank you.",
 "Gift.Like.Alissa": "I like this, thanks!",
 "Gift.Like.Bert": "Thanks for the gift @!",
@@ -105,7 +105,7 @@
 "Gift.Like.Trinnie": "I like this gift! Thank you!",
 "Gift.Like.Ysabelle": "Thank you, this is generous of you.",
 "Gift.Like.Yuuma": "This is great! Thanks!",
-
+//Dislike
 "Gift.Dislike.Aguar": "I find this rather unpleasant.",
 "Gift.Dislike.Alissa": "I'm sorry but I'm not fond of these.",
 "Gift.Dislike.Bert": "Are you pulling a prank?",
@@ -130,7 +130,7 @@
 "Gift.Dislike.Trinnie": "Ah! I don't like this!",
 "Gift.Dislike.Ysabelle": "Oh, this is just distasteful…",
 "Gift.Dislike.Yuuma": "I don't like this, @.",
-
+//Hate
 "Gift.Hate.Aguar": "This is atrocious.",
 "Gift.Hate.Alissa": "What are you doing! Get that away from me!",
 "Gift.Hate.Bert": "Are you trying to get me killed!?",
@@ -155,7 +155,7 @@
 "Gift.Hate.Trinnie": "Ewww! I hate this!",
 "Gift.Hate.Ysabelle": "Now this is just unacceptable and utterly disgusting.",
 "Gift.Hate.Yuuma": "I'm telling my brother! You're rude!",
-
+//Neutral
 "Gift.Neutral.Aguar": "I guess I could use this for an experiment later...",
 "Gift.Neutral.Alissa": "Oh, you're giving me this? Thanks @.",
 "Gift.Neutral.Bert": "Oh a gift, Thank you, @.",

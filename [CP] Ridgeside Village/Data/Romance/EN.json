@@ -239,7 +239,7 @@
 		"LogName": "Marriage Dialogue",
 		"Action": "Load",
 		"Target": "Characters/Dialogue/MarriageDialogueAlissa, Characters/Dialogue/MarriageDialogueCorine, Characters/Dialogue/MarriageDialogueFlor, Characters/Dialogue/MarriageDialogueIan, Characters/Dialogue/MarriageDialogueJeric, Characters/Dialogue/MarriageDialogueKenneth, Characters/Dialogue/MarriageDialogueMaddie, Characters/Dialogue/MarriageDialoguePhilip, Characters/Dialogue/MarriageDialogueShiro, Characters/Dialogue/MarriageDialogueYsabelle",
-		"FromFile": "assets/MarriageDialogue/{{Language}}/{{TargetWithoutPath}}.json",
+		"FromFile": "Assets/MarriageDialogue/{{Language}}/{{TargetWithoutPath}}.json",
 	},
 	
 	{
