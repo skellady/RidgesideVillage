@@ -20,7 +20,7 @@
 		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP, DaisyNiko.SVR2": false },
 	},
 	
-//Wedding Patches
+//Wedding Patches (I think this only works when SVE is installed)
 	{
 		"Action": "EditData",
 		"Target": "Data/CustomWeddingGuestPositions",
