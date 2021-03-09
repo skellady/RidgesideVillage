@@ -279,10 +279,10 @@
          	"FromMapFile": "Assets/Maps/BertHouse2ndFloor.tbin",
          	"MigrateLegacyNames": [ "BertHouse2ndFloor" ]
       	},
-      	{
-         	"Name": "Custom_Ridgeside_ElvenForest",
-         	"FromMapFile": "Assets/Maps/ElvenForest.tmx",
-      	},      	   
+//      	{
+//         	"Name": "Custom_Ridgeside_ElvenForest",
+//         	"FromMapFile": "Assets/Maps/ElvenForest.tmx",
+//      	},      	   
       	{
          	"Name": "Custom_Ridgeside_EmberNight",
          	"FromMapFile": "Assets/Maps/EmberNight.tbin",
@@ -809,15 +809,15 @@
 				"19 16 Custom_Ridgeside_BertHouse 19 0",
    			]
 		},	
-		{
-   			"Action": "EditMap",
-   			"Target": "Maps/Custom_Ridgeside_ElvenForest",
-			"AddWarps": [
-				"59 -1 Custom_Ridgeside_RidgesideVillage 28 125",
-				"60 -1 Custom_Ridgeside_RidgesideVillage 29 125",
-				"61 -1 Custom_Ridgeside_RidgesideVillage 30 125",
-   			]
-		},				
+//		{
+//   			"Action": "EditMap",
+//   			"Target": "Maps/Custom_Ridgeside_ElvenForest",
+//			"AddWarps": [
+//				"59 -1 Custom_Ridgeside_RidgesideVillage 28 125",
+//				"60 -1 Custom_Ridgeside_RidgesideVillage 29 125",
+//				"61 -1 Custom_Ridgeside_RidgesideVillage 30 125",
+//   			]
+//		},				
 		{
    			"Action": "EditMap",
    			"Target": "Maps/Custom_Ridgeside_EmberNight",
@@ -1101,9 +1101,9 @@
 				"98 -1 Custom_Ridgeside_Ridge 39 38",
 				"99 -1 Custom_Ridgeside_Ridge 40 38",
 				"100 -1 Custom_Ridgeside_Ridge 41 38",
-				"28 125 Custom_Ridgeside_ElvenForest 59 0",
-				"29 125 Custom_Ridgeside_ElvenForest 60 0",
-				"30 125 Custom_Ridgeside_ElvenForest 61 0",
+//				"28 125 Custom_Ridgeside_ElvenForest 59 0",
+//				"29 125 Custom_Ridgeside_ElvenForest 60 0",
+//				"30 125 Custom_Ridgeside_ElvenForest 61 0",
    			]
 		},		
 		{
