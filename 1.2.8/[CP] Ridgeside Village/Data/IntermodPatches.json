@@ -20,7 +20,7 @@
 	{
 		"LogName": "RidgesideVillage Map Events",
 		"Action": "EditData",
-		"Target": "Data/Events/RidgesideVillage",
+		"Target": "Data/Events/Custom_Ridgeside_RidgesideVillage",
 		"When": { "HasMod: |contains=Lemurkat.JacobEloise.CP": true, },
 		"Entries": {
 		//Alissa concert (Alissa 8 hearts part 2)

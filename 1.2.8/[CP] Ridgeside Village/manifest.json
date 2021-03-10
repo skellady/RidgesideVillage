@@ -1,7 +1,7 @@
 {
 	"Name": "Ridgeside Village",
 	"Author": "Rafseazz",
-	"Version": "1.2.7",
+	"Version": "1.3.0",
 	"Description": "Adds a new village in the west. Along with lots more!",
 	"UniqueID": "Rafseazz.RSVCP",
 	"MinimumApiVersion": "3.0.0",
@@ -42,5 +42,9 @@
 		"UniqueID": "flashshifter.immersivefarm2remastered",
 		"IsRequired": false,
 	   },
+       {
+        "UniqueID": "Bouhm.NPCMapLocations",
+        "IsRequired": false
+       }	   
    ]
 }
