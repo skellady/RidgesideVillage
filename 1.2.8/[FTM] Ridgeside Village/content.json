@@ -32,9 +32,9 @@
           283
         ],
         "UniqueAreaID": "RSV Village Forage",
-        "MapName": "Custom_Ridgeside_RidgesideVillage",
-        "MinimumSpawnsPerDay": 5,
-        "MaximumSpawnsPerDay": 20,
+        "MapName": "RidgesideVillage",
+        "MinimumSpawnsPerDay": 30,
+        "MaximumSpawnsPerDay": 50,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -95,7 +95,7 @@
           283
         ],
         "UniqueAreaID": "RSV Ridge Forage",
-        "MapName": "Custom_Ridgeside_Ridge",
+        "MapName": "Ridge",
         "MinimumSpawnsPerDay": 20,
         "MaximumSpawnsPerDay": 30,
         "IncludeTerrainTypes": [
@@ -125,6 +125,8 @@
         },
         "DaysUntilSpawnsExpire": 1
       },
+	  
+//Start Q1
       {
         "SpringItemIndex": [
           "Ridge Cherry",
@@ -152,7 +154,7 @@
           283
         ],
         "UniqueAreaID": "RSV RidgeForest Forage Q1",
-        "MapName": "Custom_Ridgeside_RidgeForestQ1",
+        "MapName": "RidgeForestQ1",
         "MinimumSpawnsPerDay": 10,
         "MaximumSpawnsPerDay": 20,
         "IncludeTerrainTypes": [
@@ -182,6 +184,9 @@
         },
         "DaysUntilSpawnsExpire": 1
       },
+//End Q1	  
+
+//Start Q2
       {
         "SpringItemIndex": [
           74,
@@ -212,7 +217,7 @@
           499
         ],
         "UniqueAreaID": "RSV RidgeForest Treasures Q2",
-        "MapName": "Custom_Ridgeside_RidgeForestQ2",
+        "MapName": "RidgeForestQ2",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 1,
         "IncludeTerrainTypes": [
@@ -269,7 +274,7 @@
           283
         ],
         "UniqueAreaID": "RSV RidgeForest Forage Q2",
-        "MapName": "Custom_Ridgeside_RidgeForestQ2",
+        "MapName": "RidgeForestQ2",
         "MinimumSpawnsPerDay": 10,
         "MaximumSpawnsPerDay": 20,
         "IncludeTerrainTypes": [
@@ -299,6 +304,9 @@
         },
         "DaysUntilSpawnsExpire": 1
       },
+//End Q2	  
+
+//Start Q3
       {
         "SpringItemIndex": [
           74,
@@ -329,7 +337,7 @@
           499
         ],
         "UniqueAreaID": "RSV RidgeForest Treasures Q3",
-        "MapName": "Custom_Ridgeside_RidgeForestQ3",
+        "MapName": "RidgeForestQ3",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
@@ -386,7 +394,7 @@
           283
         ],
         "UniqueAreaID": "RSV RidgeForest Forage Q3",
-        "MapName": "Custom_Ridgeside_RidgeForestQ3",
+        "MapName": "RidgeForestQ3",
         "MinimumSpawnsPerDay": 10,
         "MaximumSpawnsPerDay": 20,
         "IncludeTerrainTypes": [
@@ -416,6 +424,9 @@
         },
         "DaysUntilSpawnsExpire": 1
       },
+//End Q3	  
+
+//Start Q4
       {
         "SpringItemIndex": [
           74,
@@ -446,7 +457,7 @@
           499
         ],
         "UniqueAreaID": "RSV RidgeForest Treasures Q4",
-        "MapName": "Custom_Ridgeside_RidgeForestQ4",
+        "MapName": "RidgeForestQ4",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
@@ -503,7 +514,7 @@
           283
         ],
         "UniqueAreaID": "RSV RidgeForest Forage Q4",
-        "MapName": "Custom_Ridgeside_RidgeForestQ4",
+        "MapName": "RidgeForestQ4",
         "MinimumSpawnsPerDay": 10,
         "MaximumSpawnsPerDay": 20,
         "IncludeTerrainTypes": [
@@ -532,7 +543,9 @@
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": 1
-      }
+      },
+//End Q4	  
+
     ],
     "PercentExtraSpawnsPerForagingLevel": 0,
     "SpringItemIndex": [
@@ -566,7 +579,7 @@
         "PercentExtraSpawnsPerSkillLevel": 0,
         "RelatedSkill": "Foraging",
         "UniqueAreaID": "Ridge Log",
-        "MapName": "Custom_Ridgeside_Ridge",
+        "MapName": "Ridge",
         "MinimumSpawnsPerDay": 1,
         "MaximumSpawnsPerDay": 1,
         "IncludeTerrainTypes": [],
@@ -601,12 +614,13 @@
   },
   "Ore_Spawn_Settings": {
     "Areas": [
+	//Q1
       {
         "MiningLevelRequired": null,
         "StartingSpawnChance": null,
         "LevelTenSpawnChance": null,
         "UniqueAreaID": "RSV RidgeForest Ores Q1",
-        "MapName": "Custom_Ridgeside_RidgeForestQ1",
+        "MapName": "RidgeForestQ1",
         "MinimumSpawnsPerDay": 5,
         "MaximumSpawnsPerDay": 10,
         "IncludeTerrainTypes": [
@@ -636,12 +650,13 @@
         },
         "DaysUntilSpawnsExpire": 7
       },
+	//Q2
       {
         "MiningLevelRequired": null,
         "StartingSpawnChance": null,
         "LevelTenSpawnChance": null,
         "UniqueAreaID": "RSV RidgeForest Ores Q2",
-        "MapName": "Custom_Ridgeside_RidgeForestQ2",
+        "MapName": "RidgeForestQ2",
         "MinimumSpawnsPerDay": 5,
         "MaximumSpawnsPerDay": 10,
         "IncludeTerrainTypes": [
@@ -671,12 +686,13 @@
         },
         "DaysUntilSpawnsExpire": 7
       },
+	//Q3
       {
         "MiningLevelRequired": null,
         "StartingSpawnChance": null,
         "LevelTenSpawnChance": null,
         "UniqueAreaID": "RSV RidgeForest Ores Q3",
-        "MapName": "Custom_Ridgeside_RidgeForestQ3",
+        "MapName": "RidgeForestQ3",
         "MinimumSpawnsPerDay": 5,
         "MaximumSpawnsPerDay": 10,
         "IncludeTerrainTypes": [
@@ -706,12 +722,13 @@
         },
         "DaysUntilSpawnsExpire": 7
       },
+	//Q4
       {
         "MiningLevelRequired": null,
         "StartingSpawnChance": null,
         "LevelTenSpawnChance": null,
         "UniqueAreaID": "RSV RidgeForest Ores Q4",
-        "MapName": "Custom_Ridgeside_RidgeForestQ4",
+        "MapName": "RidgeForestQ4",
         "MinimumSpawnsPerDay": 5,
         "MaximumSpawnsPerDay": 10,
         "IncludeTerrainTypes": [
@@ -740,7 +757,8 @@
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": 7
-      }
+      },
+	  
     ],
     "PercentExtraSpawnsPerMiningLevel": 0,
     "MiningLevelRequired": {
@@ -804,6 +822,7 @@
   },
   "Monster_Spawn_Settings": {
     "Areas": [
+	//Q1
       {
         "MonsterTypes": [
           {
@@ -891,7 +910,7 @@
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q1",
-        "MapName": "Custom_Ridgeside_RidgeForestQ1",
+        "MapName": "RidgeForestQ1",
         "MinimumSpawnsPerDay": 65,
         "MaximumSpawnsPerDay": 65,
         "IncludeTerrainTypes": [
@@ -921,6 +940,8 @@
         },
         "DaysUntilSpawnsExpire": null
       },
+	  
+	//Q2
       {
         "MonsterTypes": [
           {
@@ -1008,7 +1029,7 @@
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q2",
-        "MapName": "Custom_Ridgeside_RidgeForestQ2",
+        "MapName": "RidgeForestQ2",
         "MinimumSpawnsPerDay": 75,
         "MaximumSpawnsPerDay": 75,
         "IncludeTerrainTypes": [
@@ -1038,6 +1059,8 @@
         },
         "DaysUntilSpawnsExpire": null
       },
+	  
+	//Q3
       {
         "MonsterTypes": [
           {
@@ -1125,7 +1148,7 @@
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q3",
-        "MapName": "Custom_Ridgeside_RidgeForestQ3",
+        "MapName": "RidgeForestQ3",
         "MinimumSpawnsPerDay": 85,
         "MaximumSpawnsPerDay": 85,
         "IncludeTerrainTypes": [
@@ -1155,6 +1178,8 @@
         },
         "DaysUntilSpawnsExpire": null
       },
+	  
+	//Q4
       {
         "MonsterTypes": [
           {
@@ -1242,7 +1267,7 @@
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q4",
-        "MapName": "Custom_Ridgeside_RidgeForestQ4",
+        "MapName": "RidgeForestQ4",
         "MinimumSpawnsPerDay": 95,
         "MaximumSpawnsPerDay": 95,
         "IncludeTerrainTypes": [
@@ -1271,7 +1296,8 @@
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": null
-      }
+      },
+	  
     ],
     "CustomTileIndex": []
   },

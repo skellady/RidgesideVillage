@@ -5,7 +5,7 @@
 	{
 		"LogName": "Ridgeside Village Music",
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+		"Target": "Maps/RidgesideVillage",
 		"MapProperties": {
 			"Music": "cm:FallInRidgeside"
 			},
@@ -19,7 +19,7 @@
 	{
 		"LogName": "Ridgeside Village Music No Sun",
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+		"Target": "Maps/RidgesideVillage",
 		"MapProperties": {
 			"Music": null
 			},
@@ -32,7 +32,7 @@
 	{
 		"LogName": "Ridgeside Village Music Night",
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+		"Target": "Maps/RidgesideVillage",
 		"MapProperties": {
 			"Music": null
 			},
@@ -45,7 +45,7 @@
 	{
 		"LogName": "Ridgeside Village Music Off",
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+		"Target": "Maps/RidgesideVillage",
 		"MapProperties": {
 			"Music": null
 			},
@@ -53,26 +53,14 @@
 			"EnableVillageMusic": false
 			}
 	},
-
-//Disposition Changes
-	// Yuuma stays with Lenny when Farmer is married to Shiro
-	{
-		"LogName": "NPC Dispositions",
-		"Action": "EditData",
-		"Target": "Data/NPCDispositions",
-		"Entries": {
-			"Yuuma": "child/neutral/neutral/neutral/male/non-datable/null/Town/fall 4/Shiro 'brother'/Custom_Ridgeside_LennyHouse 21 6/{{i18n:Name.Yuuma}}",
-		},
-		"When": {   "Relationship:Shiro": "Married" },
-	},	
 	
-//Schedule Changes
+//Schedule changes
 	{
 		"LogName": "Corine Schedule Change",
 		"Action": "EditData",
 		"Target": "Characters/schedules/Corine",
 		"Entries": {
-			"Thu": "610 Custom_Ridgeside_RidgesideVillage 133 86 2 corine_train/1200 Custom_Ridgeside_RidgesideVillage 140 86 2 corine_meditate/1500 Custom_Ridgeside_RidgesideVillage 135 87 1 corine_slash/1900 Custom_Ridgeside_EzekielHouse 24 5 0/2200 Custom_Ridgeside_Ridge 76 38 2",
+			"Thu": "610 RidgesideVillage 133 86 2 corine_train/1200 RidgesideVillage 140 86 2 corine_meditate/1500 RidgesideVillage 135 87 1 corine_slash/1900 EzekielHouse 24 5 0/2200 Ridge 76 38 2",
 		},
 		"When": { "HasSeenEvent: hostPlayer": 75160125, },
 	},
@@ -81,40 +69,28 @@
 		"Action": "EditData",
 		"Target": "Characters/schedules/Ian",
 		"Entries": {
-			"Fri": "800 Custom_Ridgeside_LogCabinHotelLobby 2 15 2/1200 ArchaeologyHouse 17 14 2/1800 Custom_Ridgeside_RidgesideVillage 95 65 2/2200 Custom_Ridgeside_IanHouse 17 9 0 ian_sleep",
+			"Fri": "800 LogCabinHotelLobby 2 15 2/1200 ArchaeologyHouse 17 14 2/1800 RidgesideVillage 95 65 2/2200 IanHouse 17 9 0 ian_sleep",
 		},
 		"When": { "HasSeenEvent: hostPlayer": 75160149, },
 	},
-	{
-		"LogName": "Yuuma Shiro Married Schedule",
-		"Action": "EditData",
-		"Target": "Characters/schedules/Yuuma",
-		"Entries": {
-			"spring": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
-			"summer": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
-			"fall": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
-			"winter": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
-		},
-		"When": {   "Relationship:Shiro": "Married" },
-	},	
-
+	
 //Cliff Sky
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/RSVCliffNight.tbin",
-		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
-		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"Target": "Maps/RSVCliff",
+		"FromFile": "assets/Map/RSVCliffNight.tbin",
+		"FromArea": { "X": 15, "Y": 0, "Width": 20, "Height": 20 },
+		"ToArea": { "X": 15, "Y": 0, "Width": 20, "Height": 20 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 1900, 2600}}" },
 		"Update": "OnLocationChange"
 	},
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/RSVCliff.tbin",
-		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
-		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"Target": "Maps/RSVCliff",
+		"FromFile": "assets/Map/RSVCliff.tbin",
+		"FromArea": { "X": 15, "Y": 0, "Width": 20, "Height": 20 },
+		"ToArea": { "X": 15, "Y": 0, "Width": 20, "Height": 20 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 0600, 1900}}" },
 		"Update": "OnLocationChange"
@@ -123,8 +99,8 @@
 //Ride Sky
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
-		"FromFile": "Assets/MapPatches/RSVTheRideNight.tbin",
+		"Target": "Maps/RSVTheRide",
+		"FromFile": "assets/Map/RSVTheRideNight.tbin",
 		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 1900, 2600}}" },
@@ -132,8 +108,8 @@
 	},
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
-		"FromFile": "Assets/MapPatches/RSVTheRide.tbin",
+		"Target": "Maps/RSVTheRide",
+		"FromFile": "assets/Map/RSVTheRide.tbin",
 		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 0600, 1900}}" },
@@ -143,8 +119,8 @@
 //Cliff House Peek (11PM-11:30PM Thursday)
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/CliffHousePeek.tbin",
+		"Target": "Maps/RSVCliff",
+		"FromFile": "assets/Map/CliffHousePeek.tbin",
 		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 2 },
 		"ToArea": { "X": 28, "Y": 32, "Width": 2, "Height": 2 },
 		"PatchMode": "ReplaceByLayer",
@@ -153,13 +129,13 @@
 	},
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "Target": "Maps/RSVCliff",
         "MapTiles": [
 			{
 				"Position": { "X": 28, "Y": 32 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "MessageOnce 75160181 '???: {{i18n:Find.Undreya}}'"
+				"Action": "MessageOnce 75160181 '???: Huh? Who are you!?#You managed to spot me huh... Maybe you're who he meant...# Uhmm.. Hey, return here tomorrow night, same time. I want to meet you properly.'"
                }
             }
 		],
@@ -168,7 +144,7 @@
     },
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "Target": "Maps/RSVCliff",
         "MapTiles": [
 			{
 				"Position": { "X": 28, "Y": 32 },
@@ -183,8 +159,8 @@
     },
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/Map/UndreyaUnlock.tbin",
+		"Target": "Maps/RSVCliff",
+		"FromFile": "assets/Map/UndreyaUnlock.tbin",
 		"ToArea": { "X": 31, "Y": 32, "Width": 1, "Height": 2 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 2300, 2600}}", "HasSeenEvent: |contains=75160181": true },
@@ -192,13 +168,13 @@
 	},
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "Target": "Maps/RSVCliff",
         "MapTiles": [
 			{
 				"Position": { "X": 31, "Y": 33 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "Warp 6 10 Custom_Ridgeside_RSVAbandonedHouse"
+				"Action": "Warp 6 10 RSVAbandonedHouse"
                }
             }
 		],
@@ -209,20 +185,20 @@
 //Unlock Minecarts
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+        "Target": "Maps/RidgesideVillage",
         "MapTiles": [
 			{
 				"Position": { "X": 69, "Y": 15 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "Warp 4 11 Custom_Ridgeside_RSVMinecart"
+				"Action": "Warp 4 11 RSVMinecart"
                }
             },
 			{
 				"Position": { "X": 16, "Y": 81 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "Warp 4 13 Custom_Ridgeside_RSVMinecart"
+				"Action": "Warp 4 13 RSVMinecart"
                }
             }
 		],
@@ -231,24 +207,24 @@
     },
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RSVCableCar",
+        "Target": "Maps/RSVCableCar",
         "MapTiles": [
 			{
 				"Position": { "X": 25, "Y": 17 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "Warp 24 13 Custom_Ridgeside_RSVMinecart"
+				"Action": "Warp 24 13 RSVMinecart"
                }
             }
 		],
 		"When": { "HasSeenEvent: hostPlayer": 75160190 },
 		"Update": "OnLocationChange, OnTimeChange"
 	},
-	//Open Entrance
+	//Open Enrance
 	{
 		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"FromFile": "Assets/MapPatches/RSVOpenPlot.tbin",
+		"Target": "Maps/RidgesideVillage",
+		"FromFile": "assets/Map/RSVOpenPlot.tbin",
 		"ToArea": { "X": 68, "Y": 18, "Width": 3, "Height": 2 },
 		"PatchMode": "Replace",
 		"When": { "HasSeenEvent: hostPlayer": 75160189 },
@@ -258,7 +234,7 @@
 //Blank Questboards
 	{
         "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+        "Target": "Maps/RidgesideVillage",
         "MapTiles": [
 			{
 				"Position": { "X": 109, "Y": 40 },

@@ -10,7 +10,6 @@
 	"CategoriesToSell": [ -19,-74 ],
 	"PortraitPath": "assets/JericShop.png",
 	"Quote": "Hey! How can I help you?",
-	"LocalizedQuote": { "en": "Hey! How can I help you?" },
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 3,
 	"DefaultSellPriceMultiplier": 0.7,
@@ -99,7 +98,6 @@
 	"CategoriesToSell": [ -7 ],
 	"PortraitPath": "assets/PikaShop.png",
 	"Quote": "Welcome to Pika's!",
-	"LocalizedQuote": { "en": "Welcome to Pika's!" },
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 5,
 	"DefaultSellPriceMultiplier": 0.7,
@@ -153,7 +151,6 @@
 	"CategoriesToSell": [ -7,-98 ],
 	"PortraitPath": "assets/LolaShop.png",
 	"Quote": "How can I help you, dear?",
-	"LocalizedQuote": { "en": "How can I help you, dear?" },
 	"ShopPrice": -1,
 	"DefaultSellPriceMultiplier": 1.0,
 	"When": ["t 600 2600"],
@@ -193,7 +190,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'" },
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -293,7 +289,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'" },
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -379,7 +374,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'" },
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -409,7 +403,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Welcome to Gus and Pika's!",
-	"LocalizedQuote": { "en": "Welcome to Gus and Pika's!" },
 	"DefaultSellPriceMultiplier": 0.8,
 	"MaxNumItemsSoldInStore": 20,
 	"ShopPrice": -1,
@@ -469,7 +462,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Girls rule!!",
-	"LocalizedQuote": { "en": "Girls rule!" },
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -589,7 +581,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Boys rule!!",
-	"LocalizedQuote": { "en": "Boys rule!" },
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -703,7 +694,6 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "What will it be?",
-	"LocalizedQuote": { "en": "What will it be?" },
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
