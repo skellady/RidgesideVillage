@@ -186,27 +186,13 @@
 // S C H E D U L E S      
 //------------------------
 
-//Year 1 Schedules
+//Schedules
 	{
 		"LogName": "Schedules",
 		"Action": "Load",
 		"Target": "Characters/schedules/Aguar, Characters/schedules/Alissa, Characters/schedules/Bert, Characters/schedules/Corine, Characters/schedules/Ezekiel, Characters/schedules/Flor, Characters/schedules/Freddie, Characters/schedules/Ian, Characters/schedules/Jeric, Characters/schedules/Jio, Characters/schedules/Keahi, Characters/schedules/Kenneth, Characters/schedules/Lenny, Characters/schedules/Lola, Characters/schedules/Maddie, Characters/schedules/Olga, Characters/schedules/Philip, Characters/schedules/Pika, Characters/schedules/Richard, Characters/schedules/Shiro, Characters/schedules/Trinnie, Characters/schedules/Ysabelle, Characters/schedules/Yuuma, Characters/schedules/Undreya, Characters/schedules/Helen",
 		"FromFile": "Assets/Schedules/{{TargetWithoutPath}}.json",
-	    "When": {
-        "Year": "1"
-    	},		
 	},
-
-//Year 2 Schedules
-	{
-		"LogName": "Schedules",
-		"Action": "Load",
-		"Target": "Characters/schedules/Aguar, Characters/schedules/Alissa, Characters/schedules/Bert, Characters/schedules/Corine, Characters/schedules/Ezekiel, Characters/schedules/Flor, Characters/schedules/Freddie, Characters/schedules/Ian, Characters/schedules/Jeric, Characters/schedules/Jio, Characters/schedules/Keahi, Characters/schedules/Kenneth, Characters/schedules/Lenny, Characters/schedules/Lola, Characters/schedules/Maddie, Characters/schedules/Olga, Characters/schedules/Philip, Characters/schedules/Pika, Characters/schedules/Richard, Characters/schedules/Shiro, Characters/schedules/Trinnie, Characters/schedules/Ysabelle, Characters/schedules/Yuuma, Characters/schedules/Undreya, Characters/schedules/Helen",
-		"FromFile": "Assets/Schedules/year_2/{{TargetWithoutPath}}.json",
-	    "When": {
-        "Year": "2"
-    	},
-	},	
 
 //Schedule Mod Compat Map Patches
 	{
