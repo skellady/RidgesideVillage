@@ -1,8 +1,8 @@
 ﻿{
-	"Name": "RSV TMXL",
+	"Name": "Ridgeside Village Spouse Rooms",
 	"Author": "Rafseazz",
-	"Version": "1.0.0",
-	"Description": "Loads in Ridgeside Village Map Files",
+	"Version": "1.2.8",
+	"Description": "Adds Ridgeside Village Spouse Rooms",
 	"UniqueID": "Rafseazz.RSVTMXL",
 	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": [ "Nexus:???" ],
