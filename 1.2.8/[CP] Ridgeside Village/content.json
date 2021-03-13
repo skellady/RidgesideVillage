@@ -238,7 +238,7 @@
       	},
       	{
          	"Name": "Custom_Ridgeside_AguarCave",
-         	"FromMapFile": "Assets/Maps/AguarCave.tbin",
+         	"FromMapFile": "Assets/Maps/AguarCave.tmx",
          	"MigrateLegacyNames": [ "AguarCave" ]
       	},
 //      	{
@@ -663,10 +663,10 @@
       	},
      	 {
          "Action": "EditMap",
-         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+         "Target": "Maps/Custom_Ridgeside_AguarCave",
          "FromFile": "Assets/MapPatches/AguarCaveFixed.tbin",
          "FromArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
-         "ToArea": { "X": 0, "Y": 0, "Width": 0, "Height": 0 },
+         "ToArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
          "PatchMode": "Replace",
          "When": {
 			"HasSeenEvent: hostPlayer |contains=75160064": true,
