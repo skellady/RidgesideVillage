@@ -1,7 +1,7 @@
 {
   "Name": "Mountain Arugula",
-  "Description": "A cool weather crop found in the ridge of mountains. It gives a temporary boost in luck said the locals.",
-  "Category": "Fruit",
+  "Description": "A cool weather crop found in the ridge of mountains. According to the locals, it gives a temporary boost in luck.",
+  "Category": "Vegetable",
   "Edibility": 15,
   "EdibleBuffs": {
     "Farming": 0,
