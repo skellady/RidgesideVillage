@@ -260,17 +260,17 @@
 
 //Keahi 6 heart event Trinnie dialogue after event
 
-"keahisorry.Trinnie": "Teehee < Keahi baked me a cake!$h",
-"keahinosorry.Trinnie": "Hmph! That stupid Keahi!$a#$b# He didn't even bother to say sorry.$s",
+"keahisorry.Trinnie": "Woop woop! Keahi baked me a cake!$h",
+"keahinosorry.Trinnie": "Hmph! That stupid Keahi!$a#$b#He didn't even bother to say sorry.$s",
 
 
 //-----------------------------
 //Festival Main Event Dialogues
 //-----------------------------
 
-"EoR.01": "Welcome once again to everybody here.#$b#Before anything else, I would like to thank my sister, Lenny, for organizing the Ember of Resolutions gathering every year.#$b#Thank you Lenny.$h",
-"EoR.02": "Oh come on now lil bro!$h#$b#I'm just happy to end the year here with everyone gathered up around one big bonfire.",
-"EoR.03": "It does warm my heart to see the citizens of two towns together on the last night of the year.$h",
+"EoR.01": "Welcome once again to everybody here.#$b#Before anything else, I would like to thank my sister, Lenny, for organizing the Ember of Resolutions festival every year.#$b#Thank you, Lenny!$h",
+"EoR.02": "Oh, come on now, little bro!$h#$b#I'm just happy to end the year here with everyone gathered up around one big bonfire.",
+"EoR.03": "It does warm my heart to see the citizens of of our community together on the last night of the year.$h",
 "EoR.04": "Oh Lewis...",
 "EoR.05": "Awww",
 "EoR.06": "It's so good to see everybody.",
@@ -301,10 +301,10 @@
 "EoR.31": "Happy New Year everyone!$h#$b#I look forward to another prosperous year!$h",
 "EoR.32": "A whole new year...#I can't wait!",
 
-"RSVG.01": "Ehem... testing... 1, 2, 3...#$b#Okay! The sound system's good, Kenneth!$h",
-"RSVG.02": "Welcome everybody!$h",
-"RSVG.03": "Yes! This is such a spectacular gathering!#$b# I always look forward to this!$h",
-"RSVG.04": "Now now Lenny, we haven't even started the concert and yet you're this hyped already.$h",
+"RSVG.01": "Err... testing... 1, 2, 3...#$b#Okay! The sound system works, Kenneth!$h",
+"RSVG.02": "Welcome, everybody!$h",
+"RSVG.03": "Yes! This is such a spectacular gathering!#$b#I always look forward to this!$h",
+"RSVG.04": "Now now, Lenny, we haven't even started the concert and yet you're this excited already.$h",
 "RSVG.05": "Oh hush, little bro. I just can't wait!$4#$b#This is going to be fun!$h",
 "RSVG.06": "I'd like to thank everybody for helping make this year's gathering a success!$h#$b#This would not have been possible without everybody's cooperation.#$b#I hope everybody is having a good time!$h",
 "RSVG.07": "Let's get the show started!",
@@ -323,7 +323,7 @@
 //--------------
 
 //Cable Car is introduced
-"event-75160186.01": "Sheesh Lenny! Not too loud now!$a#$b#What if someone heard you? They might find out about me and--$a",
+"event-75160186.01": "Shush, Lenny! Not too loud!$a#$b#What if someone heard you? They might find out about me and--$a",
 "event-75160186.02": "Chill, Lewlew! No one cares. Anyway, I gotta go.#$b#Still got lots of paperwork left. Real nice of you to saddle me with all that, by the way.$4",
 "event-75160186.03": "Stop calling me that!$a#$b#And it's your own fault for procrastinating all the time!$a",
 "event-75160186.04": "No can do, Lewlew. It's my right as your big sister.$h#$b# Anyway, gotta go! Got to catch the cable car before it fills up.$h",
@@ -332,8 +332,8 @@
 "event-75160186.07": "That was Lenny, my older sister. She came by to give me Ridgeside Village's financial report from last year.",
 "event-75160186.08": "Ridgeside Village? Oh, your grandpa never told you?#$b#They're our neighbors in the mountains to the west. You can use the cable car to head up there, if you'd like to visit.$h#$b#That cable car is a marvel of engineering. Who knows how they paid for it...#$b#I did hear that someone in the village has close ties to the Governor...$a",
 "event-75160186.09": "Anyway! Do go visit when you have the time. A part of their tourism revenue goes to Pelican Town, you know!$h",
-"event-75160186.10": "I better get back to town.#$b#Goodbye now, @.",
-"event-75160186.11": "Ridgeside Village huh?#I should visit sometime soon...",
+"event-75160186.10": "I better get back to town.#$b#Goodbye, @.",
+"event-75160186.11": "Ridgeside Village, huh?#I should visit sometime soon...",
 
 //Greenhouse1 restoration
 "event-75160174.01": "I'm glad everyone could make it to our small gathering!$h#$b#We have finally gathered enough funds to restore this Greenhouse, and with this, a step further to development!$h#$b#I would like to thank everybody for their hard work. And to that..#$b#I hereby declare this public Greenhouse open!$h#$b#Certain individuals have already claimed certain plots inside the Greenhouse.$h#$b#I expect to see amazing produce from you all!$h#$b#Once again, thank you to all of you!$h",
@@ -587,7 +587,7 @@
 "event-75160065.BertSad.01": "Oh well. I guess you better get going then huh?#$b#I'll figure out how to fix this on my own, no worries!.#$b#Bye now @.",
 
 //Bert problem with Trinnie (Bert 4 hearts)
-"event-75160066.01": "Now now princess. You that it was just a joke.$s#$b#I'm just messing with you! I was trying to make you smile.$s",
+"event-75160066.01": "Now now princess. You know that it was just a joke.$s#$b#I'm just messing with you! I was trying to make you smile.$s",
 "event-75160066.02": "You know how I feel about Keahi!!$s#$b#That was so mean Papa!!$s",
 "event-75160066.03": "Trinnie is crying out loud",
 "event-75160066.04": "Waaah!$s",
