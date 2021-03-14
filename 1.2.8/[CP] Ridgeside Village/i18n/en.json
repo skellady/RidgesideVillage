@@ -43,7 +43,7 @@
 "Name.Maddie": "Maddie",
 "Name.Olga": "Olga",
 "Name.Philip": "Philip",
-"Name.Pika": "Philip",
+"Name.Pika": "Pika",
 "Name.Richard": "Richard",
 "Name.Shiro": "Shiro",
 "Name.Trinnie": "Trinnie",
@@ -1964,7 +1964,7 @@
 
 //Pika misses wife (Pika 8 hearts)
 "event-75160101.01": "Hmmm..$s",
-"event-75160101.02": "Goodmorning love.#$b#It's another day.#$b#It's gonna be busy but it's all fine.#$b#..Hmm..$s#$b#Well.. I better get off to work now.$h#$b#Someone has to look after our dream restaurant right?$h#$b#Oh how I wish you could see all this...$s",
+"event-75160101.02": "Goodmorning love.#$b#It's another day.#$b#It's gonna be busy but it's all fine.#$b#..Hmm..$s#$b#Well.. I better get off to work now.$h#$b#Someone has to look after our dream restaurant right?$h#$b#Oh, how I wish you could see all this...$s",
 "event-75160101.03": "Well.. I'm off!$h",
 "event-75160101.04": "Uhmm.. I think I can spare a few more minutes love.$s",
 "event-75160101.05": "Hmmm Dad...$s",
