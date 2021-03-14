@@ -61,7 +61,7 @@
 	"Thu6": "%Alissa's singing to herself.#$b#Oh! Hi, @! I know you have caught me singing to myself from time to time.$l#$e#It's just a little hobby haha.$h#$b#I'm not confident in my voice.$7",
 	"Fri6": "Good day, @!#$e#Corine, the cashier and waitress at Pika's restaurant, is so pretty!$l#$b#I think I have a little girl crush! Teehee.$l",
 	"Sat6": "Oh, hello there. You're asking about the shed beside my house?#$b#It's where we store our harvest.#$e#We ship them every week.#$b#You ship yours everyday? Woah! That's mighty diligent of you.",
-	"Sun6": "%Alissa is talking to herself.#$b#Hmm, I really want to know what my voice would sound like if it were on a microphone.$uWhat? Oh! Nothing! I was just thinking out loud! I thought I was alone.$7",
+	"Sun6": "%Alissa is talking to herself.#$b#Hmm, I really want to know what my voice would sound like if it were on a microphone.$u#$e#What? Oh! Nothing! I was just thinking out loud! I thought I was alone.$7",
 	
 	//8 Hearts
 	"Mon8": "Oh! Hi, @! I'm sorry, I didn't see you there! What brings you here?$h#$e#Now that you're here... Uh, may I ask?$l#$b#What's your favorite type of crop? Oh nothing, I was just curious.$l",
