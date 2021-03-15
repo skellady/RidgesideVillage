@@ -112,7 +112,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Richard 31 4 down",
+         "Value": "Richard 35 4 down",
          "Delimiter": "/"
 		},
 		{
@@ -246,7 +246,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Richard 31 4 down",
+         "Value": "Richard 35 4 down",
          "Delimiter": "/"
 		},
 		{

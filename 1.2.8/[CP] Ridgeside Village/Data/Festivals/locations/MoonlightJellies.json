@@ -106,7 +106,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Olga 43 24 down",
+         "Value": "Olga 45 24 down",
          "Delimiter": "/"
 		},
 		{

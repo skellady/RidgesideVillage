@@ -126,7 +126,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Richard 31 74 up",
+         "Value": "Richard 34 74 up",
          "Delimiter": "/"
 		},
 		{
@@ -273,7 +273,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Richard 31 74 up",
+         "Value": "Richard 34 74 up",
          "Delimiter": "/"
 		},
 		{
@@ -428,7 +428,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Richard 31 74 up",
+         "Value": "Richard 34 74 up",
          "Delimiter": "/"
 		},
 		{
@@ -575,7 +575,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Richard 31 74 up",
+         "Value": "Richard 34 74 up",
          "Delimiter": "/"
 		},
 		{
