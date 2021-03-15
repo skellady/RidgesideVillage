@@ -11,7 +11,7 @@
 		"Target": "Data/NPCDispositions",
 		"Entries": {
 		
-			"Aguar": "adult/rude/neutral/negative/male/not-datable/null/Town/summer 27//Custom_Ridgeside_AguarBasement 2 8/{{i18n:Name.Aguar}}",
+			"Aguar": "adult/rude/neutral/negative/male/not-datable/null/Town/summer 25//Custom_Ridgeside_AguarBasement 2 8/{{i18n:Name.Aguar}}",
 			"Alissa": "teen/polite/shy/neutral/female/datable/null/Town/spring 5/Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'/Custom_Ridgeside_AlissaHouse 11 5/{{i18n:Name.Alissa}}",
 			"Bert": "adult/neutral/neutral/neutral/male/non-datable/null/Town/spring 28/Olga 'wife' Trinnie 'daughter' Alissa 'niece Alissa'/Custom_Ridgeside_BertHouse2ndFloor 2 5/{{i18n:Name.Bert}}",
 			"Corine": "teen/polite/outgoing/positive/female/datable/null/Town/fall 26/Ezekiel 'dad'/Custom_Ridgeside_EzekielHouse 31 5/{{i18n:Name.Corine}}",
