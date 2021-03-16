@@ -40,7 +40,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Flor 29 17 right",
+         "Value": "Flor 30 18 right",
          "Delimiter": "/"
 		},
 		{
@@ -174,7 +174,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Flor 30 20 up",
+         "Value": "Flor 30 18 right",
          "Delimiter": "/"
 		},
 		{
