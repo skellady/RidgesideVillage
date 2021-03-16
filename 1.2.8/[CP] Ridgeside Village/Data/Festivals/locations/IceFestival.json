@@ -106,7 +106,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Pika 63 53 right",
+         "Value": "Pika 63 53 up",
          "Delimiter": "/"
 		},
 		{
