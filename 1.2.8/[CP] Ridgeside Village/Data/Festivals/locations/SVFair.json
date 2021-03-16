@@ -59,7 +59,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Jeric 11 65 left",
+         "Value": "Jeric 11 62 left",
          "Delimiter": "/"
 		},
 		{
@@ -213,7 +213,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Jeric 11 65 left",
+         "Value": "Jeric 11 62 right",
          "Delimiter": "/"
 		},
 		{

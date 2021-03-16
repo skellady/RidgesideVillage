@@ -23,7 +23,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Bert 22 62 down",
+         "Value": "Bert 41 57 down",
          "Delimiter": "/"
 		},
 		{
@@ -89,7 +89,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Lenny 26 62 right",
+         "Value": "Lenny 26 61 down",
          "Delimiter": "/"
 		},
 		{
@@ -119,7 +119,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Pika 24 74 up",
+         "Value": "Pika 33 65 right",
          "Delimiter": "/"
 		},
 		{
@@ -137,7 +137,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Trinnie 21 62 right",
+         "Value": "Trinnie 42 57 down",
          "Delimiter": "/"
 		},
 		{
@@ -177,7 +177,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Bert 22 62 down",
+         "Value": "Bert 41 57 down",
          "Delimiter": "/"
 		},
 		{
@@ -243,7 +243,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Lenny 26 62 right",
+         "Value": "Lenny 26 61 down",
          "Delimiter": "/"
 		},
 		{
@@ -273,7 +273,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Pika 23 74 up",
+         "Value": "Pika 33 65 right",
          "Delimiter": "/"
 		},
 		{
@@ -291,7 +291,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Trinnie 21 62 right",
+         "Value": "Trinnie 42 57 down",
          "Delimiter": "/"
 		},
 		{

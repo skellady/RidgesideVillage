@@ -30,13 +30,13 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Corine 33 73 up",
+         "Value": "Corine 38 69 left",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Ezekiel 34 73 up",
+         "Value": "Ezekiel 38 70 left",
          "Delimiter": "/"
 		},
 		{
@@ -186,13 +186,13 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Corine 33 73 up",
+         "Value": "Corine 38 69 left",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Ezekiel 34 75 up",
+         "Value": "Ezekiel 38 70 left",
          "Delimiter": "/"
 		},
 		{

@@ -100,19 +100,19 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Philip 75 24 down",
+         "Value": "Philip 77 24 down",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Pika 60 49 right",
+         "Value": "Pika 63 53 right",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Richard 61 50 up",
+         "Value": "Richard 62 52 right",
          "Delimiter": "/"
 		},
 		{
@@ -234,19 +234,19 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Philip 75 24 down",
+         "Value": "Philip 77 24 down",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Pika 60 49 right",
+         "Value": "Pika 63 53 up",
          "Delimiter": "/"
 		},
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Richard 61 50 up",
+         "Value": "Richard 62 52 right",
          "Delimiter": "/"
 		},
 		{
