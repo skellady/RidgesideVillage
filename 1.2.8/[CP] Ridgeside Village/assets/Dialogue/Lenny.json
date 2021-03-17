@@ -83,7 +83,9 @@
 
 //Special Dialogue
 	"MovieInvitation": "A movie? How'd you know I was looking for a date?$4#$b#Ha ha! I'm just messing with you! Of course I'll go. Thank you for the invite.$h#$b#I'll see you there.",
-	
+	"Beach_16_24": "Placeholder Dialogue1", // Night Market (Winter 15)
+	"Beach_27_28": "Placeholder Dialogue2", // Night Market (Winter 16)
+	"Beach_14_39": "Placeholder Dialogue3", // Night Market (Winter 17)
 //Resort
 	"Resort_Entering": "Oh wow, it's way hotter here than Ridgeside!$u",
 	"Resort_Leaving": "Time to go!",
