@@ -11,7 +11,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Aguar 47 101 down",
+         "Value": "Aguar 50 58 left",
          "Delimiter": "/"
 		},
 		{
@@ -59,7 +59,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Jeric 11 62 left",
+         "Value": "Jeric 57 79 left",
          "Delimiter": "/"
 		},
 		{
@@ -77,7 +77,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Kenneth 22 49 up",
+         "Value": "Kenneth 24 57 right",
          "Delimiter": "/"
 		},
 		{
@@ -149,7 +149,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Yuuma 32 77 right",
+         "Value": "Yuuma 25 71 left",
          "Delimiter": "/"
 		},
 	]	

@@ -1,7 +1,7 @@
 {
     "name": "Ridgeside Gathering",
-    "conditions": "RidgesideVillage/900 1800",
-    "set-up": "CloudCountry/-1000 -1000/farmer 125 30 3/changeToTemporaryMap RSVGathering/loadActors Set-Up/animate Kiwi false true 100 16 16 17 17 17 17 17 17 18 19 20 21 22 23 24 25 26 17 17 27 27 27 16/playerControl luau",
+    "conditions": "Custom_Ridgeside_RidgesideVillage/900 1800",
+    "set-up": "CloudCountry/-1000 -1000/farmer 125 30 3/changeToTemporaryMap Custom_Ridgeside_RSVGathering/loadActors Set-Up/animate Kiwi false true 100 16 16 17 17 17 17 17 17 18 19 20 21 22 23 24 25 26 17 17 27 27 27 16/playerControl luau",
     "mainEvent": "null",
     "Abigail_spouse": "Watch me play the drums later!#$b#I'll be doing my best so cheer extra loud for me, okay?$h",
     "Leah_spouse": "How's this painting?#$b#It's the last one left.#$b#I've sold all of them!$h",

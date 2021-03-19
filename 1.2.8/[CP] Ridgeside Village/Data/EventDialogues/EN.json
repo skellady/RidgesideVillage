@@ -9,7 +9,7 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Aguar",
                 "Entries": {                        
-                        "aguar1_1": "Hmmmm...$a#$b#Yes, that was magic, @.$a#$b#And no one was supposed to see that.",
+                        "aguar1_1": "Hmmmm..$a#$b#Yes, that was magic, @.$a#$b#And no one was supposed to see that.",
                         "aguar1_2": "How dare you!%fork$a",                        
                 }
         },

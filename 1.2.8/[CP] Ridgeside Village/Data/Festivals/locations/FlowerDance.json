@@ -64,7 +64,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Jio 38 12 down",
+         "Value": "Jio 28 32 down",
          "Delimiter": "/"
 		},
 		{
@@ -82,7 +82,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Kiwi 37 12 down",
+         "Value": "Kiwi 27 33 down",
          "Delimiter": "/"
 		},
 		{
@@ -210,7 +210,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Jio 38 12 left",
+         "Value": "Jio 28 32 left",
          "Delimiter": "/"
 		},
 		{
@@ -228,7 +228,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "MainEvent_additionalCharacters"],
-         "Value": "Kiwi 37 12 left",
+         "Value": "Kiwi 27 33 left",
          "Delimiter": "/"
 		},
 		{
