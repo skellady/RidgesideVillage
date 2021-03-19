@@ -32,7 +32,7 @@
 
 ///Rainy Day 
 "Rainy_Day_0": "Hey honey, do you want another cup of coffee before you tackle your day? #$b#I made plenty.",
-"Rainy_Day_1": "@, can I wear your sweatshirt? $l#$b#I don't think you'd mind if I just took it, but I wanted to ask anyway.4h",
+"Rainy_Day_1": "@, can I wear your sweatshirt? $l#$b#I don't think you'd mind if I just took it, but I wanted to ask anyway.$h",
 "Rainy_Day_2": "I was reading a book the other day that talked about how different types of clouds can help predict the weather. #$b#I wanted to check the sky, but it didn't say anything about rainclouds like these.",
 "Rainy_Day_3": "Would you like me to pick up some soup from Pika's? #$b#I think it'd be really good in this weather.",
 "Rainy_Day_4": "Hey @, do you mind if I come lend a hand? #$b#I know it's gross out, but I just... um. I guess I just wanted to spend more time with you.$s",
@@ -40,7 +40,7 @@
 
 ///Rainy Night
 "Rainy_Night_0": "Oh, you're home! You're soaked!$u#$b#I can run you a bath if you want?",
-"Rainy_Night_1": "Hey @, I missed you today.#$b# Can I ask for a hug$l?",
+"Rainy_Night_1": "Hey @, I missed you today.#$b#Can I ask for a hug?$l",
 "Rainy_Night_2": "Oh dear, you're soaking wet!$u#$b#Let's get you out of those wet clothes...#$b# And into something dry! Don't look at me like that!$l",
 "Rainy_Night_3": "Have you ever noticed how poets like comparing good things to warm sunny days and bad things to storms and rain? #$b#I understand why on a surface level, but I think there isn't much better than being with someone you love when it's pouring out.",
 "Rainy_Night_4": "Have you finished all your work for today?#$b# I have some notes to review on the couch before I call it a night. Do you want to spend some time with me?$h",
