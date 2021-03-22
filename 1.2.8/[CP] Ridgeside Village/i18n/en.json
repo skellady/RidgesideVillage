@@ -3,9 +3,35 @@
 //Config Translation
 //------------------
 
-"Config1": "Repeat cable car cutscene everytime player uses the Cable Car",
+"Config1": "Repeat cable car cutscene every time player uses the Cable Car",
 "Config2": "Enable the chances of other NPCs to appear riding the Cable Car (Along with LASV, ES and SVE NPCs)",
 "Config3": "Enable the custom music to play in Ridgeside Village",
+"Config4": "Pick your preferred Aguar Portrait",
+"Config5": "Pick your preferred Alissa Portrait",
+"Config6": "Pick your preferred Bert Portrait",
+"Config7": "Pick your preferred Corine Portrait",
+"Config8": "Pick your preferred Ezekiel Portrait",
+"Config9": "Pick your preferred Flor Portrait",
+"Config10": "Pick your preferred Freddie Portrait",
+"Config11": "Pick your preferred Ian Portrait",
+"Config12": "Pick your preferred Jeric Portrait",
+"Config13": "Pick your preferred Jio Portrait",
+"Config14": "Pick your preferred Keahi Portrait",
+"Config15": "Pick your preferred Kenneth Portrait",
+"Config16": "Pick your preferred Kiwi Portrait",
+"Config17": "Pick your preferred Lenny Portrait",
+"Config18": "Pick your preferred Lola Portrait",
+"Config19": "Pick your preferred Maddie Portrait",
+"Config20": "Pick your preferred Olga Portrait",
+"Config21": "Pick your preferred Philip Portrait",
+"Config22": "Pick your preferred Pika Portrait",
+"Config23": "Pick your preferred Richard Portrait",
+"Config24": "Pick your preferred Shiro Portrait",
+"Config25": "Pick your preferred Trinnie Portrait",
+"Config26": "Pick your preferred Ysabelle Portrait",
+"Config27": "Pick your preferred Yuuma Portrait",
+"Config28": "Pick your preferred Helen Portrait",
+"Config29": "Pick your preferred Undreya Portrait",
 
 //-------------
 //Miscellaneous
@@ -2385,15 +2411,4 @@
 "event-75160113.16": "I had fun with my friends today!$h",
 
 }
-
- 
- 
-
-
-
-
-
-
-
-
 

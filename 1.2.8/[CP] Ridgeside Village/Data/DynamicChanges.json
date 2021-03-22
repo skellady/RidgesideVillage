@@ -1,60 +1,10 @@
 {
 "Changes": [
 
-//Music
-	{
-		"LogName": "Ridgeside Village Music",
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"MapProperties": {
-			"Music": "cm:FallInRidgeside"
-			},
-		"When": {
-			"Weather": "Sun",
-			"Time": "{{Range: 0600, 1900}}",
-			"EnableVillageMusic": true
-			},
-		"Update": "OnLocationChange"
-	},
-	{
-		"LogName": "Ridgeside Village Music No Sun",
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"MapProperties": {
-			"Music": null
-			},
-		"When": {
-			"Weather: |contains=Sun": false,
-			"EnableVillageMusic": true
-			},
-		"Update": "OnLocationChange"
-	},
-	{
-		"LogName": "Ridgeside Village Music Night",
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"MapProperties": {
-			"Music": null
-			},
-		"When": {
-			"Time": "{{Range: 1900, 2600}}",
-			"EnableVillageMusic": true
-			},
-		"Update": "OnLocationChange"
-	},
-	{
-		"LogName": "Ridgeside Village Music Off",
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"MapProperties": {
-			"Music": null
-			},
-		"When": {
-			"EnableVillageMusic": false
-			}
-	},
+	/*********
+	** Disposition Changes
+	*********/
 
-//Disposition Changes
 	// Yuuma stays with Lenny when Farmer is married to Shiro
 //	{
 //		"LogName": "NPC Dispositions",
@@ -65,8 +15,11 @@
 //		},
 //		"When": {   "Relationship:Shiro": "Married" },
 //	},	
-	
-//Schedule Changes
+
+	/*********
+	** Schedule Changes
+	*********/	
+
 	{
 		"LogName": "Corine Schedule Change",
 		"Action": "EditData",
@@ -85,6 +38,44 @@
 		},
 		"When": { "HasSeenEvent: hostPlayer": 75160149, },
 	},
+
+
+
+	/*********
+	** Portrait Changes
+	*********/	
+	
+	{
+		"LogName": "Corine Ninja Outfit Portrait",
+		"Action": "EditImage",
+		"Target": "Portraits/Corine",
+		"FromFile": "Assets/Portraits/Corine/{{CorinePortraitStyle}}_Ninja.png",
+		"Update": "OnLocationChange",
+		"When": {
+			"HasSeenEvent: hostPlayer": 75160125,
+			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
+			"DayOfWeek": "Thursday",
+		},
+	},
+
+	/*********
+	** Sprite Changes
+	*********/	
+
+	{
+		"LogName": "Corine Ninja Outfit Sprite",
+		"Action": "EditImage",
+		"Target": "Characters/Corine",
+		"FromFile": "Assets/{{Target}}_Ninja.png",
+		"Update": "OnLocationChange",
+		"When": {
+			"HasSeenEvent: hostPlayer": 75160125,
+			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
+			"DayOfWeek": "Thursday",
+		},
+	},
+		
+
 //	{
 //		"LogName": "Yuuma Shiro Married Schedule",
 //		"Action": "EditData",
@@ -97,6 +88,10 @@
 //		},
 //		"When": {   "Relationship:Shiro": "Married" },
 //	},	
+
+	/*********
+	** Map Changes
+	*********/	
 
 //Cliff Sky
 	{
@@ -255,22 +250,62 @@
 		"Update": "OnLocationChange, OnTimeChange"
 	},
 
-//Blank Questboards
-	{
-        "Action": "EditMap",
-        "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-        "MapTiles": [
-			{
-				"Position": { "X": 109, "Y": 40 },
-				"Layer": "Buildings",
-				"SetProperties": {
-				"Action": "Message rsv.noquestboard"
-               }
-            }
-		],
-		"When": { "HasMod: |contains=Rafseazz.RSVQF": false }
-    },
+//Undreya dynamics
+		//DISPOSITIONS
+		{
+			"Action": "EditData",
+			"Target": "Characters/schedules/Undreya",
+			"Entries": {
+				"spring": "{{RANDOMUNDREYA}}"
+			},
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160182": true,
+				"DayOfWeek |contains=Thursday": false
+			}
+		},
 
+		//SPRITE RANDOMIZE
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Undreya",
+			"FromFile": "Data/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
+			"When": {
+				"HasSeenEvent: hostPlayer": 75160182,
+				"DayOfWeek: |contains=Thursday": false
+			},
+		},
+	
+		//Kiwi dynamics
+		{
+			//Temporary Schedule
+			"Action": "Load",
+			"Target": "Characters/schedules/Kiwi",
+			"FromFile": "Assets/schedules/BlankSchedule.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": false
+			},
+		},
+		{
+		//Official Schedule
+			"Action": "Load",
+			"Target": "Characters/schedules/Kiwi",
+			"FromFile": "Assets/schedules/Kiwi.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": true
+			},
+		},
+		
+		{
+			"Action": "EditData",
+			"Target": "Data/AntiSocialNPCs",
+			"When": {
+				"HasSeenEvent": "75160188"
+			},
+			"Entries": {
+				"Kiwi": false
+			}
+		},
+			
 	
 ]
 }

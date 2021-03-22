@@ -23,79 +23,161 @@
 			"Description": "{{i18n:Config3}}"
 		},
 		
-		"AguarPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"AguarPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config4}}"
+		},
 		
-		"AlissaPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"AlissaPortraitStyle" :{
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config5}}"
+		},
 		
-		"BertPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"BertPortraitStyle": { 
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config6}}"
+		},
 		
-		"CorinePortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"CorinePortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config7}}"
+		},
 		
-		"EzekielPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"EzekielPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config8}}"
+		},
 		
-		"FlorPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"FlorPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config9}}"
+		},
 		
-		"FreddiePortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"FreddiePortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config10}}"
+		},
 		
-		"IanPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"IanPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone, BodyArtBrandon",
+			"Default": "Default",
+			"Description": "{{i18n:Config11}}"
+		},
 		
-		"JericPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"JericPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config12}}"
+		},
 		
-		"JioPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"JioPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config13}}"
+		},
 		
-		"KeahiPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"KeahiPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config14}}"
+		},
 		
-		"KennethPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"KennethPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone, LegacyBeard",
+			"Default": "Default",
+			"Description": "{{i18n:Config15}}"
+		},
 		
-		"KiwiPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"KiwiPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config16}}"
+		},
 		
-		"LennyPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"LennyPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config17}}"
+		},
 		
-		"LolaPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"LolaPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config18}}"
+		},
 		
-		"MaddiePortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"MaddiePortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone, LegacyGlasses",
+			"Default": "Default",
+			"Description": "{{i18n:Config19}}"
+		},
 		
-		"OlgaPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"OlgaPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config20}}"
+		},
 		
-		"PhilipPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"PhilipPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config21}}"
+		},
 		
-		"PikaPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"PikaPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config22}}"
+		},
 		
-		"RichardPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"RichardPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config23}}"
+		},
 		
-		"ShiroPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"ShiroPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config24}}"
+		},
 		
-		"TrinniePortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"TrinniePortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config25}}"
+		},
 		
-		"YsabellePortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},
+		"YsabellePortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config26}}"
+		},
 		
-		"YuumaPortraitStyle": {"AllowValues": "Default, Placeholder1, Placeholder2",
-		"Default": "Default"},		
-	},
+		"YuumaPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config27}}"
+		},
+		"HelenPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config28}}"
+		},	
+		"UndreyaPortraitStyle": {
+			"AllowValues": "Default, Legacy, Avislone",
+			"Default": "Default",
+			"Description": "{{i18n:Config29}}"
+		},							
 
+	},
 
 	/*********
 	** Dynamic tokens
@@ -149,7 +231,6 @@
 				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
 			}
 		},
-	
 
 		/*********
 		** Choose random cable car NPC
@@ -262,7 +343,6 @@
 		//	"Update": "OnLocationChange",
 		//},
 
-
 		/*********
 		** Random music token
 		*********/
@@ -280,7 +360,6 @@
 				"HasSeenEvent |contains=75160120": true
 			},
 		},
-		
 
 		/*********
 		** Various tokens
@@ -297,7 +376,6 @@
 			"Value": "{{Random:0 Custom_Ridgeside_RidgesideVillage 47 22 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 81 70 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Town 98 85 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RSVCliff 17 15 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 BusStop 29 16 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_Ridge 51 24, Custom_Ridgeside_RSVCableCar 9 14 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 131 105 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Mountain 31 5 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Mountain 87 33 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Mountain 51 37 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Beach 69 5 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Beach 37 31 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 134 42 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Town 46 15 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 13 83 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 134 23 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Custom_Ridgeside_RidgesideVillage 74 35 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Town 18 8 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0, 0 Town 6 78 0/2600 Custom_Ridgeside_RSVAbandonedHouse 5 5 0}}",
 		},
 	],
-
 
 	/*********
 	** Define in-game locations
@@ -586,315 +664,24 @@
 	** Patches
 	*********/
 	"Changes": [
-		//NPC Exclusions
-		{
-			"Action": "EditData",
-			"Target": "Data/CustomNPCExclusions",
-			"Entries": {
-				"Kiwi": "ALL",
-				"Jio": "ALL",
-				"Undreya": "ALL",
-				"Helen": "ALL",
-			}
-		},
-	
-		//Antisociality
-		{
-			"LogName": "Antisocial NPCs",
-			"Action": "EditData",
-			"Target": "Data/AntiSocialNPCs",
-			"Entries": {
-				"Undreya": true,
-				"Helen": true,
-				"Kiwi": true,
-			}
-		},
-	
+
 	/*********
 	** Data Includes
 	*********/
 		{
 			"Action": "Include",
-			"FromFile": "Data/Animations.json, Data/ConversationTopics.json, Data/DynamicChanges.json, Data/EventData.json, Data/EventDialogues/{{Language}}.json, Data/EventDialogues/{{Language}}.json, Data/FestivalDialogue/{{Language}}.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail/{{Language}}.json, Data/MapPatches.json, Data/MapStrings/{{Language}}.json, Data/MonsterData.json, Data/MovieData/{{Language}}.json, Data/NPCData.json, Data/Romance/{{Language}}.json, Data/Warps.json, Data/WorldMap.json"
-		},
-
-
-		//Config Changes
-		{
-			//Cutscene to RidgesideVillage Disable
-			"Action": "EditData",
-			"Target": "Data/Events/RSVCliff",
-			"Entries": {
-				"75160060": "continue/-100 -100/farmer 0 0 0/skippable/pause 100/end",
-			},
-			"When": {
-				"RepeatCableCarCutscene": "false"
-			}
+			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/DynamicChanges.json, Data/EventData.json, Data/EventDialogues/{{Language}}.json, Data/EventDialogues/{{Language}}.json, Data/FestivalDialogue/{{Language}}.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail/{{Language}}.json, Data/MapPatches.json, Data/MapStrings/{{Language}}.json, Data/MonsterData.json, Data/MovieData/{{Language}}.json, Data/NPCData.json, Data/Romance/{{Language}}.json, Data/Warps.json, Data/WorldMap.json"
 		},
 
 	/*********
-	** Bachelor Portaits
+	** Festival Location Includes
 	*********/
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Ian",
-			"FromFile": "assets/Portaits/{{IanPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Jeric",
-			"FromFile": "assets/Portaits/{{JericPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Kenneth",
-			"FromFile": "assets/Portaits/{{KennethPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Philip",
-			"FromFile": "assets/Portaits/{{PhilipPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Shiro",
-			"FromFile": "assets/Portaits/{{ShiroPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		
-	/*********
-	** Bachelorette Portaits
-	*********/
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Alissa",
-			"FromFile": "assets/Portaits/{{AlissaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Corine",
-			"FromFile": "assets/Portaits/{{CorinePortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Flor",
-			"FromFile": "assets/Portaits/{{FlorPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Maddie",
-			"FromFile": "assets/Portaits/{{MaddiePortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Ysabelle",
-			"FromFile": "assets/Portaits/{{YsabellePortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		
-	/*********
-	** Non-Marriage Candidates Portaits
-	*********/
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Aguar",
-			"FromFile": "assets/Portaits/{{AguarPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Bert",
-			"FromFile": "assets/Portaits/{{BertPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Ezekiel",
-			"FromFile": "assets/Portaits/{{EzekielPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Freddie",
-			"FromFile": "assets/Portaits/{{FreddiePortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Jio",
-			"FromFile": "assets/Portaits/{{JioPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Kiwi",
-			"FromFile": "assets/Portaits/{{KiwiPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Lenny",
-			"FromFile": "assets/Portaits/{{LennyPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Lola",
-			"FromFile": "assets/Portaits/{{LolaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Olga",
-			"FromFile": "assets/Portaits/{{OlgaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Olga",
-			"FromFile": "assets/Portaits/{{OlgaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Pika",
-			"FromFile": "assets/Portaits/{{PikaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Richard",
-			"FromFile": "assets/Portaits/{{RichardPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		
-	/*********
-	** Children Portaits
-	*********/
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Keahi",
-			"FromFile": "assets/Portaits/{{KeahiPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Trinnie",
-			"FromFile": "assets/Portaits/{{TrinniePortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Yuuma",
-			"FromFile": "assets/Portaits/{{YuumaPortraitStyle}}.png",
-			"PatchMode": "Replace",
-			}
-		},
-		/*********
-		** Festival locations
-		*********/
 		{
 			"Action": "Include",
 			"FromFile": "Data/Festivals/locations/EggFestival.json, Data/Festivals/locations/FlowerDance.json, Data/Festivals/locations/Luau.json, Data/Festivals/locations/MoonlightJellies.json, Data/Festivals/locations/SVFair.json, Data/Festivals/locations/SpiritEve.json, Data/Festivals/locations/IceFestival.json, Data/Festivals/locations/WinterStar.json, Data/Festivals/locations/EmberOfResolutions.json, Data/Festivals/locations/Gathering.json"
 		},
-		//Undreya dynamics
-		//DISPOSITIONS
-		{
-			"Action": "EditData",
-			"Target": "Characters/schedules/Undreya",
-			"Entries": {
-				"spring": "{{RANDOMUNDREYA}}"
-			},
-			"When": {
-				"HasSeenEvent: hostPlayer |contains=75160182": true,
-				"DayOfWeek |contains=Thursday": false
-			}
-		},
-
-		//SPRITE RANDOMIZE
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Undreya",
-			"FromFile": "Data/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
-			"When": {
-				"HasSeenEvent: hostPlayer": 75160182,
-				"DayOfWeek: |contains=Thursday": false
-			},
-		},
-	
-		//Kiwi dynamics
-		{
-			//Temporary Schedule
-			"Action": "Load",
-			"Target": "Characters/schedules/Kiwi",
-			"FromFile": "Assets/schedules/BlankSchedule.json",
-			"When": {
-				"HasSeenEvent: hostPlayer |contains=75160188": false
-			},
-		},
-		{
-		//Official Schedule
-			"Action": "Load",
-			"Target": "Characters/schedules/Kiwi",
-			"FromFile": "Assets/schedules/Kiwi.json",
-			"When": {
-				"HasSeenEvent: hostPlayer |contains=75160188": true
-			},
-		},
-		
-		{
-			"Action": "EditData",
-			"Target": "Data/AntiSocialNPCs",
-			"When": {
-				"HasSeenEvent": "75160188"
-			},
-			"Entries": {
-				"Kiwi": false
-			}
-		},
-			
-		//Load custom boards
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/RSVQuestBoard, LooseSprites/RSVNinjaBoard",
-			"FromFile": "Assets/{{Target}}.png",
-		},
-
 
 	],
-
 
 	/*********
 	** Event repeater

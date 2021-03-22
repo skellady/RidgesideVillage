@@ -106,19 +106,20 @@
 // P O R T R A I T S      
 //------------------------
 
-	{
-		"LogName": "Portraits",
-		"Action": "Load",
-		"Target": "Portraits/Aguar, Portraits/Alissa, Portraits/Bert, Portraits/Corine, Portraits/Ezekiel, Portraits/Flor, Portraits/Freddie, Portraits/Ian, Portraits/Jeric, Portraits/Jio, Portraits/Keahi, Portraits/Kenneth, Portraits/Kiwi, Portraits/Lenny, Portraits/Lola, Portraits/Maddie, Portraits/Olga, Portraits/Philip, Portraits/Pika, Portraits/Richard, Portraits/Shiro, Portraits/Trinnie, Portraits/Ysabelle, Portraits/Yuuma, Portraits/Undreya, Portraits/Helen",
-		"FromFile": "Assets/Portraits/{{TargetWithoutPath}}.png"
-	},
-	
-	{
-		"LogName": "Beach Portraits",
-		"Action": "Load",
-		"Target": "Portraits/Aguar_Beach, Portraits/Alissa_Beach, Portraits/Bert_Beach, Portraits/Corine_Beach, Portraits/Ezekiel_Beach, Portraits/Flor_Beach, Portraits/Freddie_Beach, Portraits/Ian_Beach, Portraits/Jeric_Beach, Portraits/Jio_Beach, Portraits/Keahi_Beach, Portraits/Kenneth_Beach, Portraits/Kiwi_Beach, Portraits/Lenny_Beach, Portraits/Lola_Beach, Portraits/Maddie_Beach, Portraits/Olga_Beach, Portraits/Philip_Beach, Portraits/Pika_Beach, Portraits/Richard_Beach, Portraits/Shiro_Beach, Portraits/Trinnie_Beach, Portraits/Ysabelle_Beach, Portraits/Yuuma_Beach, Portraits/Undreya_Beach, Portraits/Helen_Beach",
-		"FromFile": "Assets/BeachPortraits/{{TargetWithoutPath}}.png"
-	},
+// Portrait loading moved to configs.
+//	{
+//		"LogName": "Portraits",
+//		"Action": "Load",
+//		"Target": "Portraits/Aguar, Portraits/Alissa, Portraits/Bert, Portraits/Corine, Portraits/Ezekiel, Portraits/Flor, Portraits/Freddie, Portraits/Ian, Portraits/Jeric, Portraits/Jio, Portraits/Keahi, Portraits/Kenneth, Portraits/Kiwi, Portraits/Lenny, Portraits/Lola, Portraits/Maddie, Portraits/Olga, Portraits/Philip, Portraits/Pika, Portraits/Richard, Portraits/Shiro, Portraits/Trinnie, Portraits/Ysabelle, Portraits/Yuuma, Portraits/Undreya, Portraits/Helen",
+//		"FromFile": "Assets/Portraits/{{TargetWithoutPath}}.png"
+//	},
+//	
+//	{
+//		"LogName": "Beach Portraits",
+//		"Action": "Load",
+//		"Target": "Portraits/Aguar_Beach, Portraits/Alissa_Beach, Portraits/Bert_Beach, Portraits/Corine_Beach, Portraits/Ezekiel_Beach, Portraits/Flor_Beach, Portraits/Freddie_Beach, Portraits/Ian_Beach, Portraits/Jeric_Beach, Portraits/Jio_Beach, Portraits/Keahi_Beach, Portraits/Kenneth_Beach, Portraits/Kiwi_Beach, Portraits/Lenny_Beach, Portraits/Lola_Beach, Portraits/Maddie_Beach, Portraits/Olga_Beach, Portraits/Philip_Beach, Portraits/Pika_Beach, Portraits/Richard_Beach, Portraits/Shiro_Beach, Portraits/Trinnie_Beach, Portraits/Ysabelle_Beach, Portraits/Yuuma_Beach, Portraits/Undreya_Beach, Portraits/Helen_Beach",
+//		"FromFile": "Assets/BeachPortraits/{{TargetWithoutPath}}.png"
+//	},
 	
 
 //------------------------
@@ -140,36 +141,6 @@
 	},
 	
 
-//------------------------
-// M I S C                
-//------------------------
-	
-	{
-		"LogName": "Corine Ninja Outfit Portrait",
-		"Action": "EditImage",
-		"Target": "Portraits/Corine",
-		"FromFile": "Assets/Portraits/{{TargetWithoutPath}}_Ninja.png",
-		"Update": "OnLocationChange",
-		"When": {
-			"HasSeenEvent: hostPlayer": 75160125,
-			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
-			"DayOfWeek": "Thursday",
-		},
-	},
-	{
-		"LogName": "Corine Ninja Outfit Sprite",
-		"Action": "EditImage",
-		"Target": "Characters/Corine",
-		"FromFile": "Assets/{{Target}}_Ninja.png",
-		"Update": "OnLocationChange",
-		"When": {
-			"HasSeenEvent: hostPlayer": 75160125,
-			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
-			"DayOfWeek": "Thursday",
-		},
-	},
-		
-	
 //------------------------
 // D I A L O G U E S      
 //------------------------
@@ -194,35 +165,6 @@
 		"FromFile": "Assets/Schedules/{{TargetWithoutPath}}.json",
 	},
 
-//Schedule Mod Compat Map Patches
-	{
-		"LogName": "Karmylla's Map Patch - Flor",
-		"Action": "EditData",
-		"Target": "Characters/schedules/Flor",
-		"Entries": { "Tue": "610 Town 103 90 2/1100 ArchaeologyHouse 11 10 2 flor_read/1400 Town 89 100 3/1600 Custom_Ridgeside_LogCabinHotel2ndFloor 2 9 1/2200 Custom_Ridgeside_LogCabinHotel2ndFloor 3 5 0 flor_sleep", },
-		"When": { "HasMod: |contains=Karmylla.ImmersiveMaps": true, },
-	},
-	
-	{
-		"LogName": "Karmylla's Map Patch - Keahi",
-		"Action": "EditData",
-		"Target": "Characters/schedules/Keahi",
-		"Entries": { "Tue": "610 Town 103 92 2 square_2_2_2/1100 ArchaeologyHouse 15 11 1/1130 ArchaeologyHouse 14 11 3 keahi_read/1400 Town 86 98 2 square_2_2_2/1600 Custom_Ridgeside_RidgesideVillage 76 60 2 square_1_2_2/1800 Custom_Ridgeside_PikaHouse 7 10 3/2200 Custom_Ridgeside_PikaHouse 26 5 0 keahi_sleep", },
-		"When": { "HasMod: |contains=Karmylla.ImmersiveMaps": true, },
-	},
-	
-	{
-		"LogName": "Kenneth SVE Schedule",
-		"Action": "EditData",
-		"Target": "Characters/schedules/Kenneth",
-		"Entries": {
-			"spring": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 80 38 3/1400 Custom_Ridgeside_RidgesideVillage 89 38 1/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
-			"summer": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 84 61 2/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
-			"fall": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 ScienceHouse 2 22 1/1500 Mountain 20 26 2/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
-			"winter": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Mountain 30 21 0/1800 Custom_Ridgeside_KennethHouse 5 8 3/2200 Custom_Ridgeside_KennethHouse 16 5 1 kenneth_sleep",
-			"marriage_Mon": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Custom_Ridgeside_RidgesideVillage 80 38 3/1400 Custom_Ridgeside_RidgesideVillage 89 38 1/2200 BusStop -1 23 3",
-		},
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, },
-	},
+
 ]
 }
