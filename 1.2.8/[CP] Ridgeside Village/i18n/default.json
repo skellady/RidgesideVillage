@@ -239,7 +239,7 @@
 "keahiprank.Ezekiel": "Bah! You smell like week-old goat milk!$a#$b#Get away from me!$a",
 "keahiprank.Freddie": "Even with this old nose, I can still say that there's something really wrong with that smell.$s",
 "keahiprank.Jio": "You smell like a swamp spirit.#$b#Please leave.$h",
-"keahiprank.Kiwi": "Kiwi think you smell!$s#$b#Don't come close or Kiwi stab!#a",
+"keahiprank.Kiwi": "Kiwi think you smell!$s#$b#Don't come close or Kiwi stab!$a",
 "keahiprank.Lenny": "Do you smell something?$u#$b#That smell.$a#$b#A kind of smelly smell.$s#$b#The smelly smell that smells... smelly.$s#$b#By any chance, Did you meet Keahi today @?$4",
 "keahiprank.Lola": "@, dear...#$b#You might want to take a shower.$s",
 "keahiprank.Olga": "Oh no, he's done it again!$a#$b#Keahi is really going to meet his maker today!$a",
@@ -1460,14 +1460,14 @@
 "event-75160159.26": "Thank you for being there for me earlier @.#$b#It means a lot!$h",
 
 //Kenneth moves on (Kenneth 8 hearts)
-"event-75160160.01": "Hi @.#$b#I was up early and visited Buddy's grave somewhere in the mountains up here.$h#$b#I just thought it was time to visit him after all these years.#$b#I have to admit.. It did feel really heavy..$s#$b#But I think something inside me has found peace..#$b#So I'm glad..$h",
+"event-75160160.01": "Hi, @.#$b#I was up early and visited Buddy's grave somewhere in the mountains up here.$h#$b#I just thought it was time to visit him after all these years.#$b#I have to admit.. It did feel really heavy..$s#$b#But I think something inside me has found peace..#$b#So I'm glad..$h",
 "event-75160160.02": "Hey @.",
 "event-75160160.03": "I think I'll be fine now.$h#$b#I can start being better now.. slowly, but I hope I progress.#$b#And I just wanna say...",
 "event-75160160.04": "Kenneth gave you a hug.",
 "event-75160160.05": "Thanks.$h#$b#I'm glad I know you @. You really pulled me out from a dark place I was in for years.#$b#So, Thank you..$h",
 "event-75160160.06": "Well, It's another day of work now.$h#$b#See you around @.",
 "event-75160160.07": "Kenneth seems happy now.#I'm glad",
-"event-75160160.08": "Oh! You're curious about Buddy's grave?#b#It's up in the mountains beyond the Ridge, It's kind of hard to visit to,#$b#But I chose that place because he liked taking walks near that place before.$h",
+"event-75160160.08": "Oh! You're curious about Buddy's grave?#$b#It's up in the mountains beyond the Ridge, It's kind of hard to visit, though.#$b#But I chose that place because he liked taking walks near that place before.$h",
 
 //Kenneth surprise (Kenneth 10 hearts)
 "event-75160161.01": "Hello.#Please follow me quickly.",
@@ -1884,7 +1884,7 @@
 "event-75160163.20": "Oh well, It really seems I can't walk straight!$6",
 "event-75160163.21": "Okay them..$6#$b#Thanks @.$6",
 "event-75160163.22": "Ah! Here at last!$h#$b#Thank you @..$6#$b#Really though, I let my weird hobby frustrations get to me.$6#$b#I shouldn't have drank that much over a comic book.$s#$b#I'm so sorry..$s",
-"event-75160163.23": "You really think it's fine huh?$6#$b#Thank you.#$b#You're a good friend @.$6#$b#Hey! How about next time I show you my collection?$h#$b#We could start with chapter one and--$h#b#*urp* Oh!$u#$b#I think I'm gonna puke again!$u",
+"event-75160163.23": "You really think it's fine huh?$6#$b#Thank you.#$b#You're a good friend @.$6#$b#Hey! How about next time I show you my collection?$h#$b#We could start with chapter one and--$h#$b#*urp* Oh!$u#$b#I think I'm gonna puke again!$u",
 "event-75160163.24": "Eventually Philip was able to reach his room.#Thankfully he's fine, just had too much to drink.#Phew!",
 
 //Philip visits to apologize (Philip 4 hearts extra)
@@ -2168,7 +2168,7 @@
 "event-75160171.16": "Oh... Shiro's been holding on to me for a while now!",
 "event-75160171.17": "Oh, Sorry @...$10#$b#Kind of weird, huh? Me holding onto you...$10#$b#If you're not comfortable, I can--$9",
 "event-75160171.18": "Oh, it's fine?$10#$b#Okay, that's good...$11#$b#I'm really glad you're here for this...$10#$b#I trust you...$10",
-"event-75160171.19": "I can't believe I'm back in the water...$11#$b#I mean, it's nothing like surfing, but it feels... right. Even if I'm tired from just walking. $11#$b#But it's progress.$9#$b#I had no idea where I'd end up when I joined the army.$9#$b# Back then, I probably wouldn't have been able to think of anything worse. $9#$b$#I took so much for granted. And yeah, it's rough...$9#$b#But now, well... it's a different life, but it's a good life.$9",
+"event-75160171.19": "I can't believe I'm back in the water...$11#$b#I mean, it's nothing like surfing, but it feels... right. Even if I'm tired from just walking. $11#$b#But it's progress.$9#$b#I had no idea where I'd end up when I joined the army.$9#$b# Back then, I probably wouldn't have been able to think of anything worse. $9#$b#I took so much for granted. And yeah, it's rough...$9#$b#But now, well... it's a different life, but it's a good life.$9",
 "event-75160171.20": "Shiro seems happier now. #He seems more hopeful, too. #Things are looking up!",
 
 //Shiro surprise date (Shiro 10 hearts)
