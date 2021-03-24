@@ -1,0 +1,311 @@
+{
+"Changes": [
+
+	/*********
+	** Disposition Changes
+	*********/
+
+	// Yuuma stays with Lenny when Farmer is married to Shiro
+//	{
+//		"LogName": "NPC Dispositions",
+//		"Action": "EditData",
+//		"Target": "Data/NPCDispositions",
+//		"Entries": {
+//			"Yuuma": "child/neutral/neutral/neutral/male/non-datable/null/Town/fall 4/Shiro 'brother'/Custom_Ridgeside_LennyHouse 21 6/{{i18n:Name.Yuuma}}",
+//		},
+//		"When": {   "Relationship:Shiro": "Married" },
+//	},	
+
+	/*********
+	** Schedule Changes
+	*********/	
+
+	{
+		"LogName": "Corine Schedule Change",
+		"Action": "EditData",
+		"Target": "Characters/schedules/Corine",
+		"Entries": {
+			"Thu": "610 Custom_Ridgeside_RidgesideVillage 133 86 2 corine_train/1200 Custom_Ridgeside_RidgesideVillage 140 86 2 corine_meditate/1500 Custom_Ridgeside_RidgesideVillage 135 87 1 corine_slash/1900 Custom_Ridgeside_EzekielHouse 24 5 0/2200 Custom_Ridgeside_Ridge 76 38 2",
+		},
+		"When": { "HasSeenEvent: hostPlayer": 75160125, },
+	},
+	{
+		"LogName": "Ian Schedule Change",
+		"Action": "EditData",
+		"Target": "Characters/schedules/Ian",
+		"Entries": {
+			"Fri": "800 Custom_Ridgeside_LogCabinHotelLobby 2 15 2/1200 ArchaeologyHouse 17 14 2/1800 Custom_Ridgeside_RidgesideVillage 95 65 2/2200 Custom_Ridgeside_IanHouse 17 9 0 ian_sleep",
+		},
+		"When": { "HasSeenEvent: hostPlayer": 75160149, },
+	},
+
+
+
+	/*********
+	** Portrait Changes
+	*********/	
+	
+	{
+		"LogName": "Corine Ninja Outfit Portrait",
+		"Action": "EditImage",
+		"Target": "Portraits/Corine",
+		"FromFile": "Assets/Portraits/Corine/{{CorinePortraitStyle}}_Ninja.png",
+		"Update": "OnLocationChange",
+		"When": {
+			"HasSeenEvent: hostPlayer": 75160125,
+			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
+			"DayOfWeek": "Thursday",
+		},
+	},
+
+	/*********
+	** Sprite Changes
+	*********/	
+
+	{
+		"LogName": "Corine Ninja Outfit Sprite",
+		"Action": "EditImage",
+		"Target": "Characters/Corine",
+		"FromFile": "Assets/{{Target}}_Ninja.png",
+		"Update": "OnLocationChange",
+		"When": {
+			"HasSeenEvent: hostPlayer": 75160125,
+			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
+			"DayOfWeek": "Thursday",
+		},
+	},
+		
+
+//	{
+//		"LogName": "Yuuma Shiro Married Schedule",
+//		"Action": "EditData",
+//		"Target": "Characters/schedules/Yuuma",
+//		"Entries": {
+//			"spring": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
+//			"summer": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
+//			"fall": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
+//			"winter": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
+//		},
+//		"When": {   "Relationship:Shiro": "Married" },
+//	},	
+
+	/*********
+	** Map Changes
+	*********/	
+
+//Cliff Sky
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVCliff",
+		"FromFile": "Assets/MapPatches/RSVCliffNight.tbin",
+		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 1900, 2600}}" },
+		"Update": "OnLocationChange"
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVCliff",
+		"FromFile": "Assets/MapPatches/RSVCliff.tbin",
+		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 0600, 1900}}" },
+		"Update": "OnLocationChange"
+	},
+	
+//Ride Sky
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
+		"FromFile": "Assets/MapPatches/RSVTheRideNight.tbin",
+		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 1900, 2600}}" },
+		"Update": "OnLocationChange"
+	},
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
+		"FromFile": "Assets/MapPatches/RSVTheRide.tbin",
+		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 0600, 1900}}" },
+		"Update": "OnLocationChange"
+	},
+	
+//Cliff House Peek (11PM-11:30PM Thursday)
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVCliff",
+		"FromFile": "Assets/MapPatches/CliffHousePeek.tbin",
+		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 2 },
+		"ToArea": { "X": 28, "Y": 32, "Width": 2, "Height": 2 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 2300, 2330}}", "DayOfWeek": "Thursday" },
+		"Update": "OnLocationChange, OnTimeChange"
+	},
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "MapTiles": [
+			{
+				"Position": { "X": 28, "Y": 32 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "MessageOnce 75160181 '???: {{i18n:Find.Undreya}}'"
+               }
+            }
+		],
+		"When": { "Time": "{{Range: 2300, 2330}}", "DayOfWeek": "Thursday", "HasSeenEvent: |contains=75160181": false },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "MapTiles": [
+			{
+				"Position": { "X": 28, "Y": 32 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Message rsv.undreyapeek"
+               }
+            }
+		],
+		"When": { "Time": "{{Range: 2300, 2330}}", "DayOfWeek": "Thursday", "HasSeenEvent: |contains=75160181": true },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVCliff",
+		"FromFile": "Assets/MapPatches/UndreyaUnlock.tbin",
+		"ToArea": { "X": 31, "Y": 32, "Width": 1, "Height": 2 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 2300, 2600}}", "HasSeenEvent: |contains=75160181": true },
+		"Update": "OnLocationChange, OnTimeChange"
+	},
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RSVCliff",
+        "MapTiles": [
+			{
+				"Position": { "X": 31, "Y": 33 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Warp 6 10 Custom_Ridgeside_RSVAbandonedHouse"
+               }
+            }
+		],
+		"When": { "Time": "{{Range: 2300, 2330}}", "DayOfWeek": "Thursday", "HasSeenEvent: |contains=75160181": true },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+	
+//Unlock Minecarts
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+        "MapTiles": [
+			{
+				"Position": { "X": 69, "Y": 15 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Warp 4 11 Custom_Ridgeside_RSVMinecart"
+               }
+            },
+			{
+				"Position": { "X": 16, "Y": 81 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Warp 4 13 Custom_Ridgeside_RSVMinecart"
+               }
+            }
+		],
+		"When": { "HasSeenEvent: hostPlayer": 75160190 },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RSVCableCar",
+        "MapTiles": [
+			{
+				"Position": { "X": 25, "Y": 17 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Warp 24 13 Custom_Ridgeside_RSVMinecart"
+               }
+            }
+		],
+		"When": { "HasSeenEvent: hostPlayer": 75160190 },
+		"Update": "OnLocationChange, OnTimeChange"
+	},
+	//Open Entrance
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+		"FromFile": "Assets/MapPatches/RSVOpenPlot.tbin",
+		"ToArea": { "X": 68, "Y": 18, "Width": 3, "Height": 2 },
+		"PatchMode": "Replace",
+		"When": { "HasSeenEvent: hostPlayer": 75160189 },
+		"Update": "OnLocationChange, OnTimeChange"
+	},
+
+//Undreya dynamics
+		//DISPOSITIONS
+		{
+			"Action": "EditData",
+			"Target": "Characters/schedules/Undreya",
+			"Entries": {
+				"spring": "{{RANDOMUNDREYA}}"
+			},
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160182": true,
+				"DayOfWeek |contains=Thursday": false
+			}
+		},
+
+		//SPRITE RANDOMIZE
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Undreya",
+			"FromFile": "Data/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
+			"When": {
+				"HasSeenEvent: hostPlayer": 75160182,
+				"DayOfWeek: |contains=Thursday": false
+			},
+		},
+	
+		//Kiwi dynamics
+		{
+			//Temporary Schedule
+			"Action": "Load",
+			"Target": "Characters/schedules/Kiwi",
+			"FromFile": "Assets/schedules/BlankSchedule.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": false
+			},
+		},
+		{
+		//Official Schedule
+			"Action": "Load",
+			"Target": "Characters/schedules/Kiwi",
+			"FromFile": "Assets/schedules/Kiwi.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": true
+			},
+		},
+		
+		{
+			"Action": "EditData",
+			"Target": "Data/AntiSocialNPCs",
+			"When": {
+				"HasSeenEvent": "75160188"
+			},
+			"Entries": {
+				"Kiwi": false
+			}
+		},
+			
+	
+]
+}

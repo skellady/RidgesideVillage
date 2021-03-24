@@ -1,0 +1,453 @@
+{
+"Changes": [
+	
+//NPCs for NPC Map Locations
+
+	{
+	"LogName": "NPC Sprite Offsets", 
+	"Action": "EditData",
+	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	"When": { "HasMod: |contains=Yagisan.NPCMapLocationsForNPCs": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },	  
+	  "Entries": {
+
+		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+
+		"Aguar": {
+			"MarkerCropOffset": 1
+		},
+		"Alissa": {
+			"MarkerCropOffset": 6
+		},
+		"Bert": {
+			"MarkerCropOffset": -1
+		},
+		"Corine": {
+			"MarkerCropOffset": 3
+		},
+		"Ezekiel": {
+			"MarkerCropOffset": 0
+		},
+		"Flor": {
+			"MarkerCropOffset": 3
+		},
+		"Freddie": {
+			"MarkerCropOffset": 2
+		},
+		"Ian": {
+			"MarkerCropOffset": -1
+		},
+		"Jeric": {
+			"MarkerCropOffset": -1
+		},
+		"Jio": {
+			"MarkerCropOffset": 0
+		},
+		"Keahi": {
+			"MarkerCropOffset": 7
+		},
+		"Kenneth": {
+			"MarkerCropOffset": -1
+		},
+		"Kiwi": {
+			"MarkerCropOffset": 16
+		},
+		"Lenny": {
+			"MarkerCropOffset": 3
+		},
+		"Lola": {
+			"MarkerCropOffset": 3
+		},
+		"Maddie": {
+			"MarkerCropOffset": 3
+		},
+		"Olga": {
+			"MarkerCropOffset": 3
+		},
+		"Philip": {
+			"MarkerCropOffset": -1
+		},
+		"Pika": {
+			"MarkerCropOffset": -1
+		},
+		"Richard": {
+			"MarkerCropOffset": 1
+		},
+		"Shiro": {
+			"MarkerCropOffset": -1
+		},
+		"Trinnie": {
+			"MarkerCropOffset": 7
+		},
+		"Ysabelle": {
+			"MarkerCropOffset": 3
+		},
+		"Yuuma": {
+			"MarkerCropOffset": 6
+		},
+		"Helen": {
+			"Exclude": true
+		},
+		"Undreya": {
+			"Exclude": true
+		},
+
+		}
+	},
+
+//Adds Locations to World Map
+	{
+	"LogName": "Ridgeside Village - Location Support", 
+	"Action": "EditData",
+	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+	"When": { "HasMod: |contains=Yagisan.NPCMapLocationsForNPCs": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },	 
+	"Entries": {
+		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+		"Custom_Ridgeside_RidgesideVillage": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 1,
+				"MapY": 221
+			},
+			{
+				"TileX": 149,
+				"TileY": 129,
+				"MapX": 200,
+				"MapY": 480
+			}
+			],
+			"MapTooltip": {
+				"X": 1,
+				"Y": 221,
+				"Width": 148,
+				"Height": 259,
+				"PrimaryText": "Ridgeside Village"
+			}
+	  	},
+
+		"Custom_Ridgeside_RSVCableCar": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 570,
+				"MapY": 184
+			},
+			{
+				"TileX": 34,
+				"TileY": 29,
+				"MapX": 590,
+				"MapY": 204
+			}
+			],
+			"MapTooltip": {
+				"X": 570,
+				"Y": 184,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "Cable Car - Pelican Town"
+			}
+		},
+
+		"Custom_Ridgeside_RSVCliff": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 230,
+				"MapY": 270
+			},
+			{
+				"TileX": 34,
+				"TileY": 29,
+				"MapX": 250,
+				"MapY": 290
+			}
+			],
+			"MapTooltip": {
+				"X": 230,
+				"Y": 270,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "Cable Car - Ridgeside"
+	  		}
+		},
+
+		"Custom_Ridgeside_RSVTheHike": {
+			"MapVectors": [
+			{
+				"MapX": 230,
+				"MapY": 320
+			}
+		],
+		"MapTooltip": {
+			"X": 230,
+			"Y": 320,
+			"Width": 20,
+			"Height": 20,
+			"PrimaryText": "The Hike"
+		  }
+		},
+
+		"Custom_Ridgeside_Ridge": {
+			"MapVectors": [
+			{
+				"MapX": 121,
+				"MapY": 220
+			}
+			]
+		},
+
+		"BloomingHillsFarm": {
+			"MapTooltip": {
+				"X": 0,
+				"Y": 229,
+				"Width": 68,
+				"Height": 152,
+				"PrimaryText": "Blooming Hill Farm"
+			}
+	  	},
+
+		"NightingaleOrchard": {
+			"MapTooltip": {
+				"X": 0,
+				"Y": 381,
+				"Width": 124,
+				"Height": 98,
+				"PrimaryText": "Nightingale Orchard"
+			}
+		}
+	}
+	},
+
+//World Map Changes
+ 	//Vanilla ONLY
+ 	{
+		"LogName": "Replaces the vanilla map",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/{{season}}_map.png",
+		"PatchMode": "Replace",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+
+	//Vanilla w/ NPCMapLocations
+ 	{
+		"LogName": "Replaces the vanilla map with NPC Map Locations installed",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Vanilla Map Overlay 2 with NPC Map Locations installed",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Vanilla Map Overlay 3 with NPC Map Locations installed",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+	
+	//SVE Compat
+ 	{
+		"LogName": "Map Replaces SVE Map with NPC Map Locations installed",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "SVE Map Overlay 2 with NPC Map Locations installed",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "SVE Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+	{
+		"LogName": "Replaces SVE MAP",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 2",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/MapPatches/SVEcompat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+
+	//GPF Compat
+ 	{
+		"LogName": "Map Replace SVE",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Map Overlay 2",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+	{
+		"LogName": "Map Replace SVE",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 2",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/GPFcompat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.GrandpasFarm": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},	
+	//IFR2 Compat
+ 	{
+		"LogName": "Map Replace SVE",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Map Overlay 2",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": true },
+	},
+ 	{
+		"LogName": "Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+	{
+		"LogName": "Map Replace SVE",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
+		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 2",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},
+ 	{
+		"LogName": "Map Overlay 3",
+		"Action": "EditImage",
+		"Target": "LooseSprites/map",
+		"FromFile": "Assets/MapPatches/IFR2compat/{{season}}_map.png",
+		"FromArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 }, 
+		"ToArea": { "X": 131, "Y": 180, "Width": 58, "Height": 183 },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+	},	
+
+]
+}
