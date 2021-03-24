@@ -10,15 +10,42 @@
 	"CategoriesToSell": [ -19,-74 ],
 	"PortraitPath": "assets/JericShop.png",
 	"Quote": "Hey! How can I help you?",
-	"LocalizedQuote": { "en": "Hey! How can I help you?" },
+	"ClosedMessage": "Sorry, we're closed!",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 3,
 	"DefaultSellPriceMultiplier": 0.7,
 	"PriceMultiplierWhen": {
 		"0.6": ["f Jeric 2000"] 
 		},
-	"When": ["t 900 2000"],
-	
+	"When": ["p Jeric/t 900 2000"],
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+   "LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},	
 	"ItemStocks": [
 		//Spring Jeric less than 8 hearts
 		{
@@ -86,7 +113,7 @@
 			"Stock": 6,
 			"StockPrice": 100,
 			"When": [ "!z winter" ] 
-		},
+		},		
 	],
 	},
 	
@@ -99,15 +126,42 @@
 	"CategoriesToSell": [ -7 ],
 	"PortraitPath": "assets/PikaShop.png",
 	"Quote": "Welcome to Pika's!",
-	"LocalizedQuote": { "en": "Welcome to Pika's!" },
+	"ClosedMessage": "Sorry, we're closed!",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 5,
 	"DefaultSellPriceMultiplier": 0.7,
 	"PriceMultiplierWhen": {
-		"0.6": ["f Pika 2000"] 
+		"0.6": ["p Corine/f Pika 2000"] 
 		},
 	"When": ["t 930 2300/w sunny"],
-	
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+   "LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},	
 	"ItemStocks": [
 		//Food
 		{
@@ -153,11 +207,38 @@
 	"CategoriesToSell": [ -7,-98 ],
 	"PortraitPath": "assets/LolaShop.png",
 	"Quote": "How can I help you, dear?",
-	"LocalizedQuote": { "en": "How can I help you, dear?" },
+	"ClosedMessage": "Sorry, I'm too tired, dear.",
 	"ShopPrice": -1,
 	"DefaultSellPriceMultiplier": 1.0,
 	"When": ["t 600 2600"],
-	
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+   "LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},	
 	"ItemStocks": [
 		//Bars
 		{
@@ -193,7 +274,20 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'" },
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -293,7 +387,20 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'" },
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -379,7 +486,20 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'",
-	"LocalizedQuote": { "en": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'" },
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -469,7 +589,20 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Girls rule!!",
-	"LocalizedQuote": { "en": "Girls rule!" },
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -589,7 +722,20 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Boys rule!!",
-	"LocalizedQuote": { "en": "Boys rule!" },
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -702,8 +848,21 @@
 	"ShopName": "RSVJioShop",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
-	"Quote": "What will it be?",
-	"LocalizedQuote": { "en": "What will it be?" },
+	"Quote": "What do you desire?",
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
