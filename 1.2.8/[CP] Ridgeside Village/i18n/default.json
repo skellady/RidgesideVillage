@@ -2410,5 +2410,15 @@
 "event-75160113.15": "Ha ha! I missed you guys!$h#$b#Thank you for cheering me up!$h",
 "event-75160113.16": "I had fun with my friends today!$h",
 
+//Animations
+
+//NPC Map Locations
+"NPC.MapLocations.VillageName": "Ridgeside Village",
+"NPC.MapLocations.PelicanCableCarName": "Cable Car - Pelican Town",
+"NPC.MapLocations.RidgesideCableCarName": "Cable Car - Ridgeside",
+"NPC.MapLocations.HikeName": "The Hike",
+"NPC.MapLocations.BloomingHillName": "Blooming Hill Farm",
+"NPC.MapLocations.NightingaleName": "Nightingale Orchard",
+
 }
 
