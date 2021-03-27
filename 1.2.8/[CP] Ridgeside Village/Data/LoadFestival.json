@@ -15,7 +15,7 @@
 		"LogName": "Festival Data",
 		"Action": "Load",
 		"Target": "Data/Festivals/winter28",
-		"FromFile": "Data/Festivals/{{Language}}/EmberNight.json",
+		"FromFile": "Data/RidgesideFestivals/EmberNight.json",
 	},
 	{
 		"LogName": "Main Event Edit",
@@ -48,7 +48,7 @@
 		"LogName": "Festival Data",
 		"Action": "Load",
 		"Target": "Data/Festivals/fall20",
-		"FromFile": "Data/Festivals/{{Language}}/Gathering.json",
+		"FromFile": "Data/RidgesideFestivals/Gathering.json",
 	},
 	
 	//MAIN EVENTS
@@ -90,5 +90,12 @@
 		//},
 	//},
 	
+	/*********
+	** Festival Location Includes
+	*********/
+		{
+			"Action": "Include",
+			"FromFile": "Data/Festivals/FestivalLocations/EggFestival.json, Data/Festivals/FestivalLocations/FlowerDance.json, Data/Festivals/FestivalLocations/Luau.json, Data/Festivals/FestivalLocations/MoonlightJellies.json, Data/Festivals/FestivalLocations/SVFair.json, Data/Festivals/FestivalLocations/SpiritEve.json, Data/Festivals/FestivalLocations/IceFestival.json, Data/Festivals/FestivalLocations/WinterStar.json, Data/Festivals/FestivalLocations/EmberOfResolutions.json, Data/Festivals/FestivalLocations/Gathering.json"
+		},
 ]
 }

@@ -378,9 +378,9 @@
 	],
 
 	/*********
-	** Define in-game locations
+	** Define in-game FestivalLocations
 	*********/
-    "CustomLocations": [
+    "CustomFestivalLocations": [
       	{
          	"Name": "Custom_Ridgeside_AguarBasement",
          	"FromMapFile": "Assets/Maps/AguarBasement.tbin",
@@ -671,14 +671,6 @@
 		{
 			"Action": "Include",
 			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/DynamicChanges.json, Data/EventData.json, Data/EventDialogues/{{Language}}.json, Data/EventDialogues/{{Language}}.json, Data/FestivalDialogue/{{Language}}.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail/{{Language}}.json, Data/MapPatches.json, Data/MapStrings/{{Language}}.json, Data/MonsterData.json, Data/MovieData/{{Language}}.json, Data/NPCData.json, Data/Romance/{{Language}}.json, Data/Warps.json, Data/WorldMap.json"
-		},
-
-	/*********
-	** Festival Location Includes
-	*********/
-		{
-			"Action": "Include",
-			"FromFile": "Data/Festivals/locations/EggFestival.json, Data/Festivals/locations/FlowerDance.json, Data/Festivals/locations/Luau.json, Data/Festivals/locations/MoonlightJellies.json, Data/Festivals/locations/SVFair.json, Data/Festivals/locations/SpiritEve.json, Data/Festivals/locations/IceFestival.json, Data/Festivals/locations/WinterStar.json, Data/Festivals/locations/EmberOfResolutions.json, Data/Festivals/locations/Gathering.json"
 		},
 
 	],
