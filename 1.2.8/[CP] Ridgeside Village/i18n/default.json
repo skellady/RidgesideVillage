@@ -2411,6 +2411,13 @@
 "event-75160113.16": "I had fun with my friends today!$h",
 
 //Animations
+"Animations.Aguar.Meditate": "%Mr. Aguar seems to be meditating.",
+"Animations.Alissa.Sing": "%Alissa is singing. But she seems a little bit shy.",
+"Animations.Flor.Read": "%Flor is engrossed in a book and doesn't notice you.",
+"Animations.Philip.Gym": "*Huff huff*$8",
+"Animations.Ysabelle.Ballet": "*Inhale* *Exhale*$9",
+"Animations.Corine.Train": "*Huff huff*$7",
+"Animations.Corine.Slash": "Jio leaves for missions every morning and has me training on my own.$h#$b#I don't mind though! It's a little freeing to train by myself.",
 
 //NPC Map Locations
 "NPC.MapLocations.VillageName": "Ridgeside Village",
@@ -2420,7 +2427,13 @@
 "NPC.MapLocations.BloomingHillName": "Blooming Hill Farm",
 "NPC.MapLocations.NightingaleName": "Nightingale Orchard",
 
-//EmberNight Dialogue
+//MapStrings
+"MapStrings.": "Nightingale Orchard",
+
+//MovieData
+"MovieData.": "Nightingale Orchard",
+
+//EmberNight Dialogue - Adds dialogue to vanilla characters
 "EmberNightDialogue.Abigail.spouse": "Happy New Year, honey!#$e#Remember when we played 'Prairie King' together in my room, so long ago?$h#$b#A year sure goes by fast, but I'm glad I got to spend it with you, @.$4",
 "EmberNightDialogue.Leah.spouse": "Happy New Year, sweetie!#$e#I remember when you first moved here.$7#$b#I had a dream that we'd be together someday.$4#$b#Here's to spending another year with the love of my life.[348]$h",
 "EmberNightDialogue.Maru.spouse": "Happy New Year, honey!#$e#My New Year's resolution is to eat Rhubarb Pie every day.#$b#Ha ha! I'm kidding!$h#$b#It's to spend every day of the rest of my life with you.$4",
@@ -2463,7 +2476,50 @@
 "EmberNightDialogue.Vincent": "Happy New Year, mister^Happy New Year, miss!$1#$e#I lost the log I brought!$3#$b#Now my wishes won't come true.$2",
 "EmberNightDialogue.Willy": "Happy New Year, lad^Happy New Year, lass!$1#$e#Don't mind the smell, I've been fishing at the Ridgeside pond all day before heading up the mountain.$3",
 
-//Gathering Dialogue
+//Gathering Dialogue - Adds dialogue to vanilla characters
+"GatheringDialogue.Abigail.spouse": "Watch me play the drums later!#$b#I'll be doing my best so cheer extra loud for me, okay?$h",
+"GatheringDialogue.Leah.spouse": "How's this painting?#$b#It's the last one left.#$b#I've sold all of them!$h",
+"GatheringDialogue.Maru.spouse": "I'm proud to show off this little robot I made!$h",
+"GatheringDialogue.Penny.spouse": "Hey, honey. I hope you're enjoying the festival.$h#$b#I'm browsing the stalls to see if I can find something cute for home.$h",
+"GatheringDialogue.Haley.spouse": "Come here, darling! Let's take a picture together!$h#$b#This is so much fun!$h",
+"GatheringDialogue.Sebastian.spouse": "I'm just fixing up Jeric's motorbike.#$b#Let's catch up later.$h",
+"GatheringDialogue.Sam.spouse": "Wish me luck later, @!$h#$b#I'm going to showcase my skills to the whole valley!$h",
+"GatheringDialogue.Alex.spouse": "I bought some burgers from Gus and Pika earlier! They're so good!$h#$b#Want me to buy you one too?$h",
+"GatheringDialogue.Harvey.spouse": "Let's take a walk around the village after the concert.#$b#I haven't visited in a while.$s",
+"GatheringDialogue.Elliott.spouse": "I'm looking forward to the exploits of our musical villagers!$h#$b#Let's dance to our heart's content!$h",
+"GatheringDialogue.Emily.spouse": "Hey honey!$1#$b#Let's dance together at the concert later today.$h",
+"GatheringDialogue.Shane.spouse": "I've been looking forward to Pika's pepper poppers!$h#$b#I heard a lot of good things about it!$h",
+"GatheringDialogue.Abigail": "I really want to sabotage their stall!$h#$b#Oh hey, @... You heard nothing!$h#$e#Hey Corine! Let's go take a peek!$h",
+"GatheringDialogue.Robin": "Ah! The Starbound Stage looks so good!#$b#I'm proud of my handiwork!$h",
+"GatheringDialogue.Demetrius": "These burgers are delicious!$h#$b#Pika and Gus make a good team when they're not competing.$h",
+"GatheringDialogue.Maru": "My little Music-tron 2000 is on display!$h#$b#It's like a tiny portable jukebox.$h#$e#Hey Flor! Take a look at this!$h",
+"GatheringDialogue.Sebastian": "I wonder why Jeric hasn't been maintaining this bike.#$b#It's such a waste to let it rust away...$s#$e#Hey Jeric! Come help me out here, would you?$a",
+"GatheringDialogue.Pierre": "I was planning on setting up a stall as well, but Abigail convinced me that the gathering is supposed to be about fun, not profit.$s#$b#Oh well, more food for me!$h" ,
+"GatheringDialogue.Caroline": "I'm glad the kids are having fun.#$b#It was nice to catch up with Alissa as well! I wonder if she'll sing for us later?$h",
+"GatheringDialogue.Linus": "Lenny asked me to bring any forage I could find.#$b#I'm glad I could help out.$h",
+"GatheringDialogue.Alex": "Oh hey! Let's play gridball later today!$h#$e#Hey Philip! Do you still play?$h",
+"GatheringDialogue.George": "Freddie and I should go visit the Ridge. Lola and Evelyn can stay here and talk.#$e#Come on, Fred!#$b#Just like old times!$h",
+"GatheringDialogue.Evelyn": "Oh my, it's been a while since I visited Ridgeside.#$b#The view is marvelous, as always.$h",
+"GatheringDialogue.Lewis": "I hope you're having fun, @!$h",
+"GatheringDialogue.Clint": "I wonder if Emily would like to dance with me at the concert.$h#$e#I shouldn't bother asking, she'll probably say no.$s",
+"GatheringDialogue.Emily": "I want to dance at the concert, but I don't want to dance alone!$h",
+"GatheringDialogue.Penny": "Flor has some interesting books for sale. I should go browse them.#$e#I wonder what Maddie is up to? I haven't talked to her in a while.$s",
+"GatheringDialogue.Pam": "What? There's a concert later?#$b#More reason to drink, then!$h" ,
+"GatheringDialogue.Haley": "Can you take a picture of us?#$b#Ysa and I are having a photoshoot.$h#$e#Ysa! Hold that pose!$h#$b#I wonder how these pictures will end up later.$h",
+"GatheringDialogue.Jodi": "I'm a little worried that Vincent and Keahi might start teasing Trinnie again.$s#$b#She's louder than Jas so they provoke her more often.$h" ,
+"GatheringDialogue.Kent": "Pika cooks a mean dish!#$b#I should visit Ridgeside more often.$h",
+"GatheringDialogue.Sam": "I'm a little nervous for the concert later.$s#$b#But I'm pumped as well!$h#$e#Hey Alissa! You sure you don't want to perform with us?$h",
+"GatheringDialogue.Leah": "Jeric is... really symmetrical?#$bWhat I'm trying to say is that his face is great for portrait painting.$h#$e#Hey Jeric, stand still for a second!$h",
+"GatheringDialogue.Shane": "Uhm... I think I forgot to bring the decorations for the stall.$u#$e#Hey come on now Philip! You were supposed to remind me!$a",
+"GatheringDialogue.Marnie": "It's been so long since I visited the village!$h#$b#I hope Olga's cows won't get bothered by all the music.$s",
+"GatheringDialogue.Elliott": "I brought some of my poems to sell.#$b#They might just be words on paper but I think they could turn out to be quite popular!$h",
+"GatheringDialogue.Gus": "The atmosphere here is great!$h#$b#I hope you're enjoying the Ridgeside Gathering, @.",
+"GatheringDialogue.Harvey": "I brought some energy tonics to contribute to the stall.$h#$e#I should go ask Ian's help, I've brought several heavy boxes of energy drinks.$s",
+"GatheringDialogue.Jas": "This clock has a teddybear design! It looks adorable!$h#$b#Oh! I forgot! I should be watching over Trinnie!$4#$b#She might start throwing stuff at the boys if they tease her too much!$h",
+"GatheringDialogue.Vincent": "Hey! check it out!#$b#Keahi and I found all this stuff in Mayor Lewis' lost-and-found bin.#$b#Now we're selling it!$h",
+"GatheringDialogue.Willy": "Ah, the waterfalls around here are so calming.#$b#I should plan my next fishing trip around these parts.",
+"GatheringDialogue.Marlon": "The food's delicious!$h#$b#The two cooks should collaborate more often.",
+"GatheringDialogue.Wizard": "The locals seem to be enjoying the festivities.#$b#I'm also quite curious to see what the stalls are selling.#$b#They somehow got their hands on some rare and valuable trinkets.",
 
 //Romance Dialogue
 	

@@ -91,19 +91,19 @@
 		"Target": "Strings/animationDescriptions",
 		"Entries": {
 		
-			"aguar.meditate": "%Mr. Aguar seems to be meditating.",
+			"aguar.meditate": "{{i18n:NPC.Animations.Aguar.Meditate}}",
 			
-			"alissa.sing": "%Alissa is singing. But she seems a little bit shy.",
+			"alissa.sing": "{{i18n:NPC.Animations.Alissa.Sing}}",
 			
-			"flor.read": "Piaget's stages of cognitive development are sensorimotor, preoperational...$6", 
+			"flor.read": "{{i18n:NPC.Animations.Flor.Read}}", 
 //			Oh... As I do recall, Piaget's theory in cognitive learning focused on assimilation and accomodation of information...#$b#But his study was not in a controlled environment though...#$b#He used his children as subjects... So would this be inaccurate?.. Hmmmm..$6",
 	
-			"philip.gym": "*huff huff*$8",
+			"philip.gym": "{{i18n:NPC.Animations.Philip.Gym}}",
 	
-			"ysabelle.ballet": "*Inhale* *Exhale*$9",
+			"ysabelle.ballet": "{{i18n:NPC.Animations.Ysabelle.Ballet}}",
 			
-			"corine.train": "*Huff huff*$7",
-			"corine.slash": "Jio leaves for missions every morning and has me training on my own.$h#$b#I don't mind though! It's a little freeing to train by myself.",
+			"corine.train": "{{i18n:NPC.Animations.Corine.Train}}",
+			"corine.slash": "{{i18n:NPC.Animations.Corine.Slash}}",
 		}
 	},	
 
