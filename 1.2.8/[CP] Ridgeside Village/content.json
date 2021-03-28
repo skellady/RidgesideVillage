@@ -670,7 +670,7 @@
 	*********/
 		{
 			"Action": "Include",
-			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/DynamicChanges.json, Data/EventData.json, Data/EventDialogues/{{Language}}.json, Data/EventDialogues/{{Language}}.json, Data/FestivalDialogue/{{Language}}.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail/{{Language}}.json, Data/MapPatches.json, Data/MapStrings/{{Language}}.json, Data/MonsterData.json, Data/MovieData/{{Language}}.json, Data/NPCData.json, Data/Romance/{{Language}}.json, Data/Warps.json, Data/WorldMap.json"
+			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/DynamicChanges.json, Data/EventData.json, Data/EventDialogues/{{Language}}.json, Data/EventDialogues/{{Language}}.json, Data/FestivalDialogue/{{Language}}.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail.json, Data/MapPatches.json, Data/MapStrings/{{Language}}.json, Data/MonsterData.json, Data/MovieData/{{Language}}.json, Data/NPCData.json, Data/Romance.json, Data/Warps.json, Data/WorldMap.json"
 		},
 
 	],
