@@ -203,17 +203,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This little story is quite wholesome.$h"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "How fascinating."
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a decent movie @. Thanks for inviting me. It was quite relaxing."
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -227,17 +227,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have no interests in these kinds of films."
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I don't understand any of this!$a"
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think my time has been wasted @."
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -251,17 +251,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery film? Hmm, interesting"
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar seems to thinking about the current state of the movie"
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a fun movie to dissect! Thank you for the time @."
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -275,17 +275,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A family movie huh? Quite interesting"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*Sniff*$s"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a good time @.$h#$b#And for the record. I did not cry!$a."
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -299,17 +299,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I already know a lot about the world, I think this is a waste of time.$a"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar is bored"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was quite boring if you ask me.$a"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -323,17 +323,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now this is a good concept! Quite exciting!$h"
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar is focused at the movie"
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was quite an interesting take on Wumbi. I enjoyed it.$h"
+                  "Text": "{{i18n:MovieData.Aguar.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -347,17 +347,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Isn't this a horror movie? Oh, A challenge ey?"
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha! This is fun!$h"
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The details were quite corny, but it was good movie$h"
+                  "Text": "{{i18n:MovieData.Aguar.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -371,17 +371,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah, a classic movie. I have heard about this while I was in the academy."
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I quite like these old movies.$h"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie @. Thank you for inviting me.$h"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -1984,7 +1984,7 @@
 				"BeforeMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Hm. I movie huh?"
+					"Text": "Hm. A movie, huh?"
 				},
 				"DuringMovie": {
 					"ResponsePoint": null,

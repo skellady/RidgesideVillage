@@ -371,34 +371,6 @@
 "event-75160174.07": "More guests!",
 "event-75160174.08": "A new Greenhouse!#$b#I'm glad Lenny gave me my own plot to plant crops inside!#$b#This can be helpful",
 
-//Minecart unlock
-"event-75160189.01": "Oh, good to see you, @.$h#$b#Such a lovely day today, isn't it?",
-"event-75160189.02": "Oh, that?#$b#It's an old minecart system that connects Pelican Town to Ridgeside Village.#$b#It's been neglected for a while. This was built in case of emergencies... You know, when the war eventually reaches the valley.$s#$b#As things stand, though, it's not really the village's priority to fix it.#$b#Along with the lack of funding for supplies.$s",
-"event-75160189.03": "Let's get a little closer, shall we?",
-"event-75160189.04": "Hmmm...$s#$b#I wonder how we're going to fix this?",
-"event-75160189.05": "Say, @? How about we make this our special little project?$h#$b#We can restore the minecart system on our own.#$b#I mean, we do need an easier way to get supplies into the village, so why not use the carts?$4#$b#I guess you could fit inside of a cart as well... If you're not afraid.$h#$b#I'm sure a rickety old cart won't scare you, ha ha!$4#$b#I'm just messing with you, @.$h",
-"event-75160189.06": "Okay, this is the plan...",
-"event-75160189.07": "I'll convince a wealthy investor to invest some money into the village. But for that to happen I need to convince them you're self-sufficient and financially independent.#$b#So, all you've got to do is earn at least 150,000g. That should be enough to impress them!$h#$b#When you've already earned this much, just come by the office so I can do the paperwork, got it?$h",
-"event-75160189.08": "Excellent!$h#$b#Good luck!$h#$b#Pleasure doing business with you, @!$h#$b#I'm looking forward to the restoration.$h",
-
-//Minecart Restored
-"event-75160190.01": "I think it's done!$h#$b#Good job, everyone!$h",
-"event-75160190.02": "Woah, that was a tough gig!$h",
-"event-75160190.03": "Hi there, Lenny and @.#$b#We just finished restoring the old Ridgeside minecart system!$h",
-"event-75160190.04": "Woohoo! That sounds great!$h",
-"event-75160190.05": "Well it wouldn't have been possible without @!#$b#Great job, @!$h",
-"event-75160190.06": "Oh Lenny, we've also fixed up the other minecart over by Nightingale Orchard.#$b#This should make it easier for the Lidens to get around.",
-"event-75160190.07": "That's fantastic news!#$b#Thank you so much Robin, Clint, and Ian.$h",
-"event-75160190.08": "No problem, Lenny.#$b#I'm glad it's finally fixed.#$b#It's been a while since I worked on something that wasn't another tool upgrade.$h",
-"event-75160190.09": "I'm just happy to get another gig.$h",
-"event-75160190.10": "Don't worry, Ian. I've got more lined up!$4#$b#Thanks again, everyone!!$h",
-
-//Lenny gets the money for minecart
-"event-75160191.01": "Ah, @! Nice to see you!$h#$b#I assume you're here for the Minecart Restoration Project? Is that 150,000g in your pocket or are you happy to see me?$h",
-"event-75160191.02": "Kidding! I'm really happy that you've managed to achieve such an amazing feat!$h#$b#Alright, I just need you to sign here, here, here and here.#$b#Alright, that should do it.",
-"event-75160191.03": "I think we're all done!$h#$b#Thank you so much, @!$h#$b#I'll get some contractors to work on it as soon as possible!$h",
-"event-75160191.04": "I can't wait!$h",
-
 //Farmer sees Aguar perform magic. (Aguar 2 hearts)
 "event-75160061.01": "Tongue of a serpent, aquamarine... Let's hope this works.#$b#SCRUTARI MULTIPLICITER AGRICOLA!$4",
 "event-75160061.02": "That should do it.#$b#That's all the laundry done for this week!$h",
@@ -2410,6 +2382,29 @@
 "event-75160113.15": "Ha ha! I missed you guys!$h#$b#Thank you for cheering me up!$h",
 "event-75160113.16": "I had fun with my friends today!$h",
 
+//Quest Events
+	//MineCart Plot Unlock
+"QuestEvent.MineCart.PlotUnlock.01": "Oh, good to see you, @.$h#$b#It's such a lovely day today, isn't it?",
+"QuestEvent.MineCart.PlotUnlock.02": "Oh, I'm guessing you're wondering what that is?#$b#Well, it's an old minecart system that connects Pelican Town to Ridgeside Village!#$b#It's been neglected for a while now.#$b#This was meant to be used in case of an emergency.$s#$b#You know... In case the war reached the shores of the Valley.$s#$b#As things stand though, it's just rusting slowly but surely.#$b#Not to mention we lack the funding and supplies to fix it.",
+"QuestEvent.MineCart.PlotUnlock.03": "Let's get closer, shall we?",
+"QuestEvent.MineCart.PlotUnlock.04": "Hmmm...$s#$b#I wonder...$s",
+"QuestEvent.MineCart.PlotUnlock.05": "Say, @? How about we make this our pet project?$h#$b#We can restore the minecart system together!#$b#I mean... right now it's just a waste of space.$s#$b#It's free real estate!$4#$b#It can also serve as a faster method of transportation for you and the villagers.$h#$b#Well, that's if you have the guts to sit inside the rickety old cart, ha!$4#$b#Kidding, kidding!$h",
+"QuestEvent.MineCart.PlotUnlock.06": "Okay! This is what we should do...",
+"QuestEvent.MineCart.PlotUnlock.07": "I'll give you a list of materials. You gather these materials and give them to me.#$b#I'll hire some contractors to fix it up and handle the paperwork.#$b#Deal?$h#$b#Perhaps we'll even save some money if we do this efficiently!$h",
+"QuestEvent.MineCart.PlotUnlock.08": "Excellent!$h#$b#I'll send you the details by mail tomorrow morning!$h#$b#Pleasure doing business with ya, @!$h#$b#I'm looking forward to the Minecart Restoration Project.$h",
+
+	//MineCart Restored
+"QuestEvent.MineCart.Restored.01": "I think we're all done!$h#$b#Good job, everyone!$h",
+"QuestEvent.MineCart.Restored.02": "Woah, that wasn't an easy gig!$h",
+"QuestEvent.MineCart.Restored.03": "Hi Lenny and @.#$b#We just finished restoring the minecart system!$h",
+"QuestEvent.MineCart.Restored.04": "Oh my! Excellent work, crew!$h",
+"QuestEvent.MineCart.Restored.05": "Well, it wouldn't have been possible without @'s supplies!#$b#Thank you, @.$h",
+"QuestEvent.MineCart.Restored.06": "Ah, Lenny! We've also fixed up the other minecart over by Nightingale Orchard.$h#$b#Turns out that one was even harder to fix...$s",
+"QuestEvent.MineCart.Restored.07": "That's fantastic news!#$b#It'll be even easier to get around, now.$h#$b#Thank you so much Robin, Clint, and Ian!$h",
+"QuestEvent.MineCart.Restored.08": "No problem, Lenny.#$b#I'm glad I could participate.#$b#Finally, something more exciting than cracking open geodes or upgrading shoddy tools...$h",
+"QuestEvent.MineCart.Restored.09": "I'm just happy to get another gig.$h",
+"QuestEvent.MineCart.Restored.10": "Be careful, Ian! I still need you for other things, haha!$4#$b#Alright folks, that's all for today!$h",
+
 //Animations
 "Animations.Aguar.Meditate": "%Mr. Aguar seems to be meditating.",
 "Animations.Alissa.Sing": "%Alissa is singing. But she seems a little bit shy.",
@@ -2428,10 +2423,1317 @@
 "NPC.MapLocations.NightingaleName": "Nightingale Orchard",
 
 //MapStrings
-"MapStrings.": "Nightingale Orchard",
+"MapString.rsv.close": "It's closed.",
+"MapString.rsv.trash": "This is just plain old trash.",
+"MapString.rsv.blocked": "There seems to be something blocking the way.",
+"MapString.rsv.crystal": "It's some kind of crystal.#For some reason, you really don't think you should touch it...",
+"MapString.rsv.cleantrash": "It's empty. Looks like the garbage was collected early in the morning.",
+"MapString.rsv.noquestboard": "There's a note in the board. It reads...#'Closed until further notice - Lenny'",
+"MapString.rsv.1": "Welcome to Ridgeside Village!",
+"MapString.rsv.2": "Log Cabin Hotel #The ultimate mountainside experience!#Residents: Richard, Philip, Ysabelle and Flor.",
+"MapString.rsv.3": "Lenny's Mailbox #Ridgeside Village Admin",
+"MapString.rsv.4": "Kobayashi Residence #Shiro and Yuuma live here.",
+"MapString.rsv.5": "This swing looks like it's never been used.",
+"MapString.rsv.6": "Eubank Residence#Kenneth lives here.#'Need anything fixed? Come on in!'",
+"MapString.rsv.7": "This a doghouse with no dog.#Who let the dog out?",
+"MapString.rsv.8": "Someone lit a bonfire here recently.",
+"MapString.rsv.9": "Winters Residence#Ian lives here.#'You call, I haul!'",
+"MapString.rsv.10": "The sign has been cut cleanly in half.#It looks like it was cut with some sort of blade...",
+"MapString.rsv.11": "The statue is spooky.#You'd rather not touch it.",
+"MapString.rsv.12": "Someone seems to be living inside this grassy hut.#It seems a little small for a human, though.",
+"MapString.rsv.13": "There are several flasks in here, collecting rainwater.",
+"MapString.rsv.14": "It's a bucket.#Really, just a bucket.",
+"MapString.rsv.15": "Water Research Facility & Laboratory",
+"MapString.rsv.16": "Algae and microorganisms seem to thrive in this little aquarium.",
+"MapString.rsv.17": "Someone carved something into the tree.#It says:#K < T.",
+"MapString.rsv.18": "Round and round, the mill goes round and round again.",
+"MapString.rsv.19": "Liden Residence#Bert, Olga and Trinnie live here.",
+"MapString.rsv.20": "The jars are full of fruit preserves.#They smell good!",
+"MapString.rsv.21": "Fruit drops when it's ripe.#Then it gets collected and made into preserves.",
+"MapString.rsv.22": "Alissa's Mailbox#Nightingale Orchard",
+"MapString.rsv.23": "These crops look very healthy.",
+"MapString.rsv.24": "This shipping bin is filled to the brim.",
+"MapString.rsv.25": "It looks like someone scratched 'L + F' here with a blade.",
+"MapString.rsv.26": "It's for children to play on.#It's old and rusty. No one's played on this in a long time.",
+"MapString.rsv.27": "It looks like one of the structures on your farm.",
+"MapString.rsv.28": "Ridgeside Forest#SOUTH: Water Research Facility and Laboratory#WEST: Community Greenhouse",
+"MapString.rsv.29": "What did the bee say to the other bee?#Honey, I'm home!",
+"MapString.rsv.30": "Looks like fishing equipment.#Smells like...#fish.",
+"MapString.rsv.31": "You want to hug this tree but you're afraid people will judge you!",
+"MapString.rsv.32": "Well, well, well.#It's a well.",
+"MapString.rsv.33": "Akina Residence#Pika and Keahi live here.",
+"MapString.rsv.34": "Pretty sure I saw this horse walk into the Stardrop Saloon.",
+"MapString.rsv.35": "Jeric's Shop#Blooming Hill Farm",
+"MapString.rsv.36": "A worn-down workbench#Jeric sure keeps busy.",
+"MapString.rsv.37": "An old motorcycle.#Looks like Jeric's working on it.",
+"MapString.rsv.38": "This chicken is free from society's yoke.",
+"MapString.rsv.39": "Pickens Residence#Maddie lives here.",
+"MapString.rsv.40": "I wonder who made this beautiful arrangement!",
+"MapString.rsv.41": "Ezekiel seems to be brewing his own beer.",
+"MapString.rsv.42": "Daniels Residence#Ezekiel and Corine live here.",
+"MapString.rsv.43": "A cooler filled with Joja cola.",
+"MapString.rsv.44": "Pika's pantry.#It's full of tasty ingredients!",
+"MapString.rsv.45": "There are a lot of jars full of different ingredients stored.",
+"MapString.rsv.46": "Pika's kitchen is so clean.#I better not touch anything.",
+"MapString.rsv.47": "This keyboard seems dusty",
+"MapString.rsv.48": "It's unplugged.",
+"MapString.rsv.49": "This drumset is dusty.",
+"MapString.rsv.50": "Someone left a bottle of wine here.#There's still some left.",
+"MapString.rsv.51": "I said hi to the horse.#The horse said hey.",
+"MapString.rsv.nobalcony": "The balcony is locked. There's a sign:#'Reserved for special occasions.'",
+
+"MapString.rsv.aguarbasement1": "It's a tome full of magic spells.#It's written in a language you can't read.",
+"MapString.rsv.aguarbasement2": "It smells like garlic!#You manage to resist the urge to taste it.",
+"MapString.rsv.aguarbasement3": "It's a pile of magic books.#The one on top says:#'Laundry Spells 101.'",
+
+"MapString.rsv.aguarlab1": "The pantry is sorted alphabetically.",
+"MapString.rsv.aguarlab2": "This oven is suspiciously clean.",
+"MapString.rsv.aguarlab3": "A clean sink. Mr. Aguar is not a slob.",
+"MapString.rsv.aguarlab4": "The fridge is filled with frozen food and canned soda",
+"MapString.rsv.aguarlab5": "You pull out a book and read the cover:#'Biological Diversity' by Zoe Angofel.",
+"MapString.rsv.aguarlab6": "You pull out a book and read the cover:#'Water? - I Barely Know Her' by Charles Sparkie.",
+"MapString.rsv.aguarlab7": "You pull out a book and read the cover:#'Rocks Rock, Or Do They?' by Avi Slone.",
+"MapString.rsv.aguarlab8": "You pull out a book and read the cover:#'The Hot Professor' by M.A. Maesh.#You put it back quickly.",
+"MapString.rsv.aguarlab9": "It's full of samples.#Some of them look like they're glowing.",
+"MapString.rsv.aguarlab10": "This looks like some kind of cooler for test tubes.",
+"MapString.rsv.aguarlab11": "It's some kind of urn. It's filled with water.",
+"MapString.rsv.aguarlab12": "A flask filled with dirty water.",
+"MapString.rsv.aguarlab13": "They say a Frozen Tear is Yoba crying because you don't eat your veggies.",
+"MapString.rsv.aguarlab14": "It's a jar of... mayonnaise?#...#That... is not mayonnaise.",
+"MapString.rsv.aguarlab15": "A beautiful blue orb.#Somehow you can't stop staring at it.",
+"MapString.rsv.aguarlab16": "Professor's Log 63:#No anima found in sample 46.#Additional reasearch is required.",
+"MapString.rsv.aguarlab17": "That is one huge pearl!",
+"MapString.rsv.aguarlab18": "The note says:#'Mitotic cellular division present in sample 126.'#The I's are dotted with tiny hearts.",
+"MapString.rsv.aguarlab19": "It's a To-Do List. It says:#Buy 1200 test tubes#2 Erlenmeyer flasks#That cute dress from Zuzu Apparel.",
+"MapString.rsv.aguarlab20": "It's a journal full of entries spanning multiple years.",
+"MapString.rsv.aguarlab21": "Dear Professor Salvador, ^My research has not yet borne fruit.^The anima traces are unexplainable.^The pulsating aura even more so.^There is an individual inhabiting that old man's farm.^They seem to have some magical affinity.^Maybe I should...^(The letter is unfinished)",
+"MapString.rsv.aguarlab22": "This looks like a spell scroll.#But instead of spells it has chemical formulas and equations.",
+"MapString.rsv.aguarlab23": "Weird...#This plant pot has tiny footprints in the soil.",
+
+"MapString.rsv.alissa1": "It's a notebook filled with unfinished songs.",
+"MapString.rsv.alissa2": "It's a song, written by Alissa:^'You look at me^ as if I'm the only girl around.^You make me feel important^ and never let me down.'^D - A7 - Bm - G",
+"MapString.rsv.alissa3": "You pull out a book and read the cover:#'Lorem and Ipsum' by Peter Lace-Holder.",
+"MapString.rsv.alissa4": "You pull out a book and read the cover:#'Ungulates Undulate' by O.B. Amoose.",
+"MapString.rsv.alissa5": "A collection of different colored threads and cloth.",
+"MapString.rsv.alissa6": "Alissa's private drawer. I better not touch this.",
+"MapString.rsv.alissa7": "It's a recipe for pancakes written by Olga.",
+"MapString.rsv.alissa8": "It's a box full of fruit! Looks like they're ready to be shipped.",
+"MapString.rsv.alissa9": "There seems to be a shiny object inside of the wall?#But it's emitting a cold, sharp sting when you try to reach in.",
+"MapString.rsv.alissa10": "Note to owner of the Everfrost Gem:#Do not attempt to break open. Mortal minds may not comprehend the -----#The remaining text seem to have... disappeared?",
+
+"MapString.rsv.bert1": "An old gridball helmet.#It says: 'Big Bad Bert' on the side.",
+"MapString.rsv.bert2": "The ball is a bit flat but it still rolls.#Looks like it's just for decoration...?",
+"MapString.rsv.bert3": "The trash can is empty.#Why do you keep looking into trash cans anyway?",
+"MapString.rsv.bert4": "There's a small piece of paper stuck in between the foam? It says:#'To do: Call Dad'",
+"MapString.rsv.bert5": "The Liden's family television",
+"MapString.rsv.bert6": "A silver backpack with a first aid kit, multiple canned goods, and a lollipop inside. There's a tag that says:#'Emergency Kit'",
+"MapString.rsv.bert7": "A little teddy bear. Small glitter stickers are stuck on its paws.",
+"MapString.rsv.bert8": "The living room clock does not seem to be working.",
+"MapString.rsv.bert9": "The fireplace was recently lit.",
+"MapString.rsv.bert10": "A new radio.#I bet this has amazing sound quality!",
+"MapString.rsv.bert11": "A collection of pictures of the Lidens.",
+"MapString.rsv.bert12": "Zuzu City Tunnelers!#Learn about your favorite players here!",
+"MapString.rsv.bert13": "You pull out a book and read the cover:#'Woodchuck Calculus' by Ash Nine.",
+"MapString.rsv.bert14": "Olga and Bert's dresser. I shouldn't peek.",
+"MapString.rsv.bert15": "You pull out a book and read the cover:#'Body of Art' by Bran Don.",
+"MapString.rsv.bert16": "You pull out a book and read the cover:#'I try Mechs' by I. Lavits.",
+"MapString.rsv.bert17": "You pull out a book and read the cover:#'Harmonious Tubas' by Ether Yeal",
+"MapString.rsv.bert18": "Trinnie's dresser. It's filled with... candy?#Maybe I should tell Olga.",
+"MapString.rsv.bert19": "A doll house.#It almost looks like there's a tiny farmer doll inside...",
+"MapString.rsv.bert20": "There is a sticker spelling out 'Koko' on the pot.",
+"MapString.rsv.bert21": "There's a small sticker with the name 'Pipo' on it.",
+"MapString.rsv.bert22": "A sticker with the name 'Lil Tomtom' is on the pot.",
+
+"MapString.rsv.ezekiel1": "Even a broken clock is right twice a day.",
+"MapString.rsv.ezekiel2": "A pile of logs.",
+"MapString.rsv.ezekiel3": "A desk drawer. It's locked.",
+"MapString.rsv.ezekiel4": "The trashcan smells like apples.#Why did you sniff a trashcan?",
+"MapString.rsv.ezekiel5": "Old army boots. They're caked with shoe shine.",
+"MapString.rsv.ezekiel6": "A golden ring with a chest-shaped top. It looks like it can be opened.",
+"MapString.rsv.ezekiel7": "It looks like one of those flares for emergencies.",
+"MapString.rsv.ezekiel8": "A large anchor on display. The inscription says 'SS Peacock'",
+"MapString.rsv.ezekiel9": "This ring has a beautiful aquamarine stone.",
+"MapString.rsv.ezekiel10": "The decorations remind you of the Calico Desert.",
+"MapString.rsv.ezekiel11": "There is an empty bag of chips inside this trashcan.",
+"MapString.rsv.ezekiel12": "I wonder what's on TV?",
+"MapString.rsv.ezekiel13": "It's an old rusty sword.#Dog tags are hanging from its hilt.",
+"MapString.rsv.ezekiel14": "Dear Helen,^^It's a new day. Corine has a job at the local restaurant now. Everything is fine. I miss you. We're planning to visit your grave tomorrow.^^Love, Zeke.#It looks like this letter was written a very long time ago.",
+"MapString.rsv.ezekiel15": "Ezekiel's Dresser. It's thankfully locked.",
+"MapString.rsv.ezekiel16": "Corine's desk.#There is a notebook with a list of jobs.#Looks like she's looking for her dream job...",
+"MapString.rsv.ezekiel17": "A tray with a half-finished bag of chips and a can of soda.",
+"MapString.rsv.ezekiel18": "Corine's dresser. It's locked.#Or is it?#Yes, it is.",
+"MapString.rsv.ezekiel19": "This side of the bookshelf is full of martial arts books!",
+"MapString.rsv.ezekiel20": "This side of the bookshelf is full of fashion magazines!",
+"MapString.rsv.ezekiel21": "A big fluffy stuffed bear!",
+"MapString.rsv.ezekiel22": "An old doll house. It's really dusty.#Like, really, really dusty.",
+
+"MapString.rsv.freddie1": "Lola's spinning wheel. It's in tip-top condition!",
+"MapString.rsv.freddie2": "Different types of silk and thread are stored in the shelf.",
+"MapString.rsv.freddie3": "There is an half-burned picture album in the fireplace.",
+"MapString.rsv.freddie4": "A freshly cooked dish. Yummy!",
+"MapString.rsv.freddie5": "Lola and Freddie's dresser.#You'd rather not look in there.",
+"MapString.rsv.freddie6": "None of these books have covers.",
+"MapString.rsv.freddie7": "An old photo album?#It looks like all the pictures were ripped out.",
+"MapString.rsv.freddie8": "There's a letter hidden behind a broken plank.#'To my Freddie.'#Better not open it.",
+"MapString.rsv.freddie9": "There's a letter hidden behind a crooked painting.#'To my Lola'#Better not open it.",
+
+"MapString.rsv.ian1": "It's a children's book:#'Learn how to read with Dr. Alphabet'.",
+"MapString.rsv.ian2": "Ian's personal dresser and drawer.# I should not mess with it.",
+"MapString.rsv.ian3": "An empty plate and cup.# Both have been recently washed.",
+"MapString.rsv.ian4": "A model ship. It's a work in progress.",
+"MapString.rsv.ian5": "The clock is not working.#Maybe its time was up?",
+"MapString.rsv.ian6": "An empty small desk drawer. Looks like it was recently finished.",
+"MapString.rsv.ian7": "The sculpture looks familiar, sort of. It's not very well done.",
+"MapString.rsv.ian8": "A huge bear statue! It only has the shape though with no details.",
+"MapString.rsv.ian9": "An empty plant pot. There's no soil inside either.",
+"MapString.rsv.ian10": "The fireplace seems like it hasn't been recently used.",
+"MapString.rsv.ian11": "There are sheets of paper in the couch with rows of carefully-written but mess letters.",
+"MapString.rsv.ian12": "A cleanly sharpened axe and pickaxe. Properly cared for.",
+
+"MapString.rsv.jeric1": "Fresh fruit and vegetables for sale.",
+"MapString.rsv.jeric2": "Neatly organized fruit and veggies.",
+"MapString.rsv.jeric3": "This bookshelf is full of books on farming. ",
+"MapString.rsv.jeric4": "You pull out a magazine and read the cover:#Farm to Dresser - The Farmer's Fashion Guide",
+"MapString.rsv.jeric5": "Jeric's drawer smells like cologne.#You want to peek but you manage to control your curiosity.",
+"MapString.rsv.jeric6": "You find a small calendar with planting and harvesting dates.",
+"MapString.rsv.jeric7": "It's a rolled up excercise mat used for exercise. It's a little moist",
+"MapString.rsv.jeric8": "A weighted barbell. It's quite heavy.",
+
+"MapString.rsv.kenneth1": "Kenneth's drawer. Better not open this.",
+"MapString.rsv.kenneth2": "Kenneth's PC.#He's on the JojaCord app.#There are several people typing.",
+"MapString.rsv.kenneth3": "It looks like a disassembled microwave.",
+"MapString.rsv.kenneth4": "The small monitor has a beeping green bar in the upper left corner of the screen.",
+"MapString.rsv.kenneth5": "The huge monitor seems to have been partially disassembled.",
+"MapString.rsv.kenneth6": "It's a game console! A Pepper Kong cartridge is inserted in the game slot.",
+"MapString.rsv.kenneth7": "The trash can has a pile of crumpled papers inside.",
+"MapString.rsv.kenneth8": "The computer monitor shows the SMOOPY console open.#It reminds you of an angel.",
+"MapString.rsv.kenneth9": "There's an unfinished sandwich!",
+"MapString.rsv.kenneth10": "'Diverse Fundamentals of Robotics and Advanced Engineering' by Ray Feasaz",
+"MapString.rsv.kenneth11": "An old typewriter.#It's being fixed.",
+"MapString.rsv.kenneth12": "Dear Dad,#I'm doing fine.#I recently met with your old friend Demetrius.#Will post notes.#The letter is unfinished",
+"MapString.rsv.kenneth13": "A recently fixed radio.#It's currently playing the 'Jason Shuffle' by the Space Chasers",
+"MapString.rsv.kenneth14": "An old game console. It's been completely taken apart.",
+"MapString.rsv.kenneth15": "A machine of some kind. The parts inside don't seem to match.# But there are traces of tinkered bolts and screws all around.",
+
+"MapString.rsv.lenny1": "It's Lenny's radio. It looks pretty new.",
+"MapString.rsv.lenny2": "The trashcan is empty. It's a trash can't.",
+"MapString.rsv.lenny3": "Delicious Recipes for Workaholics' by I.M. Bizzi",
+"MapString.rsv.lenny4": "It's Lenny's desk. It's made of mahogany.",
+"MapString.rsv.lenny5": "TO:^Pierre's^Pelican Town^Stardew Valley^Ferngill Republic",
+"MapString.rsv.lenny6": "Lenny's dresser. You don't have the guts to peek.",
+"MapString.rsv.lenny7": "You pull out a book and read the cover:#'History of Stardew Valley' by Oswald Bamoose",
+"MapString.rsv.lenny8": "You pull out a book and read the cover:#'Famous Journeys' by M. Jasper",
+"MapString.rsv.lenny9": "You pull out a book and read the cover:#'Famous Journeys' by M. Jasper",
+"MapString.rsv.lenny10": "You pull out a book and read the cover:#'Geekonomics' by Steven & Stephen.",
+"MapString.rsv.lenny11": "It's Lenny's computer. She's watching StarFlix.",
+"MapString.rsv.lenny12": "Lenny is reading a romance novel called 'Stallion.'#You read a paragraph...#You regret reading a paragraph.#You put it back quickly.",
+
+"MapString.rsv.lolashed1": "There's some kind of smoke inside of this onyx ring!",
+"MapString.rsv.lolashed2": "The amethyst gem on top of the ring is calling you to pick it.#You barely manage to yank your hand back and turn away.",
+"MapString.rsv.lolashed3": "This is a topaz ring. It looks like it's glowing.",
+"MapString.rsv.lolashed4": "Woah! Look all this gold! You could buy a lot of stuff with this.",
+"MapString.rsv.lolashed5": "It's an aquamarine ring. It looks...wet?",
+"MapString.rsv.lolashed6": "Woah! This jade ring has blood on it!",
+"MapString.rsv.lolashed7": "It's an emerald ring. The emerald is huge!",
+"MapString.rsv.lolashed8": "These boots seem to have hidden blades below the soles.#I better not touch these or I might get hurt.",
+"MapString.rsv.lolashed9": "A collection of metal bars and weapons.",
+"MapString.rsv.lolashed10": "It's a suit of armor. I think this was Lola's.",
+"MapString.rsv.lolashed11": "It's a suit of armor. I think this was Freddie's.",
+"MapString.rsv.lolashed12": "These swords are sharp! They look freshly sharpened.",
+"MapString.rsv.lolashed13": "Souveniers from Lola and Freddie's past adventures.",
+"MapString.rsv.lolashed14": "The anvil was recently used.",
+
+"MapString.rsv.hotel1": "It's an old scroll on display chronicling the history of Ridgeside Village.",
+"MapString.rsv.hotel2": "It's a pretty painting of the Calico Desert.",
+"MapString.rsv.hotel3": "It's a guest book.#Looks like your Grandpa visited the hotel often.",
+"MapString.rsv.hotel4": "A check-in form. I already have a house nearby, so I shouldn't bother.",
+"MapString.rsv.hotel5": "It's a laptop. You want to take a peek but you remember that's a privacy violation.",
+"MapString.rsv.hotel6": "It's the Hotel Lobbby Computer. What did you just learn about privacy?",
+"MapString.rsv.hotel7": "The file cabinet is locked. Why were you looking in there anyway?",
+"MapString.rsv.hotel8": "You pull out a book and read the cover:#'Blenders: What if?' by Bea Verina.",
+"MapString.rsv.hotel9": "You pull out a book and read the cover:#'Everything You need to Know and More' Rae Vendeth",
+"MapString.rsv.hotel10": "A giant piano. If only you knew how to play.",
+"MapString.rsv.hotel11": "A magazine. The page it's open to has an automobile advertisment.",
+"MapString.rsv.hotel12": "'Employees Only'",
+"MapString.rsv.hotel13": "Flor's dresser. I shouldn't touch it.",
+"MapString.rsv.hotel14": "Lifespans: Piaget, Erikson and Beyond.",
+"MapString.rsv.hotel15": "Ysabelle's dresser. She'd be furious if I touched this.",
+"MapString.rsv.hotel16": "There's a cute bear plushie!",
+"MapString.rsv.hotel17": "The desk is covered in neatly-organized makeup palettes, bottles and compacts, and the mirror is ringed with lightbulbs.",
+"MapString.rsv.hotel18": "It's a 10 lbs dumbell set aside carelessly",
+"MapString.rsv.hotel19": "The laptop has a classy black marking on the edge with the text 'Ysa < '",
+"MapString.rsv.hotel20": "The guitar is missing a string.",
+"MapString.rsv.hotel21": "A weighted barbell. Seems to be 25 lbs.",
+"MapString.rsv.hotel22": "Philip's dresser and study drawer. I should leave it be.",
+"MapString.rsv.hotel23": "Kinesiology and Physiology. Written by Raf S. Eazz.",
+"MapString.rsv.hotel24": "You pull out a comic book and read the cover:#The Cosmic Vengeance, written by Karl Basket.",
+"MapString.rsv.hotel25": "A pile of varying books. Some of them look like sci-fi novels.",
+"MapString.rsv.hotel26": "A globe with little pins stuck in almost every country. There's a note attached at the top: # 'Someday...'",
+"MapString.rsv.hotel27": "Somebody threw away a small piece of gold! Must be by accident.",
+"MapString.rsv.hotel28": "You pull out an old photo album.#It's full of pictures of Richard and his family.",
+"MapString.rsv.hotel29": "Hospitality 101: The art of providing a second home.",
+"MapString.rsv.hotel30": "The trash can is empty and clean. So clean!",
+"MapString.rsv.hotel31": "It's a ballet barre. It looks recently installed.",
+"MapString.rsv.hotel32": "I wonder if I should work out more.",
+"MapString.rsv.hotel33": "Someone etched something into this bench.#It says:'BE HAPPY AGAIN'",
+
+"MapString.rsv.logcabinhotel1": "It's an urn. Better not touch it.",
+
+"MapString.rsv.maddie1": "Each book seem to have tons of bookmarks in different pages!",
+"MapString.rsv.maddie2": "Inside the drawer are different novels of varying genres.",
+"MapString.rsv.maddie3": "The topmost book has the title 'The Principles of the Cellular World'",
+"MapString.rsv.maddie4": "The current screen shows an online shopping site search page. The search is 'cute dresses'",
+"MapString.rsv.maddie5": "Marine Biology and Botany - A published collection of research by the Wale Academy",
+"MapString.rsv.maddie6": "It's a cute pop up book of the 'Flying Dogs of Princess Rara'.",
+"MapString.rsv.maddie7": "A collection of thesis reports and folders are neatly placed in the shelf.",
+"MapString.rsv.maddie8": "Magic and the Theory Behind its Existence.# It's a huge book with bookmarks marking multiple pages.",
+"MapString.rsv.maddie9": "A pile of notebooks of varying colors and designs. The topmost one has a kitten face on it.",
+"MapString.rsv.maddie10": "A small terrarium!",
+"MapString.rsv.maddie11": "Maddie's personal computer. It's asking for a password.",
+
+"MapString.rsv.pika1": "The cooler has lots of beverages inside!",
+"MapString.rsv.pika2": "There are frozen fish inside the cooler.",
+"MapString.rsv.pika3": "A delicious-looking meal! Maybe a new recipe?",
+"MapString.rsv.pika4": "A pretty blue shell necklace. It looks clean and well kept. A picture of a woman is beside it.",
+"MapString.rsv.pika5": "A photo album of an unfamiliar place. The place looks like a tropical island, and everyone is wearing clothes you've never seen before.",
+"MapString.rsv.pika6": "It's an old diary. It doesn't seem to belong to Pika.",
+"MapString.rsv.pika7": "Pika's drawer. I shouldn't mess with his stuff.",
+"MapString.rsv.pika8": "The guitar is a little dirty.",
+"MapString.rsv.pika9": "The radio is playing an upbeat song when you turn it on.",
+
+"MapString.rsv.sign1": "Ridgeside Village# Cable Car to Pelican Town",
+"MapString.rsv.sign2": "`Cable Car to Ridgeside Village",
+"MapString.rsv.sign3": "WARNING!#Please secure your horse in the horse compartment.#We don't want another 'Pegasus' incident.#- Lenny",
+"MapString.rsv.sign4": "> Cable Car to Pelican Town#WARNING!#Watch out for falling debris during rainy days.",
+"MapString.rsv.bench": "Someone carved 'P & C' into this tree. How romantic.'",
+"MapString.rsv.cliffblock": "Something big is blocking the way. There's no way through.",
+
+"MapString.rsv.ninja1": "'Keep an eye on the old man's farm.'#'Await further instructions.#-H'",
+"MapString.rsv.ninja2": "The books are all written in different languages.",
+"MapString.rsv.ninja3": "A collection of sharp weapons!#I might hurt myself if I touch any of these.",
+"MapString.rsv.ninja4": "These look like cherry bombs...#...with magical runes imprinted on them.",
+"MapString.rsv.ninja5": "The sword is emitting an ominous aura.",
+
+"MapString.rsv.shiro1": "A recently-opened bottle of wine.",
+"MapString.rsv.shiro2": "The trash can is full of used bandages.",
+"MapString.rsv.shiro3": "Looks like Yuuma drew these. They look so good!",
+"MapString.rsv.shiro4": "You pull out a book and read the cover:#'Lorem Ipsum' by Peter Laceholder.",
+"MapString.rsv.shiro5": "You pull out a book and read the cover:#'Lorem Ipsum' by Peter Laceholder.",
+"MapString.rsv.shiro6": "It's a pile of educational books for varying grade levels.",
+"MapString.rsv.shiro7": "Boxes full of clothes.",
+"MapString.rsv.shiro8": "There's a note attached to the flower. It reads:^'We will return home soon.^Please take care of each other.'",
+"MapString.rsv.shiro9": "The drawers are locked.",
+"MapString.rsv.shiro10": "It's a wheelchair#It seems it hasn't been used for a while now.",
+
+"MapString.rsv.cliffhouseclose": "This abandoned house has been boarded up.",
+"MapString.rsv.undreyapeek": "A figure covered in a black blanket...#'Shhh!! Don't be so loud, okay?'",
+"MapString.rsv.grave1": "There's a faded text engraved in the tomb.^The words can barely be read.^'He-e l--s -rth-r-'",
+"MapString.rsv.brokencart": "This cart looks broken. Better not touch it.",
+
+"MapString.rsv.ridgeforest1": "Here lies Buddy.#Your time was too short.",
+"MapString.rsv.ridgeforest2": "The text is too faded to read.",
+"MapString.rsv.ridgeforest3": "A loving father. You will be missed...",
+"MapString.rsv.ridgeforest4": "General Diggy Johnson^An honorable leader.^A---^The rest of the text is illegible.",
+"MapString.rsv.treehouselock": "This appears to be a tree house designed for children.#It may collapse if I go inside.",
+"MapString.rsv.tentlock": "There's a huge wooden crate blocking the entrance to the tent. I wonder who owns this?",
+
+"MapString.rsv.fallshint1": "Some kind of ancient scroll is embedded into the grass.#It reads...^^'8|13^You could hear the crashing waters near the pink trees.^Are there underground waterfalls here?'",
+"MapString.rsv.fallshint2": "Some kind of ancient scroll is embedded into the grass.#It reads...^^'1|27^The sound gets louder and louder! Am I near? This is driving me crazy!'",
+"MapString.rsv.mysticfalls1": "Mystic Falls of Companions^^'One who bonds with their neighbors and shares their joy and sorrow is blessed by Yoba.'",
+"MapString.rsv.mysticfalls2": "Mystic Falls of Love^^'Being able to catch the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
+"MapString.rsv.mysticfalls3": "Mystic Falls of Sacrifice^^'Among the heaviest of burdens are the ones carried by those who fight for the greater good of all'",
+
+"MapString.rsv.abandonedhouse1": "'When I'm gone, try to be a good girl, okay?^^Remember to eat lots, stay away from danger, and don't trust anyone.^^I'm sorry I can't live as long as you...'",
+"MapString.rsv.abandonedhouse2": "The boxes are full of recycled trash.",
+"MapString.rsv.abandonedhouse3": "There's a small note:#'Don't trust the red scarves'",
+"MapString.rsv.abandonedhouse4": "Different colorful drawings!",
+"MapString.rsv.abandonedhouse5": "Boxes of fruit and food.",
 
 //MovieData
-"MovieData.": "Nightingale Orchard",
+	
+	//Aguar
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "This little story is quite wholesome.$h",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "How fascinating.",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "That was a decent movie, @. Thanks for inviting me. It was quite relaxing.",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "I have no interests in these kinds of films.",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "I don't understand any of this!$a",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "I think my time has been wasted, @.",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "A mystery film? Hmm, interesting",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "%Mr. Aguar seems to thinking about the current state of the movie",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "That was a fun movie to dissect! Thank you for your time, @.",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "A family movie huh? Quite interesting",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "*Sniff*$s",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "I had a good time, @.$h#$b#And for the record. I did not cry!$a",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "I already know a lot about the world, I think this is a waste of time.$a",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "%Mr. Aguar is bored",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "It was quite boring if you ask me.$a",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "Now this is a good concept! Quite exciting!$h",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "%Mr. Aguar is focused at the movie",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "That was quite an interesting take on Wumbi. I enjoyed it.$h",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "A horror movie? I'm not scared easily.#$b#You should've seen the things I've seen.$a",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "This is quite humorous!$h",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "They clearly used props and special effects, but I liked it.$h",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "Ah, a classic movie. I have heard about this while I was at the academy.",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "I quite like these old movies.$h",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "That was a genuinely good movie, @. Thank you for inviting me.$h",
+
+	//Alissa
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Bert
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Corine
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Ezekiel
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Flor
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Freddie
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Ian
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Jeric
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Jio
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Keahi
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Kenneth
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Kiwi
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Lenny
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Lola
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Maddie
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Olga
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Philip
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Pika
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Richard
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Shiro
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Trinnie
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Ysabelle
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+	//Yuuma
+			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Journey of the Praire King (VIDEOGAME)
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Mysterium (MINDFUCK) (MYSTERY)
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+			
+			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+			
+			//Wumbus (SCI-FI) (COMEDY)
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+
+			//Howls in the Rain (HORROR)
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+
+			//Zuzu City Express (CLASSIC) (ROMANCE)
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
 
 //EmberNight Dialogue - Adds dialogue to vanilla characters
 "EmberNightDialogue.Abigail.spouse": "Happy New Year, honey!#$e#Remember when we played 'Prairie King' together in my room, so long ago?$h#$b#A year sure goes by fast, but I'm glad I got to spend it with you, @.$4",

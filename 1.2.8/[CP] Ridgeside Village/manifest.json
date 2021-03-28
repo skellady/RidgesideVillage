@@ -23,6 +23,10 @@
         "IsRequired": true,
 	   },
 	   {
+        "UniqueID": "PurrplingCat.QuestFramework",
+        "IsRequired": true,
+	   },	   
+	   {
 		"UniqueID": "MoreFish",
 		"IsRequired": false,
 	   },
@@ -44,7 +48,7 @@
 	   },
        {
         "UniqueID": "Bouhm.NPCMapLocations",
-        "IsRequired": false
+        "IsRequired": false,
        }	   
    ]
 }
