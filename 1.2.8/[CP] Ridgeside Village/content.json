@@ -378,9 +378,9 @@
 	],
 
 	/*********
-	** Define in-game FestivalLocations
+	** Define in-game locations
 	*********/
-    "CustomFestivalLocations": [
+    "CustomLocations": [
       	{
          	"Name": "Custom_Ridgeside_AguarBasement",
          	"FromMapFile": "Assets/Maps/AguarBasement.tbin",
