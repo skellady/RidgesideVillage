@@ -15,7 +15,7 @@
 		"LogName": "Festival Data",
 		"Action": "Load",
 		"Target": "Data/Festivals/winter28",
-		"FromFile": "Data/RidgesideFestivals/EmberNight.json",
+		"FromFile": "Data/Festivals/RidgesideFestivals/EmberNight.json",
 	},
 	{
 		"LogName": "Main Event Edit",
@@ -48,7 +48,7 @@
 		"LogName": "Festival Data",
 		"Action": "Load",
 		"Target": "Data/Festivals/fall20",
-		"FromFile": "Data/RidgesideFestivals/Gathering.json",
+		"FromFile": "Data/Festivals/RidgesideFestivals/Gathering.json",
 	},
 	
 	//MAIN EVENTS
