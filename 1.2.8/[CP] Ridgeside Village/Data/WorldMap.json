@@ -10,7 +10,7 @@
 	"When": { "HasMod: |contains=Yagisan.NPCMapLocationsForNPCs": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },	  
 	  "Entries": {
 
-		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+		// Adds NPCs
 
 		"Aguar": {
 			"MarkerCropOffset": 1
@@ -101,7 +101,8 @@
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 	"When": { "HasMod: |contains=Yagisan.NPCMapLocationsForNPCs": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },	 
 	"Entries": {
-		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+		
+		// Locations
 		"Custom_Ridgeside_RidgesideVillage": {
 			"MapVectors": [
 			{
@@ -263,7 +264,6 @@
 		"PatchMode": "Overlay",
 		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": true },
 	},
-	
 	
 ]
 }

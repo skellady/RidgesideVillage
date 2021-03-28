@@ -2425,6 +2425,127 @@
 //Gathering Dialogue
 
 //Romance Dialogue
+	
+	//Alissa
+"Romance.Engagement.Alissa0": "Wait, @? What are you doing?$l#$b#Oh, don't tell me! No way!$l#$b#It's a YES of course, @! I love you!",
+"Romance.Engagement.Alissa1": "I can't wait to tell Olga and Bert! I'm so happy @!$h",
+"Romance.FemaleWeddingFix.MaleFarmer1.Alissa": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Alissa in the bonds of marriage.",
+"Romance.FemaleWeddingFix.MaleFarmer2.Alissa": "@... Alissa... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
+"Romance.FemaleWeddingFix.FemaleFarmer1.Alissa": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Alissa in the bonds of marriage.",
+"Romance.FemaleWeddingFix.FemaleFarmer2.Alissa": "@... Alissa... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",
+"Romance.give.flowersA.Alissa": "Hey, what's this, @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Of course it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously so happy right now, I can't stop smiling!$l#$b#I love you!$l",
+"Romance.give.flowersB.Alissa": "Hey, what's this, @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Of course it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously so happy right now, I can't stop smiling!$l#$b#I love you!$l",
+"Romance.stardrop.gift.Alissa": "May our love be an everlasting duet, @.$l#$b#No song could ever summarize how much I appreciate and love you, @. I hope this little gift will show you how special you are to me.$l",
+"Romance.rejectNPCA.Alissa": "I'm sorry but I don't... like you like that, @.$s#$b#I think you've got the wrong idea. I'm sorry but it's a no.$s",
+"Romance.rejectNPCB.Alissa": "I'm sorry but I don't... like you like that, @.$s#$b#I think you've got the wrong idea. I'm sorry but it's a no.$s",
+"Romance.MovieInvite.Spouse.Alissa": "This is a great idea for a date, darling! I'm so excited!$h#$b#I'll meet you there, okay? I have to go clean up first!",
+
+	//Corine
+"Romance.Engagement.Corine0": "Hey, uhm... @? Is that what I think it is?$l#$b#Oh my Yoba, @...$l#$b#Of course! Of course it's a yes! I really love you.$l",
+"Romance.Engagement.Corine1": "I'll tell dad later. He will be so surprised!$h",
+"Romance.FemaleWeddingFix.MaleFarmer1.Corine": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Corine in the bonds of marriage.",
+"Romance.FemaleWeddingFix.MaleFarmer2.Corine": "@... Corine... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
+"Romance.FemaleWeddingFix.FemaleFarmer1.Corine": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Corine in the bonds of marriage.",
+"Romance.FemaleWeddingFix.FemaleFarmer2.Corine": "@... Corine... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",	
+"Romance.give.flowersA.Corine": "Oh wow!$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend?$l#$b#Of course I'd love to be your girlfriend!#$e#We're really together now!?$h#$b#I'm happy, so happy!$l#$e#I love you, @!$h",
+"Romance.give.flowersB.Corine": "Oh wow!$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend?$l#$b#Of course I'd love to be your girlfriend!#$e#We're really together now!?$h#$b#I'm happy, so happy!$l#$e#I love you, @!$h",
+"Romance.stardrop.gift.Corine": "We've been through a lot and you were with me all the way.$l#$b#I just wanted to give you something that might show you how much you mean to me.$h#$b#Something that might show you how much I love you.$l#$b#I will love and protect you forever.$h",
+"Romance.rejectNPCA.Corine": "Oh, uhm... $u#$b#I don't want you to take this the wrong way... but I don't like you like that.$s#$b#I mean we could just be friends, right?#$b#I'm really sorry, @.$s",
+"Romance.rejectNPCB.Corine": "Oh, uhm... $u#$b#I don't want you to take this the wrong way... but I don't like you like that.$s#$b#I mean we could just be friends, right?#$b#I'm really sorry, @.$s",
+"Romance.MovieInvite.Spouse.Corine": "Yay, date night! I love your idea, @!$h#$b#Just a moment, I'll be ready in a jiffy.$h#$e#I'm excited to spend some time with you!$l",
+
+	//Flor
+"Romance.Engagement.Flor0": "Oh wow, that necklace looks interesting, @...#$b#Wait...$u#$b#Are you?$l#$b#@! I... I don't know what to say...$l#$b#Yes! Yes, I will marry you!$l",
+"Romance.Engagement.Flor1": "I'm so excited, @... I love you!$l",
+"Romance.FemaleWeddingFix.MaleFarmer1.Flor": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Flor in the bonds of marriage.",
+"Romance.FemaleWeddingFix.MaleFarmer2.Flor": "@... Flor... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
+"Romance.FemaleWeddingFix.FemaleFarmer1.Flor": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Flor in the bonds of marriage.",
+"Romance.FemaleWeddingFix.FemaleFarmer2.Flor": "@... Flor... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",	
+"Romance.give.flowersA.Flor": "Ah, that's a beautiful arrangement of flowers.$h#$b#Wait, uhm... Isn't this?$u#$b#Of course! I'd love to be your girlfriend!$l#$b#Uhm... So what does a girlfriend do? I mean...$l#$b#I mean at what point does the relationship transcend from its current state...$l#$b#Oh, sorry. I got lost in thought there. I love you, @!$l",
+"Romance.give.flowersB.Flor": "Ah, that's a beautiful arrangement of flowers.$h#$b#Wait, uhm... Isn't this?$u#$b#Of course! I'd love to be your girlfriend!$l#$b#Uhm... So what does a girlfriend do? I mean...$l#$b#I mean at what point does the relationship transcend from its current state...$l#$b#Oh, sorry. I got lost in thought there. I love you, @!$l",
+"Romance.stardrop.gift.Flor": "I think I have finally found the special affinity, understanding and powerful bond that exists between one person and another, @...#$b#I think I have finally found my soulmate.$h#$b#Here's a little gift from me... to you. I hope you like it.$h#$b#I love you!$l",
+"Romance.rejectNPCA.Flor": "Uhm... No, I'm sorry. I don't have any interest in being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
+"Romance.rejectNPCB.Flor": "Uhm... No, I'm sorry. I don't have any interest in being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
+"Romance.MovieInvite.Spouse.Flor": "Oh, but of course! I'd love to go to the movies with you, @!$h#$b#Would you like me to bring some snacks, or should we buy some there?",
+
+	//Ian
+"Romance.Engagement.Ian0": "Oh hey. Are you joking? Don't tell me you're joking!$l#$b#@! No way! Really?$h#$b#Of course I'll marry you! I love you.$l",
+"Romance.Engagement.Ian1": "Wow. I can't believe we're getting married!$h",
+"Romance.give.flowersA.Ian": "@!? Hey? Do you know what this means?$l#$b#Wait, you're not joking, right?$h#$b#You're not!?$u#$b#Oh, @!$l#$b#Of course it's a yes! I love you, @!$h",
+"Romance.give.flowersB.Ian": "@!? Hey? Do you know what this means?$l#$b#Wait, you're not joking, right?$h#$b#You're not!?$u#$b#Oh, @!$l#$b#Of course it's a yes! I love you, @!$h",
+"Romance.stardrop.gift.Ian": "My life has been great with you in it and... Uh... You know I'm not that good with words, @.$l#$b#So here, I hope this shows you how much I really love you, @.$l",
+"Romance.rejectNPCA.Ian": "Oh? I, uh, don't think I like you like that.#$b#I'm sorry, it's a no.$s",
+"Romance.rejectNPCB.Ian": "Oh? I, uh, don't think I like you like that.#$b#I'm sorry, it's a no.$s",
+"Romance.MovieInvite.Spouse.Ian": "Movie night? That's a great idea, honey.$l#$b#I'm just gonna grab something, then we'll be on our way!$h",
+
+	//Jeric
+"Romance.Engagement.Jeric0": "@!$u#$b#I... I don't know what to say!$l#$b#I'm speechless!$l#$b#Come here, you!#$b#Of course. It's a YES!$h",
+"Romance.Engagement.Jeric1": "This is amazing! I can't wait to start a life with you!$h",
+"Romance.give.flowersA.Jeric": "Whoa!$u#$b#I... I'm speechless!$l#$b#I was just about to give you one too!$h#$b#Obviously the answer is yes!$l#$e#I have a handsome boyfriend now!$l^I have a beautiful girlfriend now!$l",
+"Romance.give.flowersB.Jeric": "Whoa!$u#$b#I... I'm speechless!$l#$b#I was just about to give you one too!$h#$b#Obviously the answer is yes!$l#$e#I have a handsome boyfriend now!$l^I have a beautiful girlfriend now!$l",
+"Romance.stardrop.gift.Jeric": "Hey @... You win. You have the most amazing farm.$l#$b#Ha ha! I'm being serious!$h#$b#It's because it's our family farm, it has us in it.$l#$b#Sorry, I can't really explain how much I love you using all these words...$l#$b#So I guess this gift will do!$h",
+"Romance.rejectNPCA.Jeric": "I, uh... I'm sorry but it's a no.$s#$b#But hey, I'm flattered, though! Don't be a stranger.",
+"Romance.rejectNPCB.Jeric": "I, uh... I'm sorry but it's a no.$s#$b#But hey, I'm flattered, though! Don't be a stranger.",
+"Romance.MovieInvite.Spouse.Jeric": "Date night? Fantastic!$h#$b#I was considering getting the tickets myself, can't wait to spend more time with you, babe!$l",
+
+	//Kenneth
+"Romance.Engagement.Kenneth0": "@? Are you? Is that?$l#$b#This is surprising. I... I'm so happy, @.$l#$b#Yes. Yes of course I'll marry you, @. I love you.$l",
+"Romance.Engagement.Kenneth1": "You made me the happiest man in the world right now! I'm so excited!$h",
+"Romance.give.flowersA.Kenneth": "Nice set of flower there, @.$h#$b#Wait, isn't that.#$b#Whaatt?!$u#$b#@? Really?$l#$b#You really shocked me there! It's yes of course.$l#$b#I love you!$h#$e#I'm happy that you felt the same, @.$l",
+"Romance.give.flowersB.Kenneth": "Nice set of flower there, @.$h#$b#Wait, isn't that.#$b#Whaatt?!$u#$b#@? Really?$l#$b#You really shocked me there! It's yes of course.$l#$b#I love you!$h#$e#I'm happy that you felt the same, @.$l",
+"Romance.stardrop.gift.Kenneth": "Hey this might come off as cheesy but..$h#$b#You're the light of my life @. And you are amazing.$l#$b#I wanted to give you this as a symbol of my love. I hope you like it @. I love you.$h",
+"Romance.rejectNPCA.Kenneth": "Nope, Sorry I don't have time for those things @.#$b#I think I'm not cut out for that.$s",
+"Romance.rejectNPCB.Kenneth": "Nope, Sorry I don't have time for those things @.#$b#I think I'm not cut out for that.$s",
+"Romance.MovieInvite.Spouse.Kenneth": "Movie night? Now you're talking!$h#$b#I'd love to join you! Let's go!",
+
+	//Maddie
+"Romance.Engagement.Maddie0": "@! Now's not the time to play pranks on me!$a#$b#Wait... Are you serious?$l#$b#@! Is this real?$l#$b#@... I... I...#$b#Yes! Yes, I'll marry you! I really will!$l",
+"Romance.Engagement.Maddie1": "Sorry, I was so surprised!$l#$b#I'm so happy, @... So very happy!$l",
+"Romance.FemaleWeddingFix.MaleFarmer1.Maddie": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Maddie in the bonds of marriage.",
+"Romance.FemaleWeddingFix.MaleFarmer2.Maddie": "@... Maddie... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
+"Romance.FemaleWeddingFix.FemaleFarmer1.Maddie": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Maddie in the bonds of marriage.",
+"Romance.FemaleWeddingFix.FemaleFarmer2.Maddie": "@... Maddie... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",	
+"Romance.give.flowersA.Maddie": "Are you serious?$8#$b#I mean, uh... You're not pranking me?$l#$b#You'd really want me as your girlfriend?$9#$e#Well... I'd really like that.$8#$b#I guess I'm your girlfriend now? I guess it's really official!$h",
+"Romance.give.flowersB.Maddie": "Are you serious?$8#$b#I mean, uh... You're not pranking me?$l#$b#You'd really want me as your girlfriend?$9#$e#Well... I'd really like that.$8#$b#I guess I'm your girlfriend now? I guess it's really official!$h",
+"Romance.stardrop.gift.Maddie": "Hey, I'll only be this cheesy once so you better listen carefully.$l#$b#Take this gift, because you deserve it.$l#$b#You managed to make me love again. But more importantly...#$b#You made me love myself again.$l#$b#I love you so much, @.$h",
+"Romance.rejectNPCA.Maddie": "Uh, I don't think so.$u#$b#Trust me, it would be a waste of time for the both of us.$6",
+"Romance.rejectNPCB.Maddie": "Uh, I don't think so.$u#$b#Trust me, it would be a waste of time for the both of us.$6",
+"Romance.MovieInvite.Spouse.Maddie": "Aww, a movie date? I'd love to go to the movies with you!$9#$b#But PLEASE don't eat my snacks this time, okay?$6",
+
+	//Philip
+"Romance.Engagement.Philip0": "Hey, uhm, are you...?$u#$b#@? Are you really serious?$l#$b#Yes! A hundred percent yes!$h#$b#I love you, @!$l",
+"Romance.Engagement.Philip1": "I can't wait for our wedding, @!$h#$b#Oh wow! I'm so happy!$l",
+"Romance.give.flowersA.Philip": "Whoa, really!?$l#$b#Ha ha! You're just messing with me?$l#$b#You're not!?$l#$b#Oh my Yoba, isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!$h",
+"Romance.give.flowersB.Philip": "Whoa, really!?$l#$b#Ha ha! You're just messing with me?$l#$b#You're not!?$l#$b#Oh my Yoba, isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!$h",
+"Romance.stardrop.gift.Philip": "You know, I read about all those superheroes in the comics...$l#$b#But the only actual superhero in real life is you.$l#$b#So, here's a gift for the one and only Super-@. I hope you like it.$h#$b#You mean so much to me, I love you!$h",
+"Romance.rejectNPCA.Philip": "I don't think I like you like that, @.$s#$b#I hope I didn't give you the wrong idea or something. Again, I'm really sorry.$s",
+"Romance.rejectNPCB.Philip": "I don't think I like you like that, @.$s#$b#I hope I didn't give you the wrong idea or something. Again, I'm really sorry.$s",
+"Romance.MovieInvite.Spouse.Philip": "A movie? Great idea, honey!$h#$b#We should make a date night out of this!$l#$e#A dinner under the stars after the movie, maybe?$6",
+
+	//Shiro
+"Romance.shiro0": "What!?$u#$b#@!?$l#$b#Do you really want... me?$l#$b#Have you thought about this?$l#$b#Isn't my answer obvious? Of course I want to marry you, @!$l#$b#I love you so much, @!$l",
+"Romance.shiro1": "I'm so happy!$l#$b#I'm genuinely so happy right now, @. I can't wait to tell Yuuma.$h",
+"Romance.give.flowersA.Shiro": "@? What... Are you serious?$u#$b#Yeah, absolutely!$h#$b#I'll be honest, I was trying to get up the nerve to buy a bouquet for you.$l#$b#But I wasn't sure if you were just being really nice to me, or actually felt the same way...$l#$b#Oh man, my heart is pounding.$h",
+"Romance.give.flowersB.Shiro": "@? What... Are you serious?$u#$b#Yeah, absolutely!$h#$b#I'll be honest, I was trying to get up the nerve to buy a bouquet for you.$l#$b#But I wasn't sure if you were just being really nice to me, or actually felt the same way...$l#$b#Oh man, my heart is pounding.$h",
+"Romance.stardrop.gift.Shiro": "Hey, I have someting for you.$h#$b#I just want you to know how glad I am that you're mine. It makes everything worth it, really.$l#$b#I really love, you, @.$l",
+"Romance.rejectNPCA.Shiro": "Uh, no. Sorry.#$b#I mean, I really don't have the time, with everything going on, and I have to focus on Yuuma.#$b# So, yeah. Sorry.",
+"Romance.rejectNPCB.Shiro": "Uh, no. Sorry.#$b#I mean, I really don't have the time, with everything going on, and I have to focus on Yuuma.#$b# So, yeah. Sorry.",
+"Romance.MovieInvite.Spouse.Shiro": "Ah! A much needed break!$h#$b#I love you and your creative date ideas, @.$l",
+
+	//Ysabelle
+"Romance.Engagement.Ysabelle0": "@? Wait... Are you really proposing to me?$l#$b#@, @, @!$l#$b#I do! I do! I really do!$l#$b#I love you!$l",
+"Romance.Engagement.Ysabelle1": "I have to tell grandpa! I'm so happy!$l#$b#@, I love you so much!$l",
+"Romance.FemaleWeddingFix.MaleFarmer1.Ysabelle": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Ysabelle in the bonds of marriage.",
+"Romance.FemaleWeddingFix.MaleFarmer2.Ysabelle": "@... Ysabelle... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
+"Romance.FemaleWeddingFix.FemaleFarmer1.Ysabelle": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Ysabelle in the bonds of marriage.",
+"Romance.FemaleWeddingFix.FemaleFarmer2.Ysabelle": "@... Ysabelle... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",	
+"Romance.give.flowersA.Ysabelle": "Oh, oh my.$l#$b#You want me to be your girlfriend?$l#$b#I would love that. I would love to be your girlfriend!$h#$b#I thought you'd never ask!$h#$b#I can't believe this. I'm so happy.$h#$b#I should go tell Corine and Abigail!$h",
+"Romance.give.flowersB.Ysabelle": "Oh, oh my.$l#$b#You want me to be your girlfriend?$l#$b#I would love that. I would love to be your girlfriend!$h#$b#I thought you'd never ask!$h#$b#I can't believe this. I'm so happy.$h#$b#I should go tell Corine and Abigail!$h",
+"Romance.stardrop.gift.Ysabelle": "Darling, you're the most amazing person in the whole wide world. You're simply the best.$l#$b#You don't know how happy I am to be living a life with you in it.$l#$b#Here's a gift for you, baby. I hope it properly expresses the love I feel for you.$h#$b#I love you so much, @.$l",
+"Romance.rejectNPCA.Ysabelle": "Oh dear...$u#$b#I'm sorry but I have to reject your offer.$s#$b#I don't think we're meant for each other.@$s#$e#I hope you understand.$s#$b#I apologize if I have given you the wrong impression.$7",
+"Romance.rejectNPCB.Ysabelle": "Oh dear...$u#$b#I'm sorry but I have to reject your offer.$s#$b#I don't think we're meant for each other.@$s#$e#I hope you understand.$s#$b#I apologize if I have given you the wrong impression.$7",
+"Romance.MovieInvite.Spouse.Ysabelle": "A movie date, mon amour? I'd love to go to the movies with you!$l#$b#I love movies and I love you, ha ha!$h",
+
 
 }
 
