@@ -294,21 +294,10 @@
         		{ "Position": { "X": 46, "Y": 38 },
             "Layer": "Buildings",
         	"SetProperties": {
-            	"Action": "Garbage Can Jeric"    
-			},
-        },    
-    ],
-			
+            	"Action": "Garbage Jeric"    
+				},
+    	    },    
+	    ],
 	},
-	{
-         "Action": "EditMap",
-         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-         "When": { "HasMod |contains=furyx639.GarbageDay": true },
-         	"MapProperties":
-         	{
-            "GarbageDay": "true"
-         	},
-    },
-
 ]
 }
