@@ -293,12 +293,12 @@
         	"MapTiles": [
         		{ "Position": { "X": 46, "Y": 38 },
             "Layer": "Buildings",
-        		},    
-    ],
-			"SetProperties":
-			{
+        	"SetProperties": {
             	"Action": "Garbage Can Jeric"    
 			},
+        },    
+    ],
+			
 	},
 	{
          "Action": "EditMap",
