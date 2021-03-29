@@ -282,5 +282,33 @@
 		"When": { "HasMod: |contains=flashshifter.immersivefarm2remastered": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
 	},	
 
+	/*********
+	** Garbage Day
+	*********/
+    {
+    	"LogName": "Jeric's Garbage Can",
+        "Action": "EditMap",
+        "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+        "When": { "HasMod |contains=furyx639.GarbageDay": true },
+        	"MapTiles": [
+        		{ "Position": { "X": 46, "Y": 38 },
+            "Layer": "Buildings",
+        		},    
+    ],
+			"SetProperties":
+			{
+            	"Action": "Garbage Can Jeric"    
+			},
+	},
+	{
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+         "When": { "HasMod |contains=furyx639.GarbageDay": true },
+         	"MapProperties":
+         	{
+            "GarbageDay": "true"
+         	},
+    },
+
 ]
 }
