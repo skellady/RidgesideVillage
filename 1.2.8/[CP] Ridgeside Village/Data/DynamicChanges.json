@@ -58,6 +58,23 @@
 		},
 	},
 
+		/*********
+		** Seasonal Portraits
+		*********/	
+		{
+            "LogName": "Alissa - Fall",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When":
+            {
+                "Season": "fall",
+            },
+            "Update": "OnLocationChange"			
+		},
+
+
 	/*********
 	** Sprite Changes
 	*********/	
