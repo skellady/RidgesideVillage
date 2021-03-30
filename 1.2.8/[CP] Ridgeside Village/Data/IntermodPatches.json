@@ -286,7 +286,7 @@
 	** Garbage Day
 	*********/
     {
-    	"LogName": "Jeric's Garbage Can",
+    	"LogName": "Jeric's Garbage Can with GD",
         "Action": "EditMap",
         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
         "When": { "HasMod |contains=furyx639.GarbageDay": true },
@@ -296,7 +296,7 @@
         	"SetProperties": {
             	"Action": "Garbage Jeric"    
 				},
-    	    },    
+    	    },   
 	    ],
 	},
 ]
