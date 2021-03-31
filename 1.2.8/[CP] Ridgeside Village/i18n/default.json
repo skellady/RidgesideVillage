@@ -3060,65 +3060,65 @@
 "MovieData.Aguar.WinterMovie0.Like.AfterMovie": "That was really good. Thank you @ $h",
 			
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
-"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "Hey! A movie about other places? Woah!$h",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "Oh boy! I wish I could visit those places someday.$h",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "Those places seem fun to visit. I'll save up for the trip one day.$h",
 			
 			//Wumbus (SCI-FI) (COMEDY)
-"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "What is a wumbus? I wanna find out!$h",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "Woah! That's so cool! Look at those!$h",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "That was a good movie! I had fun!$h",
 
 			//Howls in the Rain (HORROR)
-"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "A horror movie? Oh no..$s",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "WAAH! Oh boy..$u",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "Ehh.. I think I won't be able to sleep tonight..$s",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
-"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "I think I've heard about this from my aunt before.$h",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "This is so.. Aww..$l",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "I wish to see a part two! I can't wait!$h",
 
 	//Jeric
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
-"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie0.Like.BeforeMovie": "A kid's movie huh? I mean why not?",
+"MovieData.Aguar.SpringMovie0.Like.DuringMovie": "Ehhh.. This is fun? I guess?",
+"MovieData.Aguar.SpringMovie0.Like.AfterMovie": "It was okay I guess. Thanks for the invitation though.",
 			
 			//Journey of the Praire King (VIDEOGAME)
-"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie0.Dislike.BeforeMovie": "I'm familiar with the game. It's a surprise to see it as a movie though.",
+"MovieData.Aguar.SummerMovie0.Dislike.DuringMovie": "I didn't expect it to be this cool! Awesome!$h",
+"MovieData.Aguar.SummerMovie0.Dislike.AfterMovie": "That was a good movie, nice pick @.$h",
 			
 			//Mysterium (MINDFUCK) (MYSTERY)
-"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie0.Like.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie0.Like.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie0.Like.BeforeMovie": "This can be fun, haha.$h",
+"MovieData.Aguar.FallMovie0.Like.DuringMovie": "Oh! Called it!$h",
+"MovieData.Aguar.FallMovie0.Like.AfterMovie": "That was a good one! The twist was great too.$h",
 			
 			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
-"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie0.Like.BeforeMovie": "Hey, if you ever cry in there, I'll be there to wipe your tears okay?$h",
+"MovieData.Aguar.WinterMovie0.Like.DuringMovie": "%Jeric is crying hard.",
+"MovieData.Aguar.WinterMovie0.Like.AfterMovie": "I didn't cry! There were just some dust in my eyes!$a#$b#Oh okay I admit, I got hooked with the story.$h",
 			
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
-"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SpringMovie1.Dislike.BeforeMovie": "I've been to many places before. I look forward to this film.",
+"MovieData.Aguar.SpringMovie1.Dislike.DuringMovie": "Hey! I've seen those in some posters as well! Woah! That's a huge place!$h",
+"MovieData.Aguar.SpringMovie1.Dislike.AfterMovie": "That inspired me to visit those places someday. Wanna come with too?$h",
 			
 			//Wumbus (SCI-FI) (COMEDY)
-"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.SummerMovie1.Love.BeforeMovie": "A sci-fi comedy huh? This is new.$h",
+"MovieData.Aguar.SummerMovie1.Love.DuringMovie": "Hehe good one. Hey this is a cool film.$h",
+"MovieData.Aguar.SummerMovie1.Love.AfterMovie": "I had a good time @. Thanks for inviting me.$h",
 
 			//Howls in the Rain (HORROR)
-"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie1.Like.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.FallMovie1.Like.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.FallMovie1.Like.BeforeMovie": "Hey if you ever feel scared, Don't hesitate to come closer to me okay?$l#$b#Hehe just kidding.$h",
+"MovieData.Aguar.FallMovie1.Like.DuringMovie": "OHHH NO NO!$u#$b#YIKES!$u",
+"MovieData.Aguar.FallMovie1.Like.AfterMovie": "EHHRR EHEM.$u#$b#I managed to watch through it!$u#$b#Phew!$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
-"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "PLACEHOLDER",
-"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "PLACEHOLDER",
+"MovieData.Aguar.WinterMovie1.Love.BeforeMovie": "Hey I've been looking forward to watch this remake.$h",
+"MovieData.Aguar.WinterMovie1.Love.DuringMovie": "%Jeric held your hand",
+"MovieData.Aguar.WinterMovie1.Love.AfterMovie": "Ah! I loved that film! Thanks for tagging me along @.$h",
 
 	//Jio
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
