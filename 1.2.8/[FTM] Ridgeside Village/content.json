@@ -1241,6 +1241,123 @@
             }
           },    
         ],
+        "UniqueAreaID": "RSV RidgeForest Monsters Q4",
+        "MapName": "Custom_Ridgeside_RidgeForestQ4",
+        "MinimumSpawnsPerDay": 95,
+        "MaximumSpawnsPerDay": 95,
+        "IncludeTerrainTypes": [
+          "All"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 2600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": 95,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+     {
+        "MonsterTypes": [
+          {
+            "MonsterName": "shadow brute",
+            "Settings": {
+              "SpawnWeight": 3,
+              "HP": 1000,
+              "Damage": 40,
+              "DodgeChance": 10,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/RSVBeast1",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "shadow brute",
+            "Settings": {
+              "SpawnWeight": 3,
+              "HP": 1550,
+              "Damage": 55,
+              "DodgeChance": 10,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/RSVBeast2",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "shadow brute",
+            "Settings": {
+              "SpawnWeight": 2,
+              "HP": 2000,
+              "Damage": 75,
+              "DodgeChance": 10,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/RSVBeast3",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "wilderness golem",
+            "Settings": {
+              "SpawnWeight": 1,
+              "RelatedSkill": "Combat",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "ghost",
+            "Settings": {
+              "SpawnWeight": 3,
+              "HP": 100,
+              "Damage": 30,
+              "DodgeChance": 30,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/RSVCorruptSpirit",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "ghost",
+            "Settings": {
+              "SpawnWeight": 2,
+              "RelatedSkill": "Combat",
+              "Loot": [
+                "Spiritual Essence"
+              ]
+            }
+          },
+          {
+            "MonsterName": "green slime",
+            "Settings": {
+              "SpawnWeight": 5,
+              "RelatedSkill": "Combat"
+            }
+          },    
+        ],      
         "UniqueAreaID": "RSV Jeric's Chickens",
         "MapName": "Custom_Ridgeside_RidgesideVillage",
         "MinimumSpawnsPerDay": 85,
@@ -1289,41 +1406,7 @@
             }
           },          
         ],
-
-        "UniqueAreaID": "RSV RidgeForest Monsters Q4",
-        "MapName": "Custom_Ridgeside_RidgeForestQ4",
-        "MinimumSpawnsPerDay": 95,
-        "MaximumSpawnsPerDay": 95,
-        "IncludeTerrainTypes": [
-          "All"
-        ],
-        "ExcludeTerrainTypes": [],
-        "IncludeCoordinates": [],
-        "ExcludeCoordinates": [],
-        "StrictTileChecking": "Maximum",
-        "SpawnTiming": {
-          "StartTime": 600,
-          "EndTime": 2600,
-          "MinimumTimeBetweenSpawns": 10,
-          "MaximumSimultaneousSpawns": 95,
-          "OnlySpawnIfAPlayerIsPresent": false,
-          "SpawnSound": ""
-        },
-        "ExtraConditions": {
-          "Years": [],
-          "Seasons": [],
-          "Days": [],
-          "WeatherYesterday": [],
-          "WeatherToday": [],
-          "WeatherTomorrow": [],
-          "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
-        },
-        "DaysUntilSpawnsExpire": null
-      }
-    ],
-    "CustomTileIndex": []
-  },
+    "CustomTileIndex": [],
   "QuarryTileIndex": [
     556,
     558,
@@ -1343,5 +1426,8 @@
     "FarmerNames": [],
     "SaveFileNames": [],
     "OtherMods": {}
-  }
+},    
+},
+]
+},
 }
