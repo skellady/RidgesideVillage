@@ -1239,12 +1239,17 @@
               "SpawnWeight": 5,
               "RelatedSkill": "Combat"
             }
+<<<<<<< HEAD
           },    
+=======
+          }
+>>>>>>> parent of 967763f (Moviedata + Jeric's REAL chickens)
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q4",
         "MapName": "Custom_Ridgeside_RidgeForestQ4",
         "MinimumSpawnsPerDay": 95,
         "MaximumSpawnsPerDay": 95,
+<<<<<<< HEAD
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1362,6 +1367,8 @@
         "MapName": "Custom_Ridgeside_RidgesideVillage",
         "MinimumSpawnsPerDay": 85,
         "MaximumSpawnsPerDay": 85,
+=======
+>>>>>>> parent of 967763f (Moviedata + Jeric's REAL chickens)
         "IncludeTerrainTypes": [
           "All"
         ],

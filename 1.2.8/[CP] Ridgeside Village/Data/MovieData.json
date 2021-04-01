@@ -2014,17 +2014,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey this looks cool!"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I wonder if I can climb up a tree later.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I have been inspired to climb up a tree. I shall see you later as I'm on top of the clouds @.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2038,17 +2038,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "WOAH! IT'S THE VIDEOGAME MOVIE!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "GO GET EM!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "IMMA BE THE PRAIRE KING NOW! BOW DOWN TO ME!$h"
                 }
               },
               "ID": "reaction_1"
@@ -2062,17 +2062,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Huh? What's this movie @? Is it any good?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Keahi is not paying attention to the movie."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
                 }
               },
               "ID": "reaction_2"
@@ -2086,17 +2086,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Huh? What's this movie @? Is it any good?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Keahi is not paying attention to the movie."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
                 }
               },
               "ID": "reaction_3"
@@ -2110,17 +2110,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Huh? What's this movie @? Is it any good?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Keahi is not paying attention to the movie."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
                 }
               },
               "ID": "reaction_4"
@@ -2134,17 +2134,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Oh hey! That little wumbus thingy looks cool!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Woah this is cool!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I'M GONNA BE A WUMBUS! WOLOLOLOLO!$h"
                 }
               },
               "ID": "reaction_5"
@@ -2158,17 +2158,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "A horror movie? UH OH.$u"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Keahi has put a blindfold on."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I got scared just from the sounds. That was too scary.$u"
                 }
               },
               "ID": "reaction_6"
@@ -2182,17 +2182,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Huh? What's this movie @? Is it any good?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Keahi is not paying attention to the movie."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
                 }
               },
               "ID": "reaction_7"
@@ -2212,17 +2212,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Animated!? Woah! That's innovative!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "The animation is decent. I wonder how they did it?"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I had a good time! What? The story? Oh, I'm sorry I didn't notice.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2236,17 +2236,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I've been playing this game since I was a kid. It's refreshing to see it becoming a film."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I'm glad they stayed faithful as much as they can.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "This was a fun time @. Thanks!$h"
                 }
               },
               "ID": "reaction_1"
@@ -2260,17 +2260,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Ready to go in the theatre? I am.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Oh, so he was that...$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "That was a good film. Glad I tagged along with you @. Thanks.$h"
                 }
               },
               "ID": "reaction_2"
@@ -2284,17 +2284,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Family movie huh? I think I can get aboard with this."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I think they're trying too hard to make you cry. Or is it just me?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I didn't really like it that much. But thank you for inviting me though.$h"
                 }
               },
               "ID": "reaction_3"
@@ -2308,17 +2308,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "This is a good use of film. It's like a little vacation or tour.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I've been wanting to visit that place. This was a nice virtual tour."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I had a fun time @. Thanks for having me.$h"
                 }
               },
               "ID": "reaction_4"
@@ -2332,17 +2332,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "I'm excited for this one! I read about the special effects they used for this!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "%Kenneth seems to be really enjoying the movie."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "That was awesome! Thank you for inviting me @!$h"
                 }
               },
               "ID": "reaction_5"
@@ -2356,17 +2356,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "A horror flick? This is exciting.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Woah, that's some nice use of special effects.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "That was great! The effects were well done! Huh? The story? OH! Right, uhm, it's fine I guess.$h"
                 }
               },
               "ID": "reaction_6"
@@ -2380,17 +2380,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Romance movie? Hmm, I think this one's soundtrack was praised.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Uhm. It's kind of too cheesy?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "Hey atleast the soundtrack was good. I'm sorry but I'm not really a fan with romance tales.$s"
                 }
               },
               "ID": "reaction_7"
