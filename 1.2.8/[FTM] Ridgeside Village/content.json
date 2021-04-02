@@ -1289,6 +1289,51 @@
               ]
             }
           },
+          {
+            "MonsterName": "metal head",
+            "Settings": {
+              "SpawnWeight": 10,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/ChickBrownBig",
+              "Loot": [
+                "Bone Fragment"
+              ]
+            }
+          },
+          {
+            "MonsterName": "metal head",
+            "Settings": {
+              "SpawnWeight": 5,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/ChickWhiteSmall",
+              "Loot": [
+                "Bone Fragment"
+              ]
+            }
+          },
+          {
+            "MonsterName": "metal head",
+            "Settings": {
+              "SpawnWeight": 5,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/ChickBrownSmall",
+              "Loot": [
+                "Bone Fragment"
+              ]
+            }
+          },                                        
         ],
         "UniqueAreaID": "Jeric's Chickens",
         "MapName": "Custom_Ridgeside_RidgesideVillage",
