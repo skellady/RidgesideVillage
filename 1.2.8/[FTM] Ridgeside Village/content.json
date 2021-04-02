@@ -1275,7 +1275,7 @@
       {
         "MonsterTypes": [
           {
-            "MonsterName": "shadow brute",
+            "MonsterName": "metal head",
             "Settings": {
               "SpawnWeight": 10,
               "HP": 100000,
@@ -1298,7 +1298,7 @@
           "All"
         ],
         "ExcludeTerrainTypes": [],
-        "IncludeCoordinates": ["21,37/40,42"],
+        "IncludeCoordinates": [ "21,37/40,42" ],
         "ExcludeCoordinates": [],
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
