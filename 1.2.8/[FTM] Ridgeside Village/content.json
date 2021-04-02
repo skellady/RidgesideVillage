@@ -1294,9 +1294,7 @@
         "MapName": "Custom_Ridgeside_RidgesideVillage",
         "MinimumSpawnsPerDay": 95,
         "MaximumSpawnsPerDay": 95,
-        "IncludeTerrainTypes": [
-          "All"
-        ],
+        "IncludeTerrainTypes": [],
         "ExcludeTerrainTypes": [],
         "IncludeCoordinates": [ "21,37/40,42" ],
         "ExcludeCoordinates": [],
