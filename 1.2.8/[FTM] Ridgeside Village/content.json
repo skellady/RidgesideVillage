@@ -1277,14 +1277,15 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
-              "HP": 10000,
-              "Damage": 1,
-              "DodgeChance": 10,
+              "SpawnWeight": 10,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/ChickWhiteBig",
               "Loot": [
-                "Spiritual Essence"
+                "Bone Fragment"
               ]
             }
           },
@@ -1297,7 +1298,7 @@
           "All"
         ],
         "ExcludeTerrainTypes": [],
-        "IncludeCoordinates": [],
+        "IncludeCoordinates": ["21,37/40,42"],
         "ExcludeCoordinates": [],
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
