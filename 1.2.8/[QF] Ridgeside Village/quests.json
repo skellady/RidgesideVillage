@@ -909,11 +909,11 @@
 "CustomBoards": [
 
 	{
-    "BoardName": "RSVQuestBoard",
+   	"BoardName": "RSVQuestBoard",
     "BoardType": "Quests",
     "Location": "Custom_Ridgeside_RidgesideVillage",
-    "Tile": "114,46",
-    "IndicatorOffset": "10,-19",
+    "Tile": "109,40",
+    "IndicatorOffset": "10,-20",
     "Texture": "LooseSprites/RSVQuestBoard"
     },
 	{
