@@ -797,17 +797,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SpringMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SpringMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SpringMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -821,17 +821,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -845,17 +845,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -869,17 +869,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -893,17 +893,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -917,17 +917,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -941,17 +941,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -965,17 +965,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Corine.WinterMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -995,17 +995,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -1019,17 +1019,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -1043,17 +1043,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -1067,17 +1067,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -1091,17 +1091,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SpringMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -1115,17 +1115,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.SummerMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -1139,17 +1139,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -1163,17 +1163,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ezekiel.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -1193,17 +1193,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -1217,17 +1217,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -1241,17 +1241,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -1265,17 +1265,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -1289,17 +1289,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -1313,17 +1313,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -1337,17 +1337,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -1361,17 +1361,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Flor.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -1391,17 +1391,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -1415,17 +1415,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -1439,17 +1439,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -1463,17 +1463,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -1487,17 +1487,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SpringMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -1511,17 +1511,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -1535,17 +1535,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -1559,17 +1559,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Freddie.WinterMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -1589,17 +1589,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -1613,17 +1613,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -1637,17 +1637,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -1661,17 +1661,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -1685,17 +1685,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SpringMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -1709,17 +1709,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -1733,17 +1733,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -1757,17 +1757,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ian.WinterMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -1787,17 +1787,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -1811,17 +1811,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -1835,17 +1835,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -1859,17 +1859,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -1883,17 +1883,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -1907,17 +1907,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -1931,17 +1931,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -1955,17 +1955,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": ""
+                  "Text": "{{i18n:MovieData.Jeric.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -2014,17 +2014,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -2038,17 +2038,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -2062,17 +2062,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -2086,17 +2086,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -2110,17 +2110,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -2134,17 +2134,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -2158,17 +2158,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -2182,17 +2182,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Keahi.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -2212,17 +2212,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -2236,17 +2236,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -2260,17 +2260,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -2284,17 +2284,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -2308,17 +2308,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -2332,17 +2332,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -2356,17 +2356,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -2380,17 +2380,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Kenneth.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -2439,17 +2439,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -2463,17 +2463,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -2487,17 +2487,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -2511,17 +2511,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -2535,17 +2535,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -2559,17 +2559,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -2583,17 +2583,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -2607,17 +2607,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lenny.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -2637,17 +2637,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -2661,17 +2661,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -2685,17 +2685,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -2709,17 +2709,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -2733,17 +2733,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -2757,17 +2757,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -2781,17 +2781,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -2805,17 +2805,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Lola.WinterMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -2835,17 +2835,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -2859,17 +2859,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -2883,17 +2883,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -2907,17 +2907,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -2931,17 +2931,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -2955,17 +2955,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -2979,17 +2979,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3003,17 +3003,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Maddie.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -3033,17 +3033,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -3057,17 +3057,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -3081,17 +3081,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -3105,17 +3105,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Aguar.WinterMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -3129,17 +3129,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -3153,17 +3153,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -3177,17 +3177,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3201,17 +3201,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -3231,17 +3231,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -3255,17 +3255,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -3279,17 +3279,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -3303,17 +3303,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -3327,17 +3327,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -3351,17 +3351,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -3375,17 +3375,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3399,17 +3399,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Olga.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -3429,17 +3429,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -3453,17 +3453,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -3477,17 +3477,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -3501,17 +3501,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -3525,17 +3525,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SpringMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -3549,17 +3549,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -3573,17 +3573,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3597,17 +3597,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Pika.WinterMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -3627,17 +3627,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -3651,17 +3651,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -3675,17 +3675,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -3699,17 +3699,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -3723,17 +3723,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -3747,17 +3747,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.SummerMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -3771,17 +3771,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3795,17 +3795,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Richard.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -3825,17 +3825,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -3849,17 +3849,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -3873,17 +3873,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -3897,17 +3897,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -3921,17 +3921,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SpringMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -3945,17 +3945,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -3969,17 +3969,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -3993,17 +3993,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Shiro.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -4023,17 +4023,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -4047,17 +4047,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -4071,17 +4071,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -4095,17 +4095,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -4119,17 +4119,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -4143,17 +4143,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -4167,17 +4167,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.FallMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -4191,17 +4191,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Trinnie.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -4221,17 +4221,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -4245,17 +4245,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie0.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie0.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie0.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -4269,17 +4269,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -4293,17 +4293,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -4317,17 +4317,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -4341,17 +4341,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.SummerMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -4365,17 +4365,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.FallMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -4389,17 +4389,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Ysabelle.WinterMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
@@ -4419,17 +4419,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_0"
@@ -4443,17 +4443,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_1"
@@ -4467,17 +4467,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie0.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie0.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie0.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_2"
@@ -4491,17 +4491,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie0.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie0.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_3"
@@ -4515,17 +4515,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SpringMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_4"
@@ -4539,17 +4539,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie1.Love.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.SummerMovie1.Love.AfterMovie}}"
                 }
               },
               "ID": "reaction_5"
@@ -4563,17 +4563,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie1.Like.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie1.Like.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.FallMovie1.Like.AfterMovie}}"
                 }
               },
               "ID": "reaction_6"
@@ -4587,17 +4587,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie1.Dislike.BeforeMovie}}"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie1.Dislike.DuringMovie}}"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "{{i18n:PLACEHOLDER}}"
+                  "Text": "{{i18n:MovieData.Yuuma.WinterMovie1.Dislike.AfterMovie}}"
                 }
               },
               "ID": "reaction_7"
