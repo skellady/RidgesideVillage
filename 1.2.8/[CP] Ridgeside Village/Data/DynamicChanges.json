@@ -267,6 +267,10 @@
 		"Update": "OnLocationChange, OnTimeChange"
 	},
 
+	/*********
+	** NPC Dynamics
+	*********/
+
 //Undreya dynamics
 		//DISPOSITIONS
 		{
@@ -323,6 +327,22 @@
 			}
 		},
 			
+	/*********
+	** MapString Changes
+	*********/
+
+	{
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+	    "When": { "Season": "winter", },
+		"Entries": {
+				"rsv.23": "{{i18n:MapString.rsv.52}}",
+				},
+	},
+
+	/*********
+	** Event Changes
+	*********/
 	
 ]
 }
