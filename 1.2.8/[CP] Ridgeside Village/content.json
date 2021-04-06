@@ -17,7 +17,7 @@
 			"Description": "{{i18n:Config2}}"
 		},
 		
-		"EnableVillageMusic": {
+		"EnableRidgesideMusic": {
 			"AllowValues": "true, false",
 			"Default": "true",
 			"Description": "{{i18n:Config3}}"

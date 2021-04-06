@@ -13,7 +13,7 @@
 			"Action": "EditData",
 			"Target": "Data/Events/Custom_Ridgeside_RSVCliff",
 			"Entries": {
-				"75160060": "null",
+				"75160060": null
 			},
 			"When": {
 				"RepeatCableCarCutscene": "false"
@@ -21,48 +21,12 @@
 		},
 
 	/*********
-	** Music Config Changes
+	** Music Config Change
 	*********/
-		{
-			"LogName": "Ridgeside Village Music",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-			"MapProperties": {
-				"Music": "cm:FallInRidgeside"
-				},
-			"When": {
-				"Weather": "Sun",
-				"Time": "{{Range: 0600, 1900}}",
-				"EnableVillageMusic": true
-				},
-			"Update": "OnLocationChange"
-		},
-		{
-			"LogName": "Ridgeside Village Music No Sun",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-			"MapProperties": {
-				"Music": null
-				},
-			"When": {
-				"Weather: |contains=Sun": false,
-				"EnableVillageMusic": true
-				},
-			"Update": "OnLocationChange"
-		},
-		{
-			"LogName": "Ridgeside Village Music Night",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-			"MapProperties": {
-				"Music": null
-				},
-			"When": {
-				"Time": "{{Range: 1900, 2600}}",
-				"EnableVillageMusic": true
-				},
-			"Update": "OnLocationChange"
-		},
+		/*********
+		** Ridgeside Village
+		*********/		
+
 		{
 			"LogName": "Ridgeside Village Music Off",
 			"Action": "EditMap",
@@ -71,7 +35,22 @@
 				"Music": null
 				},
 			"When": {
-				"EnableVillageMusic": false
+				"EnableRidgesideMusic": false
+				}
+		},
+
+		/*********
+		** Aguar's Lab
+		*********/	
+		{
+			"LogName": "Ridgeside Village Music Off",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_AguarLab",
+			"MapProperties": {
+				"Music": null
+				},
+			"When": {
+				"EnableRidgesideMusic": false
 				}
 		},
 
