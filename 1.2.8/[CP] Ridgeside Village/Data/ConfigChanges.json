@@ -15,13 +15,13 @@
 			"Entries": {
 				"75160060": null,
 				"75160175": null,
-				"75160176": null
+				"75160176": null,
 			},
 			"When": {
-				"RepeatCableCarCutscene": "false"
+				"RepeatCableCarCutscene": false
 			}
 		},
-
+		
 	/*********
 	** Music Config Change
 	*********/

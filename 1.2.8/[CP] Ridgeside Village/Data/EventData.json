@@ -24,6 +24,7 @@
 		//Cable Car
 		"Action": "EditData",
 		"Target": "Data/Events/Custom_Ridgeside_RSVCliff",
+		"When": { "RepeatCableCarCutscene": true },
 		"Entries": {
 
 			//Alone
