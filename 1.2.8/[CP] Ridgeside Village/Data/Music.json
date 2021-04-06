@@ -30,7 +30,7 @@
 			"Action": "EditMap",
 			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
 			"MapProperties": {
-				"Music": "{{summer1, summer2, summer3}}"
+				"Music": "{{Random:summer1, summer2, summer3}}"
 				},
 			"When": {
 				"Weather": "Sun",
@@ -60,7 +60,7 @@
 			"Action": "EditMap",
 			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
 			"MapProperties": {
-				"Music": "{{winter1, winter2, winter3}}"
+				"Music": "{{Random:winter1, winter2, winter3}}"
 				},
 			"When": {
 				"Weather": "Sun",
