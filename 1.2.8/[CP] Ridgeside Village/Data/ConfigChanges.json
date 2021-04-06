@@ -54,6 +54,21 @@
 				}
 		},
 
+		/*********
+		** Aguar's Basement
+		*********/	
+		{
+			"LogName": "Ridgeside Village Music Off",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_AguarBasement",
+			"MapProperties": {
+				"Music": null
+				},
+			"When": {
+				"EnableRidgesideMusic": false
+				}
+		},		
+
 	/*********
 	** Sprites Config Changes
 	*********/

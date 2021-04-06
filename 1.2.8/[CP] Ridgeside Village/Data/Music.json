@@ -1,24 +1,136 @@
 {
 "Changes": [
-	
-	{
-		//Mail Letters
-		"LogName": "Mail Letters",
-		"Action": "EditData",
-		"Target": "Data/mail",
-		"Entries": {
-			"AlissaLetter": "{{i18n:Mail.AlissaLetter}}",
-			"AlissaPerform": "{{i18n:Mail.AlissaPerform}}",
-			"FlorLetter": "{{i18n:Mail.FlorLetter}}",
-			"MaddieLetter": "{{i18n:Mail.MaddieLetter}}",
-			"MaddieDate": "{{i18n:Mail.MaddieDate}}",
-			"JericLetter": "{{i18n:Mail.JericLetter}}",
-			"GH1Letter": "{{i18n:Mail.GH1Letter}}",
-			"EmberNightInvitation": "{{i18n:Mail.EmberNightInvitation}}",
-            "GatheringInvitation": "{{i18n:Mail.GatheringInvitation}}",
-		},
-	},
 
+	/*********
+	** Music Enabled
+	*********/
+
+		/*********
+		** Ridgeside Village
+		*********/		
+
+	//Seasonal
+		{
+			"LogName": "Ridgeside Village Music Spring",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": "{{Random:spring1, spring2, spring3}}"
+				},
+			"When": {
+				"Weather": "Sun",
+        		"Season": "spring",
+				"Time": "{{Range: 0600, 1900}}",
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},
+		{
+			"LogName": "Ridgeside Village Music Summer",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": "{{summer1, summer2, summer3}}"
+				},
+			"When": {
+				"Weather": "Sun",
+        		"Season": "summer",				
+				"Time": "{{Range: 0600, 1900}}",
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},
+		{
+			"LogName": "Ridgeside Village Music Fall",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": "{{Random:cm:FallInRidgeside, fall1, fall2, fall3}}"
+				},
+			"When": {
+				"Weather": "Sun",
+        		"Season": "fall",				
+				"Time": "{{Range: 0600, 1900}}",
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},	
+		{
+			"LogName": "Ridgeside Village Music Winter",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": "{{winter1, winter2, winter3}}"
+				},
+			"When": {
+				"Weather": "Sun",
+        		"Season": "winter",				
+				"Time": "{{Range: 0600, 1900}}",
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},							
+	
+	//Without Sun		
+		{
+			"LogName": "Ridgeside Village Music No Sun",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": null
+				},
+			"When": {
+				"Weather: |contains=Sun": false,
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},
+	//At Night		
+		{
+			"LogName": "Ridgeside Village Music Night",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"MapProperties": {
+				"Music": null
+				},
+			"When": {
+				"Time": "{{Range: 1900, 2600}}",
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},
+
+		/*********
+		** Aguar's Lab
+		*********/	
+		{
+			"LogName": "Aguar's Lab Music",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_AguarLab",
+			"MapProperties": {
+				"Music": "WizardSong"
+				},
+			"When": {
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},		
+
+		/*********
+		** Aguar's Basement
+		*********/	
+		{
+			"LogName": "Aguar's Basement Music",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_AguarBasement",
+			"MapProperties": {
+				"Music": "WizardSong"
+				},
+			"When": {
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},		
 	
 ]
 }
