@@ -2334,7 +2334,7 @@
 "event-75160110.10": "That boy is always so busy$s#$b#I have never seen him play with the other kids too.#$b#He comes around here every week to buy groceries.#$b#I wonder what's up with the kid?",
 
 //Yuuma looks at kids playing (Yumuma 4 hearts)
-"event-75160111.01": "Oh hey there @.#$b#I'm sorry but I have to get going now.#$b#I have to go pickup my brother's medicines at the clinic.",
+"event-75160111.01": "Oh hey there @.#$b#I'm sorry but I have to get going now.#$b#I have to go pickup my brother's medicine at the clinic.",
 "event-75160111.02": "Oh? Them? They're just playing.#$b#Why won't I join? uhmm..$s#$b#I mean.. I have stuff to do. So.. Uhmm$s",
 "event-75160111.03": "I better get going @. I have to hurry back to my brother.$s",
 
@@ -2384,26 +2384,88 @@
 
 //Quest Events
 	//MineCart Plot Unlock
-"QuestEvent.MineCart.PlotUnlock.01": "Oh, good to see you, @.$h#$b#It's such a lovely day today, isn't it?",
-"QuestEvent.MineCart.PlotUnlock.02": "Oh, I'm guessing you're wondering what that is?#$b#Well, it's an old minecart system that connects Pelican Town to Ridgeside Village!#$b#It's been neglected for a while now.#$b#This was meant to be used in case of an emergency.$s#$b#You know... In case the war reached the shores of the Valley.$s#$b#As things stand though, it's just rusting slowly but surely.#$b#Not to mention we lack the funding and supplies to fix it.",
-"QuestEvent.MineCart.PlotUnlock.03": "Let's get closer, shall we?",
-"QuestEvent.MineCart.PlotUnlock.04": "Hmmm...$s#$b#I wonder...$s",
-"QuestEvent.MineCart.PlotUnlock.05": "Say, @? How about we make this our pet project?$h#$b#We can restore the minecart system together!#$b#I mean... right now it's just a waste of space.$s#$b#It's free real estate!$4#$b#It can also serve as a faster method of transportation for you and the villagers.$h#$b#Well, that's if you have the guts to sit inside the rickety old cart, ha!$4#$b#Kidding, kidding!$h",
-"QuestEvent.MineCart.PlotUnlock.06": "Okay! This is what we should do...",
-"QuestEvent.MineCart.PlotUnlock.07": "I'll give you a list of materials. You gather these materials and give them to me.#$b#I'll hire some contractors to fix it up and handle the paperwork.#$b#Deal?$h#$b#Perhaps we'll even save some money if we do this efficiently!$h",
-"QuestEvent.MineCart.PlotUnlock.08": "Excellent!$h#$b#I'll send you the details by mail tomorrow morning!$h#$b#Pleasure doing business with ya, @!$h#$b#I'm looking forward to the Minecart Restoration Project.$h",
+"QuestEvent.75160189.01": "Oh, good to see you, @.$h#$b#It's such a lovely day today, isn't it?",
+"QuestEvent.75160189.02": "Oh, I'm guessing you're wondering what that is?#$b#Well, it's an old minecart system that connects Pelican Town to Ridgeside Village!#$b#It's been neglected for a while now.#$b#This was meant to be used in case of an emergency.$s#$b#You know... In case the war reached the shores of the Valley.$s#$b#As things stand though, it's just rusting slowly but surely.#$b#Not to mention we lack the funding and supplies to fix it.",
+"QuestEvent.75160189.03": "Let's get closer, shall we?",
+"QuestEvent.75160189.04": "Hmmm...$s#$b#I wonder...$s",
+"QuestEvent.75160189.05": "Say, @? How about we make this our pet project?$h#$b#We can restore the minecart system together!#$b#I mean... right now it's just a waste of space.$s#$b#It's free real estate!$4#$b#It can also serve as a faster method of transportation for you and the villagers.$h#$b#Well, that's if you have the guts to sit inside the rickety old cart, ha!$4#$b#Kidding, kidding!$h",
+"QuestEvent.75160189.06": "Okay! This is what we should do...",
+"QuestEvent.75160189.07": "I'll give you a list of materials. You gather these materials and give them to me.#$b#I'll hire some contractors to fix it up and handle the paperwork.#$b#Deal?$h#$b#Perhaps we'll even save some money if we do this efficiently!$h",
+"QuestEvent.75160189.08": "Excellent!$h#$b#I'll send you the details by mail tomorrow morning!$h#$b#Pleasure doing business with ya, @!$h#$b#I'm looking forward to the Minecart Restoration Project.$h",
 
 	//MineCart Restored
-"QuestEvent.MineCart.Restored.01": "I think we're all done!$h#$b#Good job, everyone!$h",
-"QuestEvent.MineCart.Restored.02": "Woah, that wasn't an easy gig!$h",
-"QuestEvent.MineCart.Restored.03": "Hi Lenny and @.#$b#We just finished restoring the minecart system!$h",
-"QuestEvent.MineCart.Restored.04": "Oh my! Excellent work, crew!$h",
-"QuestEvent.MineCart.Restored.05": "Well, it wouldn't have been possible without @'s supplies!#$b#Thank you, @.$h",
-"QuestEvent.MineCart.Restored.06": "Ah, Lenny! We've also fixed up the other minecart over by Nightingale Orchard.$h#$b#Turns out that one was even harder to fix...$s",
-"QuestEvent.MineCart.Restored.07": "That's fantastic news!#$b#It'll be even easier to get around, now.$h#$b#Thank you so much Robin, Clint, and Ian!$h",
-"QuestEvent.MineCart.Restored.08": "No problem, Lenny.#$b#I'm glad I could participate.#$b#Finally, something more exciting than cracking open geodes or upgrading shoddy tools...$h",
-"QuestEvent.MineCart.Restored.09": "I'm just happy to get another gig.$h",
-"QuestEvent.MineCart.Restored.10": "Be careful, Ian! I still need you for other things, haha!$4#$b#Alright folks, that's all for today!$h",
+"QuestEvent.75160190.01": "I think we're all done!$h#$b#Good job, everyone!$h",
+"QuestEvent.75160190.02": "Woah, that wasn't an easy gig!$h",
+"QuestEvent.75160190.03": "Hi Lenny and @.#$b#We just finished restoring the minecart system!$h",
+"QuestEvent.75160190.04": "Oh my! Excellent work, crew!$h",
+"QuestEvent.75160190.05": "Well, it wouldn't have been possible without @'s supplies!#$b#Thank you, @.$h",
+"QuestEvent.75160190.06": "Ah, Lenny! We've also fixed up the other minecart over by Nightingale Orchard.$h#$b#Turns out that one was even harder to fix...$s",
+"QuestEvent.75160190.07": "That's fantastic news!#$b#It'll be even easier to get around, now.$h#$b#Thank you so much Robin, Clint, and Ian!$h",
+"QuestEvent.75160190.08": "No problem, Lenny.#$b#I'm glad I could participate.#$b#Finally, something more exciting than cracking open geodes or upgrading shoddy tools...$h",
+"QuestEvent.75160190.09": "I'm just happy to get another gig.$h",
+"QuestEvent.75160190.10": "Be careful, Ian! I still need you for other things, haha!$4#$b#Alright folks, that's all for today!$h",
+
+//InterModEvents
+	//East Scarpe
+		//Adds Eloise to Trinnie 6 Heart Event
+"InterModEvent.EastScarpe.Trinnie6Hearts.01": "GOODMORNING, @!!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.02": "@! Hello!!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.03": "Woah! Your farm is big!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.04": "How's it going, mister!$h^How's it going, miss!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.05": "Come on, guys... Not too loud!",
+"InterModEvent.EastScarpe.Trinnie6Hearts.06": "We were playing by the bus stop earlier and we were thinking of visiting your farm, @.#$b#We thought it was haunted before you moved in.$u",
+"InterModEvent.EastScarpe.Trinnie6Hearts.07": "We used to play on the farm before you came. No one bothered us there.",
+"InterModEvent.EastScarpe.Trinnie6Hearts.08": "Why are farmers so smelly?$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.09": "Keahi! Rude!$s",
+"InterModEvent.EastScarpe.Trinnie6Hearts.10": "Keahi! Don't say that!$s",
+"InterModEvent.EastScarpe.Trinnie6Hearts.11": "Hey, @! Don't worry. We'll leave in a while.$h#$b#We just wanted to visit you and look at your farm!$h#$b#Mama said your crops are the bee's... needs?",
+"InterModEvent.EastScarpe.Trinnie6Hearts.12": "What does a bee even need?$u",
+"InterModEvent.EastScarpe.Trinnie6Hearts.13": "Aunt Marnie said you're probably the best farmer in the valley!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.14": "My dad says you really care about the local ecosystem!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.15": "Uhm...#$b#My mom said you are handsome.^My mom said you are beautiful.$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.16": "What?",
+"InterModEvent.EastScarpe.Trinnie6Hearts.17": "Vincent!",
+"InterModEvent.EastScarpe.Trinnie6Hearts.18": "...$u",
+"InterModEvent.EastScarpe.Trinnie6Hearts.19": "A bee needs... hands?$h^I guess you're BEE-autiful.$h",
+
+		//Adds Eloise to Yuuma 4 Heart Event
+"InterModEvent.EastScarpe.Yuuma4Hearts.01": "Oh, hello there, @.#$b#I'm sorry... I should get going.#$b#I have to go pick up my brother's medicine at the clinic.",
+"InterModEvent.EastScarpe.Yuuma4Hearts.02": "Oh?#$b#Them? They're just playing.#$b#Why won't I join?$s#$b#Uhm...$u#$b#I mean...$s#$b#I have stuff to do...$u#$b#So...$s",
+"InterModEvent.EastScarpe.Yuuma4Hearts.03": "I better get going, @. I have to hurry back to my brother.$s",
+
+		//Adds Eloise and Jacob to Alissa's 8 Heart Event
+"InterModEvent.EastScarpe.Alissa8Hearts.01": "I'm glad you came, @!$8#$b#I'm still shaking, though!#$b#I feel like I could explode any second.#$b#I'm so nervous.$11#$b#Okay... Calm down Alissa! Don't back down... Don't give up!$11",
+"InterModEvent.EastScarpe.Alissa8Hearts.02": "Well then. Seems like our guest of honor as arrived!$h#$b#Let's give the people what they want! Everyone's excited to hear you sing!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.03": "Miss Lenny! You didn't have to say that out loud!$9",
+"InterModEvent.EastScarpe.Alissa8Hearts.04": "You look lovely in that dress, Alissa! I'm so proud of you!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.05": "Good luck out there! Have fun!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.06": "Thank you guys. I'll... I'll try! I'm so nervous!$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.07": "This huge crowd is here for you, Alissa!$h#$b#And we're here for you too!$h!",
+"InterModEvent.EastScarpe.Alissa8Hearts.08": "The song you wrote is going to be a hit! I'm excited!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.09": "We got you, Alissa. Don't worry!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.10": "Thank... Thank you!$11#$b#Thank you so much for performing with me, guys.$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.11": "Hey! No biggie! After this you should hang out with us more often!#$b#Okay?$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.12": "Oh! Uhm... Okay!$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.13": "I'm so overwhelmed right now!$11",
+"InterModEvent.EastScarpe.Alissa8Hearts.14": "Okay, everyone! Gather 'round! Let's all welcome our very own popstar!$h#$b#Alissa Liden!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.15": "Okay guys, you can get on stage now. The instruments and audio equipment are all set!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.16": "Everyone is settling down. I should wait a bit...",
+"InterModEvent.EastScarpe.Alissa8Hearts.17": "Uhmm, I would like to welcome everybody to Ridgeside Village once again.$11#$b#Please enjoy the show.!$10",
+"InterModEvent.EastScarpe.Alissa8Hearts.18": "Let's hear it!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.19": "Woohoo! Let's dance!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.20": "Let's jam!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.21": "Splendid show!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.22": "Encore!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.23": "That was fun!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.24": "Again!!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.25": "She sounded amazing!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.26": "That was marvelous!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.27": "Her voice is as beautiful as her!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.28": "MORE!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.29": "That's my niece!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.30": "Thank.. Thank you! Thank you everyone!$10#$b#Ang uhmmm.. Thank.. Thank you to @.$9#$b#Without him, I wouldn't have the courage to sing here for all of you!$9^Without her, I wouldn't have the courage to sing here for all of you!$9",
+"InterModEvent.EastScarpe.Alissa8Hearts.31": "Alissa and the band then continued to play for the crowd with more songs.#Alissa looks so happy and confident now!#Everyone had fun!",
+"InterModEvent.EastScarpe.Alissa8Hearts.32": "Hey uhmm, @... Thank you for everything!$l#$b#I feel a little bit more confident now!$h#$b#I hope everyone had a ton of fun!$h",
 
 //Animations
 "Animations.Aguar.Meditate": "%Mr. Aguar seems to be meditating.",
@@ -2424,11 +2486,17 @@
 
 //MapStrings
 "MapString.rsv.close": "It's closed.",
+
 "MapString.rsv.trash": "This is just plain old trash.",
+
 "MapString.rsv.blocked": "There seems to be something blocking the way.",
+
 "MapString.rsv.crystal": "It's some kind of crystal.#For some reason, you really don't think you should touch it...",
+
 "MapString.rsv.cleantrash": "It's empty. Looks like the garbage was collected early in the morning.",
+
 "MapString.rsv.noquestboard": "There's a note in the board. It reads...#'Closed until further notice - Lenny'",
+
 "MapString.rsv.1": "Welcome to Ridgeside Village!",
 "MapString.rsv.2": "Log Cabin Hotel #The ultimate mountainside experience!#Residents: Richard, Philip, Ysabelle and Flor.",
 "MapString.rsv.3": "Lenny's Mailbox #Ridgeside Village Admin",
@@ -2480,6 +2548,7 @@
 "MapString.rsv.49": "This drumset is dusty.",
 "MapString.rsv.50": "Someone left a bottle of wine here.#There's still some left.",
 "MapString.rsv.51": "I said hi to the horse.#The horse said hey.",
+
 "MapString.rsv.nobalcony": "The balcony is locked. There's a sign:#'Reserved for special occasions.'",
 
 "MapString.rsv.aguarbasement1": "It's a tome full of magic spells.#It's written in a language you can't read.",
@@ -2621,8 +2690,8 @@
 "MapString.rsv.lenny4": "It's Lenny's desk. It's made of mahogany.",
 "MapString.rsv.lenny5": "TO:^Pierre's^Pelican Town^Stardew Valley^Ferngill Republic",
 "MapString.rsv.lenny6": "Lenny's dresser. You don't have the guts to peek.",
-"MapString.rsv.lenny7": "You pull out a book and read the cover:#'History of Stardew Valley' by Oswald Bamoose",
-"MapString.rsv.lenny8": "You pull out a book and read the cover:#'Famous Journeys' by M. Jasper",
+"MapString.rsv.lenny7": "You pull out a book and read the cover:#'History of Stardew Valley' by P. A. Perpoppy",
+"MapString.rsv.lenny8": "You pull out a book and read the cover:#'SMOOPY' by P. Athoschild",
 "MapString.rsv.lenny9": "You pull out a book and read the cover:#'Famous Journeys' by M. Jasper",
 "MapString.rsv.lenny10": "You pull out a book and read the cover:#'Geekonomics' by Steven & Stephen.",
 "MapString.rsv.lenny11": "It's Lenny's computer. She's watching StarFlix.",
@@ -2705,7 +2774,9 @@
 "MapString.rsv.sign2": "`Cable Car to Ridgeside Village",
 "MapString.rsv.sign3": "WARNING!#Please secure your horse in the horse compartment.#We don't want another 'Pegasus' incident.#- Lenny",
 "MapString.rsv.sign4": "> Cable Car to Pelican Town#WARNING!#Watch out for falling debris during rainy days.",
+
 "MapString.rsv.bench": "Someone carved 'P & C' into this tree. How romantic.'",
+
 "MapString.rsv.cliffblock": "Something big is blocking the way. There's no way through.",
 
 "MapString.rsv.ninja1": "'Keep an eye on the old man's farm.'#'Await further instructions.#-H'",
@@ -2726,19 +2797,25 @@
 "MapString.rsv.shiro10": "It's a wheelchair#It seems it hasn't been used for a while now.",
 
 "MapString.rsv.cliffhouseclose": "This abandoned house has been boarded up.",
+
 "MapString.rsv.undreyapeek": "A figure covered in a black blanket...#'Shhh!! Don't be so loud, okay?'",
+
 "MapString.rsv.grave1": "There's a faded text engraved in the tomb.^The words can barely be read.^'He-e l--s -rth-r-'",
+
 "MapString.rsv.brokencart": "This cart looks broken. Better not touch it.",
 
 "MapString.rsv.ridgeforest1": "Here lies Buddy.#Your time was too short.",
 "MapString.rsv.ridgeforest2": "The text is too faded to read.",
 "MapString.rsv.ridgeforest3": "A loving father. You will be missed...",
 "MapString.rsv.ridgeforest4": "General Diggy Johnson^An honorable leader.^A---^The rest of the text is illegible.",
+
 "MapString.rsv.treehouselock": "This appears to be a tree house designed for children.#It may collapse if I go inside.",
+
 "MapString.rsv.tentlock": "There's a huge wooden crate blocking the entrance to the tent. I wonder who owns this?",
 
 "MapString.rsv.fallshint1": "Some kind of ancient scroll is embedded into the grass.#It reads...^^'8|13^You could hear the crashing waters near the pink trees.^Are there underground waterfalls here?'",
 "MapString.rsv.fallshint2": "Some kind of ancient scroll is embedded into the grass.#It reads...^^'1|27^The sound gets louder and louder! Am I near? This is driving me crazy!'",
+
 "MapString.rsv.mysticfalls1": "Mystic Falls of Companions^^'One who bonds with their neighbors and shares their joy and sorrow is blessed by Yoba.'",
 "MapString.rsv.mysticfalls2": "Mystic Falls of Love^^'Being able to catch the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
 "MapString.rsv.mysticfalls3": "Mystic Falls of Sacrifice^^'Among the heaviest of burdens are the ones carried by those who fight for the greater good of all'",
