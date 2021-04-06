@@ -13,7 +13,7 @@
 			"Action": "EditData",
 			"Target": "Data/Events/Custom_Ridgeside_RSVCliff",
 			"Entries": {
-				"75160060": "continue/-100 -100/farmer 0 0 0/skippable/pause 100/end",
+				"75160060": null,
 			},
 			"When": {
 				"RepeatCableCarCutscene": "false"
