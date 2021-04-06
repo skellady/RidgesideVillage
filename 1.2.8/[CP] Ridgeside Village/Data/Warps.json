@@ -423,13 +423,13 @@
 			"AddWarps": [
 				"24 17 Custom_Ridgeside_RSVCableCar 20 9",
 				"25 17 Custom_Ridgeside_RSVCableCar 20 9",
-				"-1 13 Custom_Ridgeside_RidgesideVillage 149 26",
-				"-1 14 Custom_Ridgeside_RidgesideVillage 149 26",
-				"-1 15 Custom_Ridgeside_RidgesideVillage 149 26",
-				"-1 16 Custom_Ridgeside_RidgesideVillage 149 26",
 				"-1 33 Custom_Ridgeside_RSVTheHike 79 26",
 				"-1 34 Custom_Ridgeside_RSVTheHike 79 26",
 				"-1 35 Custom_Ridgeside_RSVTheHike 79 26",
+				"-1 13 Custom_Ridgeside_RidgesideVillage 149 26",
+				"-1 14 Custom_Ridgeside_RidgesideVillage 149 26",
+				"-1 15 Custom_Ridgeside_RidgesideVillage 149 26",
+				"-1 16 Custom_Ridgeside_RidgesideVillage 149 26",				
    			]
 		},	
 		{
