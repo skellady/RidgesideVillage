@@ -9,8 +9,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Aguar",
                 "Entries": {                        
-                        "aguar1_1": "Hmmmm..$a#$b#Yes, that was magic, @.$a#$b#And no one was supposed to see that.",
-                        "aguar1_2": "How dare you!%fork$a",                        
+                        "aguar1_1": "{{i18n:event-75160061.AguarFork1}}",
+                        "aguar1_2": "{{i18n:event-75160061.AguarFork2}}",                        
                 }
         },
         
@@ -19,9 +19,9 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Alissa",
                 "Entries": {                        
-                        "alissa1_1": "That’s kind of weird…#$b# Maybe don’t be curious about others’ private property?#$b# I’m teasing! But I will remember to lock the shed tonight.$a”",
-                        "alissa1_2": "U-uh, what?$7#$b#Hey, don’t joke around like that!$l",
-                        "alissa1_3": "Aha! I should've known!$a#$b#You fool! You won't find anything here though!$a#$b#For I haven't sorted anything yet!$h#$b#Haha! Nice one @!$h",
+                        "alissa1_1": "{{i18n:event-75160116.Fork1}}",
+                        "alissa1_2": "{{i18n:event-75160116.Fork2}}",
+                        "alissa1_3": "{{i18n:event-75160116.Fork3}}",
                 }
         },
         
@@ -30,10 +30,10 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Bert",
                 "Entries": {                        
-                        "bert1_1": "Thanks a lot, @! You're the best!$h",
-                        "bert1_2": "Oh, that’s too bad. %fork$s",                
-                        "bert2_1": "Hmm. Yes, I do think that would be better.",
-                        "bert2_2": "Why yes! She has been bugging me about going out of town for a while now!.",
+                        "bert1_1": "{{i18n:event-75160065.Fork1}}",
+                        "bert1_2": "{{i18n:event-75160065.Fork2}}",                
+                        "bert2_1": "{{i18n:event-75160067.Fork1}}",
+                        "bert2_2": "{{i18n:event-75160067.Fork2}}",
                 }
         },
         
@@ -42,8 +42,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Ezekiel",
                 "Entries": {                        
-                        "ezekiel1_1": "Huh?$a",
-                        "ezekiel1_2": "Huh?%fork$a",                
+                        "ezekiel1_1": "{{i18n:event-75160070.Fork1}}",
+                        "ezekiel1_2": "{{i18n:event-75160070.Fork2}}",                
                 }
         },
         

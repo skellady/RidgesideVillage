@@ -378,13 +378,19 @@
 "event-75160061.04": "Hmmm...$a#$b#I reckon you would have figured it out soon anyway...#$b#...Given your annoyingly curious nature.$a",
 "event-75160061.05": "What should I say?",
 "event-75160061.06": "Was that magic!?",
-"event-75160061.07": "I'm going to tell everyone!",
+
+	//"Was that magic!?",
+"event-75160061.AguarFork1": "Hmmmm..$a#$b#Yes, that was magic, @.$a#$b#And no one was supposed to see that.",
 "event-75160061.08": "You have knowledge of the arcane?$u#$b#Perhaps I have underestimated you, farmer...",
 "event-75160061.09": "I trust you to be secretive about what you have seen in my chambers.#$b#The inhabitants of this valley distrust the whimsical and the magical.#$b#They have convinced themselves that all other-worldly events are contained within the mines north of Pelican Town.",
 "event-75160061.10": "I am currently conducting research on a certain magical power emanating from below the village.#$b#It involves the river flowing through Ridgeside.",
 "event-75160061.11": "That's all you need to know for now, @.",
 "event-75160061.12": "Keep all of this to yourself.#$b#I'm doing this for the greater good.#$b#One day you'll understand.",
 "event-75160061.13": "One day...",
+
+	//"I'm going to tell everyone!",
+"event-75160061.07": "I'm going to tell everyone!",
+"event-75160061.AguarFork2": "How dare you! %fork$a",
 "event-75160061.AguarAngry1.01": "I'd like to see you try.$4#$b#You'll be the perfect test subject.",
 "event-75160061.AguarAngry1.02": "You won't remember this. I'll make sure of it.$a#$b#Hmm...$4",
 "event-75160061.AguarAngry1.03": "Greetings, @. Are you ready for your first day as one of my assistants?$h",
@@ -561,9 +567,20 @@
 "event-75160116.02": "@? Uh?",
 "event-75160116.03": "What are you doing here @?#$b#Why are you snooping around my shed?$a",
 "event-75160116.04": "What should I tell her?",
+
+	//Response 1
 "event-75160116.05": "Nothing, just curious.",
+"event-75160116.Fork1": "That’s kind of weird...#$b# Maybe don’t be curious about others’ private property?#$b# I’m teasing! But I will remember to lock the shed tonight.$a",
+
+	//Response 2
 "event-75160116.06": "I missed you and I was looking for you.",
+"event-75160116.Fork2": "U-uh, what?$7#$b#Hey, don’t joke around like that!$l",
+
+	//Response 3
 "event-75160116.07": "I was spying on my competition.",
+"event-75160116.Fork3": "Aha! I should've known!$a#$b#You fool! You won't find anything here though!$a#$b#For I haven't sorted anything yet!$h#$b#Haha! Nice one @!$h",
+
+	//Continued
 "event-75160116.08": "But hey @. Since you're here. Can you help me sort some of my products?#$b#It's going to be quick I swear!$h#$b#And it might be fun doing work with a friend.$h",
 "event-75160116.09": "Ohhh nice! Thank you so much @!$h#$b#Okay, I'll start here. You take that spot there.$h",
 "event-75160116.10": "Alissa is humming a beautiful tune.",
@@ -574,14 +591,20 @@
 "event-75160065.01": "Oh man. This doesn't sound good at all.$s",
 "event-75160065.02": "Hey @, do you have a moment?#$b#Any chance you can help me out a bit here?$h",
 "event-75160065.03": "Should I?",
+
+	//Farmer agrees to help
 "event-75160065.04": "Sure! I'll help you.",
-"event-75160065.05": "Sorry, I'm busy.",
+"event-75160065.Fork1": "Thanks a lot, @! You're the best!$h",
 "event-75160065.06": "Here, you hold onto this while I reach inside.",
 "event-75160065.07": "Ok. Hold on tight now.$a",
 "event-75160065.08": "Aha! Sounds like a lullaby!$h#$b#Good work @!$h",
 "event-75160065.09": "Couldn't have done it without ya!$h#$b#Say, are you up for grabbin' a beer or somethin'?#$b#We deserve one after a hard day's work, huh?$h",
 "event-75160065.10": "Sounds good!#$b#Go grab one of the lawn chairs over there.#$b#I'll head on inside and get our drinks.$h",
-"event-75160065.11": "Bert's easy to talk to and pretty funny..#He seems really nice.",
+"event-75160065.11": "Bert's easy to talk to and pretty funny...#He seems really nice.",
+
+	//Farmer doesn't agree to help
+"event-75160065.05": "Sorry, I'm busy.",
+"event-75160065.Fork2": "Oh, that’s too bad. %fork$s",
 "event-75160065.BertSad.01": "Oh well. I guess you better get going then huh?#$b#I'll figure out how to fix this on my own, no worries!.#$b#Bye now @.",
 
 //Bert problem with Trinnie (Bert 4 hearts)
@@ -613,8 +636,16 @@
 "event-75160067.03": "Ah! @! Just the person I needed to see!$h#$b#I need your help or advice again about something!#$b#I'm kind stuck in a problem.",
 "event-75160067.04": "Okay! So... Olga and I are having our wedding anniversary soon. And I figured I would surprise her with a date!#$b#But the thing is, I don't know what kind of date to plan!$s#$b#I kinda need your advice. What do you think would be a good surprise date?$h#$b#I have two in mind, A dinner for two at the hotel or date in another town?",
 "event-75160067.05": "What kind of surprise date?",
+
+	//Romantic Dinner
 "event-75160067.06": "A romantic dinner for two.",
-"event-75160067.07": "A out of town date for two.",
+"event-75160067.Fork1": "Hmm. Yes, I do think that would be better.",
+
+	//Out of Town Date
+"event-75160067.07": "An out of town date for two.",
+"event-75160067.Fork2": "Why yes! She has been bugging me about going out of town for a while now!",
+
+	//Continue
 "event-75160067.08": "I made up my mind! Thank you for your advice @!$h#$b#I'm sure this will turn out nicely!$h",
 "event-75160067.09": "Oh boy, I can't wait!$h",
 
@@ -817,14 +848,20 @@
 "event-75160070.03": "Hmm? What are you doing here?#$b#Don't touch my stuff!$a#$b#You'll make it worse!$a",
 "event-75160070.04": "What am I doing?#$b#What does it look like I'm doing!?$a#$b#I'm trying to find my ring!$a#$b#What kind of a dumb question is that? Get out of here!$a",
 "event-75160070.05": "Ezekiel seems to be more worried than angry...",
+
+	//Farmer asks if they can help
 "event-75160070.06": "May I help you?",
-"event-75160070.07": "I think I should leave.",
+"event-75160070.Fork1": "Huh?$a",
 "event-75160070.08": "I guess I could use an extra pair of hands.#$b#But be careful with my stuff!$a#$b#Look for a plain gold ring with a miniature chest on top.#$b#Chop chop!$a",
 "event-75160070.09": "Hey! Why aren't you searching!$a#$b#Huh?$u",
 "event-75160070.10": "By Yoba you found it!!$h#$b#Give me that!$a",
 "event-75160070.11": "Ah.. I better not lose you again!$s",
 "event-75160070.12": "I could have found it on my own, you know!$a#$b#I guess you were just lucky...#$b#...or the one who hid it in the first place...$a",
 "event-75160070.13": "Bah! Thanks, I guess.$a",
+
+	//Farmer decides to leave
+"event-75160070.07": "I think I should leave.",
+"event-75160070.Fork2": "Huh? %fork$a",
 "event-75160070.EzekielLeave.01": "Well what are you waiting for?#$b#Stop wasting my time. I have stuff to do.$a",
 
 //Ezekiel apologizes to farmer (Ezekiel 4 hearts)
@@ -2451,21 +2488,22 @@
 "InterModEvent.EastScarpe.Alissa8Hearts.15": "Okay guys, you can get on stage now. The instruments and audio equipment are all set!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.16": "Everyone is settling down. I should wait a bit...",
 "InterModEvent.EastScarpe.Alissa8Hearts.17": "Uhmm, I would like to welcome everybody to Ridgeside Village once again.$11#$b#Please enjoy the show.!$10",
-"InterModEvent.EastScarpe.Alissa8Hearts.18": "Let's hear it!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.19": "Woohoo! Let's dance!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.20": "Let's jam!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.21": "Splendid show!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.22": "Encore!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.23": "That was fun!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.24": "Again!!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.25": "She sounded amazing!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.26": "That was marvelous!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.27": "Her voice is as beautiful as her!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.28": "MORE!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.29": "That's my niece!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.30": "Thank.. Thank you! Thank you everyone!$10#$b#Ang uhmmm.. Thank.. Thank you to @.$9#$b#Without him, I wouldn't have the courage to sing here for all of you!$9^Without her, I wouldn't have the courage to sing here for all of you!$9",
-"InterModEvent.EastScarpe.Alissa8Hearts.31": "Alissa and the band then continued to play for the crowd with more songs.#Alissa looks so happy and confident now!#Everyone had fun!",
-"InterModEvent.EastScarpe.Alissa8Hearts.32": "Hey uhmm, @... Thank you for everything!$l#$b#I feel a little bit more confident now!$h#$b#I hope everyone had a ton of fun!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.18": "GO, BIG SIS ALISSA!! GO!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.19": "Let's hear it!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.20": "Woohoo! Let's dance!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.21": "Let's jam!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.22": "Splendid show!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.23": "Encore!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.24": "That was fun!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.25": "Again!!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.26": "She sounded amazing!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.27": "That was marvelous!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.28": "Her voice is as beautiful as her!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.29": "MORE!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.30": "That's my niece!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.31": "Thank.. Thank you! Thank you everyone!$10#$b#Ang uhmmm.. Thank.. Thank you to @.$9#$b#Without him, I wouldn't have the courage to sing here for all of you!$9^Without her, I wouldn't have the courage to sing here for all of you!$9",
+"InterModEvent.EastScarpe.Alissa8Hearts.32": "Alissa and the band then continued to play for the crowd with more songs.#Alissa looks so happy and confident now!#Everyone had fun!",
+"InterModEvent.EastScarpe.Alissa8Hearts.33": "Hey uhmm, @... Thank you for everything!$l#$b#I feel a little bit more confident now!$h#$b#I hope everyone had a ton of fun!$h",
 
 //Animations
 "Animations.Aguar.Meditate": "%Mr. Aguar seems to be meditating.",
