@@ -52,8 +52,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Freddie",
                 "Entries": {                        
-                        "freddie1_1": "Oh! Really?$h",
-                        "freddie1_2": "Hmmm..%fork$s",                
+                        "freddie1_1": "{{i18n:event-75160074.Fork1}}",
+                        "freddie1_2": "{{i18n:event-75160074.Fork2}}",                
                 }
         },
         

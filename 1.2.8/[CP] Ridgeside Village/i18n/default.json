@@ -1037,8 +1037,10 @@
 "event-75160074.02": "Do I need any help?#$b#Oh don't worry, these old bones can still manage a shopping trip on their own!$h#$b#See!",
 "event-75160074.03": "Oof! Maybe I'm not as spry as I thought...$s",
 "event-75160074.04": "Freddie seems to be having a little trouble moving.",
+
+	//Freddie goes out
 "event-75160074.05": "If you really have to go into town, I can come along and help.",
-"event-75160074.06": "Uh, I don't think you should go out.",
+"event-75160074.Fork1": "Oh! Really?$h",
 "event-75160074.07": "You know, I might take you up on that.$h#$b#It's a bit embarrassing, having to renege on what I just said, but there's nothing to be done, I'm afraid.#$b#I won't be dancing a jig anytime soon, I'll tell you that!#$b#Anyway, errands. I'll take you up on that offer.$h",
 "event-75160074.08": "Well then, let's go.$h",
 "event-75160074.09": "Hmm... I think we need more pepper.#$b#Can you get some over there @? I would really appreciate it.",
@@ -1053,6 +1055,10 @@
 "event-75160074.18": "Always try to enjoy your youth while you can @.#$b#Most people take it for granted and worry to much about what's coming instead of what's already here.$s#$b#It never hurts to focus on the present from time to time okay?$h",
 "event-75160074.19": "Alright then. Let's go back home.",
 "event-75160074.20": "Thank you again for the help, @.$h",
+
+	//Freddie stays
+"event-75160074.06": "Uh, I don't think you should go out.",
+"event-75160074.Fork2": "Hmmm... %fork$s",
 "event-75160074.FreddieStay.01": "I think you're right @.$s#$b#Lola would be get angry if she found out I went out after taking a bad step.$s",
 "event-75160074.FreddieStay.02": "Oh well. Take care now.$s",
 "event-75160074.FreddieStay.03": "Maybe tomorrow...$s",
