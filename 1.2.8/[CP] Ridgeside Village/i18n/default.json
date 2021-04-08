@@ -920,14 +920,25 @@
 "event-75160128.08": "Uhmm... @?$s#$b#I... uh... $s#$b#Y-you can come in. I need to tell you something...$s",
 "event-75160128.09": "H-hey @... I... um. T-thank you for telling me about my.. Uh.. about the t-towel.$s#$b#I'm really sorry you had to see that!$s#$b#I know it's hard to believe but I genuinely didn't notice!$s#$b#I just was so focused on my book and I've always slept like a log and been disoriented for a while when I wake up in the morning and--$s#$b#I'm sorry!$s",
 "event-75160128.10": "Flor is really embarrassed.",
+
+	//Farmer is being considerate
 "event-75160128.11": "It's okay. You were just really tired. I didn't see anything..",
+"event-75160128.Fork1": "Huh? … R-really?$s#$b# That’s good to know… I-I’m glad.",
+
+	//Farmer is being nonchalant 
 "event-75160128.12": "Be more careful next time.",
-"event-75160128.13": "I didn't mind. You're cute.",
+"event-75160128.Fork2": "I-I-I know! I definitely will! Absolutely!$s#$b# This will never happen again!$s#$b# I-it can’t, or I’d implode... $s",
+
+	//Continue
 "event-75160128.14": "Umm. S-so.$s#$b# Thank you for telling me, @. A-and please, um... please don't tell anyone else?$s#$b#I know you won't, but I just... um. W-wanted to ask...$s#$b#I-I hope you have a good day!$h",
 "event-75160128.15": "C-can I just go back to bed now?$s#$b#Yoba, I hope no one saw me last night...$s",
 "event-75160128.16": "Uhhmm... @... H-hi. $l#$b#I... um... W-well I haven't m-made that mistake since, ha ha!$l",
-"event-75160128.FlorEmbarrassed.01": "P-please leave, @...$s#$b# Now.$a",
-"event-75160128.FlorEmbarrassed.02": "You! T-that thing you said was rude and I d-didn't appreciate it. $a",
+
+	//Farmer is being creepy
+"event-75160128.13": "I didn't mind. You're cute.",
+"event-75160128.Fork3": "W-what? I-I... uh... $s#$b#...$s#$b#...$l#$b#...%fork$s",
+"event-75160128.FlorEmbarrassed.01": "P-please leave, @...$s#$b#Now.$a",
+"event-75160128.FlorEmbarrassed.02": "You! T-that thing you said was rude and I d-didn't appreciate it.$a",
 
 //Flor trips (Flor 4 hearts)
 "event-75160129.01": "Woah!!$u",
@@ -1124,15 +1135,19 @@
 "event-75160146.03": "Oh hey, @.#$b#How's it going?#$b#Don't mind me, I'm just delivering some stuff.$h#$b#I'm taking a break at the moment, though. It's hot today.",
 "event-75160146.04": "The boxes?#$b#Oh, they're different kinds of goods and supplies for people.$h#$b#I gotta go to Richard, Gus, Pierre, Robin, and Lewis.#$b#It's gonna be a long day.$s#$b#But it's gotta be done! And I'll get it done quick as I can.$h#$b#... I promised to help Marnie today, too...$s#$b#And I have to get there before she closes.$s#$b#I hope I have enough time...$s",
 "event-75160146.05": "Ian seems worried about how much he has to do...",
+
 "event-75160146.06": "Let me help you deliver these.",
-"event-75160146.07": "Well, Good luck!",
+"event-75160146.Fork1": "Huh? You want to help?#$b#I’m okay, @. And I don’t want to bother you. I know you’re busy, too!$h#$b# But thanks! That’s really nice of you.$h",
 "event-75160146.08": "You really insist, huh?#$b#If it's really not a problem, I could use the help...#$b#Okay then! Can you push this other cart?$h",
 "event-75160146.09": "You good? Let's go!",
 "event-75160146.10": "Onward!$h",
 "event-75160146.11": "With both of us working together, we delivered everything really quickly.#Ian made it to Marnie's in plenty of time.",
 "event-75160146.12": "Thank you loads for helping me @!$h#$b#You're a lifesaver!$h",
 "event-75160146.13": "Man, I really didn't think I was gonna make it to Marnie's!$h#$b#But I did, which means I kept my promise. Thanks, @!",
-"event-75160146.IanSolo.01": "I managed to deliver everything..#$b#But I got to Marnie's too late to do everything she'd asked for..$s#$b#She still offered to pay me, but I broke my promise, so I didn't take it.$s",
+
+"event-75160146.07": "Well, Good luck!",
+"event-75160146.Fork2": "Thanks. See you around!%fork",
+"event-75160146.IanSolo.01": "I managed to deliver everything...#$b#But I got to Marnie's too late to do everything she'd asked for...$s#$b#She still offered to pay me, but I broke my promise, so I didn't take it.$s",
 
 //Ian relaxing (Ian 4 hearts)
 "event-75160147.01": "Dear Mom and Dad...$s#$b#Hmm.. How do I spell 'dear' again?$s#$b#Was it 'D-I-R'? or 'D-E-E-R'?$s#$b#I think the other one is an animal though..$s#$b#Boy, this is hard..$s",
@@ -1167,9 +1182,20 @@
 "event-75160148.18": "Ian seems to be wiping his tears off",
 "event-75160148.19": "(sniff) And yeah..$s#$b#That's why I've been working so much..$s#$b#And why I'm so scared right now..$s#$b#I just want to know if they're doing good..$s#$b#I'm scared if anything happened to them and I'm not there..$s#$b#I just hope they reply soon..$s#$b#Any kind of reply will do..$s",
 "event-75160148.20": "Ian is scared.",
+
+	//Response 1
 "event-75160148.21": "I'm sure a reply will come up soon. Just you wait.",
+"event-75160148.Fork1": "That's what I'm hoping too @...$s#$b#I just can't help being so anxious about it you know?$s#$b#I just want to know...$s",
+
+	//Response 2
 "event-75160148.22": "You should take a break when you can, You're really tired right now.",
+"event-75160148.Fork2": "I think I won't be able to sleep well when I don't know what's their condition at the moment...$s#$b#But @, I really appreciate the concern..$s#$b#Thank you...$h",
+
+	//Response 3
 "event-75160148.23": "I'll be here whenever you need someone to vent out your frustrations to.",
+"event-75160148.Fork3": "You'd really stick around with me when I'm this mopey? Thanks @, You're a good friend...$h#$b#I just can't help being this scared though...$s",
+
+	//Continue
 "event-75160148.24": "I should wait right?$s#$b#I.. I don't know...$s",
 "event-75160148.25": "You put your hand in Ian's shoulder",
 "event-75160148.26": "I guess there's no point to worry so much right now..$s#$b#I should really learn to wait huh?$s#$b#I'm sorry for being this mopey @. That must've been such a hassle for you just to cheer me up.$7#$b#But hey... I appreciate it..$7#$b#..Thanks.$7",
@@ -1304,11 +1330,17 @@
 "event-75160078.02": "You've been poking around, haven't you?#$b#You keep appearing like a persistent fly.#$b#Bringing us gifts.",
 "event-75160078.03": "I don't trust you.$a#$b#What are you planning...$a",
 "event-75160078.04": "What should I tell him?",
+
+	//Nothing, I'm just curious...
 "event-75160078.05": "Nothing, I'm just curious...",
-"event-75160078.06": "I'm a counteragent of the insurgency!",
+"event-75160078.Fork1": "Heh.$h",
 "event-75160078.07": "Mere curiosity, hmm?#$b#I sense honesty in your words.#$b#Though I still don't trust you.",
 "event-75160078.08": "Very well. I shall give you the benefit of the doubt.#$b#Either way, you pose no threat, at least for now.",
 "event-75160078.09": "Leave now.",
+
+	//I'm a counteragent of the insurgency!
+"event-75160078.06": "I'm a counteragent of the insurgency!",
+"event-75160078.Fork2": "Huh! Really, now? %fork$a",
 "event-75160078.JioRetreat.01": "Hm!$a#$b#Mockery, is it? #$b# You clearly have no understanding of what you've stumbled into.",
 "event-75160078.JioRetreat.02": "You are a nuisance and a fool.#$b#I suggest you leave.",
 "event-75160078.JioRetreat.03": "You are annoying.$a",
@@ -1363,8 +1395,10 @@
 "event-75160083.04": "OH! Uhm about the prank I pulled on you the last time?$u#$b#I'm really sorry for putting a stinky essence behind your back$h#$b#I found near the old tower in the forest.$s#$b#Really! I'm sorry!$s#$b#I think karma went back and bit me by making Trinnie really mad at me.$s#$b#She's my best friend and I think she won't talk to me again coz of the prank I pulled on her.$s",
 "event-75160083.05": "What prank? Well uhmmm#$b#I wanted to pour water on her from a bucket as a little surprise.#$b#But then, I think water would be too tame. So I used honey, which my dad has a supply of, instead.#$b#Then I put the bucket of honey in the house door and waited for Trinnie to come in for her visit.#$b#The honey poured on her and well it was funny.#$b#But what wasn't funny was that Trinnie wasn't smiling like our usual prank fights would happen.$s#$b#Apparently she was wearing her favorite white dress because her family and her would be going to town for a bit.$s#$b#And well she just cried and went home immediately..$s#$b#I feel really bad @.. I shouldn't have done that..$s",
 "event-75160083.06": "Keahi feels so bad.",
+
+	//You should apologize to her.
 "event-75160083.07": "You should apologize to her.",
-"event-75160083.08": "Well you deserve it, Especially after the prank you did to me as well.",
+"event-75160083.Fork1": "Hmmm... Yeah. I really should.$s",
 "event-75160083.09": "Thanks @.. Yeah I am actually preparing to apologize to her.$s#$b#I baked a little cake with her favorite flavor.#$b#I remembered it from the last birthday party she had at her house.#$b#I hope she likes it!",
 "event-75160083.10": "Hmph! What do you want?$a",
 "event-75160083.11": "Hey Trin, I'm really sorry for the prank I did..$s#$b#That was too much and I shouldn't have done that..$s#$b#I have my savings here to pay up for the damages I did to your favorite dress...$s",
@@ -1375,6 +1409,10 @@
 "event-75160083.16": "Yey!$h#$b#Alright, Meet you in front of Vincent's house later.",
 "event-75160083.17": "Whew! I'm glad we're good now!$h#$b#Hey @, thanks for accompanying me!$h#$b#I promise I won't play a bad prank on you again!$h",
 "event-75160083.18": "Hmm, House is fun sometimes!$h",
+
+	//Well you deserve it, Especially after the prank you did to me as well.
+"event-75160083.08": "Well you deserve it, Especially after the prank you did to me as well.",
+"event-75160083.Fork2": "Oh? %fork$s",
 "event-75160083.KeahiSad.01": "Yeah.. I guess you're right...$s#$b#I think she won't accept my apology...$s#$b#I should just wait it out...$s",
 "event-75160083.KeahiSad.02": "I should wait things out...$s",
 
@@ -1526,12 +1564,18 @@
 "event-75160179.01": "Hup...$s",
 "event-75160179.02": "Hup. What is human doing here at such a late hour?#$b#Kiwi wants to be alone.",
 "event-75160179.03": "What do I do? Kiwi seems sad.",
-"event-75160179.04": "Leave",
+
+	//Farmer stays
 "event-75160179.05": "Stay",
+"event-75160179.Fork2": "Hm. Human's staying huh?",
 "event-75160179.06": "Kiwi is just here wondering about other Junimos#$b#Kiwi was not like any other Junimo. Kiwi was from the Dusked so Kiwi does not know about others.#$b#Kiwi is basically...$s#$b#Kiwi is alone..$s",
 "event-75160179.07": "Don't mind Kiwi though.#$b#Kiwi has Jio.. and Kiwi sees you as a friend too human.#$b#Kiwi is not totally alone.$h#$b#Kiwi thanks you.",
 "event-75160179.08": "But Kiwi is sometimes curious about real Junimos.#$b#But Kiwi thinks now is not the best time to meet them.",
 "event-75160179.09": "Kiwi shall go now.#$b#Thank you for listening to Kiwi human.#$b#No.. Kiwi means, friend.#$b#Thank you friend.$h",
+	
+	//Farmer leaves
+"event-75160179.04": "Leave",
+"event-75160179.Fork1": "You better leave human.%fork$a",
 
 //Kiwi's past (Kiwi 8 hearts)
 "event-75160180.01": "You are indeed one fascinating Junimo.#$b#I should look further into this Dusked cult.#$b#They may have some hidden knowledge about the dark arts.",
@@ -1606,14 +1650,20 @@
 "event-75160090.03": "Well, thank you, @. That's very gracious of you. #$b#Hmm.. I wonder.",
 "event-75160090.04": "Have you ever been to the mines dear?$h#$b#How far down have you descended?#$b#Ahh, just curious.",
 "event-75160090.05": "Did she just ask about the mines?",
+
+	//Farmer has been to the mines
 "event-75160090.06": "Yeah, I've gone pretty deep.",
-"event-75160090.07": "No, I stay away from monsters.",
+"event-75160090.Fork1": "Oh! Oh, how exciting!$h",
 "event-75160090.08": "Do tell! How many monsters have you slain down there?$h#$b#Oh I haven't been this intrigued for a while now.$h",
 "event-75160090.09": "Oh, that's quite a lot. That's nice dear.$h#$b# A good start.",
 "event-75160090.10": "Oh nothing dear.$h#$b#Please do be careful as you go down even further okay?$h#$b#Always watch your back!$a",
 "event-75160090.11": "Ahh, Oh how I miss those days.$h#$b#Dear, why don't you stay for a while and tell me about your adventures in the mines?$h#$b#I'm so intrigued!",
 "event-75160090.12": "Lola and I talked about my adventures in the mines.#I wonder why she's so interested?",
 "event-75160090.13": "It was lovely chatting with you. Thank you for your time dear.$h",
+
+	//Farmer has NOT been to the mines
+"event-75160090.07": "No, I stay away from monsters.",
+"event-75160090.Fork2": "Oh? Yes, quite sensible, to avoid danger.%fork$s",
 "event-75160090.LolaSad.01": "Hmm.. Then I guess I don't really know what to talk about.$s#$b#What do you know about knitting, @?#$b# Nothing? I see... $s",
 
 //Lola in her Shed (Lola 4 hearts)
@@ -1664,23 +1714,42 @@
 "event-75160134.06": "Ugh... $a",
 "event-75160134.07": "Maddie is looking at the notes on the table.#She seems really busy",
 "event-75160134.08": "She seems busy.",
-"event-75160134.09": "(leave)",
+
+
+	//Farmer asks what's wrong
 "event-75160134.10": "What's wrong?",
+"event-75160134.Fork2": "Wrong? Nothing's wrong.$a#$b# If anything, you're what's wrong in this context.$a",
+
+	//Farmer is being rude
 "event-75160134.11": "You know, you always look kind of miserable. ",
+"event-75160134.Fork3": "Huh?$a#$b#Miserable? I'm not...$7#$b#What does it matter? I don't need to look happy to be good at my job.",
+
+	//Continue
 "event-75160134.12": "@...$s#$b#Why are you still here?$7",
 "event-75160134.13": "Do you want something?",
 "event-75160134.14": "Nothing?#$b#I can't make you leave, I guess.$7",
 "event-75160134.15": "Just don't touch anything!$a",
-"event-75160134.16": "I didn't realize how quiet the lab gets when Mr. Aguar's not here... #$b# I didn't mind your company, that's all I'm saying. Don't get carried away!$7",
-"event-75160134.MaddieLeave.01": "Hmm..$s",
+"event-75160134.16": "I didn't realize how quiet the lab gets when Mr. Aguar's not here... #$b#I didn't mind your company, that's all I'm saying. Don't get carried away!$7",
+
+	//Farmer leaves
+"event-75160134.09": "(leave)",
+"event-75160134.Fork1": "%I better leave %fork",
+"event-75160134.MaddieLeave.01": "Hmm...$s",
 
 //Maddie needs field samples (Maddie 4 hearts)
 "event-75160135.01": "@? What are you doing here?#$b#Well, whatever it is, You better go out. I'm heading out to the ridge.#$b#I need to gather samples from the lake there.",
 "event-75160135.02": "You want to accompany me?#$b#Well I don't really care.#$b#But why though?",
 "event-75160135.03": "What should I tell her?",
+
+	//Farmer likes being around Maddie
 "event-75160135.04": "It's fun being around you.",
+"event-75160135.Fork1": "Hmph.$7#$b#Stop saying things.$7",
+
+	//Farmer is going to the Ridge as well
 "event-75160135.05": "I'm heading to the ridge too!.",
-"event-75160135.06": "Oh, I better leave then.",
+"event-75160135.Fork2": "Oh? Really now?#$b#Well why are you here then?",
+
+	//Continue
 "event-75160135.07": "Well I don't really care if you're there or not.#$b#If you want to tag along please don't bother with my field research okay?$a",
 "event-75160135.08": "What are you looking at?$a#$b#Stop that silly grin and let me focus here.$a#$b#You're annoying.$7",
 "event-75160135.09": "Okay, these samples look promising.#$b#I can't wait to bring these to the lab.$h",
@@ -1705,14 +1774,20 @@
 "event-75160135.28": "Hmph..$8",
 "event-75160135.29": "After a while the rabbit went home#It was fun spending time with Maddie.",
 "event-75160135.30": "Oh how I miss that little bunny now!$s#$b#Hey what are you looking at!?$a",
+
+	//Farmer leaves
+"event-75160135.06": "Oh, I better leave then.",
+"event-75160135.Fork3": "Figures.$7%fork",
 "event-75160135.MaddieGo.01": "Well, bye I guess?",
 
 //Maddie relaxing (Maddie 6 hearts)
 "event-75160136.01": "Ah, finally finished my tasks for the day.$h#$b#Oh. Hello @. What brings you here?#$b#I mean.. Not that I care..$7",
 "event-75160136.02": "Oh just visiting the valley you say?#$b#Well, I hope you enjoy.",
 "event-75160136.03": "What to do now?",
+
+	//Farmer came to visit Maddie
 "event-75160136.04": "Actually, I came to visit you.",
-"event-75160136.05": "Well, See you.",
+"event-75160136.Fork1": "Wha--What?$8#$b#Wha--what are you saying?$a#$b#Ha-ha-ha. Very funny now.$7",
 "event-75160136.06": "Well.. Uhm..$7#$b#It would be less boring when I have someone to mock here.$6#$b#Come sit.$7",
 "event-75160136.07": "So.. Uhm..$7#$b#How's the farm life so far city boy?^How's the farm life so far city girl?$6#$b#Bet you're regretting it all now huh?$7",
 "event-75160136.08": "Oh? You're enjoying it? Pshh. Really now?$h#$b#The other day I saw you almost collapsing from all that hard work.$6",
@@ -1748,6 +1823,10 @@
 "event-75160136.38": "Uhm. You got the ice pack?$8",
 "event-75160136.39": "We went to the clinic after.#Thankfully Trinnie's all fine.",
 "event-75160136.40": "Uhmm.. Thanks for helping me with Trinnie.$8#$b#Hmph.. Bye now..$8",
+
+	//Farmer leaves
+"event-75160136.05": "Well, See you.",
+"event-75160136.Fork2": "Uhm. Okay..$7%fork",
 "event-75160136.MaddieBye.01": "Hmm..$s",
 
 //Maddie confesses (Maddie 8 hearts)
@@ -1777,8 +1856,10 @@
 "event-75160138.24": "You didn't deserve the way you were treated.",
 "event-75160138.25": "Huh..$10",
 "event-75160138.26": "Maddie...",
+
+	//Farmer talks
 "event-75160138.27": "Talk",
-"event-75160138.28": "Leave",
+"event-75160138.Fork1": "@... I think you should go ho--$10",
 "event-75160138.29": "You know that you're not alone anymore right?",
 "event-75160138.30": "What do you mean? Of Course I--$11",
 "event-75160138.31": "You're not. You think you are because you keep on pushing everyone else away.#But you're an amazing person, and even though you try to push people away,#People still come to you. Because you're kind...#You're sweet.",
@@ -1793,6 +1874,10 @@
 "event-75160138.40": "Thank--thank you..$10",
 "event-75160138.41": "Don't let me down..$8",
 "event-75160138.42": "Hey..$8#$b#Thank you...$8",
+
+	//Farmer leaves
+"event-75160138.28": "Leave",
+"event-75160138.Fork2": "I think I need space from you for a while @...$10",
 "event-75160138.LeaveMaddie.01": "I'm sorry...$10",
 
 //Maddie date (Maddie 10 hearts part 2)
@@ -1925,13 +2010,24 @@
 "event-75160165.15": "Some time later..",
 "event-75160165.16": "I'm sorry that took a little longer than I thought.$6#$b#I do hope IncrediMan made some good company.$h#$b#So how was it? Don't spoil it though!$h",
 "event-75160165.17": "How was the comic?",
+
+	//It was a good read
 "event-75160165.18": "It was a good read!",
+"event-75160165.Fork1": "You like it?!$h#$b#I'm glad you did! It is a little childish so I was worried if you'd find it weird.$6#$b#I'm glad I didn't really waste your time.$h",
+
+	//It was kind of childish
 "event-75160165.19": "It was kind of childish.",
-"event-75160165.20": "Why waste your time with these?",
+"event-75160165.Fork2": "Yeah it is a little childish I admit.$6#$b#It's primary audience focus are on children really, it's not really a serious and dark type of comic book.$6#$b#But I do hope you still enjoyed it a little.$h",
+
+	//Continue
 "event-75160165.21": "Oh! Okay! Let me read it now!$h#$b#I'll discuss some more stuff about the story too as we go along, so you can have a bit more context.$h#$b#It's a fun and cool little world that they have!$h",
 "event-75160165.22": "Now here.. IncrediMan was once this orphan, you can see the backstory briefly mentioned by the villain..$h",
 "event-75160165.23": "It was fun spending time with Philip#He is really passionate about his hobby!",
 "event-75160165.24": "I can't wait for the next issue!$h#$b#The last one ended with a cliffhanger.$6",
+
+	//Why waste your time with these?
+"event-75160165.20": "Why waste your time with these?",
+"event-75160165.Fork3": "Oh really? You hate it that much?$s#$b#Uhmm.. I'm sorry for wasting your time..$s%fork",	
 "event-75160165.PhilipSad.01": "I'm really sorry for wasting your time again @..$s#$b#I won't bother you with my comic books now..$s#$b#Ehr..$s",
 "event-75160165.PhilipSad.02": "I guess I better go.$s#$b#I'll just read my comic book inside so I won't bother anyone else.$s#$b#Excuse me..$s",
 "event-75160165.PhilipSad.03": "Ehr.. So sorry again..$s",
@@ -1987,8 +2083,10 @@
 //Pika is helped by farmer at restaurant (Pika 6 hearts)
 "event-75160100.01": "Oh! Good Morning to you @.#$b#I'm sorry, I'm a bit busy at the moment.$s#$b#I have to prepare the restaurant before I open every morning. But today I have no extra help.#$b#Corine has an emergency with her Dad today and my son ran away early morning to play.$s#$b#I don't have the time to chase after him.$a#$b#Oh well, I have to get things ready before opening time.",
 "event-75160100.02": "Pika seems to troubled.",
+
+	//Farmer helps Pika
 "event-75160100.03": "I can help if you want.",
-"event-75160100.04": "Oh, I better not bother you then.",
+"event-75160100.Fork1": "Huh? Did I hear that right?$h",
 "event-75160100.05": "That really means a lot @!$h#$b#Okay, you can head on back here and help me unpack the ingredients.$h",
 "event-75160100.06": "You can put that over there @.",
 "event-75160100.07": "Uhm Hi Boss!$h#$b#I'm sorry I'm late!",
@@ -2001,6 +2099,10 @@
 "event-75160100.14": "Oh! Really?$h",
 "event-75160100.15": "Yey less work!$h",
 "event-75160100.16": "What are you talking about?!$a#$b#You two will have an overtime today!$a",
+
+	//Farmer doesn't help Pika
+"event-75160100.04": "Oh, I better not bother you then.",
+"event-75160100.Fork2": "Oh? Okay, I know you're busy too @.%fork",
 "event-75160100.LeavePika.01": "Well. Take care now @!$h#$b#I got to get back to work.$s",
 
 //Pika misses wife (Pika 8 hearts)
@@ -2203,15 +2305,21 @@
 "event-75160106.03": "Oh! Bobbert? He's this little plant here!$h",
 "event-75160106.04": "...And here ya go! Your daily sprinkle of water my good sir.$h",
 "event-75160106.05": "She's talking to the plants.",
+
+	//Farmer compliments Trinnie
 "event-75160106.06": "You're doing a good job taking care of them!",
-"event-75160106.07": "You're a weird kid, Those are plants.",
+"event-75160106.Fork2": "Really @? Coming from a farmer, that means a lot!$h",
 "event-75160106.08": "And this one over here is Lilly!$h#$b#Want to sprinkle her daily water @? Come on! It's fun!",
 "event-75160106.09": "Here ya go @!$h",
 "event-75160106.10": "Yey!! She's a little happier now!$h",
 "event-75160106.11": "Thank you for keeping me company @!#$b#Also I hope you didn't find it weird that I talk to my plants.#$b#I really love taking care of plants and it's a bit more fun if you talk to them.",
 "event-75160106.12": "Well, come on! Let's go water everybody else!$h",
 "event-75160106.13": "The plants are really happy!$h",
-"event-75160106.TrinnieMad.01": "Hmph! I don't want you here @. You're the one who's weird.$a#$b#A farmer who does not appreciate plants. Ewww$a#$b#Well, Buhbye now.$a",
+
+	//Farmer insults Trinnie
+"event-75160106.07": "You're a weird kid, Those are plants.",
+"event-75160106.Fork2": "Hmph! If you think I'm weird then you have no passion for taking care of plants! Shame on you farmer!%fork$a",
+"event-75160106.TrinnieMad.01": "Hmph! I don't want you here @. You're the one who's weird.$a#$b#A farmer who does not appreciate plants. Ewww.$a#$b#Well, Buhbye now.$a",
 "event-75160106.TrinnieMad.02": "Hmph. Weirdo.$a",
 
 //Trinnie buying food from Keahi (Trinnie 4 hearts)
@@ -2298,12 +2406,23 @@
 "event-75160142.11": "Uhgg.. I hate this..$9",
 "event-75160142.12": "Pardon me for my behavior at the moment @..$9#$b#I just don't like remembering the past. It's my fault really..$9#$b#....uhmm..$9",
 "event-75160142.13": "What should I say?",
+
+	//Farmer is being optimistic
 "event-75160142.14": "Whatever it is, It's all behind now.",
-"event-75160142.15": "Come on, tell me!",
+"event-75160142.Fork1": "Yeah...$9#$b#But it doesn't stop it from hurting when you remember it though...$9#$b#But you're right @...$8#$b#I do have to move on huh...$11",
+
+	//Farmer is being flirty
 "event-75160142.16": "Hey now, you're prettier when you smile.",
+"event-75160142.Fork3": "Heh, you really found the time to attempt an advance huh?$9#$b#I appreciate the thought @, but really, you suck at timing.$9#$b#Teehee, But I have to admit, it did cheer me up a bit.$8#$b#Thank you for that.$11",
+
+	//Continue
 "event-75160142.17": "I'll be fine. I just had to cheer myself up as well.$11#$b#Thank you once again @, for cheering me up.$8#$b#I apologize for not sharing more details though, I think I'd want to keep these thoughts to myself for the time being..$9",
 "event-75160142.18": "Well now, I better go back to practice.$11#$b#How about you? Wanna join?$11",
 "event-75160142.19": "Thank you for accompanying me @$h#$b#It lifted some heavy feelings.$h",
+
+	//Farmer annoys Ysabelle
+"event-75160142.15": "Come on, tell me!",
+"event-75160142.Fork2": "Hmph, how rude of you @.$10#$b#You seem to only care for your own entertainment huh?$10#$b#How immature.$10%fork",
 "event-75160142.YsabelleAngry.01": "Please leave, I don't want you around here.$10#$b#And kindly remember to remove your shoes the next time you step on the dance mat, thank you.$10",
 "event-75160142.YsabelleAngry.02": "Hmph, what do you want?$a",
 

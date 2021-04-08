@@ -62,8 +62,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Jio",
                 "Entries": {                        
-                        "jio1_1": "Heh.$h",
-                        "jio1_2": "Huh! Really, now?%fork$a",                
+                        "jio1_1": "{{i18n:event-75160078.Fork1}}",
+                        "jio1_2": "{{i18n:event-75160078.Fork2}}",                
                 }
         },
         
@@ -72,8 +72,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Keahi",
                 "Entries": {                        
-                        "keahi1_1": "Hmmm.. Yeah. I really should$s",
-                        "keahi1_2": "Oh?%fork$s",                
+                        "keahi1_1": "{{i18n:event-75160083.Fork1}}",
+                        "keahi1_2": "{{i18n:event-75160083.Fork2}}",                
                 }
         },
         
@@ -82,8 +82,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Kiwi",
                 "Entries": {                        
-                        "kiwi1_1": "You better leave human.%fork$a",
-                        "kiwi1_2": "Hm. Human's staying huh?",                
+                        "kiwi1_1": "{{i18n:event-75160179.Fork1}}",
+                        "kiwi1_2": "{{i18n:event-75160179.Fork2}}",                
                 }
         },
         
@@ -92,8 +92,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Lola",
                 "Entries": {                        
-                        "lola1_1": "Oh! Oh how exciting!$h",
-                        "lola1_2": "Oh? Yes, quite sensible, to avoid danger.%fork$s",                
+                        "lola1_1": "{{i18n:event-75160090.Fork1}}",
+                        "lola1_2": "{{i18n:event-75160090.Fork2}}",                
                 }
         },
         
@@ -102,8 +102,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Pika",
                 "Entries": {                        
-                        "pika1_1": "Huh? Did I hear that right?$h",
-                        "pika1_2": "Oh? Okay, I know you're busy too @.%fork",                
+                        "pika1_1": "{{i18n:event-75160100.Fork1}}",
+                        "pika1_2": "{{i18n:event-75160100.Fork2}}",                
                 }
         },
         
@@ -112,8 +112,8 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Trinnie",
                 "Entries": {                        
-                        "trinnie1_1": "Really @? Coming from a farmer, that means a lot!$h",
-                        "trinnie1_2": "Hmph! If you think I'm weird then you have no passion for taking care of plants! Shame on you farmer!%fork$a",                
+                        "trinnie1_1": "{{i18n:event-75160106.Fork1}}",
+                        "trinnie1_2": "{{i18n:event-75160106.Fork2}}",                
                 }
         },
         
@@ -122,9 +122,9 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Flor",
                 "Entries": {                        
-                        "flor1_1": "Huh? … R-really?$s#$b# That’s good to know… I-I’m glad. ",
-                        "flor1_2": "I-I-I know! I definitely will! Absolutely!$s#$b# This will never happen again!$s#$b# I-it can’t, or I’d implode... $s",
-                        "flor1_3": "W-what? I-I… uh… $s#$b#...$s#$b#...$l#$b#... %fork^W-what? I-I… uh… $s#$b#...$l#$b#... I-is that intended as a c-compliment?$s",        
+                        "flor1_1": "{{i18n:event-75160128.Fork1}}",
+                        "flor1_2": "{{i18n:event-75160128.Fork2}}",
+                        "flor1_3": "{{i18n:event-75160128.Fork3}}",        
                 }
         },
         
@@ -133,16 +133,16 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Maddie",
                 "Entries": {                        
-                        "maddie1_1": "%I better leave%fork",
-                        "maddie1_2": "Wrong? Nothing’s wrong.$a#$b# If anything, you’re what’s wrong in this context.$a",
-                        "maddie1_3": "Huh?$a#$b#Miserable? I’m not… $7#$b#What does it matter? I don’t need to look happy to be good at my job.",
-                        "maddie2_1": "Hmph.$7#$b#Stop saying things.$7",
-                        "maddie2_2": "Oh? Really now?#$b#Well why are you here then?",
-                        "maddie2_3": "Figures.$7%fork",
-                        "maddie3_1": "Wha--What?$8#$b#Wha--what are you saying?$a#$b#Ha-ha-ha. Very funny now.$7",
-                        "maddie3_2": "Uhm. Okay..$7%fork",
-                        "maddie4_1": "@... I think you should go ho--$10",
-                        "maddie4_2": "I think I need space from you for a while @...$10",
+                        "maddie1_1": "{{i18n:event-75160134.Fork1}}",
+                        "maddie1_2": "{{i18n:event-75160134.Fork2}}",
+                        "maddie1_3": "{{i18n:event-75160134.Fork3}}",
+                        "maddie2_1": "{{i18n:event-75160135.Fork1}}",
+                        "maddie2_2": "{{i18n:event-75160135.Fork2}}",
+                        "maddie2_3": "{{i18n:event-75160135.Fork3}}",
+                        "maddie3_1": "{{i18n:event-75160136.Fork1}}",
+                        "maddie3_2": "{{i18n:event-75160136.Fork2}}",
+                        "maddie4_1": "{{i18n:event-75160138.Fork1}}",
+                        "maddie4_2": "{{i18n:event-75160138.Fork2}}",
                 }
         },
         
@@ -151,9 +151,9 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Ysabelle",
                 "Entries": {                        
-                        "ysabelle1_1": "Yeah...$9#$b#But it doesn't stop it from hurting when you remember it though..$9#$b#But you're right @..$8#$b#I do have to move on huh..$11",
-                        "ysabelle1_2": "Hmph, how rude of you @.$10#$b#You seem to only care for your own entertainment huh?$10#$b#How immature.$10%fork",
-                        "ysabelle1_3": "Heh, you really found the time to attempt an advance huh?$9#$b#I appreciate the thought @, but really, you suck at timing.$9#$b#Teehee, But I have to admit, it did cheer me up a bit.$8#$b#Thank you for that.$11",        
+                        "ysabelle1_1": "{{i18n:event-75160142.Fork1}}",
+                        "ysabelle1_2": "{{i18n:event-75160142.Fork2}}",
+                        "ysabelle1_3": "{{i18n:event-75160142.Fork3}}",        
                 }
         },
         
@@ -162,11 +162,11 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Ian",
                 "Entries": {
-                        "ian1_1": "Huh? You want to help?#$b#I’m okay, @. And I don’t want to bother you. I know you’re busy, too!$h#$b# But thanks! That’s really nice of you.$h",
-                        "ian1_2": "Thanks. See you around!%fork",
-                        "ian2_1": "That's what I'm hoping too @..$s#$b#I just can't help being so anxious about it you know?$s#$b#I just want to know..$s",
-                        "ian2_2": "I think I won't be able to sleep well when I don't know what's their condition at the moment..$s#$b#But @, I really appreciate the concern..$s#$b#Thank you..$h",
-                        "ian2_3": "You'd really stick around with me when I'm this mopey? Thanks @, You're a good friend..$h#$b#I just can't help being this scared though..$s",
+                        "ian1_1": "{{i18n:event-75160146.Fork1}}",
+                        "ian1_2": "{{i18n:event-75160146.Fork2}}",
+                        "ian2_1": "{{i18n:event-75160148.Fork1}}",
+                        "ian2_2": "{{i18n:event-75160148.Fork2}}",
+                        "ian2_3": "{{i18n:event-75160148.Fork3}}",
                 }
         },
         
@@ -175,13 +175,11 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Philip",
                 "Entries": {
-                        "philip1_1": "You like it?!$h#$b#I'm glad you did! It is a little childish so I was worried if you'd find it weird.$6#$b#I'm glad I didn't really waste your time.$h",
-                        "philip1_2": "Yeah it is a little childish I admit.$6#$b#It's primary audience focus are on children really, it's not really a serious and dark type of comic book.$6#$b#But I do hope you still enjoyed it a little.$h",
-                        "philip1_3": "Oh really? You hate it that much?$s#$b#Uhmm.. I'm sorry for wasting your time..$s%fork",
+                        "philip1_1": "{{i18n:event-75160165.Fork1}}",
+                        "philip1_2": "{{i18n:event-75160165.Fork2}}",
+                        "philip1_3": "{{i18n:event-75160165.Fork3}}",
                 },
         },
-
-
         
 ]
 }
