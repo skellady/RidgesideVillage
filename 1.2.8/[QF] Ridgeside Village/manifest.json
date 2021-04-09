@@ -1,8 +1,8 @@
 {
-  "Name": "RSV Quest Framework",
+  "Name": "Ridgside Village Quest Framework",
   "Author": "Rafseazz",
   "Version": "1.2.8",
-  "Description": "Loads Quest Framework Quests",
+  "Description": "Loads Quest Framework Quests for Ridgeside Village",
   "UniqueID": "Rafseazz.RSVQF",
   "MinimumApiVersion": "3.6.0",
   "UpdateKeys": [ "Nexus:???" ],

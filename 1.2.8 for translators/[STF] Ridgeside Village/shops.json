@@ -17,7 +17,7 @@
 	"PriceMultiplierWhen": {
 		"0.6": ["f Jeric 2000"] 
 		},
-	"When": ["p Jeric/t 900 2000"],
+	"When": ["NPCAt Jeric 2 13/t 900 2000"],
     "LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
@@ -131,9 +131,9 @@
 	"MaxNumItemsSoldInStore": 5,
 	"DefaultSellPriceMultiplier": 0.7,
 	"PriceMultiplierWhen": {
-		"0.6": ["p Corine/f Pika 2000"] 
+		"0.6": ["f Pika 2000"] 
 		},
-	"When": ["t 930 2300/w sunny"],
+	"When": ["NPCAt Corine 80 56 81 56/t 930 2300/w sunny"],
     "LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
