@@ -1,0 +1,185 @@
+{
+"Changes": [
+        
+//------------------
+//    Dialogues     
+//------------------
+        {
+                //Event dialogue Aguar
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Aguar",
+                "Entries": {                        
+                        "aguar1_1": "{{i18n:event-75160061.AguarFork1}}",
+                        "aguar1_2": "{{i18n:event-75160061.AguarFork2}}",                        
+                }
+        },
+        
+        {
+                //Event dialogue Alissa
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Alissa",
+                "Entries": {                        
+                        "alissa1_1": "{{i18n:event-75160116.Fork1}}",
+                        "alissa1_2": "{{i18n:event-75160116.Fork2}}",
+                        "alissa1_3": "{{i18n:event-75160116.Fork3}}",
+                }
+        },
+        
+        {
+                //Event dialogue Bert
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Bert",
+                "Entries": {                        
+                        "bert1_1": "{{i18n:event-75160065.Fork1}}",
+                        "bert1_2": "{{i18n:event-75160065.Fork2}}",                
+                        "bert2_1": "{{i18n:event-75160067.Fork1}}",
+                        "bert2_2": "{{i18n:event-75160067.Fork2}}",
+                }
+        },
+        
+        {
+                //Event dialogue Ezekiel
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ezekiel",
+                "Entries": {                        
+                        "ezekiel1_1": "{{i18n:event-75160070.Fork1}}",
+                        "ezekiel1_2": "{{i18n:event-75160070.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Freddie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Freddie",
+                "Entries": {                        
+                        "freddie1_1": "{{i18n:event-75160074.Fork1}}",
+                        "freddie1_2": "{{i18n:event-75160074.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Jio
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Jio",
+                "Entries": {                        
+                        "jio1_1": "{{i18n:event-75160078.Fork1}}",
+                        "jio1_2": "{{i18n:event-75160078.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Keahi
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Keahi",
+                "Entries": {                        
+                        "keahi1_1": "{{i18n:event-75160083.Fork1}}",
+                        "keahi1_2": "{{i18n:event-75160083.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Kiwi
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Kiwi",
+                "Entries": {                        
+                        "kiwi1_1": "{{i18n:event-75160179.Fork1}}",
+                        "kiwi1_2": "{{i18n:event-75160179.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Lola
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Lola",
+                "Entries": {                        
+                        "lola1_1": "{{i18n:event-75160090.Fork1}}",
+                        "lola1_2": "{{i18n:event-75160090.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Pika
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Pika",
+                "Entries": {                        
+                        "pika1_1": "{{i18n:event-75160100.Fork1}}",
+                        "pika1_2": "{{i18n:event-75160100.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Trinnie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Trinnie",
+                "Entries": {                        
+                        "trinnie1_1": "{{i18n:event-75160106.Fork1}}",
+                        "trinnie1_2": "{{i18n:event-75160106.Fork2}}",                
+                }
+        },
+        
+        {
+                //Event dialogue Flor
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Flor",
+                "Entries": {                        
+                        "flor1_1": "{{i18n:event-75160128.Fork1}}",
+                        "flor1_2": "{{i18n:event-75160128.Fork2}}",
+                        "flor1_3": "{{i18n:event-75160128.Fork3}}",        
+                }
+        },
+        
+        {
+                //Event dialogue Maddie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Maddie",
+                "Entries": {                        
+                        "maddie1_1": "{{i18n:event-75160134.Fork1}}",
+                        "maddie1_2": "{{i18n:event-75160134.Fork2}}",
+                        "maddie1_3": "{{i18n:event-75160134.Fork3}}",
+                        "maddie2_1": "{{i18n:event-75160135.Fork1}}",
+                        "maddie2_2": "{{i18n:event-75160135.Fork2}}",
+                        "maddie2_3": "{{i18n:event-75160135.Fork3}}",
+                        "maddie3_1": "{{i18n:event-75160136.Fork1}}",
+                        "maddie3_2": "{{i18n:event-75160136.Fork2}}",
+                        "maddie4_1": "{{i18n:event-75160138.Fork1}}",
+                        "maddie4_2": "{{i18n:event-75160138.Fork2}}",
+                }
+        },
+        
+        {
+                //Event dialogue Ysabelle
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ysabelle",
+                "Entries": {                        
+                        "ysabelle1_1": "{{i18n:event-75160142.Fork1}}",
+                        "ysabelle1_2": "{{i18n:event-75160142.Fork2}}",
+                        "ysabelle1_3": "{{i18n:event-75160142.Fork3}}",        
+                }
+        },
+        
+        {
+                //Event dialogue Ian
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ian",
+                "Entries": {
+                        "ian1_1": "{{i18n:event-75160146.Fork1}}",
+                        "ian1_2": "{{i18n:event-75160146.Fork2}}",
+                        "ian2_1": "{{i18n:event-75160148.Fork1}}",
+                        "ian2_2": "{{i18n:event-75160148.Fork2}}",
+                        "ian2_3": "{{i18n:event-75160148.Fork3}}",
+                }
+        },
+        
+        {
+                //Event dialogue Philip
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Philip",
+                "Entries": {
+                        "philip1_1": "{{i18n:event-75160165.Fork1}}",
+                        "philip1_2": "{{i18n:event-75160165.Fork2}}",
+                        "philip1_3": "{{i18n:event-75160165.Fork3}}",
+                },
+        },
+        
+]
+}
