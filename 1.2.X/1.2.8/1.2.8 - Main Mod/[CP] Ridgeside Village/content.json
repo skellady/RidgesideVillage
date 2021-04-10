@@ -383,7 +383,7 @@
     "CustomLocations": [
       	{
          	"Name": "Custom_Ridgeside_AguarBasement",
-         	"FromMapFile": "Assets/Maps/AguarBasement.tbin",
+         	"FromMapFile": "Assets/Maps/AguarBasement.tmx",
          	"MigrateLegacyNames": [ "AguarBasement" ]
       	},
       	{
