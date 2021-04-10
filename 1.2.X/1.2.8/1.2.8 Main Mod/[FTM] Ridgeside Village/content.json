@@ -810,8 +810,8 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 2,
-              "HP": 1000,
-              "Damage": 20,
+              "HP": 300,
+              "Damage": 15,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast1",
@@ -824,7 +824,7 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 1,
-              "HP": 1550,
+              "HP": 450,
               "Damage": 35,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
@@ -838,8 +838,8 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 1,
-              "HP": 2000,
-              "Damage": 65,
+              "HP": 600,
+              "Damage": 50,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast3",
@@ -927,8 +927,8 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 2,
-              "HP": 1000,
-              "Damage": 20,
+              "HP": 300,
+              "Damage": 15,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast1",
@@ -940,8 +940,8 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
-              "HP": 1550,
+              "SpawnWeight": 1,
+              "HP": 450,
               "Damage": 35,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
@@ -955,8 +955,8 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 1,
-              "HP": 2000,
-              "Damage": 65,
+              "HP": 600,
+              "Damage": 50,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast3",
@@ -1043,9 +1043,9 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 3,
-              "HP": 1000,
-              "Damage": 20,
+              "SpawnWeight": 2,
+              "HP": 300,
+              "Damage": 15,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast1",
@@ -1057,8 +1057,8 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
-              "HP": 1550,
+              "SpawnWeight": 1,
+              "HP": 450,
               "Damage": 35,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
@@ -1072,8 +1072,8 @@
             "MonsterName": "shadow brute",
             "Settings": {
               "SpawnWeight": 1,
-              "HP": 2000,
-              "Damage": 65,
+              "HP": 600,
+              "Damage": 50,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast3",
@@ -1160,9 +1160,9 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 3,
-              "HP": 1000,
-              "Damage": 40,
+              "SpawnWeight": 2,
+              "HP": 300,
+              "Damage": 15,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast1",
@@ -1174,9 +1174,9 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 3,
-              "HP": 1550,
-              "Damage": 55,
+              "SpawnWeight": 1,
+              "HP": 450,
+              "Damage": 35,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast2",
@@ -1188,9 +1188,9 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
-              "HP": 2000,
-              "Damage": 75,
+              "SpawnWeight": 1,
+              "HP": 600,
+              "Damage": 50,
               "DodgeChance": 10,
               "RelatedSkill": "Combat",
               "Sprite": "Characters/Monsters/RSVBeast3",
