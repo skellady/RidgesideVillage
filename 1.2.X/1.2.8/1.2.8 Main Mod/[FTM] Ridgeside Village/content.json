@@ -903,7 +903,7 @@
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
           "StartTime": 600,
-          "EndTime": 2600,
+          "EndTime": 2300,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 65,
           "OnlySpawnIfAPlayerIsPresent": false,
@@ -1020,7 +1020,7 @@
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
           "StartTime": 600,
-          "EndTime": 2600,
+          "EndTime": 2300,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 75,
           "OnlySpawnIfAPlayerIsPresent": false,
@@ -1137,7 +1137,7 @@
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
           "StartTime": 600,
-          "EndTime": 2600,
+          "EndTime": 2300,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 85,
           "OnlySpawnIfAPlayerIsPresent": false,
@@ -1254,7 +1254,7 @@
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
           "StartTime": 600,
-          "EndTime": 2600,
+          "EndTime": 2300,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 95,
           "OnlySpawnIfAPlayerIsPresent": false,
@@ -1346,7 +1346,7 @@
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {
           "StartTime": 600,
-          "EndTime": 2600,
+          "EndTime": 2300,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 95,
           "OnlySpawnIfAPlayerIsPresent": false,
