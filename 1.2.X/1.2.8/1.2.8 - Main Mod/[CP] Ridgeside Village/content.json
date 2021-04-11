@@ -397,7 +397,7 @@
 //      	},     	   
       	{
          	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tmx",
+         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tbin",
          	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
       	},    
       	{
