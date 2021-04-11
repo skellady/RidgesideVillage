@@ -410,7 +410,7 @@
 			"marriage_Fri": "GOTO marriage_Tue",
 
 		},
-		"When": { "HasMod: |contains=EduAnttunes.TownSchool.CP": true, "HasSeenEvent: hostPlayer": 7777002, },
+		"When": { "HasMod: |contains=EduAnttunes.TownSchool.CP": true, "HasSeenEvent: hostPlayer |contains=7777002": true },
 	},
 
 	/*********
