@@ -35,6 +35,14 @@
 		"IsRequired": false,
 	   },
 	   {
+		"UniqueID": "flashshifter.immersivefarm2remastered",
+		"IsRequired": false,
+	   },
+       {
+        "UniqueID": "flashshifter.GrandpasFarm",
+        "IsRequired": false,
+       }  	   
+	   {
 		"UniqueID": "misscoriel.eventrepeater",
 		"IsRequired": true,
 	   },
@@ -42,13 +50,21 @@
 		"UniqueID": "SuperAardvark.AntiSocial",
 		"IsRequired": true,
 	   },
-	   {
-		"UniqueID": "flashshifter.immersivefarm2remastered",
-		"IsRequired": false,
-	   },
        {
         "UniqueID": "Bouhm.NPCMapLocations",
         "IsRequired": false,
        }	   
+       {
+        "UniqueID": "Lemurkat.JacobEloise.CP",
+        "IsRequired": false,
+       }	
+       {
+        "UniqueID": "Karmylla.ImmersiveMaps",
+        "IsRequired": false,
+       }	              
+       {
+        "UniqueID": "EduAnttunes.TownSchool.CP",
+        "IsRequired": false,
+       }                  
    ]
 }

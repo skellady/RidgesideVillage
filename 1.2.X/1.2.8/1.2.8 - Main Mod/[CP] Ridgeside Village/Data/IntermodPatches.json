@@ -389,5 +389,29 @@
 			},
 		"When": { "Relationship:Shiro": "Engaged" },
 	},	
+
+	/*********
+	** Town School
+	*********/	
+	//Flor Town School Schedule Change
+	{
+		"LogName": "Flor Town School Schedule",
+		"Action": "EditData",
+		"Target": "Characters/schedules/Flor",
+		"Entries": {
+			"Tue": "610 Town 103 90 2/1100 School 12 10 2 flor_read/1400 Town 89 100 3/1600 Custom_Ridgeside_LogCabinHotel2ndFloor 2 9 1/2200 Custom_Ridgeside_LogCabinHotel2ndFloor 3 5 0 flor_sleep",
+			"Wed": "GOTO Tue",
+			"Fri": "GOTO Tue",
+			
+	
+			//Marriage Schedule
+			"marriage_Tue": "610 Town 103 90 2/1100 School 12 10 2 flor_read/1400 Town 89 100 3/1800 BusStop -1 23 3",
+			"marriage_Wed": "GOTO marriage_Tue",
+			"marriage_Fri": "GOTO marriage_Tue",
+
+		},
+		"When": { "HasMod: |contains=EduAnttunes.TownSchool.CP": true, "HasSeenEvent: hostPlayer": 7777002, },
+	},
+
 ]
 }
