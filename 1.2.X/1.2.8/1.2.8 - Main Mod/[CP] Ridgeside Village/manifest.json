@@ -65,6 +65,10 @@
        {
         "UniqueID": "EduAnttunes.TownSchool.CP",
         "IsRequired": false,
-       },              
+       },    
+       {
+        "UniqueID": "grapeponta.VibrantPastoralRecolor",
+        "IsRequired": false,
+       },                    
    ]
 }
