@@ -41,7 +41,7 @@
        {
         "UniqueID": "flashshifter.GrandpasFarm",
         "IsRequired": false,
-       }  	   
+       }, 	   
 	   {
 		"UniqueID": "misscoriel.eventrepeater",
 		"IsRequired": true,
@@ -53,18 +53,18 @@
        {
         "UniqueID": "Bouhm.NPCMapLocations",
         "IsRequired": false,
-       }	   
+       },	   
        {
         "UniqueID": "Lemurkat.JacobEloise.CP",
         "IsRequired": false,
-       }	
+       },	
        {
         "UniqueID": "Karmylla.ImmersiveMaps",
         "IsRequired": false,
-       }	              
+       },	              
        {
         "UniqueID": "EduAnttunes.TownSchool.CP",
         "IsRequired": false,
-       }                  
+       },              
    ]
 }
