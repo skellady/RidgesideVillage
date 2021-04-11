@@ -397,12 +397,12 @@
 //      	},     	   
       	{
          	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tbin",
+         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tmx",
          	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
       	},    
       	{
          	"Name": "Custom_Ridgeside_AguarLab",
-         	"FromMapFile": "Assets/Maps/AguarLab.tbin",
+         	"FromMapFile": "Assets/Maps/AguarLab.tmx",
          	"MigrateLegacyNames": [ "AguarLab" ]
       	},
 //      	{
@@ -411,12 +411,12 @@
 //      	},
       	{
          	"Name": "Custom_Ridgeside_AlissaHouse",
-         	"FromMapFile": "Assets/Maps/AlissaHouse.tbin",
+         	"FromMapFile": "Assets/Maps/AlissaHouse.tmx",
          	"MigrateLegacyNames": [ "AlissaHouse" ]
       	},     	   
       	{
          	"Name": "Custom_Ridgeside_AlissaShed",
-         	"FromMapFile": "Assets/Maps/AlissaShed.tbin",
+         	"FromMapFile": "Assets/Maps/AlissaShed.tmx",
          	"MigrateLegacyNames": [ "AlissaShed" ]
       	},      
       	{
