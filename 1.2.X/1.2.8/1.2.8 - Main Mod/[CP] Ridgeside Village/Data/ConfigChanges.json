@@ -88,7 +88,22 @@
 			"When": { "PhilipPortraitStyle": "Legacy" },
 		},
 
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Flor",
+			"FromFile": "Assets/Characters/Flor_PrismaFrost.png",
+			"PatchMode": "Replace",
+			"When": { "FlorSpriteStyle": "PrismaFrost" },
+		},
 
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Flor_Beach",
+			"FromFile": "Assets/Characters/Flor_Beach_PrismaFrost.png",
+			"PatchMode": "Replace",
+			"When": { "FlorSpriteStyle": "PrismaFrost" },
+		},
+		
 	/*********
 	** Portraits Config Changes
 	*********/

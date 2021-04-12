@@ -176,7 +176,11 @@
 			"Default": "Default",
 			"Description": "Pick your preferred Undreya Portrait"
 		},							
-
+		"FlorSpriteStyle": {
+			"AllowValues": "Default, PrismaFrost",
+			"Default": "Default",
+			"Description": "Pick your preferred Flor Sprite"
+		},							
 	},
 
 	/*********
