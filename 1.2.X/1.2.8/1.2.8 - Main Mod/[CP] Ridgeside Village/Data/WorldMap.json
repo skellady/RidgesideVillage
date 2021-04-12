@@ -247,8 +247,8 @@
 		"Action": "EditImage",
 		"Target": "LooseSprites/map",
 		"FromFile": "Assets/MapPatches/{{season}}_map.png",
-		"PatchMode": "Replace",
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+		"PatchMode": "Overlay",
+		"When": { "HasMod: |contains=grapeponta.VibrantPastoralRecolor": false, "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasMod: |contains=Bouhm.NPCMapLocations": false },
 	},
 
 	//Vanilla w/ NPCMapLocations
