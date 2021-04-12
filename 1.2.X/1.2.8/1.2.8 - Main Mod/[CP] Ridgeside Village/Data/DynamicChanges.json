@@ -53,7 +53,7 @@
 		"Update": "OnLocationChange",
 		"When": {
 			"HasSeenEvent: hostPlayer": 75160125,
-			"LocationName": "RidgesideVillage, Ridge, Farm, FarmHouse",
+			"LocationName": "Custom_Ridgeside_RidgesideVillage, Custom_Ridgeside_Ridge, Farm, FarmHouse",
 			"DayOfWeek": "Thursday",
 		},
 	},
@@ -61,20 +61,120 @@
 		/*********
 		** Seasonal Portraits
 		*********/	
+			/*********
+			** Alissa
+			*********/	
+				/*********
+				** Summer
+				*********/	
+		{
+            "LogName": "Alissa - Summer",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Summer",
+            },
+            "Update": "OnLocationChange"			
+		},
+				/*********
+				** Fall
+				*********/	
 		{
             "LogName": "Alissa - Fall",			
 			"Action": "EditImage",
 			"Target": "Portraits/Alissa",
 			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
 			"PatchMode": "Replace",
-            "When":
-            {
-                "Season": "fall",
+            "When": {
+                "Season": "Fall",          
             },
             "Update": "OnLocationChange"			
 		},
-
-
+				/*********
+				** Winter
+				*********/			
+		{
+            "LogName": "Alissa - Winter",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+            },
+            "Update": "OnLocationChange"			
+		},
+		{
+            "LogName": "Alissa - Winter - Inside",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/Inside_{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+				"LocationName": "Custom_Ridgeside_AlissaHouse, Custom_Ridgeside_AlissaShed, Custom_Ridgeside_BertHouse, Custom_Ridgeside_LennyHouse, SeedShop, AnimalShop, Farm, FarmHouse",                
+            },
+            "Update": "OnLocationChange"			
+		},
+			/*********
+			** Corine
+			*********/	
+				/*********
+				** Summer
+				*********/	
+		{
+            "LogName": "Corine - Summer",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Summer",
+            },
+            "Update": "OnLocationChange"			
+		},						
+				/*********
+				** Fall
+				*********/	
+		{
+            "LogName": "Corine - Fall",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Fall",          
+            },
+            "Update": "OnLocationChange"			
+		},
+				/*********
+				** Winter
+				*********/			
+		{
+            "LogName": "Corine - Winter",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+            },
+            "Update": "OnLocationChange"			
+		},
+		{
+            "LogName": "Corine - Winter - Inside",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/Inside_{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+				"LocationName": "Custom_Ridgeside_EzekielHouse, Custom_Ridgeside_LogCabinHotelLobby, SeedShop, Saloon, Farm, FarmHouse",                
+            },
+            "Update": "OnLocationChange"			
+		},		
 	/*********
 	** Sprite Changes
 	*********/	
