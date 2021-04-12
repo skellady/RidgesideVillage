@@ -146,7 +146,7 @@
 		"FromArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 }, 
 		"ToArea": { "X": 0, "Y": 180, "Width": 58, "Height": 183 },
 		"PatchMode": "Overlay",
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
+		"When": { "HasMod: |contains=grapeponta.VibrantPastoralSVE": false, "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "HasMod: |contains=Bouhm.NPCMapLocations": false },
 	},
  	{
 		"LogName": "Map Overlay 3",
@@ -466,7 +466,7 @@
 	},
 
  	{
-		"LogName": "Map replacement with Pastoral, SVE and installed",
+		"LogName": "Map replacement with Pastoral and SVE installed",
 		"Action": "EditImage",
 		"Target": "LooseSprites/map",
 		"FromFile": "Assets/MapPatches/PastoralCompat/{{season}}_map.png",
