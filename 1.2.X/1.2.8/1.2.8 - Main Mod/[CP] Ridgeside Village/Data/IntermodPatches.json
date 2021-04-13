@@ -478,7 +478,7 @@
 		"LogName": "Map overlay with Pastoral and SVE installed",
 		"Action": "EditImage",
 		"Target": "LooseSprites/map",
-		"FromFile": "Assets/MapPatches/PastoralCompat/{{season}}_map.png",
+		"FromFile": "Assets/MapPatches/PastoralCompat/{{season}}_map_{{PastoralMapStyle}}.png",
 		"FromArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 }, 
 		"ToArea": { "X": 0, "Y": 53, "Width": 58, "Height": 78 },
 		"PatchMode": "Overlay",
