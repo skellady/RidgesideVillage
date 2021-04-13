@@ -69,6 +69,10 @@
        {
         "UniqueID": "grapeponta.VibrantPastoralRecolor",
         "IsRequired": false,
-       },                    
+       },   
+       {
+        "UniqueID": "grapeponta.VibrantPastoralSVE",
+        "IsRequired": false,
+       },                           
    ]
 }
