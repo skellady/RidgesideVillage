@@ -181,6 +181,11 @@
 			"Default": "Default",
 			"Description": "Pick your preferred Flor Sprite"
 		},							
+		"PastoralMapStyle": {
+			"AllowValues": "PastoralBase, PastoralGreen",
+			"Default": "PastoralBase",
+			"Description": "Pick your preferred Pastoral fall season map-style"
+		},					
 	},
 
 	/*********
