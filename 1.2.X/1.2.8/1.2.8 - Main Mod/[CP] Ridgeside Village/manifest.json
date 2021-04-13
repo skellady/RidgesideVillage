@@ -15,6 +15,10 @@
 		"IsRequired": true,
 	   },
 	   {
+		"UniqueID": "Esca.FarmTypeManager",
+		"IsRequired": true,
+	   },	   
+	   {
 		"UniqueID": "spacechase0.CustomNPCFixes",
 		"IsRequired": true,
 	   },
@@ -25,7 +29,31 @@
 	   {
         "UniqueID": "PurrplingCat.QuestFramework",
         "IsRequired": true,
-	   },	   
+	   },
+	   {
+        "UniqueID": "PurrplingCat.QuestEssentials",
+        "IsRequired": true,
+	   },	  	   	   
+	   {
+        "UniqueID": "Platonymous.TMXLoader",
+        "IsRequired": true,
+	   },	 
+	   {
+        "UniqueID": "Platonymous.CustomMusic",
+        "IsRequired": true,
+	   },	 	   	   
+	   {
+        "UniqueID": "Platonymous.Toolkit",
+        "IsRequired": true,
+	   },	 	   	   	   
+	   {
+		"UniqueID": "misscoriel.eventrepeater",
+		"IsRequired": true,
+	   },
+	   {
+		"UniqueID": "SuperAardvark.AntiSocial",
+		"IsRequired": true,
+	   },
 	   {
 		"UniqueID": "MoreFish",
 		"IsRequired": false,
@@ -42,14 +70,6 @@
         "UniqueID": "flashshifter.GrandpasFarm",
         "IsRequired": false,
        }, 	   
-	   {
-		"UniqueID": "misscoriel.eventrepeater",
-		"IsRequired": true,
-	   },
-	   {
-		"UniqueID": "SuperAardvark.AntiSocial",
-		"IsRequired": true,
-	   },
        {
         "UniqueID": "Bouhm.NPCMapLocations",
         "IsRequired": false,
