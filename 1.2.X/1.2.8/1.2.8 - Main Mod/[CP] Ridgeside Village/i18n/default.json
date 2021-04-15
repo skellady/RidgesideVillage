@@ -44,6 +44,24 @@
 "Name.Undreya": "Undreya",
 "Name.Helen": "Helen",
 
+// NPC Data
+"NPC_Data.Alissa": "Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'",
+"NPC_Data.Bert": " Olga 'wife' Trinnie 'daughter' Alissa 'niece Alissa'",
+"NPC_Data.Corine": "Ezekiel 'dad'",
+"NPC_Data.Ezekiel": "Corine 'daughter'",
+"NPC_Data.Freddie": "Lola 'wife'",
+"NPC_Data.Keahi": "Pika 'dad'",
+"NPC_Data.Lenny": "Lewis 'brother'",
+"NPC_Data.Lola": "Freddie 'husband'",
+"NPC_Data.Olga": "Bert 'husband' Trinnie 'daughter' Alissa 'daughter'",
+"NPC_Data.Pika": "Keahi 'son'",
+"NPC_Data.Richard": "Ysabelle 'granddaughter'",
+"NPC_Data.Shiro": "Yuuma 'brother'",
+"NPC_Data.Trinnie": "Bert 'dad' Olga 'mom' Alissa 'sister'",
+"NPC_Data.Ysabelle": "Richard 'grandfather'",
+"NPC_Data.Yuuma": "Shiro 'brother'",
+"NPC_Data.Helen": "Ezekiel 'husband' Corine 'daughter'",
+
 //--------------------
 //Gift Taste Dialogues
 //--------------------
