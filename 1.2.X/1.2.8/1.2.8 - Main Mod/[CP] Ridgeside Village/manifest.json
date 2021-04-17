@@ -33,7 +33,11 @@
 	   {
         "UniqueID": "PurrplingCat.QuestEssentials",
         "IsRequired": true,
-	   },	  	   	   
+	   },
+	   {
+        "UniqueID": "PurrplingCat.CustomGiftDialogue",
+        "IsRequired": true,
+	   },	   	  	   	   
 	   {
         "UniqueID": "Platonymous.TMXLoader",
         "IsRequired": true,

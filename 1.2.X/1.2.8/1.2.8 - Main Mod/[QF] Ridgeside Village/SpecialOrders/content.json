@@ -14,24 +14,10 @@
 					"RequiredTags": "season_winter, mail_gusGiantOmelet",
 					"OrderType": "QF:RSVSpecialOrders",
 					"SpecialRule": "",
-					"Text": "[Lumisteria.SpecialOrders.EmilyWarmCloth_Text]",
+					"Text": "PLACEHOLDER",
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
-					"RandomizedElements": [
-					  {
-						"Name": "Text",
-						"Values": [
-						  {
-							"RequiredTags": "",
-							"Value": "[Lumisteria.SpecialOrders.EmilyWarmCloth_RE_Text_0]"
-						  },
-						  {
-							"RequiredTags": "",
-							"Value": "[Lumisteria.SpecialOrders.EmilyWarmCloth_RE_Text_1]"
-						  },
-						]
-					  }
-					],
+					"RandomizedElements": null,
 					"Objectives": [
 					  {
 						"Type": "Collect",
@@ -80,7 +66,7 @@
     "Name": "[Andy_Name]",
     "Requester": "Andy",
     "Duration": "TwoWeeks",
-    "Repeatable": "False",
+    "Repeatable": "True",
     "RequiredTags": "event_5000005, !event_5407915",
 	"OrderType": "QF:RSVSpecialOrders",
     "SpecialRule": "",
