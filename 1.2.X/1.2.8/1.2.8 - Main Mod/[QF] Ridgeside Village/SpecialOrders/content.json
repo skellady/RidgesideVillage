@@ -1,0 +1,220 @@
+{
+	"Format": "1.21.0",
+
+    "Changes": [
+        {
+		"Action": "EditData",
+		"Target": "Data/SpecialOrders",
+			"Entries": {
+				"LennyOrder1": {
+					"Name": "RSV Special Orders test",
+					"Requester": "Lenny",
+					"Duration": "TwoWeeks",
+					"Repeatable": "True",
+					"RequiredTags": "season_winter, mail_gusGiantOmelet",
+					"OrderType": "QF:RSVSpecialOrders",
+					"SpecialRule": "",
+					"Text": "[Lumisteria.SpecialOrders.EmilyWarmCloth_Text]",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": [
+					  {
+						"Name": "Text",
+						"Values": [
+						  {
+							"RequiredTags": "",
+							"Value": "[Lumisteria.SpecialOrders.EmilyWarmCloth_RE_Text_0]"
+						  },
+						  {
+							"RequiredTags": "",
+							"Value": "[Lumisteria.SpecialOrders.EmilyWarmCloth_RE_Text_1]"
+						  },
+						]
+					  }
+					],
+					"Objectives": [
+					  {
+						"Type": "Collect",
+						"Text": "[Lumisteria.SpecialOrders.EmilyWarmCloth_Objective_0_Text]",
+						"RequiredCount": "15",
+						"Data": {
+							"AcceptedContextTags": "item_cloth"
+						}
+					  },
+					  {
+						"Type": "Ship",
+						"Text": "[Lumisteria.SpecialOrders.EmilyWarmCloth_Objective_1_Text]",
+						"RequiredCount": "15",
+						"Data": {
+							"AcceptedContextTags": "item_cloth"
+						}
+					  }
+					],
+					"Rewards": [
+					  {
+						"Type": "Money",
+						"Data": {
+						  "Amount": "1000",
+						}
+					  },
+					  {
+						"Type": "Friendship",
+						"Data": {}
+					  },
+					  {
+						"Type": "Mail",
+						"Data": {
+						  "MailReceived": "Lumisteria.SpecialOrders.EmilyWarmClothMail",
+						  "NoLetter": "false"
+						}
+					  }
+					]
+					},
+				},
+          }
+{ //Andy's special order
+  "Action": "EditData",
+  "Target": "Data/SpecialOrders",
+  "Entries": {
+  "Andy": {
+    "Name": "[Andy_Name]",
+    "Requester": "Andy",
+    "Duration": "TwoWeeks",
+    "Repeatable": "False",
+    "RequiredTags": "event_5000005, !event_5407915",
+	"OrderType": "QF:RSVSpecialOrders",
+    "SpecialRule": "",
+    "Text": "[Andy_Text]",
+    "ItemToRemoveOnEnd": null,
+    "MailToRemoveOnEnd": null,
+    "RandomizedElements": null,
+    "Objectives": [
+      {
+        "Type": "Donate",
+        "Text": "[Andy_Objective_1_Text]",
+        "RequiredCount": "500",
+        "Data": {
+          "DropBox": "AndyChest",
+          "DropBoxGameLocation": "Custom_AndyHouse",
+          "DropBoxIndicatorLocation": "12 5.5",
+          "AcceptedContextTags": "item_wood"
+        }
+      },
+	  {
+        "Type": "Donate",
+        "Text": "[Andy_Objective_2_Text]",
+        "RequiredCount": "75",
+        "Data": {
+          "DropBox": "AndyChest",
+          "DropBoxGameLocation": "Custom_AndyHouse",
+          "DropBoxIndicatorLocation": "12 5.5",
+          "AcceptedContextTags": "item_hardwood"
+        }
+      },
+	  {
+        "Type": "Donate",
+        "Text": "[Andy_Objective_3_Text]",
+        "RequiredCount": "500",
+        "Data": {
+          "DropBox": "AndyChest",
+          "DropBoxGameLocation": "Custom_AndyHouse",
+          "DropBoxIndicatorLocation": "12 5",
+          "AcceptedContextTags": "item_stone"
+        }
+      },
+	  {
+        "Type": "Donate",
+        "Text": "[Andy_Objective_4_Text]",
+        "RequiredCount": "15",
+        "Data": {
+          "DropBox": "AndyChest",
+          "DropBoxGameLocation": "Custom_AndyHouse",
+          "DropBoxIndicatorLocation": "12 5.5",
+          "AcceptedContextTags": "item_iron_bar"
+        }
+      },
+    ],
+    "Rewards": [
+      {
+        "Type": "Money",
+        "Data": {
+          "Amount": "5362"
+        }
+      },
+      {
+        "Type": "Mail",
+        "Data": {
+          "MailReceived": "AndyCellar"
+        }
+      },
+      {
+        "Type": "Friendship",
+        "Data": {}
+      }
+    ]
+  },
+ }
+},
+    {
+      "LogName": "Repeatable Abigail Sweet and Spicy",
+      "Action": "EditData",
+      "Target": "Data/SpecialOrders",
+      "Entries": {
+        "TowniesNeedFood_Abigail_SweetandSpicy": {
+          "Name": "[TowniesNeedFood_Abigail_SweetandSpicy_Name]",
+          "Requester": "Abigail",
+          "Duration": "Week",
+          "Repeatable": "True",
+          "RequiredTags": "",
+		"OrderType": "QF:RSVSpecialOrders",
+          "SpecialRule": "",
+          "Text": "[TowniesNeedFood_Abigail_SweetandSpicy_Text]",
+          "ItemToRemoveOnEnd": null,
+          "MailToRemoveOnEnd": null,
+          "RandomizedElements": null,
+          "Objectives": [
+            {
+              "Type": "Deliver",
+              "Text": "[TowniesNeedFood_Abigail_SweetandSpicy_Objective_Text_0]",
+              "RequiredCount": "1",
+              "Data": {
+                "AcceptedContextTags": "item_blackberry_cobbler",
+                "Message": "[TowniesNeedFood_Abigail_SweetandSpicy_Message_0]",
+                "TargetName": "Abigail"
+              }
+            },
+            {
+              "Type": "Deliver",
+              "Text": "[TowniesNeedFood_Abigail_SweetandSpicy_Objective_Text_1]",
+              "RequiredCount": "1",
+              "Data": {
+                "AcceptedContextTags": "item_spicy_eel",
+                "Message": "[TowniesNeedFood_Abigail_SweetandSpicy_Message_1]",
+                "TargetName": "Abigail"
+              }
+            }
+          ],
+          "Rewards": [
+            {
+              "Type": "Money",
+              "Data": {
+                "Amount": "1305"
+              }
+            },
+            {
+              "Type": "Friendship",
+              "Data": {}
+            }
+          ]
+        }
+      },
+      "When": {
+        "Repeatable": "true",
+        "PlayerHasKitchen": true,
+        "Year | contains=1": false,
+        "Hearts:George": "7, 8, 9, 10",
+        "Season": "Fall"
+      }
+    },          
+    ],
+}

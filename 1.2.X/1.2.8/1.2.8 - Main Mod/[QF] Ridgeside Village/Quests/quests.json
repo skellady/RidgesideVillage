@@ -740,15 +740,7 @@
 //---------
   
   "Offers": [
-	{
-      "QuestName": "bert_honey",
-      "OfferedBy": "Bulletinboard",
-      "When": {
-        "Days": "21",
-        "Seasons": "spring",
-		"QuestNeverCompleted": "yes"
-      }
-    },
+
 	
 	{
       "QuestName": "trinnie_sunflower",
@@ -857,6 +849,15 @@
     },
 	
 //RSVBoard Offers
+	{
+      "QuestName": "bert_honey",
+      "OfferedBy": "Board:RSVQuestBoard",
+      "When": {
+        "Days": "21",
+        "Seasons": "spring",
+		"QuestNeverCompleted": "yes"
+      }
+    },
 	{
 	"QuestName": "aguar_gem",
 	"OfferedBy": "Board:RSVQuestBoard",
