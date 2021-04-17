@@ -1115,7 +1115,7 @@
     "BoardName": "RSVSpecialOrders", // This is custom special order board
     "BoardType": "SpecialOrders",
     "Location": "Custom_Ridgeside_RidgesideVillage",
-    "Tile": "109,41",
+    "Tile": "118,40",
     "IndicatorOffset": "11,-19",
     },
   ],
@@ -1124,7 +1124,7 @@
     {
       "Name": "RSVDropBox",
       "Location": "Custom_Ridgeside_RidgesideVillage",
-      "Tile": "709,45"
+      "Tile": "120,40"
     }
   ]
 }
