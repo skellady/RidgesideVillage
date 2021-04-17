@@ -569,8 +569,9 @@
 		}
     },
 
+	// QE Test Quests.
     {
-      "Name": "TestSellQuest",
+      "Name": "ParsnipQuest",
       "Type": "PurrplingCat.QuestEssentials/SellItem",
       "Title": "Sell some parsnips",
       "Description": "Sell 10 pieces of parsnip in shipping bin or in any shop in the town.",
