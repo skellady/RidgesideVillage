@@ -10,7 +10,7 @@
 					"Duration": "TwoWeeks",
 					"Repeatable": "True",
 					"RequiredTags": "mail_MSB_Lewis",
-					"OrderType": "",
+					"OrderType": "QF:RsvSpecialOrders",
 					"SpecialRule": "",
 					"Text": "[Lumisteria.SpecialOrders.EmilyDye_Text]",
 					"ItemToRemoveOnEnd": null,

@@ -11,7 +11,7 @@
 					"Duration": "Week",
 					"Repeatable": "True",
 					"RequiredTags": "!dropbox_RobinWood, mail_DemetriusReward",
-					"OrderType": "",
+					"OrderType": "QF:RsvSpecialOrders",
 					"SpecialRule": "",
 					"Text": "[Lumisteria.SpecialOrders.DemetriusCrabPotStudy_Text]",
 					"ItemToRemoveOnEnd": null,

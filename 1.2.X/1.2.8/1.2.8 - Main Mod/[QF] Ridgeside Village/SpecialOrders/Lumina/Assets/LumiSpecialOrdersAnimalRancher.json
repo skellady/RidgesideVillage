@@ -10,7 +10,7 @@
 					"Duration": "TwoWeeks",
 					"Repeatable": "True",
 					"RequiredTags": "season_winter, mail_gusGiantOmelet",
-					"OrderType": "",
+					"OrderType": "QF:RsvSpecialOrders",
 					"SpecialRule": "",
 					"Text": "[Lumisteria.SpecialOrders.EmilyWarmCloth_Text]",
 					"ItemToRemoveOnEnd": null,
