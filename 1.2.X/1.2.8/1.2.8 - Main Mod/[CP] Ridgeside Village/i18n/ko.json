@@ -44,6 +44,24 @@
 "Name.Undreya": "Undreya",
 "Name.Helen": "Helen",
 
+// NPC Data
+"NPC_Data.Alissa": "Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'",
+"NPC_Data.Bert": " Olga 'wife' Trinnie 'daughter' Alissa 'niece Alissa'",
+"NPC_Data.Corine": "Ezekiel 'dad'",
+"NPC_Data.Ezekiel": "Corine 'daughter'",
+"NPC_Data.Freddie": "Lola 'wife'",
+"NPC_Data.Keahi": "Pika 'dad'",
+"NPC_Data.Lenny": "Lewis 'brother'",
+"NPC_Data.Lola": "Freddie 'husband'",
+"NPC_Data.Olga": "Bert 'husband' Trinnie 'daughter' Alissa 'daughter'",
+"NPC_Data.Pika": "Keahi 'son'",
+"NPC_Data.Richard": "Ysabelle 'granddaughter'",
+"NPC_Data.Shiro": "Yuuma 'brother'",
+"NPC_Data.Trinnie": "Bert 'dad' Olga 'mom' Alissa 'sister'",
+"NPC_Data.Ysabelle": "Richard 'grandfather'",
+"NPC_Data.Yuuma": "Shiro 'brother'",
+"NPC_Data.Helen": "Ezekiel 'husband' Corine 'daughter'",
+
 //--------------------
 //Gift Taste Dialogues
 //--------------------
@@ -2274,7 +2292,7 @@
 
 	//Farmer compliments Trinnie
 "event-75160106.06": "You're doing a good job taking care of them!",
-"event-75160106.Fork2": "Really @? Coming from a farmer, that means a lot!$h",
+"event-75160106.Fork1": "Really @? Coming from a farmer, that means a lot!$h",
 "event-75160106.08": "And this one over here is Lilly!$h#$b#Want to sprinkle her daily water @? Come on! It's fun!",
 "event-75160106.09": "Here ya go @!$h",
 "event-75160106.10": "Yey!! She's a little happier now!$h",
@@ -2349,7 +2367,7 @@
 //Ysabelle bored at lobby (Ysabelle 2 hearts)
 "event-75160141.01": "Oh dear... This is the very definition of stagnant...$6#$b#Just a little more till 4PM, then I can finally go.$h#$b#But what to do until then? Hmm...$6",
 "event-75160141.02": "Oh! Why hello there, @!$h#$b#Welcome to the Log Cabin Hotel and all that.#$b#@, what brings you here?#$b#Come over, talk to me for a while, it gets boring here sometimes.$h",
-"event-75160141.03": "Ah, I'm glad I get to talk with someone.$h#$b#Would you be so kind as tokeep me company me for a while?",
+"event-75160141.03": "Ah, I'm glad I get to talk with someone.$h#$b#Would you be so kind as to keep me company me for a while?",
 "event-75160141.04": "So hey, how's the farm? I heard from Grandfather that you inherited a huge plot of land!#$b#How are you finding the farming life so far?",
 "event-75160141.05": "Glad to hear that!#$b#It would be fun to visit your farm. Could Grandfather and I come by sometime?$h#$b#It would be a lovely way to spend a day off!",
 "event-75160141.06": "My, you're quite agreeable aren't you?#$b#It is possible to be too kind, you know.$6#$b#Hmm...$6#$b#Hey, @.",
