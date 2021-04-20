@@ -142,15 +142,29 @@
 	
 
 //------------------------
-// D I A L O G U E S      
+// Regular Dialogue
 //------------------------
 
 	{
-		"LogName": "Dialogue",
+		"LogName": "Load Ridgeside Dialogue",
 		"Action": "Load",
-		"Target": "Characters/Dialogue/Aguar, Characters/Dialogue/Alissa, Characters/Dialogue/Bert, Characters/Dialogue/Corine, Characters/Dialogue/Ezekiel, Characters/Dialogue/Flor, Characters/Dialogue/Freddie, Characters/Dialogue/Ian, Characters/Dialogue/Jeric, Characters/Dialogue/Jio, Characters/Dialogue/Keahi, Characters/Dialogue/Kenneth, Characters/Dialogue/Kiwi, Characters/Dialogue/Lenny, Characters/Dialogue/Lola, Characters/Dialogue/Maddie, Characters/Dialogue/Olga, Characters/Dialogue/Philip, Characters/Dialogue/Pika, Characters/Dialogue/Richard, Characters/Dialogue/Shiro, Characters/Dialogue/Trinnie, Characters/Dialogue/Ysabelle, Characters/Dialogue/Yuuma, Characters/Dialogue/Undreya, Characters/Dialogue/Helen",
+		"Target": "Characters/Dialogue/Aguar, Characters/Dialogue/Bert, Characters/Dialogue/Corine, Characters/Dialogue/Ezekiel, Characters/Dialogue/Flor, Characters/Dialogue/Freddie, Characters/Dialogue/Ian, Characters/Dialogue/Jeric, Characters/Dialogue/Jio, Characters/Dialogue/Keahi, Characters/Dialogue/Kenneth, Characters/Dialogue/Kiwi, Characters/Dialogue/Lenny, Characters/Dialogue/Lola, Characters/Dialogue/Maddie, Characters/Dialogue/Olga, Characters/Dialogue/Philip, Characters/Dialogue/Pika, Characters/Dialogue/Richard, Characters/Dialogue/Shiro, Characters/Dialogue/Trinnie, Characters/Dialogue/Ysabelle, Characters/Dialogue/Yuuma, Characters/Dialogue/Undreya, Characters/Dialogue/Helen",
 		"FromFile": "Assets/Dialogue/{{Language}}/{{TargetWithoutPath}}.json",
 	},
+
+  {
+	"LogName": "Load Empty Ridgeside Dialogue File",
+   	"Action": "Load",
+   	"Target": "Characters/Dialogue/Alissa",
+   	"FromFile": "Data/LoadDialogue.json"
+  },
+
+  {
+	"LogName": "Include Ridgeside Dialogue Files",
+   	"Action": "Include",
+   	"FromFile": "Assets/Dialogue/Alissa.json",
+  },  
+
 	
 //------------------------
 // S C H E D U L E S      
