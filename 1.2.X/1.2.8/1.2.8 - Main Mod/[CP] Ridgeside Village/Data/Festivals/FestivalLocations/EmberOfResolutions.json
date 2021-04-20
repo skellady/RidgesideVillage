@@ -10,7 +10,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Aguar 27 30 right/Alissa 36 32 up/Bert 42 28 down/Corine 29 47 right/Ezekiel 26 38 down/Flor 39 53 down/Freddie 32 36 right/Ian 53 35 right/Jeric 49 47 down/Jio 40 11 down/Keahi 32 41 left/Kenneth 45 28 down/Kiwi 39 11 down/Lenny 44 46 left/Lola 34 34 down/Maddie 49 49 up/Olga 34 44 down/Philip 32 32 up/Pika 38 30 left/Richard 51 39 right/Shiro 43 32 up/Trinnie 31 42 up/Ysabelle 31 47 left/Yuuma 42 33 down/Sophia 43 34 down",
+         "Value": "Aguar 27 30 right/Alissa 36 32 up/Bert 42 28 down/Corine 29 47 right/Ezekiel 26 38 down/Flor 39 53 down/Freddie 32 36 right/Ian 53 35 right/Jeric 49 47 down/Jio 40 11 down/Keahi 32 41 left/Kenneth 45 28 down/Kiwi 39 11 down/Lenny 44 46 left/Lola 34 34 down/Maddie 49 49 up/Olga 34 44 down/Philip 32 32 up/Pika 38 30 left/Richard 51 39 right/Shiro 43 32 up/Trinnie 31 42 up/Ysabelle 31 47 left/Yuuma 42 33 down",
          "Delimiter": "/"
 		},
 	

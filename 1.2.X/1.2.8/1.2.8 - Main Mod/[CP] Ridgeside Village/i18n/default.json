@@ -2551,9 +2551,10 @@
 "QuestEvent.75160190.09": "I'm just happy to get another gig.$h",
 "QuestEvent.75160190.10": "Be careful, Ian! I still need you for other things, haha!$4#$b#Alright folks, that's all for today!$h",
 
-//InterModEvents
-	//East Scarpe
-		//Adds Eloise to Trinnie 6 Heart Event
+//InterModPatches
+	//InterModEvents
+		//East Scarpe
+			//Adds Eloise to Trinnie 6 Heart Event
 "InterModEvent.EastScarpe.Trinnie6Hearts.01": "GOODMORNING, @!!$h",
 "InterModEvent.EastScarpe.Trinnie6Hearts.02": "@! Hello!!$h",
 "InterModEvent.EastScarpe.Trinnie6Hearts.03": "Woah! Your farm is big!$h",
@@ -2574,12 +2575,12 @@
 "InterModEvent.EastScarpe.Trinnie6Hearts.18": "...$u",
 "InterModEvent.EastScarpe.Trinnie6Hearts.19": "A bee needs... hands?$h^I guess you're BEE-autiful.$h",
 
-		//Adds Eloise to Yuuma 4 Heart Event
+			//Adds Eloise to Yuuma 4 Heart Event
 "InterModEvent.EastScarpe.Yuuma4Hearts.01": "Oh, hello there, @.#$b#I'm sorry... I should get going.#$b#I have to go pick up my brother's medicine at the clinic.",
 "InterModEvent.EastScarpe.Yuuma4Hearts.02": "Oh?#$b#Them? They're just playing.#$b#Why won't I join?$s#$b#Uhm...$u#$b#I mean...$s#$b#I have stuff to do...$u#$b#So...$s",
 "InterModEvent.EastScarpe.Yuuma4Hearts.03": "I better get going, @. I have to hurry back to my brother.$s",
 
-		//Adds Eloise and Jacob to Alissa's 8 Heart Event
+			//Adds Eloise and Jacob to Alissa's 8 Heart Event
 "InterModEvent.EastScarpe.Alissa8Hearts.01": "I'm glad you came, @!$8#$b#I'm still shaking, though!#$b#I feel like I could explode any second.#$b#I'm so nervous.$11#$b#Okay... Calm down Alissa! Don't back down... Don't give up!$11",
 "InterModEvent.EastScarpe.Alissa8Hearts.02": "Well then. Seems like our guest of honor as arrived!$h#$b#Let's give the people what they want! Everyone's excited to hear you sing!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.03": "Miss Lenny! You didn't have to say that out loud!$9",
@@ -2613,6 +2614,22 @@
 "InterModEvent.EastScarpe.Alissa8Hearts.31": "Thank.. Thank you! Thank you everyone!$10#$b#Ang uhmmm.. Thank.. Thank you to @.$9#$b#Without him, I wouldn't have the courage to sing here for all of you!$9^Without her, I wouldn't have the courage to sing here for all of you!$9",
 "InterModEvent.EastScarpe.Alissa8Hearts.32": "Alissa and the band then continued to play for the crowd with more songs.#Alissa looks so happy and confident now!#Everyone had fun!",
 "InterModEvent.EastScarpe.Alissa8Hearts.33": "Hey uhmm, @... Thank you for everything!$l#$b#I feel a little bit more confident now!$h#$b#I hope everyone had a ton of fun!$h",
+
+	//IntermodDialogue
+		//Festival Dialogue
+			//Gathering
+"InterModDialogue.GatheringDialogue.Sophia": "PLACEHOLDER",
+"InterModDialogue.GatheringDialogue.Victor": "PLACEHOLDER",
+"InterModDialogue.GatheringDialogue.Olivia": "PLACEHOLDER",
+"InterModDialogue.GatheringDialogue.Andy": "PLACEHOLDER",
+"InterModDialogue.GatheringDialogue.Susan": "PLACEHOLDER",
+
+			//Ember Of Resolutions
+"InterModDialogue.EmberNightDialogue.Sophia": "PLACEHOLDER",
+"InterModDialogue.EmberNightDialogue.Victor": "PLACEHOLDER",
+"InterModDialogue.EmberNightDialogue.Olivia": "PLACEHOLDER",
+"InterModDialogue.EmberNightDialogue.Andy": "PLACEHOLDER",
+"InterModDialogue.EmberNightDialogue.Susan": "PLACEHOLDER",
 
 //Animations
 "Animations.Aguar.Meditate": "%Mr. Aguar seems to be meditating.",
@@ -4324,46 +4341,6 @@
 "Festivals.EoR.Ysabelle": "Happy New Year, @!#$e#Corine is really itching for adventure today.$6#$b#I hope she won't get any weird ideas again and ask me to climb something like last year!$6#$e#I'm secretly hoping she asks me, though.$h#$b#I need the excitement!$h",
 "Festivals.EoR.Ysabelle_spouse": "Hey baby, Happy New Year!$l#$b#My grandfather told me about how hotel guests used to spend the new year on the Log Cabin's balcony.#$b#Sounds quite romantic, doesn't it?$l#$b#Perhaps we should sneak out with a bottle of wine.$h",
 
-	//Ridgeside Gathering
-
-		//Non-Dateables
-"Festivals.Gathering.Aguar": "I don't mind having these festivities in Ridgeside.#$b#I prefer it over going all the way to Pelican Town.",
-"Festivals.Gathering.Bert": "Gus and Pika have really outdone themselves by providing a combined menu!$u#$b#My belly is excited!$h",
-"Festivals.Gathering.Ezekiel": "I'm not a fan of having this many boys around Corine.$a#$b#Or am I being too much of a worrywart?$s",
-"Festivals.Gathering.Freddie": "It's great to see some familiar faces.$h",
-"Festivals.Gathering.Jio": "The locals seem to be very fond of festivities.#$e#I'm worried Kiwi will get dizzy... $h",
-"Festivals.Gathering.Keahi": "I'm selling some fruit I picked up yesterday!$h#$b#BOYS RULE! WOOHOO!$h",
-"Festivals.Gathering.Kiwi": "Hup hup!#$b#Kiwi can flip front all day.$h",
-"Festivals.Gathering.Lenny": "I'm glad everyone's having fun!$h#$b#I hope the rivalry doesn't cause a food fight, though.$u#$b#Lewis still hasn't forgiven me for starting one back then... $s ",
-"Festivals.Gathering.Lola": "Evelyn and I have a lot to catch up on!$h#$b#We rarely see each other.$s",
-"Festivals.Gathering.Olga": "I hope the kids are having fun.#$b#I'm glad they get along with each other.$h",
-"Festivals.Gathering.Pika": "Oh hey, @! Nice seeing you!$h#$b#If you want to order, give me a shout!",
-"Festivals.Gathering.Richard": "The Ridgeside Gathering is a huge opportunity for the Log Cabin.#$b#Some Pelican Town folk will be too tired to go back home, so they might stay for one night.$h",
-"Festivals.Gathering.Trinnie": "I'm pretty sure my plants will sell like hotcakes!$h#$b#GIRLS RULE! YAAY!$h",
-"Festivals.Gathering.Yuuma": "Everyone has brought something to sell.#$b#I wonder who started this whole competition between the boys and girls, though.",
-		
-		//Dateables
-"Festivals.Gathering.Alissa": "Come and buy our goods, @!$h#$b#I promise you won't regret it!#$e#Sorry Jeric, But we'll win.$a",
-"Festivals.Gathering.Alissa_spouse": "Darling! Help us win!$h#$b#Lookie here! We don't have this plant at home, do we?$h",
-"Festivals.Gathering.Corine": "Look at the their stall! It looks run-down!$h#$b#Sorry boys, but we'll win this one.$h#$e#Hey Abby! Want to go take a peek at what they're selling?$h",
-"Festivals.Gathering.Corine_spouse": "I'll love you no matter who you help win this year, love.#$b#BI just won't talk to you for a year if they win.$h",
-"Festivals.Gathering.Flor": "I'm interested in what the stalls on the other side sell.#$b#But the ladies tell me I should stay here.#$e#Hmmm... I'm quite confused.$s",
-"Festivals.Gathering.Flor_spouse": "Uhmm... I brought some of my old books to sell.#$b#I wonder if someone will buy them.#$e#Hey Elliott, here's the sculpture design I've been telling you about!$h",
-"Festivals.Gathering.Ian": "Phew, This wood sculpture is almost done.$h#$b#It's not as good as Leah's though.#$b#Oh well, I still hope someone buys it.$h",
-"Festivals.Gathering.Ian_spouse": "Are you having fun, honey?#$b#I have to finish this sculpture first. I'll join you in a while.",
-"Festivals.Gathering.Jeric": "Come right up and see the best stall in the valley!$h#$b#Blood, sweat and tears were involved in making this stall!$h#$e#Hey Shane!Did you forget the decorations!?$a",
-"Festivals.Gathering.Jeric_spouse": "Hey baby, do me a favor and spy on their wares, would you?$h#$b#Ha ha! I'm just kidding. I'm don't feel insecure at all.. Ha ha!$h",
-"Festivals.Gathering.Kenneth": "I'm interested in seeing Maru's little robot over there.#$b#I'll go take a quick look later.#$e#Oh! I should show Sam the new amplifier I've been working on!$h",
-"Festivals.Gathering.Kenneth_spouse": "Have you visited Pika and Gus's stall, honey? They're selling lots of food!$h#$b#I'll go catch up as soon as I sell some stuff here.$h",
-"Festivals.Gathering.Maddie": "This little bear clock is soooo cute!$9#$b#I want to buy it!$h#$e#Hey Leah! Did you make this?$h",
-"Festivals.Gathering.Maddie_spouse": "Honey, there's an immense amount of products to buy here!$h#$b#I'll be giving you a list of my necessities later, okay?$6#$b#I'm just kidding, ha ha! I've already bought the things I want.$h",
-"Festivals.Gathering.Philip": "The stalls are selling interesting stuff!$h#$e#Uh oh! I forgot to remind Shane about the decorations for the stall!$u",
-"Festivals.Gathering.Philip_spouse": "I wonder if I can buy some barbels to bring back home.#$b#Is that alright hun?$h",
-"Festivals.Gathering.Shiro": "I'm curious to see what the girls are selling.#$b#But I think the guys will judge me if I went over and bought some of their stuff.$h#$e#I wonder what Sebastian is tinkering with over there, though.",
-"Festivals.Gathering.Shiro_spouse": "I hope you're enjoying the gathering @.#$b#I'm a bit excited for the concert later, though. I promise I won't dance too hard.$h",
-"Festivals.Gathering.Ysabelle": "Smile for the camera!$h#$b#Another one!$h#$e#Hey Haley, I love this new camera of yours!$h#$b#Show me the pictures after they're done okay?$h",
-"Festivals.Gathering.Ysabelle_spouse": "Are you having fun, baby?#$b#Come here! Take a picture with us!$h#$e#Here's another one! Let me kiss you on the cheek for this pose!$h",				
-
 	//EmberNight Dialogue - Adds dialogue to vanilla characters
 
 		//Spouses
@@ -4409,6 +4386,46 @@
 "EmberNightDialogue.Jas": "Happy New Year Mr. @^Happy New Year Ms. @!$1#$e#Trinnie gave her log a name.#$b#I wonder if she remembers that we have to burn those later.$2",
 "EmberNightDialogue.Vincent": "Happy New Year, mister^Happy New Year, miss!$1#$e#I lost the log I brought!$3#$b#Now my wishes won't come true.$2",
 "EmberNightDialogue.Willy": "Happy New Year, lad^Happy New Year, lass!$1#$e#Don't mind the smell, I've been fishing at the Ridgeside pond all day before heading up the mountain.$3",
+
+	//Ridgeside Gathering
+
+		//Non-Dateables
+"Festivals.Gathering.Aguar": "I don't mind having these festivities in Ridgeside.#$b#I prefer it over going all the way to Pelican Town.",
+"Festivals.Gathering.Bert": "Gus and Pika have really outdone themselves by providing a combined menu!$u#$b#My belly is excited!$h",
+"Festivals.Gathering.Ezekiel": "I'm not a fan of having this many boys around Corine.$a#$b#Or am I being too much of a worrywart?$s",
+"Festivals.Gathering.Freddie": "It's great to see some familiar faces.$h",
+"Festivals.Gathering.Jio": "The locals seem to be very fond of festivities.#$e#I'm worried Kiwi will get dizzy... $h",
+"Festivals.Gathering.Keahi": "I'm selling some fruit I picked up yesterday!$h#$b#BOYS RULE! WOOHOO!$h",
+"Festivals.Gathering.Kiwi": "Hup hup!#$b#Kiwi can flip front all day.$h",
+"Festivals.Gathering.Lenny": "I'm glad everyone's having fun!$h#$b#I hope the rivalry doesn't cause a food fight, though.$u#$b#Lewis still hasn't forgiven me for starting one back then... $s ",
+"Festivals.Gathering.Lola": "Evelyn and I have a lot to catch up on!$h#$b#We rarely see each other.$s",
+"Festivals.Gathering.Olga": "I hope the kids are having fun.#$b#I'm glad they get along with each other.$h",
+"Festivals.Gathering.Pika": "Oh hey, @! Nice seeing you!$h#$b#If you want to order, give me a shout!",
+"Festivals.Gathering.Richard": "The Ridgeside Gathering is a huge opportunity for the Log Cabin.#$b#Some Pelican Town folk will be too tired to go back home, so they might stay for one night.$h",
+"Festivals.Gathering.Trinnie": "I'm pretty sure my plants will sell like hotcakes!$h#$b#GIRLS RULE! YAAY!$h",
+"Festivals.Gathering.Yuuma": "Everyone has brought something to sell.#$b#I wonder who started this whole competition between the boys and girls, though.",
+		
+		//Dateables
+"Festivals.Gathering.Alissa": "Come and buy our goods, @!$h#$b#I promise you won't regret it!#$e#Sorry Jeric, But we'll win.$a",
+"Festivals.Gathering.Alissa_spouse": "Darling! Help us win!$h#$b#Lookie here! We don't have this plant at home, do we?$h",
+"Festivals.Gathering.Corine": "Look at the their stall! It looks run-down!$h#$b#Sorry boys, but we'll win this one.$h#$e#Hey Abby! Want to go take a peek at what they're selling?$h",
+"Festivals.Gathering.Corine_spouse": "I'll love you no matter who you help win this year, love.#$b#BI just won't talk to you for a year if they win.$h",
+"Festivals.Gathering.Flor": "I'm interested in what the stalls on the other side sell.#$b#But the ladies tell me I should stay here.#$e#Hmmm... I'm quite confused.$s",
+"Festivals.Gathering.Flor_spouse": "Uhmm... I brought some of my old books to sell.#$b#I wonder if someone will buy them.#$e#Hey Elliott, here's the sculpture design I've been telling you about!$h",
+"Festivals.Gathering.Ian": "Phew, This wood sculpture is almost done.$h#$b#It's not as good as Leah's though.#$b#Oh well, I still hope someone buys it.$h",
+"Festivals.Gathering.Ian_spouse": "Are you having fun, honey?#$b#I have to finish this sculpture first. I'll join you in a while.",
+"Festivals.Gathering.Jeric": "Come right up and see the best stall in the valley!$h#$b#Blood, sweat and tears were involved in making this stall!$h#$e#Hey Shane!Did you forget the decorations!?$a",
+"Festivals.Gathering.Jeric_spouse": "Hey baby, do me a favor and spy on their wares, would you?$h#$b#Ha ha! I'm just kidding. I'm don't feel insecure at all.. Ha ha!$h",
+"Festivals.Gathering.Kenneth": "I'm interested in seeing Maru's little robot over there.#$b#I'll go take a quick look later.#$e#Oh! I should show Sam the new amplifier I've been working on!$h",
+"Festivals.Gathering.Kenneth_spouse": "Have you visited Pika and Gus's stall, honey? They're selling lots of food!$h#$b#I'll go catch up as soon as I sell some stuff here.$h",
+"Festivals.Gathering.Maddie": "This little bear clock is soooo cute!$9#$b#I want to buy it!$h#$e#Hey Leah! Did you make this?$h",
+"Festivals.Gathering.Maddie_spouse": "Honey, there's an immense amount of products to buy here!$h#$b#I'll be giving you a list of my necessities later, okay?$6#$b#I'm just kidding, ha ha! I've already bought the things I want.$h",
+"Festivals.Gathering.Philip": "The stalls are selling interesting stuff!$h#$e#Uh oh! I forgot to remind Shane about the decorations for the stall!$u",
+"Festivals.Gathering.Philip_spouse": "I wonder if I can buy some barbels to bring back home.#$b#Is that alright hun?$h",
+"Festivals.Gathering.Shiro": "I'm curious to see what the girls are selling.#$b#But I think the guys will judge me if I went over and bought some of their stuff.$h#$e#I wonder what Sebastian is tinkering with over there, though.",
+"Festivals.Gathering.Shiro_spouse": "I hope you're enjoying the gathering @.#$b#I'm a bit excited for the concert later, though. I promise I won't dance too hard.$h",
+"Festivals.Gathering.Ysabelle": "Smile for the camera!$h#$b#Another one!$h#$e#Hey Haley, I love this new camera of yours!$h#$b#Show me the pictures after they're done okay?$h",
+"Festivals.Gathering.Ysabelle_spouse": "Are you having fun, baby?#$b#Come here! Take a picture with us!$h#$e#Here's another one! Let me kiss you on the cheek for this pose!$h",				
 
 	//Gathering Dialogue - Adds dialogue to vanilla characters
 

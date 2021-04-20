@@ -390,6 +390,186 @@
 		"When": { "Relationship:Shiro": "Engaged" },
 	},	
 
+//SVE Versions of Festivals
+	//Spirit's Eve
+		
+	{
+	
+   "Action": "EditData",
+   "Target": "Data/Festivals/fall27",
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "IsOddYear": true },
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Aguar 22 100 down/Alissa 15 27 left/Bert 23 64 down/Corine 38 69 left/Ezekiel 38 70 left/Flor 34 38 up/Freddie 16 64 down/Ian 32 56 down/Jeric 31 64 right/Jio 34 4 down/Keahi 24 73 up/Kenneth 36 74 right/Kiwi 33 4 down/Lenny 27 69 down/Lola 17 64 down/Maddie 20 47 up/Olga 22 64 right/Philip 22 49 right/Pika 31 72 right/Richard 28 72 left/Shiro 23 49 up/Trinnie 23 72 right/Ysabelle 28 64 left/Yuuma 23 74 left",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+	
+	{
+	//With SVE variant 2
+   "Action": "EditData",
+   "Target": "Data/Festivals/fall27",
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "IsOddYear": false },
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Aguar 71 62 right/Alissa 22 65 right/Bert 24 64 down/Corine 27 67 down/Ezekiel 26 67 down/Flor 50 36 up/Freddie 36 69 left/Ian 27 54 down/Jeric 41 60 up/Jio 68 76 right/Keahi 73 30 right/Kenneth 50 64 left/Kiwi 72 77 down/Lenny 32 64 right/Lola 36 70 left/Maddie 50 68 right/Olga 23 64 down/Philip 77 38 left/Pika 26 58 right/Richard 35 64 left/Shiro 75 38 up/Trinnie 76 30 left/Ysabelle 28 67 down/Yuuma 75 32 up",
+         "Delimiter": "/"
+		},
+	
+	]	
+	},
+
+	//Stardew Valley Fair
+	{
+   "Action": "EditData",
+   "Target": "Data/Festivals/fall16",
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true },
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Aguar 47 101 down/Alissa 33 66 right/Bert 14 53 up/Corine 18 65 right/Ezekiel 24 56 right/Flor 27 76 left/Freddie 20 27 down/Ian 17 73 down/Jeric 11 62 right/Jio 34 4 down/Keahi 36 78 up/Kenneth 22 49 up/Kiwi 33 4 down/Lenny 27 53 down/Lola 21 27 down/Maddie 24 29 up/Olga 27 60 right/Philip 24 65 up/Pika 25 23 up/Richard 23 53 down/Shiro 23 65 up/Trinnie 15 53 up/Ysabelle 19 64 down/Yuuma 34 77 right",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+
+//WinterStar
+	{
+   "Action": "EditData",
+   "Target": "Data/Festivals/winter25",
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true },
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Aguar 8 64 right/Alissa 25 66 left/Bert 41 57 down/Corine 32 61 left/Corine 32 61 left/Ezekiel 31 60 down/Flor 32 56 down/Freddie 38 72 left/Ian 21 71 right/Jeric 30 61 right/Jio 74 74 right/Keahi 27 70 up/Kenneth 26 55 right/Kiwi 74 75 right/Lenny 26 61 down/Lola 38 73 left/Maddie 23 53 down/Olga 21 66 right/Philip 28 55 right/Pika 33 65 right/Richard 30 74 up/Shiro 41 59 left/Trinnie 42 57 down/Ysabelle 31 74 up/Yuuma 41 60 left",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+
+//Egg Festival
+	{
+	//WITH SVE
+   "Action": "EditData",
+   "Target": "Data/Festivals/spring13",
+   "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true },
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Aguar 38 84 up/Alissa 29 55 left/Bert 27 54 down/Corine 34 79 left/Ezekiel 36 71 left/Flor 26 57 down/Freddie 33 72 up/Ian 16 52 down/Jeric 32 76 down/Jio 94 45 down/Keahi 12 59 left/Kenneth 20 74 right/Kiwi 95 45 down/Lenny 24 69 right/Lola 32 72 up/Maddie 31 78 right/Olga 26 54 down/Philip 18 78 right/Pika 30 57 down/Richard 34 74 up/Shiro 19 79 up/Trinnie 10 59 right/Ysabelle 32 79 right/Yuuma 20 79 up",
+         "Delimiter": "/"
+		},
+	
+   //MainEevent
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "MainEvent_additionalCharacters"],
+         "Value": "Aguar 38 84 up/Alissa 29 55 down/Bert 27 54 down/Corine 34 79 left/Ezekiel 36 71 left/Flor 26 57 down/Freddie 33 72 up/Ian 16 52 down/Jeric 32 76 down/Jio 94 45 down/Keahi 12 59 right/Kenneth 20 74 right/Kiwi 95 45 downLenny 24 69 right/Lola 32 72 up/Maddie 31 78 right/Olga 26 54 down/Philip 18 78 right/Pika 30 57 down/Richard 34 74 up/Shiro 19 79 up/Trinnie 12 60 right/Ysabelle 32 79 down/Yuuma 20 79 up",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+
+//Gathering Dialogue
+		{
+			"LogName": "Ridgeside Gathering",
+			"Action": "EditData",
+			"Target": "Data/Festivals/fall20",
+			"Entries": {
+			    "Sophia": "{{i18n:InterModDialogue.GatheringDialogue.Sophia}}",
+			    "Victor": "{{i18n:InterModDialogue.GatheringDialogue.Victor}}",
+			    "Olivia": "{{i18n:InterModDialogue.GatheringDialogue.Olivia}}",
+			    "Andy": "{{i18n:InterModDialogue.GatheringDialogue.Andy}}",
+			    "Susan": "{{i18n:InterModDialogue.GatheringDialogue.Susan}}",
+			},
+		},
+//Gathering Locations
+	{
+   "Action": "EditData",
+   "Target": "Data/Festivals/fall20",
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Yuuma 115 45 left",
+         "Delimiter": "/"
+		},
+
+	
+   //MainEevent
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "MainEvent_additionalCharacters"],
+         "Value": "Yuuma 96 44 left",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+	
+//Ember of Resolutions Dialogue
+		{
+			"LogName": "EmberOfResolutions",
+			"Action": "EditData",
+			"Target": "Data/Festivals/winter28",
+			"Entries": {
+			    "Sophia": "{{i18n:InterModDialogue.EmberNightDialogue.Sophia}}",
+			    "Victor": "{{i18n:InterModDialogue.EmberNightDialogue.Victor}}",
+			    "Olivia": "{{i18n:InterModDialogue.EmberNightDialogue.Olivia}}",
+			    "Andy": "{{i18n:InterModDialogue.EmberNightDialogue.Andy}}",
+			    "Susan": "{{i18n:InterModDialogue.EmberNightDialogue.Susan}}",
+			},
+		},		
+
+//Ember of Resolutions Locations
+	{
+   "Action": "EditData",
+   "Target": "Data/Festivals/winter28",
+   "TextOperations": [
+   
+   //SetUp
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "Set-Up_additionalCharacters"],
+         "Value": "Sophia 43 34 down",
+         "Delimiter": "/"
+		},
+	
+   //MainEevent
+		{
+         "Operation": "Append",
+         "Target": ["Entries", "MainEvent_additionalCharacters"],
+         "Value": "Sophia 43 34 down",
+         "Delimiter": "/"
+		},
+
+	]	
+	},
+
 	/*********
 	** Town School
 	*********/	
