@@ -592,7 +592,7 @@
       	},  
       	{
          	"Name": "Custom_Ridgeside_RSVCliffNight",
-         	"FromMapFile": "Assets/Maps/RSVCliffNight.tbin",
+         	"FromMapFile": "Assets/Maps/RSVCliffNight.tmx",
          	"MigrateLegacyNames": [ "RSVCliffNight" ]
       	},      	      	      	      	      	
       	{
