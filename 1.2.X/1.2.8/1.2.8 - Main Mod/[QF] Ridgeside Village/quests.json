@@ -473,7 +473,7 @@
 	"RewardType": "Object",
 	"RewardDescription": "A rare colorful stone",
 	"Cancelable": false,
-	"Trigger": "MysticFalls1",
+	"Trigger": "Custom_Ridgeside_MysticFalls1",
 	},
 	{
 	"Name": "mysticfalls_2",
@@ -486,7 +486,7 @@
 	"RewardType": "Money",
 	"RewardDescription": "Affection from the bachelors and bachelorettes of the valley",
 	"Cancelable": false,
-	"Trigger": "MysticFalls2",
+	"Trigger": "Custom_Ridgeside_MysticFalls2",
 	"FriendshipGain": { 
 		"Alissa": 250,
 		"Corine": 250,
@@ -523,7 +523,7 @@
 	"RewardType": "Weapon",
 	"RewardDescription": "Obsidian Edge",
 	"Cancelable": false,
-	"Trigger": "MysticFalls3",
+	"Trigger": "Custom_Ridgeside_MysticFalls3",
 	},
 	
 	//Minecarft Restoration
