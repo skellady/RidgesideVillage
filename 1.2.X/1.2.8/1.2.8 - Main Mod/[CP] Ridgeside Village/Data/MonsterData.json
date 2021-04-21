@@ -5,7 +5,7 @@
 	{	
 		"LogName": "Monsters",
 		"Action": "Load",
-		"Target": "Characters/Monsters/RSVBeast1, Characters/Monsters/RSVBeast2, Characters/Monsters/RSVBeast3, Characters/Monsters/RSVCorruptSpirit, Characters/Monsters/ChickWhiteBig, Characters/Monsters/ChickWhiteSmall, Characters/Monsters/ChickBrownSmall, Characters/Monsters/ChickBrownBig, Characters/Monsters/WhiteCowBig",
+		"Target": "Characters/Monsters/RSVBeast1, Characters/Monsters/RSVBeast2, Characters/Monsters/RSVBeast3, Characters/Monsters/RSVCorruptSpirit, Characters/Monsters/ChickWhiteBig, Characters/Monsters/ChickWhiteSmall, Characters/Monsters/ChickBrownSmall, Characters/Monsters/ChickBrownBig",
 		"FromFile": "Assets/MonsterFiles/{{TargetWithoutPath}}.png",
 	},
 	
