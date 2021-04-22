@@ -430,7 +430,7 @@
       	},      
       	{
          	"Name": "Custom_Ridgeside_BertHouse",
-         	"FromMapFile": "Assets/Maps/BertHouse.tbin",
+         	"FromMapFile": "Assets/Maps/BertHouse.tmx",
          	"MigrateLegacyNames": [ "BertHouse" ]
       	},
       	{
