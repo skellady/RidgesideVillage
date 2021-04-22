@@ -406,7 +406,7 @@
 //      	},     	   
       	{
          	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tbin",
+         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tmx",
          	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
       	},    
       	{
@@ -435,7 +435,7 @@
       	},
       	{
          	"Name": "Custom_Ridgeside_BertHouse2ndFloor",
-         	"FromMapFile": "Assets/Maps/BertHouse2ndFloor.tbin",
+         	"FromMapFile": "Assets/Maps/BertHouse2ndFloor.tmx",
          	"MigrateLegacyNames": [ "BertHouse2ndFloor" ]
       	},
 //      	{
@@ -444,7 +444,7 @@
 //      	},      	   
       	{
          	"Name": "Custom_Ridgeside_EmberNight",
-         	"FromMapFile": "Assets/Maps/EmberNight.tbin",
+         	"FromMapFile": "Assets/Maps/EmberNight.tmx",
          	"MigrateLegacyNames": [ "EmberNight" ]
       	},      	   
       	{
