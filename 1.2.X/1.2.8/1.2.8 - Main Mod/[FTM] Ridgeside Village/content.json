@@ -1334,21 +1334,21 @@
               ]
             }
           },
-//          {
-  //          "MonsterName": "pepper rex",
-    //        "Settings": {
-      //        "SpawnWeight": 5,
-        //      "HP": 100000,
-          //    "Damage": 0,
-            //  "DodgeChance": 99,
-              //"SeesPlayersAtSpawn": false,
-//              "RelatedSkill": "Combat",
-  //            "Sprite": "Characters/Monsters/WhiteCowBig",
-    //          "Loot": [
-      //          "Bone Fragment"
-        //      ]
-          //  }
-//          },               
+          {
+            "MonsterName": "pepper rex",
+            "Settings": {
+              "SpawnWeight": 5,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/WhiteCowBig",
+              "Loot": [
+                "Bone Fragment"
+              ]
+            }
+          },               
         ],
         "UniqueAreaID": "Jeric's Chickens",
         "MapName": "Custom_Ridgeside_RidgesideVillage",
