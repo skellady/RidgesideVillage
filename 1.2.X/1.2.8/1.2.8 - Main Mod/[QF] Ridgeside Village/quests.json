@@ -2,7 +2,7 @@
   "Format": "1.0",
 
 //---------
-//QUESTS   
+//QUESTS   quests_accept <QuestName>@Rafseazz.RSVQF quests_accept pika_starfruit@Rafseazz.RSVQF
 //---------
 
   "Quests": [
@@ -186,7 +186,7 @@
 	"Type": "ItemDelivery",
 	"Title": "Orange Man Bert",
 	"Description": "I want to start an Orange Juice business! I need someone to supply me with some oranges... At least 3 of 'em!\n        -Bert.\n\n- 900g on Delivery\n- Bert will be thankful",
-	"Objective": "Deliver 5 oranges to Bert",
+	"Objective": "Deliver 3 oranges to Bert",
 	"DaysLeft": 0,
 	"Reward": 900,
 	"RewardType": "Money",
@@ -275,7 +275,7 @@
 	"Description": "I saw this intriguing recipe for an eggplant salad and it requires an eggplant. Bring me an eggplant. I'll pay! .\n        -Lenny.\n\n- 200g on Delivery\n- Lenny will be thankful",
 	"Objective": "Deliver an Eggplant to Lenny",
 	"DaysLeft": 0,
-	"Reward": 500,
+	"Reward": 200,
 	"RewardType": "Money",
 	"RewardDescription": "200g",
 	"Cancelable": true,
