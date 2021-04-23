@@ -1333,22 +1333,7 @@
                 "Bone Fragment"
               ]
             }
-          },
-          {
-            "MonsterName": "pepper rex",
-            "Settings": {
-              "SpawnWeight": 5,
-              "HP": 100000,
-              "Damage": 0,
-              "DodgeChance": 99,
-              "SeesPlayersAtSpawn": false,
-              "RelatedSkill": "Combat",
-              "Sprite": "Characters/Monsters/WhiteCowBig",
-              "Loot": [
-                "Bone Fragment"
-              ]
-            }
-          },               
+          },          
         ],
         "UniqueAreaID": "Jeric's Chickens",
         "MapName": "Custom_Ridgeside_RidgesideVillage",
@@ -1378,7 +1363,55 @@
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": null
-      }      
+      },   
+      {
+        "MonsterTypes": [
+          {
+            "MonsterName": "pepper rex",
+            "Settings": {
+              "SpawnWeight": 5,
+              "HP": 100000,
+              "Damage": 0,
+              "DodgeChance": 99,
+              "SeesPlayersAtSpawn": false,
+              "RelatedSkill": "Combat",
+              "Sprite": "Characters/Monsters/WhiteCowBig",
+              "Loot": [
+                "Bone Fragment"
+              ]
+            }
+          },                         
+        ],
+        "UniqueAreaID": "Alissa's Cows",
+        "MapName": "Custom_Ridgeside_RidgesideVillage",
+        "MinimumSpawnsPerDay": 10,
+        "MaximumSpawnsPerDay": 10,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [ "31,98/50,107" ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 2300,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": 95,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": ["Spring", "Summer", "Fall"],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": ["Sun"],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+
     ],
     "CustomTileIndex": []
   },
