@@ -2,7 +2,7 @@
   "Format": "1.0",
 
 //---------
-//QUESTS   quests_accept <QuestName>@Rafseazz.RSVQF quests_accept pika_starfruit@Rafseazz.RSVQF
+//QUESTS   quests_accept <QuestName>@Rafseazz.RSVQF quests_complete lenny_minecart3@Rafseazz.RSVQF
 //---------
 
   "Quests": [
