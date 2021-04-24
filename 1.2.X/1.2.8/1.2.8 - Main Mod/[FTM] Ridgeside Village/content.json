@@ -1388,7 +1388,7 @@
         "MaximumSpawnsPerDay": 10,
         "IncludeTerrainTypes": [],
         "ExcludeTerrainTypes": [],
-        "IncludeCoordinates": [ "31,98/50,107" ],
+        "IncludeCoordinates": [ "33,98/50,106" ],
         "ExcludeCoordinates": [],
         "StrictTileChecking": "Maximum",
         "SpawnTiming": {

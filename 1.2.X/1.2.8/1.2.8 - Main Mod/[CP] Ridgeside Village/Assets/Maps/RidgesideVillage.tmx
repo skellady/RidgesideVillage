@@ -3825,22 +3825,22 @@ AlwaysFront 89 26 908 AlwaysFront 95 14 908 AlwaysFront 101 6 908 AlwaysFront 93
     <property name="NPCBarrier" value="T"/>
    </properties>
   </object>
-  <object id="2243" name="TileData" x="624" y="1584" width="16" height="16">
+  <object id="2243" name="TileData" x="640" y="1584" width="16" height="16">
    <properties>
     <property name="NPCBarrier" value="T"/>
    </properties>
   </object>
-  <object id="2244" name="TileData" x="624" y="1600" width="16" height="16">
+  <object id="2244" name="TileData" x="640" y="1600" width="16" height="16">
    <properties>
     <property name="NPCBarrier" value="T"/>
    </properties>
   </object>
-  <object id="2245" name="TileData" x="624" y="1616" width="16" height="16">
+  <object id="2245" name="TileData" x="640" y="1616" width="16" height="16">
    <properties>
     <property name="NPCBarrier" value="T"/>
    </properties>
   </object>
-  <object id="2246" name="TileData" x="624" y="1632" width="16" height="16">
+  <object id="2246" name="TileData" x="640" y="1632" width="16" height="16">
    <properties>
     <property name="NPCBarrier" value="T"/>
    </properties>
