@@ -300,6 +300,8 @@
 
 				"rsv.cliffblock": "{{i18n:MapString.rsv.cliffblock}}",
 				
+				"rsv.cablecar1": "{{i18n:MapString.rsv.cablecar1}}",
+
 				"rsv.minecartsign1":"{{i18n:MapString.rsv.minecartsign1}}",
 				"rsv.minecartsign2":"{{i18n:MapString.rsv.minecartsign2}}",
 				"rsv.minecartsign3":"{{i18n:MapString.rsv.minecartsign3}}",				
