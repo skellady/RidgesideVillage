@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="20" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="146">
+ <properties>
+  <property name="AmbientLight" value="255 255 255"/>
+ </properties>
+ <tileset firstgid="1" name="Paths" tilewidth="16" tileheight="16" tilecount="36" columns="4">
+  <image source="paths" width="64" height="144"/>
+  <tile id="0">
+   <properties>
+    <property name="PathType" value="NE"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="PathType" value="SE"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="PathType" value="WS"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="PathType" value="WN"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="PathType" value="Crossroad"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="PathType" value="End"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="37" name="spring_outdoorsTileSheet" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
+  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
+ </tileset>
+ <tileset firstgid="2012" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
+  <image source="townInterior" width="512" height="1088"/>
+  <tile id="1885">
+   <properties>
+    <property name="Type" value="Wood"/>
+   </properties>
+  </tile>
+  <tile id="1887">
+   <properties>
+    <property name="Type" value="Stone"/>
+   </properties>
+  </tile>
+  <tile id="1945">
+   <properties>
+    <property name="Type" value="Stone"/>
+   </properties>
+  </tile>
+  <tile id="1946">
+   <properties>
+    <property name="Diggable" value="T"/>
+    <property name="Type" value="Dirt"/>
+   </properties>
+  </tile>
+  <tile id="2075">
+   <properties>
+    <property name="Diggable" value="T"/>
+    <property name="Type" value="Dirt"/>
+   </properties>
+  </tile>
+  <tile id="2076">
+   <properties>
+    <property name="Diggable" type="bool" value="true"/>
+    <property name="Type" value="Dirt"/>
+   </properties>
+  </tile>
+  <tile id="2078">
+   <properties>
+    <property name="Type" value="Wood"/>
+   </properties>
+  </tile>
+  <tile id="2079">
+   <properties>
+    <property name="Type" value="Wood"/>
+   </properties>
+  </tile>
+  <tile id="2106">
+   <properties>
+    <property name="Type" value="Wood"/>
+   </properties>
+  </tile>
+  <tile id="2107">
+   <properties>
+    <property name="Diggable" value="T"/>
+    <property name="Type" value="Dirt"/>
+   </properties>
+  </tile>
+  <tile id="2108">
+   <properties>
+    <property name="Diggable" value="T"/>
+    <property name="Type" value="Dirt"/>
+   </properties>
+  </tile>
+  <tile id="2109">
+   <properties>
+    <property name="Type" value="Stone"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="4188" name="mine" tilewidth="16" tileheight="16" tilecount="288" columns="16">
+  <image source="Mines/mine.png" width="256" height="288"/>
+ </tileset>
+ <tileset firstgid="4476" name="spring_zrsvwideview" tilewidth="16" tileheight="16" tilecount="3720" columns="93">
+  <image source="spring_zrsvwideview.png" width="1500" height="640"/>
+ </tileset>
+ <layer id="1" name="Back" width="20" height="30">
+  <data encoding="csv">
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4465,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4090,3897,3897,3897,3897,3897,4090,4464,4464,4090,3897,3897,3897,3897,3897,4090,4465,4464,
+4464,4464,4118,4087,4087,4087,4087,4088,4118,4464,4464,4118,4087,4087,4087,4087,4088,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4448,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4090,4091,4091,4091,4091,4091,4090,4464,4464,4090,4091,4091,4091,4091,4091,4090,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4464,4448,4464,4464,4464,4464,4465,4464,4464,4464,4464,4464,4464,4464,4448,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4090,3897,3897,3897,3897,3897,4090,4464,4464,4090,3897,3897,3897,3897,3897,4090,4464,4464,
+4464,4464,4118,4087,4087,4087,4087,4088,4118,4464,4464,4118,4087,4087,4087,4087,4088,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,4118,4119,4119,4119,4119,4120,4118,4464,4464,
+4464,4464,4090,4091,4091,4091,4091,4091,4090,4464,4464,4090,4091,4091,4091,4091,4091,4090,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4465,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4464,4448,4464,4464,4464,
+4464,4464,4464,4464,4464,4464,4464,4464,384,384,384,384,4464,4464,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4464,4464,4464,4343,4343,4343,4357,4358,4359,4343,4343,4464,4464,4464,4464,4464,4464,
+4464,4464,4464,4343,4357,4358,4359,4343,4389,4391,4343,4343,4326,4327,4343,4343,4464,4464,4464,4464,
+4464,4464,4343,4343,4325,4326,4327,4343,4421,4423,4343,4343,4342,4343,4389,4390,4391,4464,4464,4464,
+4343,4343,4343,4343,4341,4342,4343,4343,4343,4343,4343,4343,4343,4343,4405,4406,4407,4343,4343,4343,
+4343,4343,4343,4343,4343,4343,4343,4343,4343,4343,4343,4343,4343,4343,4421,4422,4423,4343,4343,4343
+</data>
+ </layer>
+ <objectgroup id="6" name="Back">
+  <object id="72" name="TileData" x="144" y="96" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="73" name="TileData" x="160" y="96" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="74" name="TileData" x="144" y="112" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="75" name="TileData" x="160" y="112" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="76" name="TileData" x="144" y="128" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="77" name="TileData" x="160" y="128" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="78" name="TileData" x="144" y="144" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="79" name="TileData" x="160" y="144" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="80" name="TileData" x="144" y="160" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="81" name="TileData" x="160" y="160" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="82" name="TileData" x="144" y="176" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="83" name="TileData" x="160" y="176" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="84" name="TileData" x="32" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="85" name="TileData" x="48" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="86" name="TileData" x="64" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="87" name="TileData" x="80" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="88" name="TileData" x="96" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="89" name="TileData" x="112" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="90" name="TileData" x="128" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="91" name="TileData" x="144" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="92" name="TileData" x="160" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="93" name="TileData" x="176" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="94" name="TileData" x="192" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="95" name="TileData" x="208" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="96" name="TileData" x="224" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="97" name="TileData" x="240" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="98" name="TileData" x="256" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="99" name="TileData" x="272" y="192" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="100" name="TileData" x="32" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="101" name="TileData" x="48" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="102" name="TileData" x="64" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="103" name="TileData" x="80" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="104" name="TileData" x="96" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="105" name="TileData" x="112" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="106" name="TileData" x="128" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="107" name="TileData" x="144" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="108" name="TileData" x="160" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="109" name="TileData" x="176" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="110" name="TileData" x="192" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="111" name="TileData" x="208" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="112" name="TileData" x="224" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="113" name="TileData" x="240" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="114" name="TileData" x="256" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="115" name="TileData" x="272" y="208" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="116" name="TileData" x="32" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="117" name="TileData" x="48" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="118" name="TileData" x="64" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="119" name="TileData" x="80" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="120" name="TileData" x="96" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="121" name="TileData" x="112" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="122" name="TileData" x="128" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="123" name="TileData" x="144" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="124" name="TileData" x="160" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="125" name="TileData" x="176" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="126" name="TileData" x="192" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="127" name="TileData" x="208" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="128" name="TileData" x="224" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="129" name="TileData" x="240" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="130" name="TileData" x="256" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="131" name="TileData" x="272" y="224" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="132" name="TileData" x="144" y="240" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="133" name="TileData" x="160" y="240" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="134" name="TileData" x="144" y="256" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="135" name="TileData" x="160" y="256" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="136" name="TileData" x="144" y="272" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="137" name="TileData" x="160" y="272" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="138" name="TileData" x="144" y="288" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="139" name="TileData" x="160" y="288" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="140" name="TileData" x="144" y="304" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="141" name="TileData" x="160" y="304" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="142" name="TileData" x="144" y="320" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="143" name="TileData" x="160" y="320" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="144" name="TileData" x="144" y="336" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+  <object id="145" name="TileData" x="160" y="336" width="16" height="16">
+   <properties>
+    <property name="WaterSource" value="T"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer id="2" name="Buildings" width="20" height="30">
+  <properties>
+   <property name="AmbientLight" value="255 255 255"/>
+  </properties>
+  <data encoding="csv">
+4256,4261,4262,4263,4264,4261,4262,4263,4264,4261,4262,4263,4264,4261,4262,4263,4264,4261,4262,4299,
+4272,4277,4278,4279,4280,4277,4278,4279,4280,4277,4278,4279,4280,4277,4278,4279,4280,4277,4278,4315,
+4288,4293,4294,4295,4296,4293,4294,4295,4296,4293,4294,4295,4296,4293,4294,4295,4296,4293,4294,4331,
+4304,4309,4310,4311,4312,4309,4310,4311,4312,4309,4310,4311,4312,4309,4310,4311,4312,4309,4310,4347,
+4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4379,
+4352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4411,
+4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4379,
+4352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4411,
+4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4379,
+4352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4411,
+4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4379,
+4352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4411,
+4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4379,
+4352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4411,
+4320,0,0,0,0,4455,4467,4467,4439,0,0,4455,4467,4467,4439,0,0,0,0,4363,
+4336,0,4455,4467,4467,4468,0,0,0,0,0,0,0,0,4466,4467,4439,0,0,4379,
+4352,4455,4468,0,0,0,0,0,0,0,0,0,0,0,0,0,4466,4439,0,4395,
+4467,4468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4466,4467,4467,
+4368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395,
+4401,4402,4403,4402,4403,4402,4403,4402,4403,4402,4403,4402,4404,0,4408,4402,4403,4402,4403,4409
+</data>
+ </layer>
+ <objectgroup id="7" name="Buildings"/>
+ <layer id="3" name="Paths" width="20" height="30">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="8" name="Paths"/>
+ <layer id="4" name="Front" width="20" height="30">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4363,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="9" name="Front"/>
+ <layer id="5" name="AlwaysFront" width="20" height="30">
+  <data encoding="csv">
+977,978,979,980,1003,1029,0,0,0,0,0,0,0,0,0,1030,1006,980,981,982,
+1002,1003,1004,1004,1029,0,0,0,0,0,0,0,0,0,0,0,1030,1005,1006,1007,
+1027,1028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,1032,
+1052,1053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1030,1006,
+1027,1028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1030,
+1052,1053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1027,1028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1052,1053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1027,1028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1052,1053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1004,1029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1055,1079,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,1032,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1056,1057,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,1032,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1056,1057,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1055,1079,1081,1082,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,1104,1106,1107
+</data>
+ </layer>
+ <objectgroup id="10" name="AlwaysFront"/>
+</map>

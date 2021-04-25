@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="120" height="120" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="36">
- <properties>
-  <property name="@TileBrush@2x2 grass@" value="Back|0,1,outdoors,175|1,1,,175|0,0,,175|1,0,,175"/>
-  <property name="@TileBrush@2x2 water@" value="Back|0,1,outdoors,1229|1,1,,1229|0,0,,1229|1,0,,1229"/>
-  <property name="Arch" value="114 .008 119 .006 126 .0001 105 .016"/>
-  <property name="Debris" value="8 .01 3 0 .008 4"/>
-  <property name="Fall_Objects" value="404 .9 410 .9"/>
-  <property name="Fish" value="153 .2 145 .3 144 .05 143 .02 141 .5 140 .2 139 .15 138 .2 137 .18 132 .3"/>
-  <property name="Outdoors" value="T"/>
-  <property name="Spring_Objects" value="16 .9 22 .9"/>
-  <property name="Summer_Objects" value="396 .6 400 .9"/>
-  <property name="Warp" value="120 25 Town 0 90 120 26 Town 0 90 120 24 Town 0 90 120 27 Town 0 90 67 -1 Farm 41 64 68 -1 Farm 41 64 69 -1 Farm 41 64 -1 6 Woods 59 15 -1 7 Woods 59 15 70 -1 Farm 41 64 71 -1 Farm 41 64 72 -1 Farm 41 64"/>
-  <property name="Winter_Objects" value="418 .5 414 .2"/>
-  <property name="daa" value="25 5 0 28 5 0 38 23 1 11 6 1 7 6 0 3 6 0 2 35 1 15 38 2 10 30 1 12 23 2 5 13 0 9 14 1 14 13 0 7 17 1 36 39 1"/>
- </properties>
  <tileset firstgid="1" name="outdoors" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
   <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
   <tile id="150">
