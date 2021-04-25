@@ -2947,6 +2947,10 @@
 
 "MapString.rsv.cliffblock": "Warning!#The cliffside is dangerous.#Do not jump over the fences.",
 
+"MapString.rsv.minecartsign1":"TO PELICAN TOWN",
+"MapString.rsv.minecartsign2":"TO RIDGESIDE NORTH",
+"MapString.rsv.minecartsign3":"TO RIDGESIDE SOUTH",
+
 "MapString.rsv.ninja1": "'Keep an eye on the old man's farm.'#'Await further instructions.#-H'",
 "MapString.rsv.ninja2": "The books are all written in different languages.",
 "MapString.rsv.ninja3": "A collection of sharp weapons!#I might hurt myself if I touch any of these.",
