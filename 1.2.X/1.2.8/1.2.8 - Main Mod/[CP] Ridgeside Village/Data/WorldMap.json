@@ -181,14 +181,14 @@
 				"MapX": 230,
 				"MapY": 320
 			}
-		],
-		"MapTooltip": {
-			"X": 230,
-			"Y": 320,
-			"Width": 20,
-			"Height": 20,
-			"PrimaryText": "{{i18n:NPC.MapLocations.HikeName}}"
-		  }
+			],
+			"MapTooltip": {
+				"X": 230,
+				"Y": 320,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "{{i18n:NPC.MapLocations.HikeName}}"
+			}
 		},
 
 		"Custom_Ridgeside_Ridge": {
@@ -198,6 +198,43 @@
 				"MapY": 220
 			}
 			]
+		},
+
+		"Custom_Ridgeside_LogCabinHotelLobby": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"Custom_Ridgeside_LogCabinHotel2ndFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		// FIXME. This map name is correct - but the NPCs do not show up here.  They appear in the top left area of Custom_Ridgeside_RidgesideVillage.
+		// NPCs in Custom_Ridgeside_LogCabinHotelLobby and Custom_Ridgeside_LogCabinHotel2ndFloor appear correctly.
+		"Custom_Ridgeside_LogCabinHotel3rdFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"Custom_Ridgeside_RSVHiddenWarp": {
+			"Exclude": true
+		},
+
+		"Custom_Ridgeside_RSVHiddenWarp2": {
+			"Exclude": true
 		},
 
 		"BloomingHillsFarm": {
@@ -220,24 +257,22 @@
 			}
 		},
 	   //Hides certain locations from NPC Map Locations
-		"Custom_Ridgeside_EmberNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_EzekielPic": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_LogCabinHotel2ndFloor": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_LogCabinHotelLobby": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_MysticFalls1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_MysticFalls2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_MysticFalls3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RidgeFalls": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RidgeForestQ1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RidgeForestQ2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},	
-		"Custom_Ridgeside_RidgeForestQ3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RidgeForestQ4": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_PrincessVilleDate": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RSVCliffNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RSVGathering": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RSVPikaOpen": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-		"Custom_Ridgeside_RSVTheRide": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},		
-		}
+		"Custom_Ridgeside_EmberNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_EzekielPic": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_MysticFalls1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_MysticFalls2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_MysticFalls3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RidgeFalls": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RidgeForestQ1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RidgeForestQ2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},	
+		"Custom_Ridgeside_RidgeForestQ3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RidgeForestQ4": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_PrincessVilleDate": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RSVCliffNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RSVGathering": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RSVPikaOpen": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_Ridgeside_RSVTheRide": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		},
 	},
 
 //World Map Changes
