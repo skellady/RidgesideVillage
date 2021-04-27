@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Shiro",
+   "Entries": {
+
 	"Introduction": "Oh, hey, I haven't seen you around before. #$b# Are you the new farmer? Sorry, I don't get out to socialize much. Name's Shiro, nice to meet you. $h",
 
 //Spring
@@ -100,4 +107,7 @@
 	"Resort_Bar": "Shane had a few too many once and told me that I needed to try this mixed drink, but I can't remember the name of it...",
 	"Resort": "This place is beautiful. I already feel relaxed.$h",
 
+		},
+	},
+]
 }

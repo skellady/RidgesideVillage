@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Maddie",
+   "Entries": {
+
 	"Introduction": "Hm? I haven't seen you around here before.$7#$b#Oh, that's right. A new farmer just moved in, huh? I assume that's you.$6#$e#Welcome to the valley, then. My name is Maddie. I have a lot on my plate, so if you'll excuse me...",
 
 //Spring
@@ -100,4 +107,7 @@
 	"Resort_Bar": "I definitely NEED a drink!$6#$b#Hmm... I think I'll take the strongest one they've got!$6",
 	"Resort": "I like this place. I'll have to come more often.$h",
 
+		},
+	},
+]
 }

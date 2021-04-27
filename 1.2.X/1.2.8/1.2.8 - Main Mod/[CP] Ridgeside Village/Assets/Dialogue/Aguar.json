@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Aguar",
+   "Entries": {
+
 	"Introduction": "You must be the new farmer in the area.#$b#@, was it?#$b#I cannot afford to waste time with pleasantries, and you are wasting my time.#$e#Good day.",
 
 //Spring	
@@ -91,5 +98,7 @@
 	"Resort_Chair": "I'm not relaxing.#$e#Merely resting my eyes.#$b#It's very bright here.",
 	"Resort_Bar": "Hmm, I suppose I will try one of these pina coladas.$h",
 	"Resort": "The island has a certain aura emanating from within.#$e#Hmm...$4",
-
+		},
+	},
+]
 }

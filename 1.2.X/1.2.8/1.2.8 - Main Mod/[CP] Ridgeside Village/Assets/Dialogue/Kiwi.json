@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Kiwi",
+   "Entries": {
+
 	"Introduction": "Kiwi does not know you. Kiwi think you new here. Do not follow Kiwi.",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Sun bright, sun hot. Kiwi thirsty.",
 	"Resort": "Kiwi see rainbow chicken.#$b#Fly high in sky.$u#$e#One day Kiwi also fly.$h",
 
+		},
+	},
+]
 }

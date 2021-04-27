@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Philip",
+   "Entries": {
+
 	"Introduction": "Oh hello sir.^Oh hello ma'am.  I haven't seen you around before...#$e#Are you the new farmer who just moved into the valley?#$b#Nice to meet you! I'm Philip. I work as a physical therapist for some individuals in the area. I'll see you around!$h",
 
 //Spring
@@ -100,4 +107,7 @@
 	"Resort_Bar": "~If you like Pina Coladas! And getting caught in the rain!~ Ah, I saw pina coladas on their menu and that song popped into my head.#$b#You know, the one from the Watchers of the Milky Way?$h",
 	"Resort": "Talk about relieving some stress!#$b#This is an amazing way to spend a day off.$h",
 
+		},
+	},
+]
 }

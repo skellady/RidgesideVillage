@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Jio",
+   "Entries": {
+
 	"Introduction": "The spirits greet you, stranger. I am but a nameless traveler, but you may refer to me as Jio.",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Alcohol numbs the senses... that might be preferable here.$s",
 	"Resort": "Kiwi appears to be enjoying herself.$h",
 
+		},
+	},
+]
 }

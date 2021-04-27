@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Olga",
+   "Entries": {
+
 	"Introduction": "Oh! You're the new farmer, right?#$b#My name is Olga.$h#$b#Have you met Bert or Trinnie yet?#$b#That's my husband and our daughter.#$b#My niece Alissa lives with us as well.$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "I'd love to try one of the fancy drinks Pam told me all about...$4#$b#But I probably shouldn't, I need to watch Trinnie.$s",
 	"Resort": "Oh, @! What a lovely place this is.$h#$e#Wait, where is my fool of a husband?$a#$b#Where is my daughter?!$a#$b#Oh, can't I just get one second with these two...$s",
 
+		},
+	},
+]
 }

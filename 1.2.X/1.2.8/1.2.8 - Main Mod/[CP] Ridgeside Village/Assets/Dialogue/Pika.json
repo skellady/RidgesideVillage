@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Pika",
+   "Entries": {
+
 	"Introduction": "Aloha, young farmer.#$b#You must have followed your nose!$h#$b#I'm Pika. I own Pika's, an outdoor restaurant in the heart of the village.#$b#I'm from Ember Island, in the Fern Islands, where we speak Samaowaii.#$b#Perhaps I'll teach you some!$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "They don't serve Cherry Berry Shakey here!$a#$b#Such a shame!$s",
 	"Resort": "I'm really happy to be here.$h#$b#It reminds me of home.#$b#Perhaps you'll visit Ember Island one day as well...$h",
 
+		},
+	},
+]
 }

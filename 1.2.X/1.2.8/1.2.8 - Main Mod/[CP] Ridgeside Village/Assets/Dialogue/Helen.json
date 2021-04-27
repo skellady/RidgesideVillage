@@ -1,7 +1,18 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Helen",
+   "Entries": {
+
 	"Introduction": "We're not supposed to meet.",
 
 //Days of the Week
 	"spring": "We're not supposed to meet.",
-		
+
+
+		},
+	},
+]		
 }

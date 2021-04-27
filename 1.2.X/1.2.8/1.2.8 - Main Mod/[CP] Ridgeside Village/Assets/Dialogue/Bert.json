@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Bert",
+   "Entries": {
+
 	"Introduction": "Hey there, farmer!#$b#You just moved here, didn't you?#$b#The name's Bert!#$b#My family and I live on the south side of Ridgeside Village.#$b#Welcome!$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Hmmm, I think I'll go for a beer.#$b#Put it in a mug and tell Olga it's ginger tea, y'know? Haha!$h#$e#What about you? It's on me![346]$h",
 	"Resort": "Ahhh, Fern Islands.$h#$e#I haven't been here since the eruption!$u#$e#Man, time sure goes by fast...$s",
 
+		},
+	},
+]
 }

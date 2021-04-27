@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Kenneth",
+   "Entries": {
+
 	"Introduction": "Hey! You're the new farmer right? Lenny said you'd likely stop by. #$b#Nice to meet you. I'm Kenneth, Ridgeside Village's own electrician. #$b#Hope you're doing well!$h",
 
 //Spring
@@ -100,4 +107,7 @@
 	"Resort_Bar": "Oh, I'm just having a fruit punch. I don't really care much for alcohol.$h",
 	"Resort": "I bet there's all sorts of hidden treasures here.$h#$b#I'd love to collect a few, but who knows what lurks in that jungle...$6",
 
+		},
+	},
+]
 }

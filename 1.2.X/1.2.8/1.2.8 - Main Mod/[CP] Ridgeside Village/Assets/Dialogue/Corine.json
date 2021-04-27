@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Corine",
+   "Entries": {
+
 	"Introduction": "A new face? Are you new here?#$b#Where are my manners! I'm sorry! My name's Corine! I work at the outdoor restaurant at the Ridgeside Village. Nice to meet you.$h",
 
 //Spring
@@ -104,4 +111,7 @@
 	"Resort_Bar": "Oh! Maybe I could ask if there's a job opening here!",
 	"Resort": "I wonder what wonders I can see around here.#$b#Tell me if you find anything interesting, okay @?$h",
 
+		},
+	},
+]
 }

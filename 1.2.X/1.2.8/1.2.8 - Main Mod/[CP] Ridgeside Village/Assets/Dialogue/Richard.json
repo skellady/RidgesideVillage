@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Richard",
+   "Entries": {
+
 	"Introduction": "Good to meet you, young man.^Good to meet you, young lady.$h#$b#I haven't seen you around these parts before.#$b#I assume you're the new farmer Lewis informed me about?#$b#Welcome to the valley, @.$h#$b#I'm Richard, owner of the humble Log Cabin Hotel.#$b#If you ever fancy some quality service and fine hospitality, our doors are always open!$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Old folks like myself need to be careful around spirits.#$e#Doesn't take much to get to me, anymore.#$b#Plus, one's got to be presentable at all times.#$b#You never know when a business offer will appear!$4",
 	"Resort": "The air feels different here.#$e#Something about the salty breeze feels invigorating!$h#$b#Maybe I should retire here?#$b#Ha ha, no, that's still a ways off.$h",
 
+		},
+	},
+]
 }

@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Flor",
+   "Entries": {
+
 	"Introduction": "Oh, h-hello. I don't know everyone in the valley, but... are you new?#$b# It's nice to meet you, @.$h#$b# I just finished graduate school for clinical psychology, and I'm living at the hotel for now.#$b#Huh? O-oh! I'm sorry!$u#$b#My name is Flor... Nice to meet you.$l",
 
 //Spring
@@ -100,4 +107,7 @@
 	"Resort_Bar": "I'm so thirsty! I can't wait to get some lemonade.$l",
 	"Resort": "Hi, @! Are you enjoying yourself?$here",
 
+		},
+	},
+]
 }

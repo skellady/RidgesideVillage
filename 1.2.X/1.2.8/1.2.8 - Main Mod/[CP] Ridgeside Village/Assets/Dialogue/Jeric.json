@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Jeric",
+   "Entries": {
+
 	"Introduction": "Oh, hey there!$h#$b#You're new here, right?#$e#Oh! You're the new farmer, huh?#$b#My name's Jeric. @, is it?$h#$e#Well, if you ever need some farm supplies, you can always visit my shop. See ya!$h",
 
 //Spring
@@ -108,4 +115,7 @@
 	"Resort_Bar": "%Jeric is hanging onto the bar and slurring something to the bartender.#$b#%Better wait for him to sober up before talking to him.",
 	"Resort": "This resort's nice.$h#$e#I wish there were some night lights or music playing.#$b#Just something to amp it up, you know?$h",
 
+		},
+	},
+]
 }

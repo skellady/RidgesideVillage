@@ -1,4 +1,10 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Ysabelle",
+   "Entries": {
 	"Introduction": "Why hello there! I can tell that you're new here.#$e#My name is Ysabelle. What's yours?#$b#Nice to meet you @. I do hope you have a great stay here!$h",
 
 //Spring
@@ -100,4 +106,7 @@
 	"Resort_Bar": "There's nothing else you need at the beach but a tequila and a tan!$h",
 	"Resort": "Ahhhh! Home is where the sea is, haha!$h#$b#I hope I get to work on my tan!",
 
+		},
+	},
+]
 }

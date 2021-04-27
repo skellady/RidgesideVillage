@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Ian",
+   "Entries": {
+
 	"Introduction": "Hi.#$b#You're the new farmer who just moved in, right?#$b#I'm Ian, it's good to meet you.#$b#I live over in Ridgeside Village.$h#$b#Generally, I just work for whoever asks and can pay a good fee.#$b#That can include you, of course!$h",
 
 //Spring
@@ -100,4 +107,7 @@
   	"Resort_Bar": "Hey, @!#$b#Can you believe Gus runs bother the bar and the saloon?#$b#What an awesome guy!$h",
   	"Resort": "I wonder if I could take some coconuts home.#$b#They're super tasty, and the fiber is great for starting a fire!$h",
 
+		},
+	},
+]
 }

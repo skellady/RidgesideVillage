@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Keahi",
+   "Entries": {
+
 	"Introduction": "Heya! Where did you come from? I've never seen you before!#$b#I'm Keahi! Come visit my dad's restaurant sometime, okay?$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "I'm so thirsty.$s#$e#I drank some water from the ocean, but now I'm even thirstier!$u",
 	"Resort": "I'm going to build the largest sandcastle ever!$h",
 
+		},
+	},
+]
 }

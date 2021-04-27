@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Lola",
+   "Entries": {
+
 	"Introduction": "Hello, dear!$h#$bYou're new here, right?$h#$b#It's so nice to see new faces in town.$h#$b#My name is Lola and I live here with my husband, Freddie.#$e#Don't mind us, just some old lovebirds enjoying the peace and quiet!$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "I don't drink much, but it'd be a shame to pass up a margarita, don't you think?$h",
 	"Resort": "This place is new to me, but it feels so familiar!",
 
+		},
+	},
+]
 }

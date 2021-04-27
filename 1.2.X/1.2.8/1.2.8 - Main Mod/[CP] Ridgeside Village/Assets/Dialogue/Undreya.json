@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Undreya",
+   "Entries": {
+
 	"Introduction": "We're not supposed to meet this early.",
 
 //Day before Festivals	
@@ -7,7 +14,7 @@
 	"summer_27": "I wanna see the jellies too!$h#$b#Ofcourse I'll be there tomorrow! You'll just have a hard time finding me!$h",
 	"fall_26": "Uhmmm.. I don't like tomorrow..$s",
 	"winter_7": "I hate fish. Yuck!$a#$b#I'm not interested in the festival tomorrow.",
-	"winter_14": "Ooh! I've been looking forward for the merchants to come!$h#$b#So much pockets to pick! Teehee < $h",
+	"winter_14": "Ooh! I've been looking forward for the merchants to come!$h#$b#So many pockets to pick! Teehee < $h",
 	"winter_24": "I should learn to be a good elf from time to time.#$b#My friend wouldn't like it if I overstole...$s#$e#Yeah... I should learn to be good once in a while...$s",
 
 //Days of the Week
@@ -24,5 +31,8 @@
 	"summer_1": "It's the summer!.",
 	"fall_1": "It's autumn!",
 	"winter_1": "It's winter!",
-		
+
+		},
+	},
+]		
 }

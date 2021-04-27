@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Lenny",
+   "Entries": {
+
 	"Introduction": "Hello again, @!$h#$b#Didn't scare you off with that little tour, did I?#$b#Glad to see you again.#$b#Make sure you visit often!$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Aawh, they don't sell Cherry Berry Shakey here.$s",
 	"Resort": "Hiya, @!$h#$e#They say the water on the island has healing properties.#$e#Do you believe that?$4",
 
+		},
+	},
+]
 }

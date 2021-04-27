@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Freddie",
+   "Entries": {
+
 	"Introduction": "Hello there, stranger.#$b#You must be the new farmer everyone has been talking about!$h#$b#Nice to meet you. My name is Freddie.#$b#I live here in Ridgeside with my wife Lola. Come by sometime for a chat, won't you.$h",
 
 //Spring
@@ -91,5 +98,8 @@
 	"Resort_Chair": "This heat is good for my old bones...#$b#...and Lola over there is good for my heart.#$e#I am a lucky man.$h",
 	"Resort_Bar": "Whiskey on the rocks, please.",
 	"Resort": "Haven't been here since that day...$s",
-	
+
+		},
+	},
+]	
 }

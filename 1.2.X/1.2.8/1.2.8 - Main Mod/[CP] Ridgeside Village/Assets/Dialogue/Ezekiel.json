@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Ezekiel",
+   "Entries": {
+
 	"Introduction": "Huh? Who are you supposed to be?#$b#Oh, the new farmer? Well, that's good.#$b#I'm Ezekiel. Nice to meet you, I suppose.",
 
 //Spring
@@ -96,4 +103,7 @@
 	"Resort_Bar": "Ha, I'd rather stay at this bar all day than go for a swim!$h",
 	"Resort": "I don't like sand.$s#$b#It's coarse and rough and irritating and it gets everywhere.$a",
 
+		},
+	},
+]
 }

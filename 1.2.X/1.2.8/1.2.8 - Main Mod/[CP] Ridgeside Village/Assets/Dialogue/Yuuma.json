@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Yuuma",
+   "Entries": {
+
 	"Introduction": "Uhm, I don't know you.#$e#Oh... you're the new farmer.#$b#I'm Yuuma. Shiro is my big brother.#$b#Well, I need to go... bye.$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "Wow, the juice they have here is really neat.$h#$e#We don't have these kinds of juices back in the ridge.",
 	"Resort": "This place is really interesting.$h#$e#Um... I have to go, bye.",
 
+		},
+	},
+]
 }

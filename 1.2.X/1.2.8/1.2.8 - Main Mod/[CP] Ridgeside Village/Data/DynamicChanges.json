@@ -677,6 +677,79 @@
 		"Update": "OnLocationChange, OnTimeChange"
 	},
 
+//Event changes
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+         "FromFile": "Assets/MapPatches/AguarWaterfalls.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 1 },
+         "ToArea": { "X": 63, "Y": 106, "Width": 1, "Height": 1 },
+         "PatchMode": "Replace",
+         "When": {
+			"HasSeenEvent: hostPlayer |contains=75160063": true,
+		}         
+      	},
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_AguarCave",
+         "FromFile": "Assets/MapPatches/AguarCaveFixed.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
+         "ToArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
+         "PatchMode": "Replace",
+         "When": {
+			"HasSeenEvent: hostPlayer |contains=75160064": true,
+		}         
+      	},
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_LogCabinHotel3rdFloor",
+         "FromFile": "Assets/MapPatches/Richard8HeartsEffect.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 2 },
+         "ToArea": { "X": 6, "Y": 13, "Width": 1, "Height": 2 },
+         "PatchMode": "Replace",
+         "When": {
+			"HasSeenEvent: hostPlayer |contains=75160105": true,
+		}         
+      	},        	      	
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_RSVNinjaHouse",
+         "FromFile": "Assets/MapPatches/RSVJioShop.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 2 },
+         "ToArea": { "X": 10, "Y": 5, "Width": 1, "Height": 2 },
+         "PatchMode": "Replace",
+         "When": {
+			"HasSeenEvent: hostPlayer |contains=75160187": true,
+		}         
+      	}, 
+
+//Letter Changes
+
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+         "FromFile": "Assets/MapPatches/UnlockGH1.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 7, "Height": 10 },
+         "ToArea": { "X": 50, "Y": 57, "Width": 7, "Height": 10 },
+         "PatchMode": "Replace",
+         "When": {
+			 "HasFlag": "GH1letter",
+		}         
+      	}, 
+     	 {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_Ridgeside_RSVTheHike",
+         "FromFile": "Assets/MapPatches/UnlockGH2.tmx",
+         "FromArea": { "X": 0, "Y": 0, "Width": 7, "Height": 10 },
+         "ToArea": { "X": 35, "Y": 14, "Width": 7, "Height": 10 },
+         "PatchMode": "Replace",
+    	 "When": {
+             "Year": "3",
+             "Time": "{{Range: 2000, 2600}}",
+      	}
+      	},       	      	      	      	   
+	
+
 	/*********
 	** NPC Dynamics
 	*********/

@@ -1,4 +1,11 @@
 {
+"Changes": [
+	{
+   
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Trinnie",
+   "Entries": {
+
 	"Introduction": "Hi!$h#$b#Aren't ya new here?#$b#You're definitely a new face!$h#$b#My name's Trinnie!#$b#T-R-I-N-N-I-E, okay?#$b#Not Trina.$s#$b#Not Tiny.$a#$b#Trinnie, got that?$h",
 
 //Spring
@@ -92,4 +99,7 @@
 	"Resort_Bar": "I want a strawberry lemonade?$u#$e#Can I have a strawberry lemonade?$h#$b#Please?$s",
 	"Resort": "I ran around with Dad and Keahi!$h#$e#My legs are all sandy now.$s",
 
+		},
+	},
+]
 }
