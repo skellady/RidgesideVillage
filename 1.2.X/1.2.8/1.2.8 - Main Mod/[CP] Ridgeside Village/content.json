@@ -1,6 +1,147 @@
 {
 	"Format": "1.22.0",
-	
+
+/*********
+** Ridgeside Village
+*********/
+	/*********
+	** Content.Json- Contains everything you can't use an Include for.
+	*********/
+		/*********
+		** ConfigSchema - Contains the config options for Ridgeside.
+		*********/
+		/*********
+		** DynamicTokens - Contains tokens you can call upon via CP code.
+		*********/
+		/*********
+		** CustomLocations - Loads all the custom maps  (excluding patches).
+		*********/
+		/*********
+		** Changes - All the Includes are here.
+		*********/						
+		/*********
+		** Event Repeater - Handles the repeating events. (Cable Car Cutscene).
+		*********/
+
+	/*********
+	** Includes
+	*********/
+		/*********
+		** Festivals - Ridge's custom festivals are added here and the festival locations.
+		*********/
+		/*********
+		** Special Orders - All the special orders are handled here temporarily until I create a custom json for them.
+		*********/
+		/*********
+		** Animations
+		*********/
+		/*********
+		** ConfigChanges
+		*********/					
+		/*********
+		** ConversationTopics
+		*********/
+		/*********
+		** DynamicChanges
+		*********/	
+		/*********
+		** EventData
+		*********/
+		/*********
+		** EventDialogues
+		*********/	
+		/*********
+		** FestivalDialogue
+		*********/
+		/*********
+		** FishData
+		*********/	
+		/*********
+		** IntermodPatches
+		*********/
+		/*********
+		** LoadDialogue
+		*********/
+		/*********
+		** LoadFestival
+		*********/	
+		/*********
+		** Mail
+		*********/
+		/*********
+		** MapPatches
+		*********/	
+		/*********
+		** MapStrings
+		*********/
+		/*********
+		** MonsterData
+		*********/
+		/*********
+		** MovieData
+		*********/
+		/*********
+		** Music
+		*********/
+		/*********
+		** NPCData
+		*********/
+		/*********
+		** QuestEvents
+		*********/
+		/*********
+		** Romance
+		*********/
+		/*********
+		** Warps
+		*********/
+		/*********
+		** WorldMap
+		*********/
+
+	/*********
+	** Assets
+	*********/
+		/*********
+		** BeachCharacters
+		*********/
+		/*********
+		** BeachPortraits
+		*********/
+		/*********
+		** Characters
+		*********/
+		/*********
+		** ConfigOptions
+		*********/
+		/*********
+		** Dialogue
+		*********/
+		/*********
+		** EventFiles
+		*********/		
+		/*********
+		** LooseSprites
+		*********/
+		/*********
+		** MapPatches
+		*********/
+		/*********
+		** Maps
+		*********/
+		/*********
+		** MarriageDialogue
+		*********/	
+		/*********
+		** Portraits
+		*********/
+		/*********
+		** Schedule
+		*********/
+		/*********
+		** Undreya
+		*********/
+
 	/*********
 	** Configuration
 	*********/
