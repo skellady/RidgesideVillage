@@ -119,7 +119,7 @@
 		*********/
 		/*********
 		** EventFiles
-		*********/		
+		*********/	
 		/*********
 		** LooseSprites
 		*********/
@@ -129,6 +129,18 @@
 		/*********
 		** Maps
 		*********/
+			/*********
+			** EventMaps
+			*********/
+			/*********
+			** FestivalMaps
+			*********/
+			/*********
+			** InterModMaps
+			*********/
+			/*********
+			** QuestMaps
+			*********/
 		/*********
 		** MarriageDialogue
 		*********/	
@@ -540,14 +552,10 @@
          	"Name": "Custom_Ridgeside_AguarCave",
          	"FromMapFile": "Assets/Maps/AguarCave.tmx",
          	"MigrateLegacyNames": [ "AguarCave" ]
-      	},
-//      	{
-//         	"Name": "Custom_Ridgeside_AguarCaveFixed",
-//         	"FromMapFile": "Assets/Maps/AguarCaveFixed.tbin"
-//      	},     	   
+      	},   
       	{
          	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/Maps/AguarCaveTemporary.tmx",
+         	"FromMapFile": "Assets/EventMaps/AguarCaveTemporary.tmx",
          	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
       	},    
       	{
@@ -557,7 +565,7 @@
       	},
 //      	{
 //         	"Name": "Custom_Ridgeside_AguarWaterfalls",
-//         	"FromMapFile": "Assets/Maps/AguarWaterfalls.tbin"
+//         	"FromMapFile": "Assets/Maps/AguarWaterfalls.tmx"
 //      	},
       	{
          	"Name": "Custom_Ridgeside_AlissaHouse",
@@ -590,121 +598,121 @@
       	},      	   
       	{
          	"Name": "Custom_Ridgeside_EzekielHouse",
-         	"FromMapFile": "Assets/Maps/EzekielHouse.tbin",
+         	"FromMapFile": "Assets/Maps/EzekielHouse.tmx",
          	"MigrateLegacyNames": [ "EzekielHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_EzekielPic",
-         	"FromMapFile": "Assets/Maps/EzekielPic.tbin",
+         	"FromMapFile": "Assets/Maps/EzekielPic.tmx",
          	"MigrateLegacyNames": [ "EzekielPic" ]
       	},      	    
       	{
          	"Name": "Custom_Ridgeside_FreddieHouse",
-         	"FromMapFile": "Assets/Maps/FreddieHouse.tbin",
+         	"FromMapFile": "Assets/Maps/FreddieHouse.tmx",
          	"MigrateLegacyNames": [ "FreddieHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_IanHouse",
-         	"FromMapFile": "Assets/Maps/IanHouse.tbin",
+         	"FromMapFile": "Assets/Maps/IanHouse.tmx",
          	"MigrateLegacyNames": [ "IanHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_JericHouse",
-         	"FromMapFile": "Assets/Maps/JericHouse.tbin",
+         	"FromMapFile": "Assets/Maps/JericHouse.tmx",
          	"MigrateLegacyNames": [ "JericHouse" ]
       	},     	   
       	{
          	"Name": "Custom_Ridgeside_KennethHouse",
-         	"FromMapFile": "Assets/Maps/KennethHouse.tbin",
+         	"FromMapFile": "Assets/Maps/KennethHouse.tmx",
          	"MigrateLegacyNames": [ "KennethHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_LennyHouse",
-         	"FromMapFile": "Assets/Maps/LennyHouse.tbin",
+         	"FromMapFile": "Assets/Maps/LennyHouse.tmx",
          	"MigrateLegacyNames": [ "LennyHouse" ]
       	},
         {
             "Name": "Custom_Ridgeside_LogCabinHotel2ndFloor",
-            "FromMapFile": "Assets/Maps/LogCabinHotel2ndFloor.tbin",
+            "FromMapFile": "Assets/Maps/LogCabinHotel2ndFloor.tmx",
          	"MigrateLegacyNames": [ "LogCabinHotel2ndFloor" ]
         },        
         {
             "Name": "Custom_Ridgeside_LogCabinHotel3rdFloor",
-            "FromMapFile": "Assets/Maps/LogCabinHotel3rdFloor.tbin",
+            "FromMapFile": "Assets/Maps/LogCabinHotel3rdFloor.tmx",
          	"MigrateLegacyNames": [ "LogCabinHotel3rdFloor" ]
         },
         {
             "Name": "Custom_Ridgeside_LogCabinHotelLobby",
-            "FromMapFile": "Assets/Maps/LogCabinHotelLobby.tbin",
+            "FromMapFile": "Assets/Maps/LogCabinHotelLobby.tmx",
          	"MigrateLegacyNames": [ "LogCabinHotelLobby" ]
         },        
       	{
          	"Name": "Custom_Ridgeside_LolaShed",
-         	"FromMapFile": "Assets/Maps/LolaShed.tbin",
+         	"FromMapFile": "Assets/Maps/LolaShed.tmx",
          	"MigrateLegacyNames": [ "LolaShed" ]
       	},      	    
       	{
          	"Name": "Custom_Ridgeside_MaddieHouse",
-         	"FromMapFile": "Assets/Maps/MaddieHouse.tbin",
+         	"FromMapFile": "Assets/Maps/MaddieHouse.tmx",
          	"MigrateLegacyNames": [ "MaddieHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_MysticFalls1",
-         	"FromMapFile": "Assets/Maps/MysticFalls1.tbin",
+         	"FromMapFile": "Assets/Maps/MysticFalls1.tmx",
          	"MigrateLegacyNames": [ "MysticFalls1" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_MysticFalls2",
-         	"FromMapFile": "Assets/Maps/MysticFalls2.tbin",
+         	"FromMapFile": "Assets/Maps/MysticFalls2.tmx",
          	"MigrateLegacyNames": [ "MysticFalls2" ]
       	},      	   
       	{
          	"Name": "Custom_Ridgeside_MysticFalls3",
-         	"FromMapFile": "Assets/Maps/MysticFalls3.tbin",
+         	"FromMapFile": "Assets/Maps/MysticFalls3.tmx",
          	"MigrateLegacyNames": [ "MysticFalls3" ]
       	},
         {
             "Name": "Custom_Ridgeside_PikaHouse",
-            "FromMapFile": "Assets/Maps/PikaHouse.tbin",
+            "FromMapFile": "Assets/Maps/PikaHouse.tmx",
          	"MigrateLegacyNames": [ "PikaHouse" ]
         },        
         {
             "Name": "Custom_Ridgeside_PrincessVilleDate",
-            "FromMapFile": "Assets/Maps/PrincessVilleDate.tbin",
+            "FromMapFile": "Assets/Maps/PrincessVilleDate.tmx",
          	"MigrateLegacyNames": [ "PrincessVilleDate" ]
         },        
 //        {
 //            "Name": "Custom_Ridgeside_Richard8HeartsEffect",
-//            "FromMapFile": "Assets/Maps/Richard8HeartsEffect.tbin"
+//            "FromMapFile": "Assets/Maps/Richard8HeartsEffect.tmx"
 //        },      	      	       		
       	{
         	"Name": "Custom_Ridgeside_Ridge",
-         	"FromMapFile": "Assets/Maps/Ridge.tbin",
+         	"FromMapFile": "Assets/Maps/Ridge.tmx",
          	"MigrateLegacyNames": [ "Ridge" ]
       	},      
       	{
          	"Name": "Custom_Ridgeside_RidgeFalls",
-         	"FromMapFile": "Assets/Maps/RidgeFalls.tbin",
+         	"FromMapFile": "Assets/Maps/RidgeFalls.tmx",
          	"MigrateLegacyNames": [ "RidgeFalls" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RidgeForestQ1",
-         	"FromMapFile": "Assets/Maps/RidgeForestQ1.tbin",
+         	"FromMapFile": "Assets/Maps/RidgeForestQ1.tmx",
          	"MigrateLegacyNames": [ "RidgeForestQ1" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RidgeForestQ2",
-         	"FromMapFile": "Assets/Maps/RidgeForestQ2.tbin",
+         	"FromMapFile": "Assets/Maps/RidgeForestQ2.tmx",
          	"MigrateLegacyNames": [ "RidgeForestQ2" ]
      	},                  
       	{
          	"Name": "Custom_Ridgeside_RidgeForestQ3",
-         	"FromMapFile": "Assets/Maps/RidgeForestQ3.tbin",
+         	"FromMapFile": "Assets/Maps/RidgeForestQ3.tmx",
          	"MigrateLegacyNames": [ "RidgeForestQ3" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RidgeForestQ4",
-         	"FromMapFile": "Assets/Maps/RidgeForestQ4.tbin",
+         	"FromMapFile": "Assets/Maps/RidgeForestQ4.tmx",
          	"MigrateLegacyNames": [ "RidgeForestQ4" ]
       	},
         {
@@ -714,21 +722,17 @@
         },    
       	{
          	"Name": "Custom_Ridgeside_RSVAbandonedHouse",
-         	"FromMapFile": "Assets/Maps/RSVAbandonedHouse.tbin",
+         	"FromMapFile": "Assets/Maps/RSVAbandonedHouse.tmx",
          	"MigrateLegacyNames": [ "RSVAbandonedHouse" ]
       	},
-//      	{
-//         	"Name": "Custom_Ridgeside_RSVBusStop",
-//         	"FromMapFile": "Assets/Maps/RSVBusStop.tbin"
-//      	},
       	{
          	"Name": "Custom_Ridgeside_RSVCableCar",
-         	"FromMapFile": "Assets/Maps/RSVCableCar.tbin",
+         	"FromMapFile": "Assets/Maps/RSVCableCar.tmx",
          	"MigrateLegacyNames": [ "RSVCableCar" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RSVCliff",
-         	"FromMapFile": "Assets/Maps/RSVCliff.tbin",
+         	"FromMapFile": "Assets/Maps/RSVCliff.tmx",
          	"MigrateLegacyNames": [ "RSVCliff" ]
       	},  
       	{
@@ -738,76 +742,61 @@
       	},      	      	      	      	      	
       	{
          	"Name": "Custom_Ridgeside_RSVGathering",
-         	"FromMapFile": "Assets/Maps/RSVGathering.tbin",
+         	"FromMapFile": "Assets/Maps/RSVGathering.tmx",
          	"MigrateLegacyNames": [ "RSVGathering" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RSVGreenhouse1",
-         	"FromMapFile": "Assets/Maps/RSVGreenhouse1.tbin",
+         	"FromMapFile": "Assets/Maps/RSVGreenhouse1.tmx",
          	"MigrateLegacyNames": [ "RSVGreenhouse1" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RSVGreenhouse2",
-         	"FromMapFile": "Assets/Maps/RSVGreenhouse2.tbin",
+         	"FromMapFile": "Assets/Maps/RSVGreenhouse2.tmx",
          	"MigrateLegacyNames": [ "RSVGreenhouse2" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_RSVHiddenWarp",
-         	"FromMapFile": "Assets/Maps/RSVHiddenWarp.tbin",
+         	"FromMapFile": "Assets/Maps/RSVHiddenWarp.tmx",
          	"MigrateLegacyNames": [ "RSVHiddenWarp" ]
       	},     
       	{
          	"Name": "Custom_Ridgeside_RSVHiddenWarp2",
-         	"FromMapFile": "Assets/Maps/RSVHiddenWarp2.tbin",
+         	"FromMapFile": "Assets/Maps/RSVHiddenWarp2.tmx",
          	"MigrateLegacyNames": [ "RSVHiddenWarp2" ]
       	},        	 	   
-//      	{
-//         	"Name": "Custom_Ridgeside_RSVJioShop",
-//         	"FromMapFile": "Assets/Maps/RSVJioShop.tbin"
-//     	},
-//      	{
-//         	"Name": "Custom_Ridgeside_RSVLine",
-//         	"FromMapFile": "Assets/Maps/RSVLine.tbin"
-//     	},
       	{
          	"Name": "Custom_Ridgeside_RSVMinecart",
-         	"FromMapFile": "Assets/Maps/RSVMinecart.tbin",
+         	"FromMapFile": "Assets/Maps/RSVMinecart.tmx",
          	"MigrateLegacyNames": [ "RSVMinecart" ]
      	},
       	{
          	"Name": "Custom_Ridgeside_RSVNinjaHouse",
-         	"FromMapFile": "Assets/Maps/RSVNinjaHouse.tbin",
+         	"FromMapFile": "Assets/Maps/RSVNinjaHouse.tmx",
          	"MigrateLegacyNames": [ "RSVNinjaHouse" ]
      	},  
       	{
          	"Name": "Custom_Ridgeside_RSVPikaOpen",
-         	"FromMapFile": "Assets/Maps/RSVPikaOpen.tbin",
+         	"FromMapFile": "Assets/Maps/RSVPikaOpen.tmx",
          	"MigrateLegacyNames": [ "RSVPikaOpen" ]
      	},       	     	     	
       	{
          	"Name": "Custom_Ridgeside_RSVTheHike",
-         	"FromMapFile": "Assets/Maps/RSVTheHike.tbin",
+         	"FromMapFile": "Assets/Maps/RSVTheHike.tmx",
          	"MigrateLegacyNames": [ "RSVTheHike" ]
      	},
       	{
          	"Name": "Custom_Ridgeside_RSVTheRide",
-         	"FromMapFile": "Assets/Maps/RSVTheRide.tbin",
+         	"FromMapFile": "Assets/Maps/RSVTheRide.tmx",
          	"MigrateLegacyNames": [ "RSVTheRide" ]
       	},      
        	{
          	"Name": "Custom_Ridgeside_ShiroHouse",
-         	"FromMapFile": "Assets/Maps/ShiroHouse.tbin",
+         	"FromMapFile": "Assets/Maps/ShiroHouse.tmx",
          	"MigrateLegacyNames": [ "ShiroHouse" ]
       	},    
-//      	{
-//         	"Name": "Custom_Ridgeside_UnlockGH1",
-//         	"FromMapFile": "Assets/Maps/UnlockGH1.tbin"
-//      	},   
-//      	{
-//         	"Name": "Custom_Ridgeside_UnlockGH2",
-//         	"FromMapFile": "Assets/Maps/UnlockGH2.tbin",
-//      	},   
-   	      	      	
+//Event Maps
+
     ],
 
 	/*********

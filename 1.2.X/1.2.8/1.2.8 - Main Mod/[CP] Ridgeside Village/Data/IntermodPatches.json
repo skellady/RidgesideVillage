@@ -391,6 +391,18 @@
 	},	
 
 //SVE Versions of Festivals
+
+	//Egg Fest
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Forest-FlowerFestival",
+		"FromFile": "Assets/Maps/InterModMaps/Forest-FlowerFestivalPatch.tmx",
+		"FromArea": { "X": 25, "Y": 8, "Width": 25, "Height": 37 },
+		"ToArea": { "X": 25, "Y": 8, "Width": 25, "Height": 37 },
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP, DaisyNiko.SVR2": true },
+		"PatchMode": "ReplaceByLayer",
+	},	
+
 	//Spirit's Eve
 		
 	{

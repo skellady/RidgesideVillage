@@ -4,15 +4,7 @@
 //----------------------
 //FlowerDance Map       
 //----------------------
-	{
-		"Action": "EditMap",
-		"Target": "Maps/Forest-FlowerFestival",
-		"FromFile": "Assets/MapPatches/Forest-FlowerFestivalPatch.tmx",
-		"FromArea": { "X": 25, "Y": 8, "Width": 25, "Height": 37 },
-		"ToArea": { "X": 25, "Y": 8, "Width": 25, "Height": 37 },
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP, DaisyNiko.SVR2": true },
-		"PatchMode": "ReplaceByLayer",
-	},
+
 	{
 		"Action": "Load",
 		"Target": "Maps/Forest-FlowerFestival",
@@ -26,7 +18,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/BusStop",
-         "FromFile": "Assets/MapPatches/RSVBusStop.tmx",
+         "FromFile": "Assets/Maps/MapPatches/RSVBusStop.tmx",
          "FromArea": { "X": 23, "Y": 0, "Width": 12, "Height": 6 },
          "ToArea": { "X": 23, "Y": 0, "Width": 12, "Height": 6 },
          "PatchMode": "Replace"
@@ -34,7 +26,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Backwoods",
-         "FromFile": "Assets/MapPatches/RSVLine.tmx",
+         "FromFile": "Assets/Maps/MapPatches/RSVLine.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 50, "Height": 12 },
          "ToArea": { "X": 0, "Y": 0, "Width": 50, "Height": 12 },
          "PatchMode": "Overlay"
