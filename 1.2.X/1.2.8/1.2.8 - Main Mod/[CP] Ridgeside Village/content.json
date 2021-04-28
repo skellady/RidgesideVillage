@@ -543,64 +543,63 @@
 	** Define in-game locations
 	*********/
     "CustomLocations": [
+
+    	//IndoorMaps
       	{
          	"Name": "Custom_Ridgeside_AguarBasement",
-         	"FromMapFile": "Assets/Maps/AguarBasement.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/AguarBasement.tmx",
          	"MigrateLegacyNames": [ "AguarBasement" ]
       	},
       	{
-         	"Name": "Custom_Ridgeside_AguarCave",
-         	"FromMapFile": "Assets/Maps/AguarCave.tmx",
-         	"MigrateLegacyNames": [ "AguarCave" ]
-      	},   
-      	{
-         	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/EventMaps/AguarCaveTemporary.tmx",
-         	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
-      	},    
-      	{
          	"Name": "Custom_Ridgeside_AguarLab",
-         	"FromMapFile": "Assets/Maps/AguarLab.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/AguarLab.tmx",
          	"MigrateLegacyNames": [ "AguarLab" ]
       	},
-//      	{
-//         	"Name": "Custom_Ridgeside_AguarWaterfalls",
-//         	"FromMapFile": "Assets/Maps/AguarWaterfalls.tmx"
-//      	},
       	{
          	"Name": "Custom_Ridgeside_AlissaHouse",
-         	"FromMapFile": "Assets/Maps/AlissaHouse.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaHouse.tmx",
          	"MigrateLegacyNames": [ "AlissaHouse" ]
       	},     	   
       	{
          	"Name": "Custom_Ridgeside_AlissaShed",
-         	"FromMapFile": "Assets/Maps/AlissaShed.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaShed.tmx",
          	"MigrateLegacyNames": [ "AlissaShed" ]
       	},      
       	{
          	"Name": "Custom_Ridgeside_BertHouse",
-         	"FromMapFile": "Assets/Maps/BertHouse.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse.tmx",
          	"MigrateLegacyNames": [ "BertHouse" ]
       	},
       	{
          	"Name": "Custom_Ridgeside_BertHouse2ndFloor",
-         	"FromMapFile": "Assets/Maps/BertHouse2ndFloor.tmx",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse2ndFloor.tmx",
          	"MigrateLegacyNames": [ "BertHouse2ndFloor" ]
       	},
-//      	{
-//         	"Name": "Custom_Ridgeside_ElvenForest",
-//         	"FromMapFile": "Assets/Maps/ElvenForest.tmx",
-//      	},      	   
+      	{
+         	"Name": "Custom_Ridgeside_EzekielHouse",
+         	"FromMapFile": "Assets/Maps/IndoorMaps/EzekielHouse.tmx",
+         	"MigrateLegacyNames": [ "EzekielHouse" ]
+      	},
+      	//EventMaps
+      	{
+         	"Name": "Custom_Ridgeside_AguarCave",
+         	"FromMapFile": "Assets/Maps/EventMaps/AguarCave.tmx",
+         	"MigrateLegacyNames": [ "AguarCave" ]
+      	},   
+      	{
+         	"Name": "Custom_Ridgeside_AguarCaveTemporary",
+         	"FromMapFile": "Assets/Maps/EventMaps/AguarCaveTemporary.tmx",
+         	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
+      	},    
+
+
+		//FestivalMaps      	   
       	{
          	"Name": "Custom_Ridgeside_EmberNight",
          	"FromMapFile": "Assets/Maps/EmberNight.tmx",
          	"MigrateLegacyNames": [ "EmberNight" ]
       	},      	   
-      	{
-         	"Name": "Custom_Ridgeside_EzekielHouse",
-         	"FromMapFile": "Assets/Maps/EzekielHouse.tmx",
-         	"MigrateLegacyNames": [ "EzekielHouse" ]
-      	},
+
       	{
          	"Name": "Custom_Ridgeside_EzekielPic",
          	"FromMapFile": "Assets/Maps/EzekielPic.tmx",
