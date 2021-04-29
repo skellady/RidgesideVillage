@@ -23,7 +23,7 @@
 	{
 		"LogName": "Corine Schedule Change",
 		"Action": "EditData",
-		"Target": "Characters/schedules/Corine",
+		"Target": "Characters/Schedules/Corine",
 		"Entries": {
 			"Thu": "610 Custom_Ridgeside_RidgesideVillage 133 86 2 corine_train/1200 Custom_Ridgeside_RidgesideVillage 140 86 2 corine_meditate/1500 Custom_Ridgeside_RidgesideVillage 135 87 1 corine_slash/1900 Custom_Ridgeside_EzekielHouse 24 5 0/2200 Custom_Ridgeside_Ridge 76 38 2",
 		},
@@ -32,7 +32,7 @@
 	{
 		"LogName": "Ian Schedule Change",
 		"Action": "EditData",
-		"Target": "Characters/schedules/Ian",
+		"Target": "Characters/Schedules/Ian",
 		"Entries": {
 			"Fri": "800 Custom_Ridgeside_LogCabinHotelLobby 2 15 2/1200 ArchaeologyHouse 17 14 2/1800 Custom_Ridgeside_RidgesideVillage 95 65 2/2200 Custom_Ridgeside_IanHouse 17 9 0 ian_sleep",
 		},
@@ -42,7 +42,7 @@
 //	{
 //		"LogName": "Yuuma Shiro Married Schedule",
 //		"Action": "EditData",
-//		"Target": "Characters/schedules/Yuuma",
+//		"Target": "Characters/Schedules/Yuuma",
 //		"Entries": {
 //			"spring": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
 //			"summer": "900 Custom_Ridgeside_LennyHouse 22 12 0 square_3_1_0/1400 Hospital 13 17 1/1600 Custom_Ridgeside_LennyHouse 3 5 0/2000 Custom_Ridgeside_LennyHouse 14 5 0 yuuma_sleep",
@@ -521,52 +521,53 @@
 	*********/	
 
 //Cliff Sky
+
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/RSVCliffNight.tbin",
-		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
-		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
-		"PatchMode": "ReplaceByLayer",
-		"When": { "Time": "{{Range: 1900, 2600}}" },
-		"Update": "OnLocationChange"
-	},
-	{
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/RSVCliff.tbin",
+		"FromFile": "Assets/Maps/OutdoorMaps/RSVCliff.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
 		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 0600, 1900}}" },
 		"Update": "OnLocationChange"
 	},
-	
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVCliff",
+		"FromFile": "Assets/Maps/DynamicMaps/RSVCliffNight.tmx",
+		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 1900, 2600}}" },
+		"Update": "OnLocationChange"
+	},
+
 //Ride Sky
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
-		"FromFile": "Assets/MapPatches/RSVTheRideNight.tbin",
-		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
-		"PatchMode": "ReplaceByLayer",
-		"When": { "Time": "{{Range: 1900, 2600}}" },
-		"Update": "OnLocationChange"
-	},
-	{
-		"Action": "EditMap",
-		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
-		"FromFile": "Assets/MapPatches/RSVTheRide.tbin",
+		"FromFile": "Assets/Maps/EventMaps/RSVTheRide.tmx",
 		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 0600, 1900}}" },
 		"Update": "OnLocationChange"
 	},
-	
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
+		"FromFile": "Assets/Maps/DynamicMaps/RSVTheRideNight.tmx",
+		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 1900, 2600}}" },
+		"Update": "OnLocationChange"
+	},	
+
 //Cliff House Peek (11PM-11:30PM Thursday)
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/CliffHousePeek.tbin",
+		"FromFile": "Assets/Maps/EventMaps/CliffHousePeek.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 2 },
 		"ToArea": { "X": 28, "Y": 32, "Width": 2, "Height": 2 },
 		"PatchMode": "ReplaceByLayer",
@@ -606,7 +607,7 @@
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RSVCliff",
-		"FromFile": "Assets/MapPatches/UndreyaUnlock.tbin",
+		"FromFile": "Assets/Maps/EventMaps/UndreyaUnlock.tmx",
 		"ToArea": { "X": 31, "Y": 32, "Width": 1, "Height": 2 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 2300, 2600}}", "HasSeenEvent: |contains=75160181": true },
@@ -670,7 +671,7 @@
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-		"FromFile": "Assets/MapPatches/RSVOpenPlot.tbin",
+		"FromFile": "Assets/Maps/EventMaps/RSVOpenPlot.tmx",
 		"ToArea": { "X": 68, "Y": 18, "Width": 3, "Height": 2 },
 		"PatchMode": "Replace",
 		"When": { "HasSeenEvent: hostPlayer": 75160189 },
@@ -681,7 +682,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-         "FromFile": "Assets/MapPatches/AguarWaterfalls.tmx",
+         "FromFile": "Assets/Maps/EventMaps/AguarWaterfalls.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 1 },
          "ToArea": { "X": 63, "Y": 106, "Width": 1, "Height": 1 },
          "PatchMode": "Replace",
@@ -692,7 +693,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_AguarCave",
-         "FromFile": "Assets/MapPatches/AguarCaveFixed.tmx",
+         "FromFile": "Assets/Maps/EventMaps/AguarCaveFixed.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
          "ToArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
          "PatchMode": "Replace",
@@ -703,7 +704,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_LogCabinHotel3rdFloor",
-         "FromFile": "Assets/MapPatches/Richard8HeartsEffect.tmx",
+         "FromFile": "Assets/Maps/EventMaps/Richard8HeartsEffect.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 2 },
          "ToArea": { "X": 6, "Y": 13, "Width": 1, "Height": 2 },
          "PatchMode": "Replace",
@@ -714,7 +715,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_RSVNinjaHouse",
-         "FromFile": "Assets/MapPatches/RSVJioShop.tmx",
+         "FromFile": "Assets/Maps/EventMaps/RSVJioShop.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 2 },
          "ToArea": { "X": 10, "Y": 5, "Width": 1, "Height": 2 },
          "PatchMode": "Replace",
@@ -728,7 +729,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-         "FromFile": "Assets/MapPatches/UnlockGH1.tmx",
+         "FromFile": "Assets/Maps/EventMaps/UnlockGH1.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 7, "Height": 10 },
          "ToArea": { "X": 50, "Y": 57, "Width": 7, "Height": 10 },
          "PatchMode": "Replace",
@@ -739,7 +740,7 @@
      	 {
          "Action": "EditMap",
          "Target": "Maps/Custom_Ridgeside_RSVTheHike",
-         "FromFile": "Assets/MapPatches/UnlockGH2.tmx",
+         "FromFile": "Assets/Maps/EventMaps/UnlockGH2.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 7, "Height": 10 },
          "ToArea": { "X": 35, "Y": 14, "Width": 7, "Height": 10 },
          "PatchMode": "Replace",
@@ -758,7 +759,7 @@
 		//DISPOSITIONS
 		{
 			"Action": "EditData",
-			"Target": "Characters/schedules/Undreya",
+			"Target": "Characters/Schedules/Undreya",
 			"Entries": {
 				"spring": "{{RANDOMUNDREYA}}"
 			},
@@ -783,8 +784,8 @@
 		{
 			//Temporary Schedule
 			"Action": "Load",
-			"Target": "Characters/schedules/Kiwi",
-			"FromFile": "Assets/schedules/BlankSchedule.json",
+			"Target": "Characters/Schedules/Kiwi",
+			"FromFile": "Assets/Schedules/BlankSchedule.json",
 			"When": {
 				"HasSeenEvent: hostPlayer |contains=75160188": false
 			},
@@ -792,8 +793,8 @@
 		{
 		//Official Schedule
 			"Action": "Load",
-			"Target": "Characters/schedules/Kiwi",
-			"FromFile": "Assets/schedules/Kiwi.json",
+			"Target": "Characters/Schedules/Kiwi",
+			"FromFile": "Assets/Schedules/Kiwi.json",
 			"When": {
 				"HasSeenEvent: hostPlayer |contains=75160188": true
 			},

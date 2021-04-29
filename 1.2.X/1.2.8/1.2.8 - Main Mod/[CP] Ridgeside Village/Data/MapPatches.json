@@ -8,7 +8,7 @@
 	{
 		"Action": "Load",
 		"Target": "Maps/Forest-FlowerFestival",
-		"FromFile": "Assets/MapPatches/Forest-FlowerFestival.tmx",
+		"FromFile": "Assets/Maps/FestivalMaps/Forest-FlowerFestival.tmx",
 		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP, DaisyNiko.SVR2": false },
 	},
 	
