@@ -83,5 +83,10 @@
 		"File": "FallInRidgeside.ogg",
 		"Preload": true
 	},
+	{
+		"Id": "CaveDrip",
+		"File": "CaveDrip.ogg",
+		"Preload": true
+	},	
 	]
 }

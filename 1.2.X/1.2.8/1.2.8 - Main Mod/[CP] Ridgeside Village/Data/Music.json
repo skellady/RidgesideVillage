@@ -131,6 +131,22 @@
 				},
 			"Update": "OnLocationChange"
 		},		
+
+		/*********
+		** Aguar's Cave
+		*********/	
+		{
+			"LogName": "Aguar's Cave Music",
+			"Action": "EditMap",
+			"Target": "Maps/Custom_Ridgeside_AguarCave, Maps/Custom_Ridgeside_AguarCaveTemporary",
+			"MapProperties": {
+				"Music": "cm:CaveDrip"
+				},
+			"When": {
+				"EnableRidgesideMusic": true
+				},
+			"Update": "OnLocationChange"
+		},		
 	
 ]
 }

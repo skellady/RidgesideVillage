@@ -622,7 +622,9 @@
          	"FromMapFile": "Assets/Maps/EventMaps/RSVMinecart.tmx",
          	"MigrateLegacyNames": [ "RSVMinecart" ]
      	},
-		//FestivalMaps      	   
+		/*********
+		** FestivalMaps
+		*********/    	   
       	{
          	"Name": "Custom_Ridgeside_EmberNight",
          	"FromMapFile": "Assets/Maps/FestivalMaps/EmberNight.tmx",
@@ -634,7 +636,9 @@
          	"MigrateLegacyNames": [ "RSVGathering" ]
       	},      	  	   
 
-    	//IndoorMaps
+		/*********
+		** IndoorMaps
+		*********/    	
       	{
          	"Name": "Custom_Ridgeside_AguarBasement",
          	"FromMapFile": "Assets/Maps/IndoorMaps/AguarBasement.tmx",
@@ -731,7 +735,9 @@
          	"MigrateLegacyNames": [ "ShiroHouse" ]
       	},
 
-      	//QuestMaps
+		/*********
+		** QuestMaps
+		*********/    	
       	{
          	"Name": "Custom_Ridgeside_MysticFalls1",
          	"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls1.tmx",
@@ -748,7 +754,9 @@
          	"MigrateLegacyNames": [ "MysticFalls3" ]
       	},
 
-      	//OutdoorMaps
+		/*********
+		** OutdoorMaps
+		*********/    	
       	{
         	"Name": "Custom_Ridgeside_Ridge",
          	"FromMapFile": "Assets/Maps/OutdoorMaps/Ridge.tmx",
@@ -799,7 +807,10 @@
          	"FromMapFile": "Assets/Maps/OutdoorMaps/RSVTheHike.tmx",
          	"MigrateLegacyNames": [ "RSVTheHike" ]
      	},      	
-      	//DynamicMaps
+
+		/*********
+		** DynamicMaps
+		*********/    	
       	{
          	"Name": "Custom_Ridgeside_RSVCliffNight",
          	"FromMapFile": "Assets/Maps/DynamicMaps/RSVCliffNight.tmx",

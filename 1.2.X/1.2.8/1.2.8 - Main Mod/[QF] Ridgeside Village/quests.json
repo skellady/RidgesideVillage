@@ -801,7 +801,7 @@
       "OfferedBy": "Mail",
       "OfferDetails": {
         "Topic": "Aguar asks for essence",
-        "Text": "@, ^I require your assistance in collecting some void essence for my next research project. I don't want to blow my cover so I need to rely on you. I await your delivery. Of course there will be a monetary benefit.^^- Mr. Aguar, RSV WRF"
+        "Text": "@, ^I require your assistance in collecting some void essence for my next research project. I don't want to blow my cover so I need to rely on you. I await your delivery. Of course there will be a monetary benefit.^^- Mr. Aguar, Ridgeside Water Research Facility"
       },
       "When": {
         "FriendshipLevel": "Aguar 4",
