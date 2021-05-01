@@ -39,6 +39,25 @@
 		"When": { "HasSeenEvent: hostPlayer": 75160149, },
 	},
 
+		//Kiwi dynamics
+		{
+			//Temporary Schedule
+			"Action": "Load",
+			"Target": "Characters/Schedules/Kiwi",
+			"FromFile": "Assets/Schedules/BlankSchedule.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": false
+			},
+		},
+		{
+		//Official Schedule
+			"Action": "Load",
+			"Target": "Characters/Schedules/Kiwi",
+			"FromFile": "Assets/Schedules/Kiwi.json",
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160188": true
+			},
+		},
 //	{
 //		"LogName": "Yuuma Shiro Married Schedule",
 //		"Action": "EditData",
@@ -479,7 +498,7 @@
 	/*********
 	** Sprite Changes
 	*********/	
-
+		//Corine Ninja Change
 	{
 		"LogName": "Corine Ninja Outfit Sprite",
 		"Action": "EditImage",
@@ -492,6 +511,19 @@
 			"DayOfWeek": "Thursday",
 		},
 	},
+
+		//Undreya SPRITE RANDOMIZE
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Undreya",
+			"FromFile": "Data/Assets/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
+			"When": {
+				"HasSeenEvent: hostPlayer": 75160182,
+				"DayOfWeek: |contains=Thursday": false
+			},
+		},
+
+
 		/*********
 		** Seasonal Sprites
 		*********/	
@@ -750,11 +782,11 @@
 	
 
 	/*********
-	** NPC Dynamics
+	** Disposition Changes
 	*********/
 
-//Undreya dynamics
-		//DISPOSITIONS
+
+		//Undreya Disposition
 		{
 			"Action": "EditData",
 			"Target": "Characters/Schedules/Undreya",
@@ -767,36 +799,9 @@
 			}
 		},
 
-		//SPRITE RANDOMIZE
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Undreya",
-			"FromFile": "Data/Assets/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
-			"When": {
-				"HasSeenEvent: hostPlayer": 75160182,
-				"DayOfWeek: |contains=Thursday": false
-			},
-		},
-	
-		//Kiwi dynamics
-		{
-			//Temporary Schedule
-			"Action": "Load",
-			"Target": "Characters/Schedules/Kiwi",
-			"FromFile": "Assets/Schedules/BlankSchedule.json",
-			"When": {
-				"HasSeenEvent: hostPlayer |contains=75160188": false
-			},
-		},
-		{
-		//Official Schedule
-			"Action": "Load",
-			"Target": "Characters/Schedules/Kiwi",
-			"FromFile": "Assets/Schedules/Kiwi.json",
-			"When": {
-				"HasSeenEvent: hostPlayer |contains=75160188": true
-			},
-		},
+	/*********
+	** AntiSocial Changes
+	*********/
 		
 		{
 			"Action": "EditData",
@@ -835,6 +840,19 @@
 	/*********
 	** Event Changes
 	*********/
-	
+
+	/*********
+	** Dialogue Changes
+	*********/
+	{
+		"LogName": "Linus",
+		"Action": "EditData",
+		"Target": "Characters/Dialogue/Aguar",
+		"When": { "HasSeenEvent": "100162" },		
+		"Entries": {
+			"Tue6": "{{i18n:DynamicChanges.Aguar.Dialogue.Tue6}}",
+		},
+	},
+
 ]
 }
