@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="1" height="1" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="143">
  <properties>
-  <property name="Light" value="12 10 4 20 19 4 5 34 4"/>
-  <property name="NightTiles" value="AlwaysFront 12 10 908 AlwaysFront 20 19 908 AlwaysFront 5 34 908"/>
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="Paths" tilewidth="16" tileheight="16" tilecount="36" columns="4">
@@ -1265,19 +1263,19 @@
  </tileset>
  <layer id="1" name="Back" width="1" height="1">
   <data encoding="csv">
-9417
+0
 </data>
  </layer>
  <objectgroup id="6" name="Back"/>
  <layer id="2" name="Buildings" width="1" height="1">
   <data encoding="csv">
-8403
+8028
 </data>
  </layer>
  <objectgroup id="7" name="Buildings">
   <object id="142" name="TileData" x="0" y="0" width="16" height="16">
    <properties>
-    <property name="Action" value="Message &quot;rsv.undreyapeek&quot;"/>
+    <property name="Action" value="Warp 13 28 Custom_Ridgeside_AguarCave"/>
    </properties>
   </object>
  </objectgroup>
@@ -1289,7 +1287,7 @@
  <objectgroup id="8" name="Paths"/>
  <layer id="4" name="Front" width="1" height="1">
   <data encoding="csv">
-8028
+0
 </data>
  </layer>
  <objectgroup id="9" name="Front"/>

@@ -684,11 +684,10 @@
          "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
          "FromFile": "Assets/Maps/EventMaps/AguarWaterfalls.tmx",
          "FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 1 },
-         "ToArea": { "X": 63, "Y": 106, "Width": 1, "Height": 1 },
-         "PatchMode": "Replace",
-         "When": {
-			"HasSeenEvent: hostPlayer |contains=75160063": true,
-		}         
+         "ToArea": { "X": 64, "Y": 106, "Width": 1, "Height": 1 },
+         "PatchMode": "Overlay",
+         "When": { "HasSeenEvent: hostPlayer |contains=75160063": true, },
+         "Update": "OnLocationChange, OnTimeChange"         
       	},
      	 {
          "Action": "EditMap",
@@ -697,9 +696,8 @@
          "FromArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
          "ToArea": { "X": 0, "Y": 0, "Width": 20, "Height": 25 },
          "PatchMode": "Replace",
-         "When": {
-			"HasSeenEvent: hostPlayer |contains=75160064": true,
-		}         
+         "When": { "HasSeenEvent: hostPlayer |contains=75160064": true,	},
+         "Update": "OnLocationChange, OnTimeChange"
       	},
      	 {
          "Action": "EditMap",
