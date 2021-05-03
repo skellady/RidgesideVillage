@@ -59,6 +59,10 @@
 		"IsRequired": true,
 	   },
 	   {
+        "UniqueID": "PeacefulEnd.CustomCompanions",
+        "IsRequired": true,
+       },  
+	   {
 		"UniqueID": "MoreFish",
 		"IsRequired": false,
 	   },
@@ -97,6 +101,6 @@
        {
         "UniqueID": "grapeponta.VibrantPastoralSVE",
         "IsRequired": false,
-       },                           
+       }, 
    ]
 }

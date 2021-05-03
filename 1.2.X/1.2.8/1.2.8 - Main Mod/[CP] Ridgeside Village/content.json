@@ -839,7 +839,7 @@
 	*********/
 		{
 			"Action": "Include",
-			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/EventData.json, Data/EventDialogues.json, Data/FestivalDialogue.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail.json, Data/MapPatches.json, Data/MapStrings.json, Data/MonsterData.json, Data/MovieData.json, Data/Music.json, Data/NPCData.json, Data/QuestEvents.json, Data/Romance.json, Data/Warps.json, Data/WorldMap.json, Data/DynamicChanges.json"
+			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/CustomCompanions.json, Data/EventData.json, Data/EventDialogues.json, Data/FestivalDialogue.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/Mail.json, Data/MapPatches.json, Data/MapStrings.json, Data/MonsterData.json, Data/MovieData.json, Data/Music.json, Data/NPCData.json, Data/QuestEvents.json, Data/Romance.json, Data/Warps.json, Data/WorldMap.json, Data/DynamicChanges.json"
 		},
 
 	],
