@@ -590,7 +590,7 @@
 		"Target": "Maps/Custom_Ridgeside_RSVTheRide",
 		"FromFile": "Assets/Maps/DynamicMaps/RSVTheRideNight.tmx",
 		"ToArea": { "X": 0, "Y": 0, "Width": 39, "Height": 20 },
-		"PatchMode": "ReplaceByLayer",
+		"PatchMode": "Overlay",
 		"When": { "Time": "{{Range: 1900, 2600}}" },
 		"Update": "OnLocationChange"
 	},	
