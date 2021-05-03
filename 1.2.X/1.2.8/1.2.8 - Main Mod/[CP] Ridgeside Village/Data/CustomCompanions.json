@@ -4,7 +4,7 @@
 	{
 		"LogName": "Ridgeside Village Custom Companions",
 		"Action": "EditMap",
-		"Target": "Maps/RidgesideVillage",
+		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
 		"MapTiles": [
             {
                "Position": { "X": 21, "Y": 36 },
