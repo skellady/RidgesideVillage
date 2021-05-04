@@ -570,7 +570,7 @@
 		"FromFile": "Assets/Maps/DynamicMaps/RSVCliffNight.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
 		"ToArea": { "X": 0, "Y": 0, "Width": 93, "Height": 40 },
-		"PatchMode": "ReplaceByLayer",
+		"PatchMode": "Overlay",
 		"When": { "Time": "{{Range: 1900, 2600}}" },
 		"Update": "OnLocationChange"
 	},
