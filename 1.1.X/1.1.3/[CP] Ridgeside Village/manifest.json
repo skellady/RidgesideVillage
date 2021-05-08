@@ -24,7 +24,7 @@
 	   },
 	   {
         "UniqueID": "PurrplingCat.QuestFramework",
-        "IsRequired": true,
+        "IsRequired": false,
 	   },
 	   {
 		"UniqueID": "Rafseazz.RSVJA",
