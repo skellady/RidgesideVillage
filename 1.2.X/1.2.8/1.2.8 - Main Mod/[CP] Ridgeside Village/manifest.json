@@ -36,7 +36,7 @@
 	   },
 	   {
         "UniqueID": "PurrplingCat.CustomGiftDialogue",
-        "IsRequired": true,
+        "IsRequired": false,
 	   },	   	  	   	   
 	   {
         "UniqueID": "Platonymous.TMXLoader",
