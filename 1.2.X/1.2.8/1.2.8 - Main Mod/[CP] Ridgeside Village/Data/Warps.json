@@ -578,5 +578,23 @@
    			]
 		},			
 
+			//Alissa CowBarn Warp
+				{
+   			"Action": "EditMap",
+   			"Target": "Maps/Custom_Ridgeside_AlissaCowBarn",
+			"AddWarps": [
+				"11 15 Custom_Ridgeside_RidgesideVillage 34 98",
+   			]
+		},	
+
+			//Alissa GoatBarn Warp
+				{
+   			"Action": "EditMap",
+   			"Target": "Maps/Custom_Ridgeside_AlissaGoatBarn",
+			"AddWarps": [
+				"11 15 Custom_Ridgeside_RidgesideVillage 41 105",
+   			]
+		},	
+
 ]
 }

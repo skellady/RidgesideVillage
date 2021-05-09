@@ -116,7 +116,122 @@
 		},		
 	],
 	},
-	
+
+	//------------
+	//AlissaShop   
+	//------------
+	{
+	"ShopName": "RSVAlissaShop",
+	"StoreCurrency": "Money",
+	"CategoriesToSell": [ -19,-74 ],
+	"PortraitPath": "assets/JericShop.png",
+	"Quote": "Hey! How can I help you?",
+	"ClosedMessage": "Sorry, we're closed!",
+	"ShopPrice": -1,
+	"MaxNumItemsSoldInStore": 3,
+	"DefaultSellPriceMultiplier": 0.7,
+	"PriceMultiplierWhen": {
+		"0.6": ["f Alissa 2000"] 
+		},
+	"When": ["NPCAt Alissa 2 13/t 900 2000"],
+    "LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+   "LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},	
+	"ItemStocks": [
+		//Spring Jeric less than 8 hearts
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Cauliflower",
+				"Garlic Seeds",
+				"Bean Starter",
+				"Parsnip Seeds",
+				],
+			"Stock": 1,
+			"When": [ "!z spring" ] 
+		},
+		//Spring Jeric 8 hearts
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Strawberry Seeds",
+				],
+			"Stock": 6,
+			"StockPrice": 100,
+			"When": [ "f Alissa 1500/!z spring" ] 
+		},
+		//Summer
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Corn Seeds",
+				"Pepper Seeds",
+				"Melon Starter",
+				"Red Cabbage Seeds",
+				"Tomato Seeds",
+				],
+			"Stock": 6,
+			"When": [ "!z summer" ] 
+		},
+		//Summer Jeric 8 hearts
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Red Cabbage Seeds",
+				],
+			"Stock": 6,
+			"StockPrice": 100,
+			"When": [ "f Alissa 1500/!z summer" ] 
+		},
+		//Fall
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Yam Seeds",
+				"Bok Choy Seeds",
+				"Eggplant Starter",
+				"Pumpkin Seeds",
+				],
+			"Stock": 6,
+			"When": [ "!z fall" ] 
+		},
+		//Winter
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Mixed Seeds",
+				],
+			"Stock": 6,
+			"StockPrice": 100,
+			"When": [ "!z winter" ] 
+		},		
+	],
+	},	
 	//------------
 	//PikaShop    
 	//------------

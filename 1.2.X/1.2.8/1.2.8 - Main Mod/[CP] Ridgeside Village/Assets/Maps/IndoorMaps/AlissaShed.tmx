@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="9" height="18" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="134">
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="9" height="18" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="139">
  <properties>
   <property name="AmbientLight" value="95 95 95"/>
  </properties>
@@ -80,11 +80,11 @@
 5631,5601,5601,5601,5601,5601,5601,5601,5635,
 5631,5633,5633,5633,5633,5633,5633,5633,5635,
 5631,5665,5665,5665,5665,5665,5665,5665,5635,
-5631,7714,6456,6457,6458,0,7714,7714,5635,
-5631,7714,6488,6489,6490,0,0,7714,5635,
-5631,0,6520,7714,0,0,0,0,5635,
-5631,0,6552,0,0,0,6457,6458,5635,
-5631,0,6584,0,0,0,6489,6490,5635,
+5631,7714,6456,6457,0,0,7714,7714,5635,
+5631,7714,6488,6489,0,0,0,7714,5635,
+5631,0,6520,7714,0,2147490076,0,0,5635,
+5631,0,6552,0,0,2147490108,0,0,5635,
+5631,0,6584,0,0,2147490140,2147490166,2147490165,5635,
 5631,0,0,0,0,0,0,0,5635,
 5631,6457,6458,0,0,0,6456,0,5635,
 5631,6489,6490,0,0,0,6488,0,5635,
@@ -107,17 +107,12 @@
     <property name="Action" value="Message &quot;rsv.alissa10&quot;"/>
    </properties>
   </object>
-  <object id="126" name="TileData" x="64" y="80" width="16" height="16">
-   <properties>
-    <property name="Action" value="Message &quot;rsv.alissa8&quot;"/>
-   </properties>
-  </object>
   <object id="127" name="TileData" x="32" y="112" width="16" height="16">
    <properties>
     <property name="Action" value="Message &quot;rsv.alissa8&quot;"/>
    </properties>
   </object>
-  <object id="128" name="TileData" x="96" y="128" width="16" height="16">
+  <object id="128" name="TileData" x="16" y="160" width="16" height="16">
    <properties>
     <property name="Action" value="Message &quot;rsv.alissa8&quot;"/>
    </properties>
@@ -145,6 +140,36 @@
   <object id="133" name="TileData" x="96" y="208" width="16" height="16">
    <properties>
     <property name="Action" value="Message &quot;rsv.alissa8&quot;"/>
+   </properties>
+  </object>
+  <object id="134" name="TileData" x="96" y="128" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RSVAlissaShop"/>
+   </properties>
+  </object>
+  <object id="135" name="TileData" x="112" y="128" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RSVAlissaShop"/>
+   </properties>
+  </object>
+  <object id="136" name="TileData" x="80" y="128" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RSVAlissaShop"/>
+   </properties>
+  </object>
+  <object id="137" name="TileData" x="80" y="112" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RSVAlissaShop"/>
+   </properties>
+  </object>
+  <object id="138" name="TileData" x="80" y="96" width="16" height="16">
+   <properties>
+    <property name="Action" value=""/>
+    <property name="Shop" value="RSVAlissaShop"/>
    </properties>
   </object>
  </objectgroup>
@@ -176,11 +201,11 @@
 0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,
-0,7682,6424,6425,6426,0,7682,7682,0,
+0,7682,6424,6425,0,0,7682,7682,0,
 0,7682,0,0,0,0,0,7682,0,
+0,0,0,0,0,2147490044,0,0,0,
 0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,6425,6426,0,
-0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2147490134,2147490133,0,
 0,0,0,0,0,0,0,0,0,
 0,6425,6426,0,0,0,6424,0,0,
 0,0,0,0,0,0,0,0,0,
