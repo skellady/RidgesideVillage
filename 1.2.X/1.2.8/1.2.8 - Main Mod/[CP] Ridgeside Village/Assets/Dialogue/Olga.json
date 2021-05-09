@@ -8,22 +8,22 @@
 
 	"Introduction": "Oh! You're the new farmer, right?#$b#My name is Olga.$h#$b#Have you met Bert or Trinnie yet?#$b#That's my husband and our daughter.#$b#My niece Alissa lives with us as well.$h",
 
-//Spring
+		//Spring
 	"spring_1": "It's the busiest time of the year!#$b#Do you know what you're going to plant this season, @?$h",
 	"spring_12": "The Egg Festival's tomorrow?$u#$b#I almost forgot about it.#$e#Well, I hope you enjoy the festival!#$e#Taking a break once in a while is fine, you know.$h",
 	"spring_23": "Bert said he and I should practice our dancing for tomorrow.#$b#I don't mind, but I'm suspicious as to why he's being this sweet.$s",
 
-//Summer
+		//Summer
 	"summer_1": "City folk always come out to our farm stand during the summer.#$e#It's good for them to remember that food comes from somewhere other than a supermarket, once in a while.#$b#And it's good for our pockets!$h",
 	"summer_10": "That governor better like our valley's soup.$a#$b#We all worked hard this year to make something good.",
 	"summer_27": "Tomorrow night will look so romantic.$4#$e#I hope Bert remembers this year.$s#$b#He sometimes forgets and just falls asleep.$a",
 
-//Fall
+		//Fall
 	"fall_1": "Alissa got a head start on planning a grange display this year, and almost entered!$h#$b#We'll get there someday, you'll see.$h",
 	"fall_15": "Trinnie has been begging us to raise her allowance every day since the start of the season.#$b#She says she has been saving up for the fair tomorrow.",
 	"fall_26": "Are you going to dress up tomorrow, @?#$b#Trinnie's costume has been ready for weeks, she wouldn't stop pestering me about it.$h",
 
-//Winter
+		//Winter
 	"winter_1": "I never quite know what to do with myself during the winter, with nothing to plant or harvest.$s#$e#Money can get awful tight, too.$s#$b#If you need anything, just let us know.#$b#We're neighbors, after all!$h",
 	"winter_7": "Brr...#$b#Do I have to be there tomorrow?$s#$b#I don't like the cold, and neither does Bert!$s",
 	"winter_14": "Winter nights at the beach are so darn cold!$a#$b#I'll have to dress warmer tomorrow, so I can stay longer.$s",
@@ -32,9 +32,9 @@
 	"winter_17": "Bert got his heart set on this ridiculous doll house for Trinnie's Winter Star present.$u#$b#He is out of his mind!$a",
 	"winter_24": "Hope you have a wonderful year, @.$h#$b#Tomorrow night's the big feast!#$b#Enjoy the time off, you hear?$h",
 
-//Days of the Week
+		//Days of the Week
 
-	//0 Hearts
+		//0 Hearts
 	"Mon": "Hello there, farmer.$h#$e#You busy today?",
 	"Tue": "Sorry, I'm not much of a talker.$s#$e#Do you need something?$h",
 	"Wed": "Don't forget to water your crops now, @.$h#$b#It would be a shame to have them wilt.$s",
@@ -43,7 +43,7 @@
 	"Sat": "I like talking to Caroline and Jodi. They're fun to be around.$h#$e#I rarely get the chance to catch up with them though.#$b#It's quite a trip from the farm to the town.$s",
 	"Sun": "Hey there, farmer.#$e#Need something?$h",
 	
-	//2 Hearts
+		//2 Hearts
 	"Mon2": "Always remember to replenish your energy once in a while @.#$b#It's important to eat well.",
 	"Tue2": "Hello there, @.$h#$e#What are you up to today? How's the farm?",
 	"Wed2": "Bert bought me flowers the other day.$4#$b#He's been so sweet lately.$4#$e#I wonder what he did wrong this time.$s",
@@ -52,7 +52,7 @@
 	"Sat2": "Pierre and Bert are an interesting duo.$h#$b#Sometimes they are the best of friends...#$b#Yet sometimes they can't stand each other.$s",
 	"Sun2": "Trinnie!$u#$b#Where did that little girl run off to this time?$a#$b#She didn't even finish her chores yet!$a",
 	
-	//4 Hearts
+		//4 Hearts
 	"Mon4": "Do you take care of cows on your farm, @?#$b#They can be hard to manage at first, but it's worth it.$h",
 	"Tue4": "The trees around the farm have been there for many generations.#$b#They're our family's main source of income.",
 	"Wed4": "That stupid, air-headed Bert!$a#$e#He actually forgot my birthday!$a#$b#I asked him the last time if he knows when my birthday is, and you know what he did?!$a#$b#He just dodged the question and talked about the weather! Unbelievable!$a",
@@ -61,7 +61,7 @@
 	"Sat4": "Lenny is a fun person to talk to.#$b#She has some stories you would never expect from someone like her.$h#$e#How about you, @? Any good gossip lately?",
 	"Sun4": "Don't make the mistake of buying your supplies at Joja.#$b#They may be cheap but the quality is questionable at best.$s",
 	
-	//6 Hearts
+		//6 Hearts
 	"Mon6": "I tell you, Bert might as well have a sieve for a brain.$a#$b#Hmph. I do love the big guy, though.$4",
 	"Tue6": "Good day to you, @. How's the farm coming along now?#$b#I'd reckon you're getting the hang of it.$h",
 	"Wed6": "I keep telling Alissa she should get up on the Starbound Stage and sing in front of the whole village.$h#$b#She has an amazing voice. It's a pity she's so shy about it.$s",
@@ -70,7 +70,7 @@
 	"Sat6":"I sometimes visit Lola and knit with her.#$e#She has some amazing stories to tell.#$b#She and her husband have been all over the world.$h",
 	"Sun6": "Have you visited the beach lately?#$b#I've been meaning to take an afternoon off and just go relax in the sun...#$e#Hmm. Maybe I can squeeze in some time to visit Jodi.",
 			
-	//8 Hearts
+		//8 Hearts
 	"Mon8": "Jodi's husband, Kent, is a good guy.#$b#I hope he's doing well. Bert said he seemed troubled the other day.$s",
 	"Tue8": "Abigail, Caroline's daughter, has one heck of a rebellious streak...$s#$e#I hope Trinnie doesn't get any ideas.$a#$b# I mean, Abigail's a good girl, really.#$b#It's always good to expand your horizons.#$b#Just… maybe not that much.$u",
 	"Wed8": "Hello there, @. How's it going?#$b#You've been a good friend to us. Thank you for your company!$h",
@@ -79,7 +79,7 @@
 	"Sat8": "Bert and Trinnie woke me up with breakfast in bed today because I was feeling a little sick.$4#$b#I feel so blessed to have them around.$h",
 	"Sun8": "Keahi once came by and cooked a meal for us.#$b#He's an amazing cook, just like his father!$h#$e#I hope Trinnie can learn a thing or two from him.$s#$b#I mean just the good things, not those pranks he comes up with.$s",
 	
-	//10 Hearts
+		//10 Hearts
 	"Mon10": "How's the farm going?#$b#I heard it was going well!$h#$e#Looking forward to seeing more of your crops in the store! Great work!$h",
 	"Tue10": "Do you have an orchard, @?#$b#I make a mean pie, you know.$h#$e#Let me know if you've ever got more fruit than you know what to do with, and I'll whip up something delicious for you!$h",
 	"Wed10": "Trinnie said she saw your farm and told me it was the most beautiful thing she'd ever seen.$h#$b#Knowing you, I believe her.#$b#She likes to exaggerate things, but I know she means it.$h",
@@ -88,10 +88,10 @@
 	"Sat10": "If you need any advice or help, don't hesitate to reach out, okay?$h",
 	"Sun10": "What do they get up to at that Water Research Facility?$a#$b#We've got good, clean water here in the valley... what could possibly require a whole facility?",
 
-//Special Dialogue
+		//Special Dialogue
 	"MovieInvitation": "Oh! Yes, please! A much deserved break! Thank you for the invitation, @.$h#$b#I'll see you there then.",
 	
-//Resort
+		//Resort
 	"Resort_Entering": "Goodness me! This is quite the sight, isn't it, @?$h", 
 	"Resort_Leaving": "I must admit, that was quite a nice change of pace from the farm.$h#$b#Even with all of the distractions...",
 	"Resort_Shore": "Oh, I do wish Bert would keep a better eye on Trinnie.$s#$b#That man sometimes, I swear...",

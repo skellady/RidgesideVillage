@@ -235,17 +235,24 @@
 // M A R R I A G E  D I A L O G U E  
 //-----------------------------------
 	
-	{
-		"LogName": "Marriage Dialogue",
-		"Action": "Load",
-		"Target": "Characters/Dialogue/MarriageDialogueAlissa, Characters/Dialogue/MarriageDialogueCorine, Characters/Dialogue/MarriageDialogueFlor, Characters/Dialogue/MarriageDialogueIan, Characters/Dialogue/MarriageDialogueJeric, Characters/Dialogue/MarriageDialogueKenneth, Characters/Dialogue/MarriageDialogueMaddie, Characters/Dialogue/MarriageDialoguePhilip, Characters/Dialogue/MarriageDialogueShiro, Characters/Dialogue/MarriageDialogueYsabelle",
-		"FromFile": "Assets/MarriageDialogue/{{Language}}/{{TargetWithoutPath}}.json"
-	},
+  {
+	"LogName": "Load Empty Ridgeside MarriageDialogue File",
+   	"Action": "Load",
+   	"Target": "Characters/Dialogue/MarriageDialogueAlissa, Characters/Dialogue/MarriageDialogueCorine, Characters/Dialogue/MarriageDialogueFlor, Characters/Dialogue/MarriageDialogueIan, Characters/Dialogue/MarriageDialogueJeric, Characters/Dialogue/MarriageDialogueKenneth, Characters/Dialogue/MarriageDialogueMaddie, Characters/Dialogue/MarriageDialoguePhilip, Characters/Dialogue/MarriageDialogueShiro, Characters/Dialogue/MarriageDialogueYsabelle",
+   	"FromFile": "Data/LoadMarriageDialogue.json"
+  },
+
+  {
+	"LogName": "Include Ridgeside MarriageDialogue Files",
+   	"Action": "Include",
+   	"FromFile": "Assets/MarriageDialogue/MarriageDialogueAlissa.json, Assets/MarriageDialogue/MarriageDialogueCorine.json, Assets/MarriageDialogue/MarriageDialogueFlor.json, Assets/MarriageDialogue/MarriageDialogueIan.json, Assets/MarriageDialogue/MarriageDialogueJeric.json, Assets/MarriageDialogue/MarriageDialogueKenneth.json, Assets/MarriageDialogue/MarriageDialogueMaddie.json, Assets/MarriageDialogue/MarriageDialoguePhilip.json, Assets/MarriageDialogue/MarriageDialogueShiro.json, Assets/MarriageDialogue/MarriageDialogueYsabelle.json",
+  },  
+
 	
 	{
 		"LogName": "Movie Invitation Dialogue",
 		"Action": "EditData",
-		"Target": "strings/Characters",
+		"Target": "Strings/Characters",
 		"Entries": {
 			"MovieInvite_Spouse_Alissa": "{{i18n:Romance.MovieInvite.Spouse.Alissa}}",
 			"MovieInvite_Spouse_Corine": "{{i18n:Romance.MovieInvite.Spouse.Corine}}",

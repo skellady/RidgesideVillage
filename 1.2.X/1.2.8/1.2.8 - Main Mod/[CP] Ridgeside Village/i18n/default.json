@@ -4714,6 +4714,8 @@
 "Alissa.Dialogue.Resort_Bar": "Have you tried coconut milk? It tastes absolutely yummy!#$b#It's also good for lots of dishes!$h",
 "Alissa.Dialogue.Resort": "It's good to take a break from the farm every once in a while.$h",
 
+
+
 //Dialogue - Non-Bachelors
 	//Aguar
 		//Regular Dialogue
@@ -5352,5 +5354,689 @@
 "Kiwi.Dialogue.Resort_Bar": "Sun bright, sun hot. Kiwi thirsty.",
 "Kiwi.Dialogue.Resort": "Kiwi see rainbow chicken.#$b#Fly high in sky.$u#$e#One day Kiwi also fly.$h",
 
+	//Lenny Dialogue
+	"Introduction": "Hello again, @!$h#$b#Didn't scare you off with that little tour, did I?#$b#Glad to see you again.#$b#Make sure you visit often!$h",
+
+		//Spring
+	"spring_1": "The new years come, the old years go.#$b#We know we dream, we dream we know.#$e#Funny little poem, but kind of fitting, don't you think?$h",
+	"spring_12": "I used to be the undefeated Egg Hunt champion, you know!$h#$e#Lewis said I'm no longer allowed to participate.$s#$b#Something about “acting like an adult”.$s",
+	"spring_23": "Don't feel bad if no one wants to dance with you at the Flower Dance...$s#$e#There's always next year!$h",
+
+		//Summer
+	"summer_1": "This early in the season, I try to prepare the paperwork for the Governor's annual visit.#$b#We present the financial results of the fiscal year and submit proposals.#$e#Boring stuff, really.$h",
+	"summer_10": "Lewis has been really stressed about impressing the Governor tomorrow.$s#$e#Me? I don't really care that much.#$e#I'm only there for the food!$h",
+	"summer_27": "Your grandpa used to take me and Lewis to see the jellies every summer.#$b#You remind me of him, you know...$s#$e#Don't worry, I won't make you take me!$h",
+
+		//Fall
+	"fall_1": "The most profitable crop in fall is always pumpkin.#$b#Plant some now, and you'll have both a tidy profit and plenty to eat!$h$e#They're very versatile.#$b#Boil 'em, mash 'em, stick 'em in a pie.$h",
+	"fall_15": "Are you done preparing your grange display for tomorrow's fair, @?#$e#I look forward to seeing it!$h#$b#I'm going to be one of the judges, you know.$4",
+	"fall_26": "I love setting up for Spirit's Eve every year, but boy is it a lot of work.$s#$e#Where's Ian? I should ask him to help out.",
+
+		//Winter
+	"winter_1": "Most farmers relax during the winter, if they can afford it, but money can get tight.$s#$e#You can always find something worth selling in the mines, but if you go down there, be sure to watch your back.",
+	"winter_7": "Fishing has never been my thing.#$b#You seem to be managing fine, though!#$e#Good luck on beating Willy!$h#$b#That man can handle a rod!$4",
+	"winter_14": "We're lucky the Night Market takes the time to stop in our little valley!",
+	"winter_15": "There are always the most fascinating people here at the market.",
+	"winter_16": "You can get things here that you can't get anywhere else!$h#$e#The free coffee is pretty great, too.",
+	"winter_17": "I finished all the shopping I wanted to do yesterday.#$e#I just like to come here and people watch on the last day!",
+	"winter_24": "Don't forget to pick up a present for tomorrow!",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "Why hello there, @.#$b#Good to see you.$h#$e#How is the farm life treating you?",
+	"Tue": "I like to finish my paperwork early, so I can relax the rest of the week.#$e#I'm not lazy, I'm efficient!$h",
+	"Wed": "Uhhgg, I don't look so great today, do I.$u#$e#I barely slept last night, I was up all night finishing paperwork.$s",
+	"Thu": "@! Nice to see you.$h#$e#Managing the village can be quite a hassle sometimes.$s#$b#But the villagers make it all worth it.$h",
+	"Fri": "Thank Yoba it's Friday.$h#$e#You should visit Pika's restaurant or the Stardrop Saloon sometimes, @.#$e#Don't overwork yourself. Relax!$h",
+	"Sat": "Mr. Aguar is a nice man.#$b#Just very passionate about his research.#$e#He has his reasons, I think.",
+	"Sun": "Ian is such a hardworking man.#$b#He rarely asks for much.#$e#I hope he's not overworking himself.$s",
+	
+		//2 Hearts
+	"Mon2": "I might be Lewis' older sister but I'm young at heart!$h#$e#Lewis says that's just a nice way of saying immature.$s#$b#I say he's an old fogey.$h",
+	"Tue2": "Hi there, @!$h#$b#How are you holding up?#$e#It's a big adjustment to go from the city to our little valley!$h",
+	"Wed2": "Paperwork might not seem important to you, but no paperwork means no subsidies!#$e#Some of the villagers are really dependent on those.$s",
+	"Thu2": "Ridgeside Village and Pelican Town are the backbone of the Valley.#$e#We need each other, and Ferngill needs us.$a",
+	"Fri2": "Lewis has a reputation to keep up, but I have no such worries.#$e#You can be relaxed around me!$h",
+	"Sat2": "Hello there, @.#$e#Slacking off, are you?$a#$b#Ha ha, I'm just kidding!$h#$e#I know you finish your work early in the morning.",
+	"Sun2": "I hope the valley's treating you well, @.$h#$e#If you need any supplies you can always visit Jeric or Pierre.",
+	
+		//4 Hearts
+	"Mon4": "That old community center in Pelican Town really needs to be fixed up, but we just don't have the funds, even if Ridgeside Village helps.$s#$e#It'd be great if it could just magically fix itself overnight, ha ha!$h",
+	"Tue4": "There have been rumors going around the village about rolling or jumping kiwi fruit.$u#$e#Sounds ridiculous,right?$h#$e#But a lot of people are saying the same thing...$s",
+	"Wed4": "Watch out for Keahi and Trinnie, those rascals are partners in crime.$h#$e#They may seem cute and innocent, but they're not afraid to pull pranks!$a#$b#They're good kids though.#$b#They just don't know where to draw the line.$s",
+	"Thu4": "Alissa comes by here sometimes to help me package supplies and shipments.#$e#Sometimes I hear her singing to herself.#$e#She's got one heck of a voice.$h",
+	"Fri4": "You'd never know it, but I'm actually Lewis's older sister.$h#$e#I guess stress really does age a person.$s",
+	"Sat4": "Hmph! I wish Lewis would be more open about his love life.$a#e#I'm his sister!$a#$b#I don't want to pry, but if he won't tell me anything, what else can I do?$s",
+	"Sun4": "I bet it gets lonely sometimes on that farm of yours.$s#$e#You oughta find someone to keep you company.$h#$e#Chickens don't count!$h",
+	
+		//6 Hearts
+	"Mon6": "Good day, @.$h#$e#I hear the farm is doing well.#$b#Your crops have been selling like hotcakes.#$e#Maybe you should sell hotcakes, ha!$h",
+	"Tue6": "Robin's a good friend of mine.#$e#When we were young we always got into trouble.$h#$b#We even built a treehouse together deep inside Cindersap Forest.#$e#I wonder if it's still there?$s",
+	"Wed6": "You know, some days Shane reminds me of myself when i was his age...$s",
+	"Thu6": "How can small businesses survive when megacorps like Joja don't even pay local taxes?$a#$b#They charge less, they pay their employees less, and they don't contribute to the local government's cash flow...$a#$e#Ah, sorry. Believe it or not, there's an economics nerd inside me!$h",
+	"Fri6": "Hello there, @. How are you doing?#$e#Working hard or hardly working? Ha ha!$h#$e#I passed by your farm the other day. Looking good!$h",
+	"Sat6": "There have been rumors about strange and scary noises coming from the ridge.$s#$b#They're just rumors, of course!#$e#Ridgeside Village is the safest place in the valley.$h",
+	"Sun6": "Visiting the town is a good way to relax.#$e#I like to relax a bit too much, sometimes...#$e#I promised Lewis I'd be more responsible.$s",
+	
+		//8 Hearts
+	"Mon8": "I'm glad you found the time to visit little old me!$h#$e#What can I offer you?#$b#Coffee?#$b#Embarrassing baby pictures of Lewis?$h",
+	"Tue8": "Guess what I saw the other day?$u#$b#Lewis and Marnie, kissing!$u#$b#I knew it!$h#$e#If I had one of those fancy mobile phones with a camera, you bet your butt I would have gotten proof.",
+	"Wed8": "I'm not supposed to disclose any personal information regarding the citizens of the valley...$s#$b# ...but I don't think it counts to disclose that I don't know anything, right?$h#$e#Linus is a mystery! No one knows where he came from.#u",
+	"Thu8": "A peculiar fellow, Jio, moved to Ridgeside some time ago.#$e#He must have some sort of income, but I haven't the faintest idea what he does.$u#$e#Have you heard anything?",
+	"Fri8": "Ridgeside Village and Pelican Town are economically intertwined.#$b#Products made in town get sold in the village and vice versa.#$e#Ridgeside is under the jurisdiction of Pelican Town, though.#$b#I help Lewis so that it's a little easier for him",
+	"Sat8": "Ridgeside Village was never supposed to be its own town.#$b#It was meant to be a shelter for Pelican Town residents in case they ever had to evacuate.$s#$e#Thankfully that hasn't been necessary...#$b#...yet, at least.",
+	"Sun8": "Jeric has a diverse set of quality crops and seeds.#$b#Alissa and her family specialize in fruit, with that gorgeous orchard of theirs.#$e#How about you, @? What's your speciality?$h",
+	
+		//10 Hearts
+	"Mon10": "Marnie came by the other day and we gossiped about Lewis.$h#$e#I can't decide if I should tease him or be happy for him.",
+	"Tue10": "I'm sure you've already met Marlon.#$b#We've known each other for a long time.#$e#I know what happened to his eye, you know.$h#$b#Not my story to tell, but you should ask him sometime.",
+	"Wed10": "Evelyn has been a big sister to a lot of us growing up.#$e#Don't be thrown off by her frail figure.#$b#She's stronger than you think.",
+	"Thu10": "Freddie and Lola, the old couple residing west of the village, are retired adventurers.#$b#Or that's what they told me, at least.$s#$e#There's a rumour going around that their shed is full of treasure.$u#$b#I don't know about that, but they do have some great stories!$h",
+	"Fri10": "Sometimes I get so caught up in paperwork that I forget to eat.$s#$b#Good thing Pika's open all the time!$h#$e#He makes amazing pie, and there's nothing better than a warm slice of pie after a long night of pencil pushing.",
+	"Sat10": "It might be a long trek between Ridgeside and Pelican Town, but everyone goes back and forth all the time.#$e#It feels like we're just one town with a cable car in the middle!$h",
+	"Sun10": "You know how I couldn't find anything about Linus?#$e#Apparently, he was once a millionaire!$u#$e#Don't tell anyone I told you!",
+
+		//Special Dialogue
+	"MovieInvitation": "A movie? How'd you know I was looking for a date?$4#$b#Ha ha! I'm just messing with you! Of course I'll go. Thank you for the invite.$h#$b#I'll see you there.",
+	
+		//Resort
+	"Resort_Entering": "Oh wow, it's way hotter here than Ridgeside!$u",
+	"Resort_Leaving": "Time to go!",
+	"Resort_Shore": "I taught Lewis how to swim.#$e#He taught himself how to float, ha ha!$h",
+	"Resort_Chair": "A break from all that paperwork is really what I needed.$h",
+	"Resort_Bar": "Aawh, they don't sell Cherry Berry Shakey here.$s",
+	"Resort": "Hiya, @!$h#$e#They say the water on the island has healing properties.#$e#Do you believe that?$4",
+
+	//Lola Dialogue
+	"Introduction": "Hello, dear!$h#$bYou're new here, right?$h#$b#It's so nice to see new faces in town.$h#$b#My name is Lola and I live here with my husband, Freddie.#$e#Don't mind us, just some old lovebirds enjoying the peace and quiet!$h",
+
+		//Spring
+	"spring_1": "Spring time, hmm?#$b#I never really understood the fascination with this season.#$b#Not really my personality, you know...",
+	"spring_12": "Hello, @!#$b#Are you excited for tomorrow?$h#$e#I'm helping hide the eggs in preparation for the egg hunt.#$b#Although, Caroline keeps telling me to make them easier to find.$s",
+	"spring_23": "Oh, Freddie and I look forward to the Flower Dance every year.#$b#We don't get many chances to strut our stuff!$h",
+
+		//Summer
+	"summer_1": "I'm going to plan a beach trip for me and Freddie.$h#$e#I'll have to be careful about what swimsuit I pack though.$u#$b#Don't want to give the old man a heart attack, after all!$h",
+	"summer_10": "My husband and I met the governor years ago, before he'd ever been elected.#$b#He was still a young man back then, full of dreams and promise.",
+	"summer_27": "I'm so excited for tomorrow night!$h#$e#Freddie and I have traveled all over the world, and there's nothing quite like the moonlit jellyfish here in the valley.",
+
+		//Fall
+	"fall_1": "I once learned a traditional Gotoro poem while traveling.#$b#I think it goes: 'Fall, leaves, fall; die, flowers, away.#$b#Lengthen night and shorten day.#$b#Every leaf speaks bliss to me.#$b#Fluttering from the autumn tree.'#$b#Beautiful, hmm?$h",
+	"fall_15": "You have to pick your very nicest crops and products for tomorrow, dear!$h#$b#Always present your best. First impressions are very important!",
+	"fall_26": "Spirit's Eve is my favorite festival.$h#$e#I used to love dressing up. I had this slick little cat-suit number.#$b#Between you and me, that's how I purred my way into Freddie's heart!$h",
+
+		//Winter
+	"winter_1": "This cold is awful hard on fragile old bones.#$b#You know what the best solution for the cold is?#$b#A hot drink![395]#$e#Stay warm, dear.$h",
+	"winter_7": "I may be old, but I'm not weak!$a#$e#I know people mean well, but I wish they would stop offering to carry my shopping or some nonsense.$s",
+	"winter_14": "Freddie and I were talking about going on a trip the other day, but when I dug my suitcase out of the attic, it was a wreck!$u#$#b#I guess some vermin got into it or something.$s",
+	"winter_15": "I'm going to look for a new suitcase.",
+	"winter_16": "I haven't found a suitcase yet, but I had some lovely conversations with the man making coffee!$h",
+	"winter_17": "I found a suitcase, dear, and I have to say I'm very excited!$h",
+	"winter_24": "Freddie and I are going on a little trip after tomorrow's festival!#$b#If the weather permits, of course.$h",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "Hello dear! How does your week look?#$e#Don't forget to water your crops, alright?$h",
+	"Tue": "How are you?#$b#Have you been to the museum?#$e#They have a lot of interesting artifacts there.#$b#I donated some of it myself, you know.$h",
+	"Wed": "I'm a little sleepy from waking up so early.$s#$b#Freddie always tells me to sleep in, but I love the time I get with him early in the morning, like we're the only people in the whole world?$4",
+	"Thu": "I'm on my way to town right now to pick up some groceries.#$e#I'm making Freddie's favorite stew today.$h",
+	"Fri": "%Lola appears to be in a bit of a rush.#$b#Oh, sorry dear, can't talk!#$b#I think I forgot to turn off the oven.$s",
+	"Sat": "Sorry dear, I'm just not really in the mood to talk right now.$s",
+	"Sun": "%Lola seems lost in thought. Better not bother her.",
+	
+		//2 Hearts
+	"Mon2": "Hello there @, Have you been eating well?#$b#You look good, dear. Keep it up.$h",
+	"Tue2": "I'm going to make some chocolate cake to give to Evelyn.#$b#Would you like some?#$e#I learned how to make the finest pastries while Freddie and I were in Farisia, you know.$h",
+	"Wed2": "I can't believe he asked me if I could read the sign across the street!$a#$b#My eyes are as good as they've ever been!$a#$e#Can't see far away... Give me something to throw, I'll show them how well I can see!$a",
+	"Thu2": "One should really learn how to fend for themselves.#$b#I learned that early in life.#$e#Do you know how to use a weapon, dear?",
+	"Fri2": "Pika served me the most wonderful soup yesterday!$h#$b#It had a familiar name, but I cannot for the life of me remember what it was!$s",
+	"Sat2": "You look a little tired, dear.$s#$b#I recommend the hotel if you're looking for a little R&R.#$b#That means rest and relaxation. I just learned that the other day!$h",
+	"Sun2": "Freddie and I used to take a Sunday drive through wine country when the weather was nice.#$e#Sometimes we'd stop and do tastings at a winery or two... or three...#$b#Let's keep that between you and me, hmm?$h",
+	
+		//4 Hearts
+	"Mon4": "The cool breeze on my face feels so nice.$h#$e#Days like this make me glad to be alive.$h",
+	"Tue4": "That husband of mine keeps on forgetting to clean out the darn shed!$a#$b#I've been bugging him about it for forever, and if he doesn't hurry it up, it'll be too late.$s",
+	"Wed4": "Hello there! Fancy a pot of tea and a chat, if you have the time to spare?#$b#Our home's always open to you, @!$h",
+	"Thu4": "I'm going to make gnocchi with purple mushrooms for Rasmodius.#$b#I picked up the recipe while cruising through Thunderton, and he's been hooked for years!$h#$e#Don't tell him I said so, but I think wizards have a rather peculiar fondness for purple mushrooms.",
+	"Fri4": "I swear, Freddie's never going to clean that shed.$a#$b#Well, if you want something done right, do it yourself...$a",
+	"Sat4": "Want to know the secret to staying one step ahead of Father Time?#$b#Exercise.#$e#I had to get in tip-top shape for my job all those years ago, and have held onto those good habits.$h#$b#He hasn't caught me yet!$h",
+	"Sun4": "Have you ever been to the Pearl Isles?#$b#They're truly beautiful.$h#$e#That's where Freddie and I learned all we know about growing magnificent rice.#$b#Remember to plant yours near water, dear.",
+	
+		//6 Hearts
+	"Mon6": "How are you?#$e#Don't wait for me, dear, I'm moving a little slowly today.$s#$b#Feeling just a tad dizzy, I'm afraid.$s",
+	"Tue6": "I found some vermin in the shed earlier today!$u#$b#Nasty little things!$a#$e#I'll have to ask Marnie about adopting a barn cat.#$b#Or would it be a shed cat?",
+	"Wed6": "Freddie is such a good man.$4#$b#I really appreciate everything he's done for me and Bliss over the years.$h#$e#Hmm? Bliss?$u#$b#Oh, must have been a slip of the tongue, dear. Never mind it.$s",
+	"Thu6": "%Lola sighs deeply.#$b#I miss my old job, some days.$s#$e#It could really be thrilling at times.$h#$b#Remember to always treasure what makes you feel alive, @, no matter what it is.",
+	"Fri6": "Have you seen Freddie?#$b#He tried on a wig to remember what he looked like before he went grey! Hahaha!$h#$e#If you ask me, he looks better with silver.#$b#He's gotten more handsome with age.$h",
+	"Sat6": "I feel like I'm forgetting something...$s#$b#Oh, shi--shed! Shoot, forgot to lock the shed!$u#$e#Pardon me, dear, I've got to go check on that.#$b#Got to keep the vermin out, after all.$u",
+	"Sun6": "Always know that you can come here if ever you need anything, alright @?$h",
+	
+		//8 Hearts
+	"Mon8": "@! I'm really glad you decided to take on your grandfather's farm.#$b#It has really blossomed.$h#$b#And besides, if you hadn't, you never would have had the pleasure of meeting me, dear!$h",
+	"Tue8": "I remember when Marlon still had both eyes.#$b#They were so green they almost looked like emeralds!#$e#It's just a shame he lost one...#$b#In the mines, was it?",
+	"Wed8": "My husband misses hiking and long walks.#$b#We used to go for miles.$h#$b#Old bones and joints just can't manage all that, these days.$s",
+	"Thu8": "I've got some work to do in the shed today.#$e#Maybe I'll show you inside someday soon, dear.",
+	"Fri8": "The waterfalls here in the valley remind me of Evergreen Falls in Kathsi.#$e#Freddie and I had our first kiss out there.$h#$b#There was no one around, and to tell you the truth, we almost fell off the ledge while making out!$4#$b#Don't tell him I told you that.$h",
+	"Sat8": "%Lola doesn't seem to have the energy to talk today.",
+	"Sun8": "It's a beautiful day to be alive, don't you think?$h#$e# I wonder if Ysa's meditating in the forest...#$b#I think I'll go and join her if she is.",
+	
+		//10 Hearts
+	"Mon10": "During one of our stops at Tribellum, Freddie and I were tasked to recover something from King Khalmon's Pyramid.#$b#You wouldn't believe how many booby traps they have!$u#$b#Nothing like almost falling into a pit of spikes to make you grateful to be alive.$u",
+	"Tue10": "Freddie and I visited Rialia once, and we went to the Bloodstone Theater.#$e#Beautiful building.$h#$b#I felt like I could still hear Juv Cario's cry as he was assassinated.#$b#It was almost musical...#$e#Oh, what am I saying? Never mind the ramblings of this old woman, dear.$h",
+	"Wed10": "Back before I met Freddie, I was stationed in Gervia for a bit.#$b#I was working a job, and thought I ran into someone trying to steal it out from under me!$a#$b#Can you believe that? I confronted him, but it turns out he was the bodyguard.#$b#I took care of him, of course.$a#$e#Can't leave any loose ends when you're dealing with a dictator, after all.",
+	"Thu10": "%Lola looks ill. Better not bother her.",
+	"Fri10": "I'm afraid Freddie is working too hard and not doing enough for himself.$s#$b#He goes to such lengths to take care of me, but here I am, a frail old bat.$s#$b#I hope he's had lunch by now...$s",
+	"Sat10": "Did I ever tell you about my favorite assignment?#$b#It's the one that I'm still working on, every day.$h#$e#When Freddie and I got married, instead of traditional vows, we had the minister assign a mission to the both of us.#$b#We were tasked to 'always be there for each other, to have each other's backs, to be each other's best friend, to take care, to love and to protect each other till the day we die.'$4#$b#That's the most important directive I've ever received, and he feels the same.#$b#We make the best partners, no matter the context.$4",
+	"Sun10": "Thank you for everything @, especially for always visiting me and Freddie whenever you can.$h#$e#Always remember to spend time with your loved ones and do the things that make you feel alive.#$b#Never mind what others may think!$h#$b#And if you ever decide that you want to learn a few extra skills, don't be afraid to ask!#$b#I could still show you a few moves.$h",
+
+		//Special Dialogue
+	"MovieInvitation": "I'd love to watch a movie with you, dear.$h#$e#Between you and me, Freddie and I were almost in a movie once!#$b#We had to decline because we'd rather be behind the scenes.$u",
+
+		//Resort
+	"Resort_Entering": "Oh, would you look at this!$h#$b#This brings back some memories!$4",
+	"Resort_Leaving": "We'll be back soon.#$b#I'll make sure of it.$h",
+	"Resort_Shore": "Out there to the west is Sunset Island, and past that and a little north is Rialia's southern shore.#$b#Do you see the shadow on the horizon?",
+	"Resort_Chair": "It's like staring out at an ocean of possibilities.#$b#There are so many places you could go from here!$h",
+	"Resort_Bar": "I don't drink much, but it'd be a shame to pass up a margarita, don't you think?$h",
+	"Resort": "This place is new to me, but it feels so familiar!",
+
+	//Olga Dialogue
+	"Introduction": "Oh! You're the new farmer, right?#$b#My name is Olga.$h#$b#Have you met Bert or Trinnie yet?#$b#That's my husband and our daughter.#$b#My niece Alissa lives with us as well.$h",
+
+		//Spring
+	"spring_1": "It's the busiest time of the year!#$b#Do you know what you're going to plant this season, @?$h",
+	"spring_12": "The Egg Festival's tomorrow?$u#$b#I almost forgot about it.#$e#Well, I hope you enjoy the festival!#$e#Taking a break once in a while is fine, you know.$h",
+	"spring_23": "Bert said he and I should practice our dancing for tomorrow.#$b#I don't mind, but I'm suspicious as to why he's being this sweet.$s",
+
+		//Summer
+	"summer_1": "City folk always come out to our farm stand during the summer.#$e#It's good for them to remember that food comes from somewhere other than a supermarket, once in a while.#$b#And it's good for our pockets!$h",
+	"summer_10": "That governor better like our valley's soup.$a#$b#We all worked hard this year to make something good.",
+	"summer_27": "Tomorrow night will look so romantic.$4#$e#I hope Bert remembers this year.$s#$b#He sometimes forgets and just falls asleep.$a",
+
+		//Fall
+	"fall_1": "Alissa got a head start on planning a grange display this year, and almost entered!$h#$b#We'll get there someday, you'll see.$h",
+	"fall_15": "Trinnie has been begging us to raise her allowance every day since the start of the season.#$b#She says she has been saving up for the fair tomorrow.",
+	"fall_26": "Are you going to dress up tomorrow, @?#$b#Trinnie's costume has been ready for weeks, she wouldn't stop pestering me about it.$h",
+
+		//Winter
+	"winter_1": "I never quite know what to do with myself during the winter, with nothing to plant or harvest.$s#$e#Money can get awful tight, too.$s#$b#If you need anything, just let us know.#$b#We're neighbors, after all!$h",
+	"winter_7": "Brr...#$b#Do I have to be there tomorrow?$s#$b#I don't like the cold, and neither does Bert!$s",
+	"winter_14": "Winter nights at the beach are so darn cold!$a#$b#I'll have to dress warmer tomorrow, so I can stay longer.$s",
+	"winter_15": "Bert's muttering about fish.#$b#Why is he muttering about fish?$s",
+	"winter_16": "It might look like a sales ploy, but truth be told, Bert really wants these folks to have vegetables.$s#$b#He's a good man.$h",
+	"winter_17": "Bert got his heart set on this ridiculous doll house for Trinnie's Winter Star present.$u#$b#He is out of his mind!$a",
+	"winter_24": "Hope you have a wonderful year, @.$h#$b#Tomorrow night's the big feast!#$b#Enjoy the time off, you hear?$h",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "Hello there, farmer.$h#$e#You busy today?",
+	"Tue": "Sorry, I'm not much of a talker.$s#$e#Do you need something?$h",
+	"Wed": "Don't forget to water your crops now, @.$h#$b#It would be a shame to have them wilt.$s",
+	"Thu": "Trinnie and Keahi are good friends.#$b#But I have to scold them once in a while when they take a prank too far.$s",
+	"Fri": "How's your farm?#$b#Hope things are going well.",
+	"Sat": "I like talking to Caroline and Jodi. They're fun to be around.$h#$e#I rarely get the chance to catch up with them though.#$b#It's quite a trip from the farm to the town.$s",
+	"Sun": "Hey there, farmer.#$e#Need something?$h",
+	
+		//2 Hearts
+	"Mon2": "Always remember to replenish your energy once in a while @.#$b#It's important to eat well.",
+	"Tue2": "Hello there, @.$h#$e#What are you up to today? How's the farm?",
+	"Wed2": "Bert bought me flowers the other day.$4#$b#He's been so sweet lately.$4#$e#I wonder what he did wrong this time.$s",
+	"Thu2": "Alissa is my brother's daughter.$h#$b#He's off sailing the high seas as a merchant fleet captain.#$e#He rarely comes home, unfortunately...$s",
+	"Fri2": "I don't have many close friends here in the village.$s#$e#I sure am glad I can visit Jodi and Caroline once in a while.$h",
+	"Sat2": "Pierre and Bert are an interesting duo.$h#$b#Sometimes they are the best of friends...#$b#Yet sometimes they can't stand each other.$s",
+	"Sun2": "Trinnie!$u#$b#Where did that little girl run off to this time?$a#$b#She didn't even finish her chores yet!$a",
+	
+		//4 Hearts
+	"Mon4": "Do you take care of cows on your farm, @?#$b#They can be hard to manage at first, but it's worth it.$h",
+	"Tue4": "The trees around the farm have been there for many generations.#$b#They're our family's main source of income.",
+	"Wed4": "That stupid, air-headed Bert!$a#$e#He actually forgot my birthday!$a#$b#I asked him the last time if he knows when my birthday is, and you know what he did?!$a#$b#He just dodged the question and talked about the weather! Unbelievable!$a",
+	"Thu4": "Where did that little girl go now?$s#$e#Hey there, @. Have you seen Trinnie?#$b#She ran off without finishing her chores again!$a",
+	"Fri4": "Bert has been spoiling Trinnie for quite some time now.$a#$b#I have to balance it out by being strict with her or else she'll be spoiled rotten!$s",
+	"Sat4": "Lenny is a fun person to talk to.#$b#She has some stories you would never expect from someone like her.$h#$e#How about you, @? Any good gossip lately?",
+	"Sun4": "Don't make the mistake of buying your supplies at Joja.#$b#They may be cheap but the quality is questionable at best.$s",
+	
+		//6 Hearts
+	"Mon6": "I tell you, Bert might as well have a sieve for a brain.$a#$b#Hmph. I do love the big guy, though.$4",
+	"Tue6": "Good day to you, @. How's the farm coming along now?#$b#I'd reckon you're getting the hang of it.$h",
+	"Wed6": "I keep telling Alissa she should get up on the Starbound Stage and sing in front of the whole village.$h#$b#She has an amazing voice. It's a pity she's so shy about it.$s",
+	"Thu6": "Hello there, @! Done with work already?#$e#Grab a pair of gloves, then, we'll put you to work!$h#$b#I'm just kidding, dear. Get some rest if you can, tomorrow's another busy day.$h",
+	"Fri6": "Ian is such a good, hardworking young man.#$b#He charges a very fair price for his services.#$b#We cook him a meal in thanks when we can. It's the least we can do.",
+	"Sat6":"I sometimes visit Lola and knit with her.#$e#She has some amazing stories to tell.#$b#She and her husband have been all over the world.$h",
+	"Sun6": "Have you visited the beach lately?#$b#I've been meaning to take an afternoon off and just go relax in the sun...#$e#Hmm. Maybe I can squeeze in some time to visit Jodi.",
+			
+		//8 Hearts
+	"Mon8": "Jodi's husband, Kent, is a good guy.#$b#I hope he's doing well. Bert said he seemed troubled the other day.$s",
+	"Tue8": "Abigail, Caroline's daughter, has one heck of a rebellious streak...$s#$e#I hope Trinnie doesn't get any ideas.$a#$b# I mean, Abigail's a good girl, really.#$b#It's always good to expand your horizons.#$b#Just… maybe not that much.$u",
+	"Wed8": "Hello there, @. How's it going?#$b#You've been a good friend to us. Thank you for your company!$h",
+	"Thu8": "Have you built a silo yet?#$e#They're a must for storing fodder so you can keep your animals fed during winter.#$b#We built ours next to the barn, but you can put them anywhere.",
+	"Fri8": "Having a good day today, @?$h#$b#I sure hope so.#$b#I'm just finishing up some chores, same as always.",
+	"Sat8": "Bert and Trinnie woke me up with breakfast in bed today because I was feeling a little sick.$4#$b#I feel so blessed to have them around.$h",
+	"Sun8": "Keahi once came by and cooked a meal for us.#$b#He's an amazing cook, just like his father!$h#$e#I hope Trinnie can learn a thing or two from him.$s#$b#I mean just the good things, not those pranks he comes up with.$s",
+	
+		//10 Hearts
+	"Mon10": "How's the farm going?#$b#I heard it was going well!$h#$e#Looking forward to seeing more of your crops in the store! Great work!$h",
+	"Tue10": "Do you have an orchard, @?#$b#I make a mean pie, you know.$h#$e#Let me know if you've ever got more fruit than you know what to do with, and I'll whip up something delicious for you!$h",
+	"Wed10": "Trinnie said she saw your farm and told me it was the most beautiful thing she'd ever seen.$h#$b#Knowing you, I believe her.#$b#She likes to exaggerate things, but I know she means it.$h",
+	"Thu10": "Lenny came over the other day...#$e#She told me that there may be something going on between Lewis and Marnie.#$b#I don't know why they'd be keeping it a secret, though.",
+	"Fri10": "Little Jas comes by sometimes. Sweet girl!$h#$e#Pity her godfather is such a grump.#$b#She seems to be doing alright all the same.",
+	"Sat10": "If you need any advice or help, don't hesitate to reach out, okay?$h",
+	"Sun10": "What do they get up to at that Water Research Facility?$a#$b#We've got good, clean water here in the valley... what could possibly require a whole facility?",
+
+		//Special Dialogue
+	"MovieInvitation": "Oh! Yes, please! A much deserved break! Thank you for the invitation, @.$h#$b#I'll see you there then.",
+	
+		//Resort
+	"Resort_Entering": "Goodness me! This is quite the sight, isn't it, @?$h", 
+	"Resort_Leaving": "I must admit, that was quite a nice change of pace from the farm.$h#$b#Even with all of the distractions...",
+	"Resort_Shore": "Oh, I do wish Bert would keep a better eye on Trinnie.$s#$b#That man sometimes, I swear...",
+	"Resort_Chair": "I think I might just shut my eyes for a spell...$h#$e#What is my husband up to?$s",
+	"Resort_Bar": "I'd love to try one of the fancy drinks Pam told me all about...$4#$b#But I probably shouldn't, I need to watch Trinnie.$s",
+	"Resort": "Oh, @! What a lovely place this is.$h#$e#Wait, where is my fool of a husband?$a#$b#Where is my daughter?!$a#$b#Oh, can't I just get one second with these two...$s",
+
+	//Pika Dialogue
+	"Introduction": "Aloha, young farmer.#$b#You must have followed your nose!$h#$b#I'm Pika. I own Pika's, an outdoor restaurant in the heart of the village.#$b#I'm from Ember Island, in the Fern Islands, where we speak Samaowaii.#$b#Perhaps I'll teach you some!$h",
+
+		//Spring
+	"spring_1": "The grass is green across the hill.#$b#But yellow blooms the daffodil.#$b#It's sunshine on a little stalk;#$b#a friendly flower, I bet they talk!$h#$e#I love spring time!$h",
+	"spring_12": "I'm preparing ingredients for tomorrow's festival.#$b#Gus and I will be making egg dishes.#$b#Poached, pickled, peppered, you name it!$h#$e#It's going to be raining 'huamoa' tomorrow!$h#$b#That's what we call eggs on Ember Island.",
+	"spring_23": "%Pika takes a deep sigh.#$b#I miss dancing with my wife.$s#$e#If only she were here, I'd be dancing with the most precious 'wahine' in town.$4#$b#It means beautiful woman in Samaowaii!$h",
+
+		//Summer
+	"summer_1": "Hmmm... I'm going to plan a trip for me and my little boy to go to the ocean.#$b#I think it's time he learns how to fish like we do on the Fern Islands.$h",
+	"summer_10": "I hope everyone will like what we've prepared for tomorrow.#$b#The festival is very close to my pu'uwai: my heart.$h",
+	"summer_27": "Hmm... I wonder if those moonlight jellies can be used for jellyfish salad...$h",
+
+		//Fall
+	"fall_1": "Ahhh, the time for pumpkin soup and treats galore!$h#$b#What great way to bond while cooking with my Keahi.#$e#We'll be making treats he can share with his friends!$h",
+	"fall_15": "Keahi is thrilled for the fair tomorrow.#$b#I just hope that he doesn't spend his whole allowance on the games.$s#$b#I sold a lot of fish tacos for that kid...$s",
+	"fall_26": "Spirit's Eve is tomorrow!$h#$b#I bet you're wondering what I'm going to wear!#$e#Oddly enough, the skeleton decorations remind me of bone broth.#$b#I might just cook some for tomorrow.",
+
+		//Winter
+	"winter_1": "We don't have winters on the Fern Islands.#$b#I don't think I'll ever get used to the cold.$s",
+	"winter_7": "It's way too cold for me to go out fishing...$s#$e#I'm going to ask Lewis if I can buy some of the fish you all catch.#$b#I want to make a lot of tacos!$h",
+	"winter_14": "I'm going to buy a lot of different spices from the Night Market!$h#$b#Variety is the spice of life.",
+	"winter_15": "This is the only time of year I'm able to catch Midnight Squid.#$b#They're excellent if you fry them!$h",
+	"winter_16": "In Samaowaiian tradition, mermaids are just one type of mo'o, sea goddesses.#$e#Legend has it that if you visit Rainbow Falls in the Fern Islands, you can see the remains of a battle between a demigod and a jealous mo'o at the bottom of the river.$u",
+	"winter_17": "I hope the traveling cart has some Gotoro chillies.#$b#They'll melt your mouth off!$h",
+	"winter_24": "I'm so happy to have my Keahi with me for the Feast of the Winter Star.$h#$b#If only his mother were here, then we'd be one big happy ohana.$s#$b#Ohana means family and family means nobody gets left behind...$s#$b#...or forgotten...$4",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "I can hear your stomach growling from here, haha!$h#$b#What can I get ya?",
+	"Tue": "I learned a new recipe for making glazed yams.#$e#Come by next time so you can try some!$h",
+	"Wed": "Sometimes I worry about Keahi.$s#$b#He's always running around without looking where he's going.$a#$b#I fear he might injure himself.$s",
+	"Thu": "Have you visited the Cabin Hotel yet?#$b#I heard they've got some great rooms and a gym if you're into working out.",
+	"Fri": "Aloha, my friend!$h#$b#What are you hungry for?",
+	"Sat": "I'm going to buy some supplies for the restaurant later.#$e#Hmm... I wonder where I can find some basil...$h",
+	"Sun": "I've been teaching Keahi how to cook since he was 6 years old.#$e#We started with eggs at first.#$b#He burned them to a crisp!$u#$e#But I was proud of him for trying!$h",
+	
+		//2 Hearts
+	"Mon2": "Hello there!#$e#Dish of the day is Blackberry Cobbler!#$b#It's a special recipe I picked up from my great-great-grandfather.#$b#It's been in my family for generations.#$e#Perhaps I'll teach you one day!$h",
+	"Tue2": "Sweet, sour, salty, bitter and umami...#$b#So many flavours!#$b#A true chef spends his life learning their delicate balance.$h",
+	"Wed2": "Keahi can be really naugthy sometimes!#$b#I'm not sure how to punish him properly...$s#$b#Don't want him to resent me.$4#$b#But I don't want him to grow up thinking it's okay to act out!$a",
+	"Thu2": "I told my boy to cook some scrambled eggs this morning and my, oh my!$h#$b#He might one day be a better chef than I am.#$b#The student might finally surpass the master!$h",
+	"Fri2": "Elliott visited me earlier and he asked for Tom Kha soup.#$b#He said it clears his writer's block...$h",
+	"Sat2": "Keahi's getting on my nerves lately.$a#$b#He's always getting into trouble with the other villagers because of his and Trinnie's pranks.$s",
+	"Sun2": "I really want to take a break on Sundays so that I can spend more time with Keahi.$s",
+	
+		//4 Hearts
+	"Mon4": "That grumpy old man George usually brightens up if you give him some fried mushrooms.$h#$b#If you want, I can fix you a plate.#$e#The recipe is easy: common mushrooms, morel and oil.",
+	"Tue4": "The restaurant has been flourishing lately.$h#$b#Lots of customers means more money to set aside for Keahi's future.#$e#If only my darling wahine were here.$s#$b#I hope I'm making her proud.$4",
+	"Wed4": "I'm thinking of making Keahi a treehouse.#$b#I'm just thinking about what kind of materials I should use.$e#Hmm... I'm going to ask Robin for her expertise.",
+	"Thu4": "Keahi's always running off somewhere.$a#$b#I can usually rely on Trinnie to keep him in check but...#$e#I just hope he's being safe.$s",
+	"Fri4": "Aloha, @! You should try my pepper poppers today.$h#$b#I picked the recipe up when my family visited Gotoro, across the Gem Sea.#$e#They really like their spicy food over there.$h",
+	"Sat4": "%Pika doesn't notice you. He seems to be mumbling something about chocolate fish tacos.",
+	"Sun4": "Sometimes I get absorbed in inventing recipes that I lose track of time, ha ha ha.$h#$e#A great cook has to innovate!",
+	
+		//6 Hearts
+	"Mon6": "I've got a new dish I'd like to try out!$h#$b#What do you think about a spicy eggplant parmesan with a garnish of fried chips on top?#$b#You can be my taste tester.$h",
+	"Tue6": "I'm on my way to visit Philip right now.#$e#I heard my shoulder pop while lifting a full stewpot last night.$s#$b#I hope I didn't injure myself...#$",
+	"Wed6": "I love seeing Keahi enjoy himself.$h#$e#A father's greatest wish is for his child to grow up healthy and happy.",
+	"Thu6": "Keahi has been learning a lot from Penny...$s#$b#%Pika sighs deeply.#$b#Don't get me wrong, I'm grateful for what she's doing for Keahi.$h#$b#I just sometimes think about what it would be like if his makuahine, his mother, was here.$4",
+	"Fri6": "My Keahi came up with a new recipe earlier.#$b#The apple doesn't fall far from the tree, right?$h",
+	"Sat6": "I was inspired by Keahi's new recipes.$h#$b#I'm on my way to our farm to get some fresh produce for this mystery dish I'm making.",
+	"Sun6": "Keahi's giving me a headache!$a#b#That boy actually taped a 'Kick Me' sign on Shane's back.$a#$b#Poor guy must've been kicked in his tush real good for him to storm in here.$s#$e#But just between you and me, that was pretty hilarious.$h",
+	
+		//8 Hearts
+	"Mon8": "%Pika sighs deeply.#$b#Keahi cried because I grounded him for something he did yesterday.#$e#No matter how much it hurts to see him sad...$4#$b#I know that I must stand my ground or else he won't learn from his mistakes.$s",
+	"Tue8": "I had a hearty chat with that wonderful couple, Lola and Freddie.#$b#Lola even taught me some recipes that she picked up around the world.$h",
+	"Wed8": "Haley came over earlier and asked for recommendations for a new diet plan she's trying.#$b#I recommended the coleslaw with a side of wheat bread with a special raisin yoghurt that I made.$h",
+	"Thu8": "Aloha, friend!$h#$b#Keahi says I tricked him into eating veggies when he was younger...$u#$b#I just fried them with salt and honey and he didn't even notice!$h",
+	"Fri8": "Hey, @! Did you know that not all foods are equal?#$b#Some dishes can make you recover more stamina than others...$h",
+	"Sat8": "I heard little Trinnie gave my Keahi some chocolates yesterday.$u#$b#Ha ha! I think she has a thing for ka'u keiki--my son, I mean.$h#$b#These kids... They remind me of me and my wahine.$h",
+	"Sun8": "Little Keahi's making me so proud lately!$h#$e#He's taking after his mother.$h#$b#He's going to be a fine young man.#$b#His makuahine is going to be so proud.$h",
+	
+		//10 Hearts
+	"Mon10": "I only want what's best for Keahi.$s#$b#That's why I work so hard at the restaurant.$s#$b#My earnings will not only provide for his future, but will also ensure that he has me and his makuahine's spirit with him as he journeys in life.$4",
+	"Tue10": "My parents have always supported my ambitions and dreams.#$b#It just so happens that my dreams were in line with theirs.$h#$b#If Keahi chooses a different path in life, I'll still support him.#$e#I'm just so proud of how much he's grown.#$b#And I know that my wahine, my beautiful wife, is watching over our little boy.$h",
+	"Wed10": "Food has been and will always be a part of everybody's day-to-day life.#$b#I'm very passionate about food because I love to eat!$h#$e#Everyone has a favorite dish and there's probably a story behind it.$h#$e#Maybe I'm just being a sentimental fool, but I like being a part of everyone's life through food.#$b#It makes me feel like I belong.$h",
+	"Thu10": "%Pika seems to be half asleep.#$b#Huh?$u#$b#Too much spice?#$b#No no...$u#$b#No such thing.$h",
+	"Fri10": "Mahalo, my friend! Thank you.#$b#Thank you for listening to all my stories and eating all my food!$h",
+	"Sat10": "One day Keahi will take over the restaurant.#$b#Just like my tama, my father, used to say: 'Always weave a new net before the old one breaks'.#$e#Make sure you tell your family you love them, @.$h",
+	"Sun10": "I wish my wahine was here to see our son grow into the nice young boy he is today, as he makes his own ohana.$4",
+
+		//Special Dialogue
+	"MovieInvitation": "Mahalo! I think we deserve a break after all the work we do.$h#$e#Keahi keeps bugging me to take him but I've been way too busy.#$b#I should take him next time...$s",
+	
+		//Resort
+	"Resort_Entering": "I haven't been on Ginger Island since the volcano erupted years ago.$s#$b#So much has changed...$4",
+	"Resort_Leaving": "Every sunset brings the promise of a new dawn.$h",
+	"Resort_Shore": "I should've brought my surfboard.$h",
+	"Resort_Chair": "Finding some time to relax is hard when you're running a restaurant.$s#$b#I have set the bar pretty high, haven't I?$h",
+	"Resort_Bar": "They don't serve Cherry Berry Shakey here!$a#$b#Such a shame!$s",
+	"Resort": "I'm really happy to be here.$h#$b#It reminds me of home.#$b#Perhaps you'll visit Ember Island one day as well...$h",
+
+	//Richard Dialogue
+	"Introduction": "Good to meet you, young man.^Good to meet you, young lady.$h#$b#I haven't seen you around these parts before.#$b#I assume you're the new farmer Lewis informed me about?#$b#Welcome to the valley, @.$h#$b#I'm Richard, owner of the humble Log Cabin Hotel.#$b#If you ever fancy some quality service and fine hospitality, our doors are always open!$h",
+
+		//Spring
+	"spring_1": "Ahh, spring... The time for flowers to bloom and for everything to flourish.#$e#I remember my daughter used to love this season.$h#$b#I wonder how she is doing these days...$s",
+	"spring_12": "The festival tomorrow might attract some tourists.#$b#Well, at least I hope it does.#$b#I'll prepare the hotel. Might be great for business.$h",
+	"spring_23": "Ysa looks forward to tomorrow.#$b#I'm happy whenever my granddaughter's in high spirits.$h#$e#She's been through a lot.$s#$b#I'm glad she seems more cheerful these days...",
+
+		//Summer
+	"summer_1": "Summer time is one of the peak seasons at the Log Cabin Hotel!$h#$e#There are many villagers who want to get some, rest and relaxation, or R&R, as the kids call it.$4#$b#Ysa taught me that the other day.$h",
+	"summer_10": "The governor's visiting tomorrow.#$e#I'm excited he's staying at the hotel.$h#$b#We go way back, before politics was ever on his mind!#$e#Hopefully we can find some time to catch up.",
+	"summer_27": "Business has been booming lately!$h#$e#As a treat, I'm planning a relaxing night out tomorrow.$h#$b#I live for these peaceful moments.$h",
+
+		//Fall
+	"fall_1": "It's the season for festive decorations, for skeletons and Jack-o'-lanterns.#$e#Reminds us that we're all mortal, too. Or is that just me?$s",
+	"fall_15": "There will be guests staying a while for tomorrow's fair.#$b#I've been busy making sure the hotel is in tip-top condition.$4",
+	"fall_26": "Lenny suggested we decorate the hotel with Spirit's Eve decorations.#$e#I wanted to, but we're on a tight budget for the holidays.$s#$b#Even if we cut corners in other places, decorations just won't fit...$s",
+
+		//Winter
+	"winter_1": "%Richard doesn't seem to notice you.#$b#This season would be so much brighter if you were here, Angelika...$s",
+	"winter_7": "I met my wife the day before the Ice Festival, many many years ago.#$b#I miss her dearly, but I know she's still watching over Ysa and I from a better place.$h",
+	"winter_14": "I'll try to squeeze in some time to browse the merchant's wares tomorrow night.#$b#Or maybe I'll do it the following night?#$b#Hmm... I am not quite sure.",
+	"winter_15": "I've got my eye on a painting Lupini's selling tonight at the market.#$b#It would look fabulous in the lobby!$h",
+	"winter_16": "Be sure to check out the traveling cart when you head to the market!#$b#She'll occasionally have fine Gotoro wares!",
+	"winter_17": "A word of advice, you might be able to haggle purchases at the market.#$b#Vendors will be hunting for last minute sales, after all.",
+	"winter_24": "“I hope the year has been good to you, young one.$h#$b#Enjoy the remaining days before the new year! Ha ha!$h",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "Hello, young farmer. It's @, right?#$b#I noticed you've taken over your grandfather's farm over yonder.#$e#What brings you in today? Is there anything I can help you with?$h",
+	"Tue": "Your grandfather was a good friend of mine.#$b#If you need anything, I'll be happy to help.",
+	"Wed": "Hello there, @. How's the farm doing?#$b#I am expecting great things from you.",
+	"Thu": "Good day, @. How are you?#$b#Do take care now.$h",
+	"Fri": "Ian's been lending a hand around here.#$b#He does a good job.$h#$b#I admire hard-working individuals.",
+	"Sat": "Young Corine is like a granddaughter to me.#$e#I'm glad she and Ysa are good friends.$h#$b#Have you met them?#$e#You might see them walking around together on occasion.#$b#They were practically joined at the hip when they were little.$h",
+	"Sun": "Hello there, @. What brings you in?#$b#Feel free to sit in the lobby if you're waiting for someone.",
+	
+		//2 Hearts
+	"Mon2": "My, @! How nice of you to visit.$h#$b#How are you doing today?#$e#If you're looking to relax, you can always rent a room here at the Log Cabin!$4",
+	"Tue2": "A lot of the residents here at the village often hang around the hotel lobby during their free time.#$b#I don't mind. I like catching up with everybody.$h#$b#I don't get out much.$s",
+	"Wed2": "My late wife loved having hotel guests around.$h#$e#She loved to talk to them and listen to their stories.#$b#She was a journalist before she retired.#$e#I learned how to open up to people because of her. Angelika was simply amazing...$s",
+	"Thu2": "Why, a lovely day to you, @.$h#$b#Coming in for a visit, I see.#$e#If you are interested, we can offer you a 30% discount on your first stay!$h",
+	"Fri2": "A lot of people mistake my good friend Ezekiel for a cold-hearted man.#$e#It's just that people don't know his story.#$b#I may share it with you, someday...",
+	"Sat2": "My heart is happy seeing Ysa doing things she loves.$h#$b#She'd lost touch with her passion before and I'm glad to see that she's slowly regaining her confidence.$h",
+	"Sun2": "Lewis and I go way back.#$e#I remember when he first started dreaming of becoming mayor...#$b#He showed such promise. I had no doubt that he'd win the hearts and minds of the people.$h",
+	
+		//4 Hearts
+	"Mon4": "Oh hello there, dear!$h#$b#How have you been? I trust that the day's been treating you well?$h",
+	"Tue4": "Oh no! Excuse me, dear boy.^Excuse me, dear girl.#$b#I must rush back to the hotel. I forgot to finish some paperwork.",
+	"Wed4": "I'm thinking about hosting an event here at the hotel, maybe an evening of fine dining, or perhaps a dance competition?#$e#Hmmm... What do you think?#$b#I could even participate and strut my stuff.$h#$b#These old bones still have some moves left in them!$4",
+	"Thu4": "I'm thinking about ways I could improve the hotel's appeal.#$e#If you have any ideas feel free to let me know.#$b#I value feedback from all my patrons.",
+	"Fri4": "Hello there, young one!#$b#My granddaughter's been practicing her ballet every Saturday.#$e#Ballet's very good for balance and strength, you know.#$b#If you're interested, I can ask if you could join her.$h",
+	"Sat4": "I'm on my way to the forest to look for lumber I can use at the hotel.#$b#One must always remember to go above and beyond for their customers if you want to earn their loyalty!$4",
+	"Sun4": "%Richard sighs deeply.#$b#I miss my wife even more on days like these.$s#$e#We used to go to the beach on Sundays and fish, or go out for a swim.#$b#She'd always bring a picnic basket, and I'd rest my head in her lap after lunch.$h#$b#I do wish that she were here right now...$s",
+	
+		//6 Hearts
+	"Mon6": "A pleasant morning to you, @!$h#$b#Have you been eating well?#$e#If you ever need anything don't hesitate to come to ask, alright?#$b#My door is always open.$h",
+	"Tue6": "The day's been good to us, so far!$h#$e#A lot of villagers have been visiting lately!#$b#I'm glad that they like what I do here.$h",
+	"Wed6": "I'm on my way to visit Dr. Harvey.#$b#I felt something pop when I was lifting a box yesterday.$u#$e#I'm sure it's nothing.#$b#After all, I have to take care of Ysa and the hotel.$s",
+	"Thu6": "I make it a point to teach Ysa something each day.#$e#Time's just so precious, you know?#$b#'You never know when your last day may be,' I always tell her.$s",
+	"Fri6": "I'm thinking of investing in an espresso machine for the hotel.#$b#A little coffee shop in the front might bring in more customers. What do you think?",
+	"Sat6": "Ysa's making me prouder each and every day.$h#$e#I saw her earlier in her pointe shoes and tutu.#$b#She looked just like her grandmother, except her grandmother was always in jeans, ha ha!$h",
+	"Sun6": "I went along with Ysa on her walk today.#$b#It made me feel so young again.#$e#We talked about her childhood and how her grandmother was so fond of her.$h#$b#It made me miss Angelika a lot.$s#$b#She would've been the best role model for Ysa.$s",
+	
+		//8 Hearts
+	"Mon8": "Hello there! I'm on my way to town to visit Pika's.#$b#I'm craving some pho. Because it's PHOnomenal, ha ha ha!$h#$e#Pika's pho is the best in the valley. You must join me sometime, alright?",
+	"Tue8": "I feel so energized today!$h#$e#I think I'm going to visit the gym.#$b#I've got to keep up my strength so I can take care of Ysa and the hotel as long as possible.$h",
+	"Wed8": "Ezekiel's been busy these days so Corine's been around more often.#$e#I find it irritating that some people think my pal isn't taking care of Corine.#$b#They don't know what hardships and trials that man has been through.$a#$b#Cut him some slack!$a",
+	"Thu8": "My wife and I met when she entered these timely halls.#$b#I hope she's proud of everything that I've done for our hotel and granddaughter.$h",
+	"Fri8": "Might I offer you some advice my wife taught me?#$b#Always remember to have courage and be kind.$h#$e#You never know if someone's having a bad day.#$b#Just a little kindness could make a big difference in their life.$h",
+	"Sat8": "I love conversing with Lola and Freddie.$h#$b#Those two have seen the world!#$b#Whenever I listen to them, I feel like I've travelled alongside them!$h",
+	"Sun8": "Hello again, @! How has the day been for you?#$e#The season's been good to us. I'm thinking of giving back.#$b#Maybe I'll do a special promotion for my loyal customers.$4",
+	
+		//10 Hearts
+	"Mon10": "Hope you have a great day ahead of you, young lad.^ Hope you have a great day ahead of you, young lass.#$e#If you have an interest in the hotel industry don't hesitate to let me know, okay?#$b#I bet I can show you a thing or two.$h",
+	"Tue10": "%Richard seems to be half asleep.#$b#Huh? Oh I'm so sorry, @. I must've dozed off.",
+	"Wed10": "I'm sorry I was a little tired yesterday.#$e#I actually dreamt of my wife.$s#$b#She was wearing a white dress, much like the one she wore on our wedding day.#$b#I hugged her so tight it hurt.$s#$e#But after a while, I woke up and went back to reality...$s",
+	"Thu10": "Sometimes I wonder what life would be like if my darling Angelika were here.$s#$e#One thing's for sure, Ysa would be better taken care of.#$b#My wife was the strongest and the most positive person I've ever known.$h#$e#I never really mingled with people before she came along.#$b#She showed me that the world had a lot to offer and that I cannot survive this alone.#$e#My hope for now is that my granddaughter will always have someone.#$b#Someone to take care of her even when I'm gone.$s",
+	"Fri10": "Hello, young one!$h#$b#I'm going to share with you some wise words my wife left me.#$b#'Cherish the time you have with the ones you love.'#$b#Time is the most precious gift that you can give anyone.$h",
+	"Sat10": "I'm so proud of my granddaughter.$h#$e#She has grown so much, from a sweet little girl to a beautiful, strong and independent woman.$h#$b#I'm confident that whenever I part with this world, my little Ysa will be alright.$h#$e#She has made me and her grandmother proud!$h",
+	"Sun10": "You're a good friend, @!#$e#Thank you for spending time with an old-timer like me.$h#$b#I hope you've learned a little something from all our chats throughout the days.",
+
+		//Special Dialogue
+	"MovieInvitation": "Oh! I'd be honored, young man.^Oh! I'd be honored, young lady.#$b#This would take my mind off running the hotel day and night.$4#$e#I'm sure Ysa can take care of the hotel until I'm back.#$b#After all, she'll be running it one day.$h",
+	
+		//Resort
+	"Resort_Entering": "Ah, this place looks perfect for a hotel.#$b#Perhaps one day...$h",
+	"Resort_Leaving": "I feel refreshed!$h#$e#Sometimes, you need a break from the everyday grind.#$b#I suppose it's time to get back to the real world.$s",
+	"Resort_Shore": "Angelika and I spent countless weekends at the beach.#$b#I've learned the hard way that you can never have too much sunscreen, ha ha ha!$h",
+	"Resort_Chair": "I've yet to be hassled by a seagull today, but it's inevitable.#$b#They sure have a way of pushing my buttons.#$e#I can't blame them, though.#$b#They're just trying to get by, like the rest of us...",
+	"Resort_Bar": "Old folks like myself need to be careful around spirits.#$e#Doesn't take much to get to me, anymore.#$b#Plus, one's got to be presentable at all times.#$b#You never know when a business offer will appear!$4",
+	"Resort": "The air feels different here.#$e#Something about the salty breeze feels invigorating!$h#$b#Maybe I should retire here?#$b#Ha ha, no, that's still a ways off.$h",	
+
+	//Trinnie Dialogue
+	"Introduction": "Hi!$h#$b#Aren't ya new here?#$b#You're definitely a new face!$h#$b#My name's Trinnie!#$b#T-R-I-N-N-I-E, okay?#$b#Not Trina.$s#$b#Not Tiny.$a#$b#Trinnie, got that?$h",
+
+		//Spring
+	"spring_1": "Oh no.$u#$e#What's Keahi up to this year?$h",
+	"spring_12": "I can't wait for this year's egg hunt!#$e#I'm gonna be the winner!$h",
+	"spring_23": "I'm wearing the prettiest dress tomorrow!$h#$e#Alissa helped me pick it out!$h",
+
+		//Summer
+	"summer_1": "Keahi, what are you doing?#$b#Stop!$h#$e#You're embarrassing me.$4",
+	"summer_10": "Luau day!#$b#Soup day!$u#$e#Yummy food is coming our way!$h",
+	"summer_27": "Mom's letting me stay up past my bedtime to watch migrating jellyfishes tomorrow!$h#$e#Uhm... What does 'migrating' mean?$u",
+
+		//Fall
+	"fall_1": "Why does Keahi keep singing one line of a song and then stop?$u",
+	"fall_15": "Me, Jas, Keahi and Vincent are all gonna be at the fair tomorrow.$h#$e#Are you gonna be there too?",
+	"fall_26": "What are you dressing up as tomorrow?#$e#My costume's a secret!$h",
+
+		//Winter
+	"winter_1": "You got a friend!$h#$e#Ugh!$u#$e#Keahi got it stuck in my head!$h",
+	"winter_7": "I'm gonna make the best snowman tomorrow!$h#$b#No, not a snowman.#$b#I'm gonna make a penguin!$h",
+	"winter_14": "I hope there are fun toys tomorrow at the night market!$h",
+	"winter_15": "Did you see the pig?#$e#It's swimming!$u",
+	"winter_16": "I don't like the boat with the person hiding in the shadows.$s#$e#It's creepy.$u",
+	"winter_17": "I wanna be a mermaid someday!$h",
+	"winter_24": "Winter Star!$h#$b#Winter Star!$h#$e#I get presents tomorrow!",
+
+		//Days of the Week
+
+		//0 Hearts
+	"Mon": "Hi, @, wanna join us?#$e#We're gonna play tag in the forest.$h",
+	"Tue": "Hey, Keahi and I are both bored.$s#$e#Can we play on your farm?#$e#Promise we'll be good!$h#$b#Please?#$b#Pretty please?$h",
+	"Wed": "Jas and I love playing dress up!$h#$e#I'm gonna be a cowgirl next!$h#$e#Are you a cowboy?^Are you a cowgirl?",
+	"Thu": "What's up with Yuuma these days?#$b#Do you know?$u#$e#He just stopped talking to us out of the blue.$s#$b#That's so rude!$a",
+	"Fri": "Hi, @! How have your crops been doing?$h#$b#My mom says I have a green thumb!$u#$b#I keep checking, but I can't see it.$s#$e#Am I colorblind?$u#$b#Dad says I might be colorblind, but then mom got mad and told him to stop teasing me.$s",
+	"Sat": "I'm finishing my chores quickly so I can go out and play!$h",
+	"Sun": "Keahi's crazy!$u#$b#He says he can hold his breath for ten minutes!$u#$e#I told him I was timing him, but I forgot.$s#$b#It's probably been like five minutes, right?$h",
+	
+		//2 Hearts
+	"Mon2": "How far away can you kick Keahi, ha ha!$h#$b#Kidding!#$e#Please don't kick Keahi.$s",
+	"Tue2": "Keahi had a tea party with me and Jas!#$e#He kept getting mad when we called him Miss Keahi, but only princesses can go to tea parties, duh!$h",
+	"Wed2": "Keahi said he'd meet me here, but he's not here yet!$s#$b#I got stood up!$a#$e#What does stood up mean?",
+	"Thu2": "Hey, @! Wanna play?$h",
+	"Fri2": "Keahi exhausted me yesterday.$u#$e#We chased rolling kiwis and played tag all day!$h",
+	"Sat2": "I'm grounded for today.$s#$b#My dad got mad at me because he thought I did Keahi's prank!$a#$e#Stupid Keahi!$4",
+	"Sun2": "OH, NO!$u#$e#I forgot to water my crops today!$s",
+	
+		//4 Hearts
+	"Mon4": "Hello Mister!^Hello Missus! How have you been?#$eb#My mom's been telling me that I need to take a nap so I can grow big and tall!$h#$e#But I wanna stay small.$s",
+	"Tue4": "Keahi actually held my hand last night!$u#$e# While we were on our way home, he held my hand!$h#$e#Eeeeee!$4",
+	"Wed4": "I just saw something so creepy!$u#$b#This statue looked like it was staring at us.#$e#Vincent actually got so scared of it that he went home crying!#$b#He's a scaredy cat, ha ha.$h",
+	"Thu4": "Can we play with you on your farm?#$e#Can we?$u#$b#Can we?$h#$b#I promise we'll be good!$s#$e#We'll even help you harvest your crops!",
+	"Fri4": "Hey, you! How do you keep crows away from your crops?#$e#My veggie garden got eaten by crows.$s",
+	"Sat4": "A horse actually chased a dog on Marnie's farm yesterday!$u#$e#It was so funny!$h",
+	"Sun4": "Keahi keeps talking about the girl at the hotel.$s#$b#She's too old for him!$a#$e#He's my age!$h#$b#Duh!$4",
+	
+		//6 Hearts
+	"Mon6": "Lola's been weird lately, and always goes to her shed.#$b#I wonder what she's got in there? Hmm...#$e#Maybe it's a creepy monster!$u#$b#Or a cauldron!$a#$b#Is she a witch?$u",
+	"Tue6": "Mr. Pika makes the best pho soup.$h#$e#I love going to their house because Keahi tries to cook his dad's pho for me.$4",
+	"Wed6": "Vincent said that he and Jas were going to town this morning.#$e#I'm going to their house and hide in Vincent's closet so I can scare them, ha ha ha!$h",
+	"Thu6": "I went to the library earlier today, and I found a book about cowgirls!#$e#I'm gonna be a cowgirl farmer when I grow up!$h",
+	"Fri6": "Hello, @. I got scolded by mom again.$s#$b#I put a fake spider in Miss Lenny's soup and she almost had a heart attack!#u#$b#I thought she said she was a badass.#$e#Mom got madder at me for using that word than she was about the spider.$s",
+	"Sat6": "Have you seen my doll?#$b#Her name is Thylane!$h#$e#I haven't seen her since yesterday.$s#$b#Jas and I were playing in the town square, and when we got called to help Dr. Harvey...#$b#Well, he said he's got a patient who needs help.#$b#When I went back, Thylane wasn't there anymore.$s#$e#You have to help me find her!$s",
+	"Sun6": "Hahaha, you should've seen Vincent try to kick Shane! Ha ha!$h#$e#Keahi and I played a prank on him!",
+	
+		//8 Hearts
+	"Mon8": "Mr. Pika got mad at me and Keahi yesterday because of a prank we pulled on Shane, and Jas won't talk to us.$s#$e#I felt bad yesterday, but now I feel better.#$b#Keahi hugged me when I cried last night.$4",
+	"Tue8": "Hey, what's up, @!$h#$e#Can I go inside your house and watch TV?#$b#I haven't watched my cartoons and mom won't let me watch during the day.$s#$e#I was helping Keahi look for something called flash paper, but then he went and asked Maru for help instead of me.",
+	"Wed8": "I'm on my way to the beach to practice my cartwheels! Wanna come with me @? It's gonna be so much fun! I can do a perfect cartwheel, Miss Penny says so!",
+	"Thu8": "Will you let us play on your farm if we give you cake?$h",
+	"Fri8": "Hey, @, I gave Keahi a gift!$h#$e#And he liked it!$4",
+	"Sat8": "My mom said that she's proud of me!#$b#My garden bloomed!$h#$e#I'm gonna make bouquets for my friends!",
+	"Sun8": "Keahi and I had a sleepover and stayed up so late!$h#$e#We talked about ghost stories and he got really scared, he was so close to me and my face felt so hot!$4",
+	
+		//10 Hearts
+	"Mon10": "I saw a weird apple with eyes yesterday!$u#$b#It came close to me. I actually thought I could touch it!#$e#It looked like it was blushing!$h#$b#Have you ever seen anything like that?",
+	"Tue10": "Have you tasted Mr. Pika's pizza?#$b#It tastes just as good as Gus'.#$e#Keahi's learning how to cook and he's getting so good at it!$h#$b#I wonder when he'll cook for me again.$4",
+	"Wed10": "Psst!#$b#I'm gonna tell you a secret.$u#$e#I like Keahi.$4#$b#But don't tell him!$h",
+	"Thu10": "Can you teach me how to dance like Ysa?#$b#I want to be a ballerina!$h#$e#You don't know how?$u#$b#That's sad.$s",
+	"Fri10": "Are you okay here?#$b#Can I give you a helping hand?#$e#I'm really good at helping!$h#$b#My daddy says I'm the best helper hand in the world!$h",
+	"Sat10": "Hi, @!#$e#Come play!$h",
+	"Sun10": "I'm gonna pull a prank on Keahi!$h#$b#But I don't know what to do.#$e#Dad said I should try a whoopee cushion.#$b#What's a whoopee cushion?$u",
+
+		//Special Dialogue
+	"MovieInvitation": "Yes! Yes! Yes!#$b#I love movies! Of course I'd love to go with you, @!$h#$e#We should definitely bring a lot of snacks!$h#$b#If we sit in the middle we can see everything!$h#$b#Aaah!! I'm so excited!!$h",
+	
+		//Resort
+	"Resort_Entering": "Whoa!$u#$b#Look at this!#$e#Dad, come on!$h",
+	"Resort_Leaving": "I don't wanna leave...$s#$e#Can we come back soon?$h",
+	"Resort_Shore": "The shells here look different from the shells at home.#$e#Do you think the fish are different?",
+	"Resort_Chair": "Ew. My butt keeps sticking to the chair.$s",
+	"Resort_Bar": "I want a strawberry lemonade?$u#$e#Can I have a strawberry lemonade?$h#$b#Please?$s",
+	"Resort": "I ran around with Dad and Keahi!$h#$e#My legs are all sandy now.$s",
+
+	//Undreya Dialogue
+	"Introduction": "We're not supposed to meet this early.",
+
+		//Day before Festivals	
+	"spring_12": "Don't go collecting eggs without checking them tomorrow.#$b#You might hand me over the townsfolk by accident!$u",
+	"summer_10": "I always attend the Luau. I love the soup!$h#$b#I also like the spare change that purple balloon has.#$b#He should visit more often.$h",
+	"summer_27": "I wanna see the jellies too!$h#$b#Ofcourse I'll be there tomorrow! You'll just have a hard time finding me!$h",
+	"fall_26": "Uhmmm.. I don't like tomorrow..$s",
+	"winter_7": "I hate fish. Yuck!$a#$b#I'm not interested in the festival tomorrow.",
+	"winter_14": "Ooh! I've been looking forward for the merchants to come!$h#$b#So many pockets to pick! Teehee < $h",
+	"winter_24": "I should learn to be a good elf from time to time.#$b#My friend wouldn't like it if I overstole...$s#$e#Yeah... I should learn to be good once in a while...$s",
+
+		//Days of the Week
+	"Mon": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#I like to hide everywhere!$h#$b$You get to hear some interesting stories!$h",
+	"Tue": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#Once I transformed into a rock and a passing kid almost threw me to the bottom of the lake!$a#$b#I'll never forget that red shirt shortie!$a",
+	"Wed": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#I love to transform into a teddy bear. It feels so good to be hugged!$h#$b#Hey! No! I don't like being hugged when I'm in my elf form!$a#$e#Well... Unless if it was him...$s",
+	"Thu": "Hey. Thanks for the ice cream the other day!$h#$e#Huh? What ice cream?#$b#Oh yeah! I forgot. I stole some change from you the other day Teehee < $h#$b#I hope you don't mind! It's for charity!$h#$e#Thursdays are rest days!$h#$b#No stealing for today!$h",
+	"Fri": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#Shoo. You're blowing my cover.$a#$e#I'm busy waiting for the next pocket!$a",
+	"Sat": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#I should stay away from that wizard at the forest and that man who wears a red scarf...$s#$b#He told me about them before too...$s",
+	"Sun": "Oh! You found me! As promised. Here's a prize! [60 72 167 206 336] $h#$e#I love hiding around that farm in the south of the mountain village.#$b#The lady there sings so beautifully.$h",
+	
+		//Seasonal
+	"spring_1": "It's the spring!.",
+	"summer_1": "It's the summer!.",
+	"fall_1": "It's autumn!",
+	"winter_1": "It's winter!",
+
+//Yuuma Dialogue
+"Dialogue.Yuuma.Introduction": "Uhm, I don't know you.#$e#Oh... you're the new farmer.#$b#I'm Yuuma. Shiro is my big brother.#$b#Well, I need to go... bye.$h",
+
+//Spring
+"Dialogue.Yuuma.spring_1": "Yay, it's a new year!#$b#I'm gonna spend it with Shiro.$h",
+"Dialogue.Yuuma.spring_12": "Oh, the Egg Festival is tomorrow... sounds nice.",
+"Dialogue.Yuuma.spring_23": "I don't like the Flower Dance.$s#$b#It reminds me of mommy and daddy. I miss them...$4",
+
+//Summer
+"Dialogue.Yuuma.summer_1": "I try to take care of the yard and house more in the summer, so my brother doesn't have to worry so much about it.#$b#It's a lot of work, but that's okay. I'm good at it now.$h",
+"Dialogue.Yuuma.summer_10": "Please bring something good tomorrow.$h#$b#I don't want the soup to taste bad.$s",
+"Dialogue.Yuuma.summer_27": "I'm happy that my brother is excited about tomorrow.$h#$b#I hope he doesn't hurt himself...$s",
+
+//Fall
+"Dialogue.Yuuma.fall_1": "@! My brother keeps raking the leaves in the mornings.$u#$e#I told him I'll do it, but he won't listen to me.$s#$b#How do I make him stop?$4",
+"Dialogue.Yuuma.fall_15": "Oh, the fair is tomorrow, that's exciting!$h#$b#Well, sort of...#$b#I wonder if Shiro wants to go...",
+"Dialogue.Yuuma.fall_26": "I'm kind of excited for tomorrow.$h#$b#Spirit's Eve is always really neat, and I know that my brother looks forward to it.$h#$e#I hope he has a good time, but we can't stay very long or he might get tired and hurt himself.$s#$b#It's my job to make sure he's okay.$h",
+
+//Winter
+"Dialogue.Yuuma.winter_1": "Winter is hard.$s#$b#But Ms. Lenny helps by bringing wood and food by the house sometimes.#$b#I really like Ms. Lenny.$h",
+"Dialogue.Yuuma.winter_7": "My brother and I used to go fishing a lot near the waterfalls.$h#$b#That was before he went to the army though.$s",
+"Dialogue.Yuuma.winter_14": "I wonder where these merchants come from.#$b#Do you think they come from the other side of the ocean?#$b#That's where mommy and daddy are working.$h",
+"Dialogue.Yuuma.winter_15": "Do you think if I gave them a letter, they'd take it to my mom and dad?$h", 
+"Dialogue.Yuuma.winter_16": "I asked the lady with the pig.#$b#She said she'd try to take a letter if it had an address on it, but it might take a long time.$s",
+"Dialogue.Yuuma.winter_17": "I wrote a letter.#$b#I told mom and dad that we're doing okay and I'm doing a good job taking care of Shiro.$h",
+"Dialogue.Yuuma.winter_24": "If you have me as your secret person, please give me something you think Shiro would like.#$b#Why?$u#$b#Oh, no reason. Thank you.$h",
+
+//Days of the Week
+
+//0 Hearts
+"Dialogue.Yuuma.Mon": "Hmm...?#$e#Sorry, I have a lot to do today.",
+"Dialogue.Yuuma.Tue": "Hello, @.#$e#I'm sorry, I'm busy with something.",
+"Dialogue.Yuuma.Wed": "How much are parsnips again?#$e#I'm not sure, I worry I may have not brought enough money today.$s",
+"Dialogue.Yuuma.Thu": "I saw Jas and Vincent playing in the town earlier.#$b#They seemed like they were having fun.",
+"Dialogue.Yuuma.Fri": "I passed by your farm earlier.#$b#It's getting pretty big.$h",
+"Dialogue.Yuuma.Sat": "Hmm...#$e#Oh, nothing.",
+"Dialogue.Yuuma.Sun": "I'm sorry but I'm busy today.#$e#Excuse me.",
+
+//2 Hearts
+"Dialogue.Yuuma.Mon2": "I saw Trinnie and Keahi playing near the forest earlier...#$e#It's no big deal.",
+"Dialogue.Yuuma.Tue2": "Miss Penny is such a good teacher!$h#$b#I learn so much from her.#$e#I have only one day a week to spare for school though.$s",
+"Dialogue.Yuuma.Wed2": "Hi. What's going on?#$e#I gotta go now. Bye.",
+"Dialogue.Yuuma.Thu2": "My brother can't get tired, or else bad things happen.$s#$b#Please remember that.#$e#Alright, bye.",
+"Dialogue.Yuuma.Fri2": "Can I ask you something?#$e#Um... Nevermind... $s",
+"Dialogue.Yuuma.Sat2": "Mr. Philip is really nice.$h#$b#He's been a big help to my brother.$h#$e#Excuse me, I need to go.",
+"Dialogue.Yuuma.Sun2": "I saw Vincent and Keahi play catch earlier.$h#$b#I... I... um... nevermind.$s",
+
+//4 Hearts
+"Dialogue.Yuuma.Mon4": "One, two, three, four...#$b#Oh, hello @. I'm just counting my steps. It's fun. $h",
+"Dialogue.Yuuma.Tue4": "My brother told me he's cooking Miso Soup later!$u#$e# I have to go home and help him so he doesn't try to move his arms too much.",
+"Dialogue.Yuuma.Wed4": "I visit Doctor Harvey sometimes to buy medicine for my brother.#$e#Doctor Harvey's a good person, he's very helpful.$h",
+"Dialogue.Yuuma.Thu4": "My brother likes the cold.#$e#I asked Mr. Kenneth how much an air conditioner would cost.#$b#It was expensive, though.$s#$e#Maybe we'll buy one, one day...$s",
+"Dialogue.Yuuma.Fri4": "We live off the money our parents send us along with my big brother's veteran checks.#$b#I try to work to help out, but people say a kid my age shouldn't work.$s#$b#So Miss Lenny helps us out sometimes.#$b#I like Miss Lenny. She's nice.$h",
+"Dialogue.Yuuma.Sat4": "Oh... Hi, @.#$b#How big do you think the ocean is?",
+"Dialogue.Yuuma.Sun4": "I want to swing with my big brother on the playground.$h#$b#Maybe someday, when he's feeling better.",
+
+//6 Hearts
+"Dialogue.Yuuma.Mon6": "I saw Jas and Trinnie hiding in the forest the other day.$h#$e#I think they were playing a game called hide and seek?#$b#I'm okay though. I don't need to play.$s",
+"Dialogue.Yuuma.Tue6": "I visit Miss Lenny sometimes to help.#$b#I owe her a lot. She helped a lot while Shiro was in the big brace thing.",
+"Dialogue.Yuuma.Wed6": "I study a lot at home so I can be around Shiro.#$b#Miss Penny helps me while Mr. Philip is helping Shiro.",
+"Dialogue.Yuuma.Thu6": "Hello, @. How are you?#$e#Sorry, I'm in a hurry.",
+"Dialogue.Yuuma.Fri6": "I... I miss my mommy...$4#$e#%Yuuma abruptly stops talking. He won't look at you.",
+"Dialogue.Yuuma.Sat6": "Hey there, @. I can't talk right now.#$e#Sorry! We can talk later.",
+"Dialogue.Yuuma.Sun6": "I try to learn as much as I can from Mr. Philip whenever he visits.#$b#I want to be like him when I grow up.$h",
+
+//8 Hearts
+"Dialogue.Yuuma.Mon8": "Hi, @. Can I ask you something?#$b#Am I a weird kid?#$e#Someone said I was.$s#$e#Well... It's okay.$h",
+"Dialogue.Yuuma.Tue8": "My brother has been feeling better and Mr. Philip says he's getting stronger.$h",
+"Dialogue.Yuuma.Wed8": "You're a really good person and an amazing friend, @.$h#$b#Thank you, thank you, thank you!$h",
+"Dialogue.Yuuma.Thu8": "Hi, @!$h#$b#Will... will you push me on the swings later?",
+"Dialogue.Yuuma.Fri8": "I played with Trinnie and Keahi earlier. It was fun.$h",
+"Dialogue.Yuuma.Sat8": "Pika makes really good food.#$b#My brother and I always buy some for take-out.#$e#Shiro lets me go get it on my own because it's helpful.$h",
+"Dialogue.Yuuma.Sun8": "I got to play with Vincent and Jas today!$h",
+
+//10 Hearts
+"Dialogue.Yuuma.Mon10": "@! I'm happy you're here!$h#$b#Can we play later? My brother says it's fine.$h",
+"Dialogue.Yuuma.Tue10": "Keahi came by the other day, and he showed me some of his new action figures.$h#$b#It was a lot of fun.$h",
+"Dialogue.Yuuma.Wed10": "My brother and I fixed up Mommy and Daddy's room yesterday.#$e#He says they won't come back for a while...$s#$b#but it's okay because we're all safe and they're working hard.$h",
+"Dialogue.Yuuma.Thu10": "My brother woke up with a bad pain in his back this morning.$4#$b#I got really worried but him and Mr. Philip told me it wasn't because he did something wrong or worked too hard, that it just happens sometimes.$s#$b#I'm trying to believe them.$s",
+"Dialogue.Yuuma.Fri10": "Hey, @. What's a prank?#$e#Keahi and Trinnie said they're prank experts.#$b#My brother told me not to pull any pranks though. I'm confused.$u",
+"Dialogue.Yuuma.Sat10": "Miss Flor is really pretty.$h#$b#I always like it when she talks about how people's brains work.$h#$b#She's really sweet.$h",
+"Dialogue.Yuuma.Sun10": "Hello, @! I'm happy you're here!$h#$b#Can I come help you on your farm some day?$h",
+
+//Special Dialogue
+"Dialogue.Yuuma.MovieInvitation": "Oh? A movie?#$b#Shiro's doing fine at the moment... so I'm good to go.#$b#Thanks.$h",
+
+//Resort
+"Dialogue.Yuuma.Resort_Entering": "I think my brother is excited to be able to relax. That makes me happy.$h",
+"Dialogue.Yuuma.Resort_Leaving": "That... that was nice.#$b#I really enjoyed today.$h",
+"Dialogue.Yuuma.Resort_Shore": "Have you been swimming in the water before, @?#$b#It looks really deep...$u",
+"Dialogue.Yuuma.Resort_Chair": "Maybe I should have brought a book with me.#$b#Ms. Penny says I should read more...",
+"Dialogue.Yuuma.Resort_Bar": "Wow, the juice they have here is really neat.$h#$e#We don't have these kinds of juices back in the ridge.",
+"Dialogue.Yuuma.Resort": "This place is really interesting.$h#$e#Um... I have to go, bye.",
 
 }
