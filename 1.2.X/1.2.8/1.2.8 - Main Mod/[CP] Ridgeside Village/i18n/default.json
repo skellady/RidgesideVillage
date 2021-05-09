@@ -4809,4 +4809,548 @@
 "Aguar.Dialogue.Resort_Bar": "Hmm, I suppose I will try one of these pina coladas.$h",
 "Aguar.Dialogue.Resort": "The island has a certain aura emanating from within.#$e#Hmm...$4",
 
+//Bert Dialogue
+"Bert.Dialogue.Introduction": "Hey there, farmer!#$b#You just moved here, didn't you?#$b#The name's Bert!#$b#My family and I live on the south side of Ridgeside Village.#$b#Welcome!$h",
+//Spring
+"Bert.Dialogue.spring_1": "Ah, the cold's finally over!#$e#Back to work, am I right, fellow farmer?$h",
+"Bert.Dialogue.spring_12": "I'm lookin' forward to tomorrow, how about you?#$e#With the Egg Festival goin' on, there's sure to be some darn good food.$h",
+"Bert.Dialogue.spring_23": "I better practice my dancin' today.$u#$b#The missus might make a fuss if I don't get the steps right tomorrow!$s",
+//Summer
+"Bert.Dialogue.summer_1": "Oh, boy! It's a hot day today!$u#$b#Remember to hydrate, farmer!$h",
+"Bert.Dialogue.summer_10": "Bring something nice for tomorrow, ya hear?#$b#Gotta make that stew great!$h",
+"Bert.Dialogue.summer_27": "I bought a little gift to give to the missus tomorrow night.$4#$e#Don't tell Olga! It's gonna be a surprise.$h",
+//Fall
+"Bert.Dialogue.fall_1": "Better dig that old rake out of the shed and think about tackling those leaves soon.$u",
+"Bert.Dialogue.fall_15": "Ahh, a good ol' competition!$h#$e#You're representing us now, @.#$b#You give 'em what for tomorrow, you hear me?$h",
+"Bert.Dialogue.fall_26": "I can't wait to eat some pumpkin pie tomorrow!$h#$e#Mrs. Evelyn makes the best pies in the valley!$h",
+//Winter
+"Bert.Dialogue.winter_1": "Trinnie has been begging me to build a snowman with her.#$b#I'd love to, but I really don't like being cold!$h",
+"Bert.Dialogue.winter_7": "If you wanna win tomorrow, you gotta be fast 'n' alert!#$e#Become one with the rod.#$b#The moment you feel the slightest pull, you gotta reel 'em in!$h",
+"Bert.Dialogue.winter_14": "They sell just about everything at that night market...$uBut produce can't keep too long out there, don't you think?",
+"Bert.Dialogue.winter_15": "Fish.$u#$b#They've just been eatin' fish for months!$u#$b#Can you believe it, @?$u",
+"Bert.Dialogue.winter_16": "Brought some samples of my finest produce tonight, @.#$e#I don't mean to be rude to these fine folk, but sometimes you just need sumthin' from the earth, you know?$h",
+"Bert.Dialogue.winter_17": "Sold a bushel and a half of some of the hardier greens.#$e#They'll have fresh veggies out there on the open seas!$h",
+"Bert.Dialogue.winter_24": "I've saved just enough to buy Trinnie the finest doll house you've ever seen.#$e#Near about choked when I saw that price tag, but I tell ya, my little princess's smile is worth that and more.$h",
+
+//Days of the Week
+//0 Hearts
+"Bert.Dialogue.Mon": "Hey there.#$e#Whatcha doin' today?",
+"Bert.Dialogue.Tue": "Hmm... I better check with Pierre if he has that new brand of fertilizer on sale.#$b#Our crop quality has been dippin' down a bit.$s",
+"Bert.Dialogue.Wed": "Hey there, farmer!$h#$b#How're your crops doing?#$e#Take care of your land, and it'll take care of you!$h",
+"Bert.Dialogue.Thu": "Pika sure cooks a mean pasta!$h#$e#He knows how to cook food from a bunch of different regions.#$e#I hear his little boy knows how to cook as well.$u#$b#I better tell Trinnie to start learnin' too.$h",
+"Bert.Dialogue.Fri": "Hey, if you ever see my cousin Caroline in town, tell her I said 'Hi'!$h#$e#It's been a long time since we talked.$s#$b#I've barely seen her since my family moved here outside of the holidays!$s",
+"Bert.Dialogue.Sat": "Oh, hey, @!$h#$e#Didn't see you there, pardon me.",
+"Bert.Dialogue.Sun": "Oh? Hello there, @.$h#$b#Do you forage?#$b#You can make a quick buck selling foraged goods if you need.",
+
+//2 Hearts
+"Bert.Dialogue.Mon2": "Have you met Alissa? She's Olga's niece.#$e#She's a good kid and she has an absolutely angelic voice.$h#$b#Though she just sings to herself most of the time.$s#$b#I hope one day she may share that talent of hers with the world.$h#$b#Tt'd be a shame to hide that light under a bushel ya' know?$s",
+"Bert.Dialogue.Tue2": "I swear, once I find Trinnie and Keahi...$a#$e#They put a fish taco on my favourite chair and now my pants are ruined!$a",
+"Bert.Dialogue.Wed2": "I really admire Robin's work!#$b#She's a prime example of a fine craftsman.#$e#She renovated some of the worn-down houses in the village.$h",
+"Bert.Dialogue.Thu2": "Hey there, @.$h#$e#How's life treatin' you on this fine day?#$b#You remember to take care of yourself.",
+"Bert.Dialogue.Fri2": "The missus and I sometimes fight and it's a real hassle, I tell ya.$s#$b#But it's nothing some lovin' can't fix!$h",
+"Bert.Dialogue.Sat2": "Hmmm, I wonder what I should do today?#$e#Any suggestions, @?",
+"Bert.Dialogue.Sun2": "How's it going at the farm, @?#$b#Doing good, I hope!#$e#You better grow some quality crops, ya hear?$h",
+
+//4 Hearts
+"Bert.Dialogue.Mon4": "Howdy, @!#$b#Hope you have a good day!#$e#I gotta say, I'm quite impressed with your work so far.#$b#Managing a farm ain't easy!",
+"Bert.Dialogue.Tue4": "Oh boy, oh boy!$u#$b#I heard some weird sounds by the ridge last night when I was going home.$u#$b#It sounded like there was some fighting going on!$u",
+"Bert.Dialogue.Wed4": "I saw Linus by the mountain lake yesterday.#$b#He seems like a good guy.$h#$e#Shame some kids vandalized his tent.$s#$e#I hope it wasn't Keahi or Trinnie...$s",
+"Bert.Dialogue.Thu4": "Lewis is an old friend of mine.#$b#He was like a big brother to me when we were kids.$h#$e#Haven't seen him for years after my family moved out of town.$s#$e#I'm glad I get to see him again.$h",
+"Bert.Dialogue.Fri4": "Hey have you met Lenny, this village's boss lady?#$e#She's Lewis' sister.#$b#You wouldn't have guessed if you didn't know 'em.#$b#They're complete opposites, those two...",
+"Bert.Dialogue.Sat4": "I swear I saw a rolling kiwi by the ridge yesterday...$u#$e#Must've been my imagination.$u",
+"Bert.Dialogue.Sun4": "Hey there, @.#$b#Done with your farm work, I suppose?$h#$e#It's nice to take a break from time to time.$h",
+
+//6 Hearts
+"Bert.Dialogue.Mon6": "Hi, @! Good to see you!#$e#Don't forget to visit Pika's if you're hungry!",
+"Bert.Dialogue.Tue6": "I saw Clint the other day at the saloon.#$e#I think I know the reason why he's there all the time, ha ha!$h",
+"Bert.Dialogue.Wed6": "Keahi once cooked Tom Kha Soup at our house when Trinnie was sick.#$e#He's gonna be a great cook I tell ya!$h",
+"Bert.Dialogue.Thu6": "I told Trinne and Keahi to ask Yuuma to play with them sometimes.#$e# They said Yuuma is too busy to play.#$e#Poor kid$s.",
+"Bert.Dialogue.Fri6": "The mill on our farm is quite useful. #$e#You can mill unmilled rice, wheat and beets to get rice, flour and sugar!",
+"Bert.Dialogue.Sat6": "Howdy there, @!#$e#Don't forget to plan your crops, some grow slower than others!",
+"Bert.Dialogue.Sun6": "Oh, nice to see you, @. How's the farm?#$e#Might come and visit someday. I do like to roam around a bit.$h",
+
+//8 Hearts
+"Bert.Dialogue.Mon8": "You've been such a good friend, @, to me and to my family.#$b#I thank you.#$e#If you ever need help, I'll be here for ya, partner!$h",
+"Bert.Dialogue.Tue8": "My wife and I hear Alissa sing to herself sometimes.#$e#That girl has such a beautiful voice, I tell ya!$h#$b#She just doesn't have the confidence to show it off, for some reason...$s",
+"Bert.Dialogue.Wed8": "Yesterday Jas and Vincent visited, along with Keahi.$u#$b#There were four kids inside this house!#$e#Man, oh man, the timing was awful.#$b#I was the only adult in the house so I had to look after all four of 'em!#$e#Good thing Jas is a quiet girl. But that Vincent!$u#$b#He was running all over the place!$a",
+"Bert.Dialogue.Thu8": "The missus and I have our own little date nights sometimes.$h#$e#Some nights when we're all tired from tending the farm, Olga and I lay down on the grass and just gaze at the stars.#$b#Then, occasionally, we hear Alissa singing in her room.#$b#She's awful quiet, bein' so shy, but we can hear it.#$b#Combined with the chirping of the crickets and the whistling of the wind, it sounds like a concert.$h#$b#A concert just for us$4",
+"Bert.Dialogue.Fri8": "It's been a while since Abigail visited!#$e#I mean, I understand her. She's busy doing her own things.#$e# It's also quite a trip to the village.#$e#I just miss her, that's all...$s",
+"Bert.Dialogue.Sat8": "Hey there, @! How are ya?#$e#Want to get a beer and hang out at the Saloon?#$b#That sounds like a nice time between good friends, am I right?$h",
+"Bert.Dialogue.Sun8": "Have you ever bought things from Jeric, northwest of the village?#$e#He sells some quality stuff, I tell ya!$h",
+
+//10 Hearts
+"Bert.Dialogue.Mon10": "I bet you're curious 'bout the reason we moved to Ridgeside, huh?#$e#My family just wasn't earning enough money.$s#$b#Housing prices were soarin', Olga was pregnant...$s#$b#My parents bought a plot of land over here and built a farm. Olga and I moved in with them.#$b#After Trinnie-- oh Yoba, listen to me ramblin'. I won't keep ya.$h#$b#Come back tomorrow if you want to hear the rest!",
+"Bert.Dialogue.Tue10": "You know, after Trinnie was born, my parents retired and moved to the Fern Islands.#$b#We weren't farmin' folk, barely made enough to get by, until Alissa came.#$e#She wanted to grow crops, so we helped her, and figured out real quick that we're happier with somethin' to care for.$h#$e#Nightingale Orchard has been blooming somethin' fierce ever since.$h",
+"Bert.Dialogue.Wed10": "You've been an amazing friend, @!#$b#Here, have some seeds for your farm.[770]$h",
+"Bert.Dialogue.Thu10": "I'm so glad I've met you, @.#$b#You're a great role model for the kids!$h#$e#Just don't tell them about the scrapes you get into out in those mines, alright?$h",
+"Bert.Dialogue.Fri10": "I went into town yesterday and passed by your farm.#$b#You are doing some amazing work!$u#$e#No wonder you're in the papers!$h",
+"Bert.Dialogue.Sat10": "Lewis and I lost track of time when we were reminiscing yesterday.#$e#The missus was not happy that I forgot to cook dinner.$s#$e#Good thing Pika's was still open!$h",
+"Bert.Dialogue.Sun10": "Trinnie and Alissa get along great.#$b#They're only cousins but you'd almost think they were sisters!$u#$e#I tell ya, life's better with Alissa around.$h",
+
+//Special Dialogue
+"Bert.Dialogue.MovieInvitation": "The movies? Sounds great!#$b#I'm lookin' forward to it!$h#$b#I'll see ya there!",
+
+//Resort
+"Bert.Dialogue.Resort_Entering": "Ain't this a fine view?$h#$b#There's nothin' like this back in our little valley.#$e#Well, we might as well take this time to relax!",
+"Bert.Dialogue.Resort_Leaving": "Good things must come to an end.$s#$e#Tell ya what, keep this a secret from the missus okay?#$e#I'm going to bring her here on our next anniversary!$h#$e#Ha ha! I'm a genius!$h",
+"Bert.Dialogue.Resort_Shore": "Lookin' at this view makes you think about what life gives ya.#$e#You remember that you gotta fight for what you want and give it your all if y'wanna survive in this world.#$e#You gotta be willing to give up anything...$s#$e#Even your identity, if it comes to that...$s#$b#Yoba!$a#$b#Enough of the sentiments!$a#$b#I think this blazin' heat might be goin' to my head.$h",
+"Bert.Dialogue.Resort_Chair": "Ahhh, this is the life!$h",
+"Bert.Dialogue.Resort_Bar": "Hmmm, I think I'll go for a beer.#$b#Put it in a mug and tell Olga it's ginger tea, y'know? Haha!$h#$e#What about you? It's on me![346]$h",
+"Bert.Dialogue.Resort": "Ahhh, Fern Islands.$h#$e#I haven't been here since the eruption!$u#$e#Man, time sure goes by fast...$s",
+
+//Ezekiel Dialogue
+"Ezekiel.Dialogue.Introduction": "Huh? Who are you supposed to be?#$b#Oh, the new farmer? Well, that's good.#$b#I'm Ezekiel. Nice to meet you, I suppose.",
+
+//Spring
+"Ezekiel.Dialogue.spring_1": "Spring again...#$b#Blasted birds outside my window won't shut their Yoba-forsaken beaks!$a",
+"Ezekiel.Dialogue.spring_12": "Eggs!$a#$b#Why did it have to be eggs?$a#$e#What kind of rotten egg comes up with a festival about eggs?$a",
+"Ezekiel.Dialogue.spring_23": "My little girl is going to look so pretty in her Flower Dance dress.$h#$b#Don't let me catch you staring at her tomorrow!$a",
+
+//Summer
+"Ezekiel.Dialogue.summer_1": "Why is it so hot!$a#$b#Who turned up the heat?$u#$b#Bah! I can't wait for winter.$a",
+"Ezekiel.Dialogue.summer_10": "The nerve of that governor, coming to town just to eat.$a#$b#He has no idea what some of us are going through!$a#$b#He doesn't know or he doesn't care.#$b#Either way, I don't like him!$a",
+"Ezekiel.Dialogue.summer_27": "Why bother going to a beach at night?#$b#The dance of the moonlight jellies?#$b#I'll be staying home and sleeping like a rational man.",
+
+//Fall
+"Ezekiel.Dialogue.fall_1": "Who is going to clean all those leaves off the ground, huh?",
+"Ezekiel.Dialogue.fall_15": "A fair? Tomorrow?#$b#Bah! There's an awful lot of festivals for a town that can't even fix up a building on its own!$a",
+"Ezekiel.Dialogue.fall_26": "I don't get scared easily.",
+
+//Winter
+"Ezekiel.Dialogue.winter_1": "Cold!$a#$b#My hands are cold, my feet are cold, my face is cold.$a#$e#Bah! I can't wait for summer!$a",
+"Ezekiel.Dialogue.winter_7": "Fishing? I do love fishing!$h#$b#I'll win tomorrow, that's for sure!$h",
+"Ezekiel.Dialogue.winter_14": "You see those boats on the horizon?$u#$b#Gotta keep an eye on them, you hear me?$a",
+"Ezekiel.Dialogue.winter_15": "Boats were just merchants, huh?$u#$b#What business do they have here?$a",
+"Ezekiel.Dialogue.winter_16": "Corine's excited that the merchants are here. Hmph.",
+"Ezekiel.Dialogue.winter_17": "Corine bought me a metal stein last night.$h#$b#At least something good came of these merchants docking at our beach, stinking up our ocean.$a",
+"Ezekiel.Dialogue.winter_24": "I look forward to the feast tomorrow.#$b#Gus makes some good food. But I'm the better brewer!$h",
+
+//Days of the Week
+
+//0 Hearts
+"Ezekiel.Dialogue.Mon": "Why aren't you at your farm?#$e#Don't slack off.",
+"Ezekiel.Dialogue.Tue": "Lenny says I should take it 'easy peasy lemon squeezy'.#$b#Bah! Easy for her to say.#$b#My life has been 'difficult difficult lemon difficult!'$a",
+"Ezekiel.Dialogue.Wed": "Hey you. Have you met my daughter?#$b#Her name's Corine.$h#$b#You can be friends with her, but you better be real nice to her!$a",
+"Ezekiel.Dialogue.Thu": "What's that?#$e#@? What now?#$e#Speak up or shut up!$a",
+"Ezekiel.Dialogue.Fri": "How tough are ya, kid?$a#$b#Look like a stiff breeze could blow you over, hah.$h",
+"Ezekiel.Dialogue.Sat": "You kids have it easy!#$b#You don't know real hardship!$a",
+"Ezekiel.Dialogue.Sun": "What do you want?#$e#Hmm?",
+
+//2 Hearts
+"Ezekiel.Dialogue.Mon2": "Stop pestering me.$a#$e#What do you want anyway?",
+"Ezekiel.Dialogue.Tue2": "Bean soup is best when Corine makes it.$h#$b#What do you mean you haven't had bean soup?$u#$b#What kind of spoiled snot hasn't had bean soup!?$a",
+"Ezekiel.Dialogue.Wed2": "The artifact collection at the library is nothing compared to mine!$a#$e#Of course I haven't visited it, why should I?",
+"Ezekiel.Dialogue.Thu2": "Doctor Harvey is a smart guy.#$b#A big brain kind of guy.#$b#Hah! Big brain, tiny muscles.$h",
+"Ezekiel.Dialogue.Fri2": "That Morris guy in town is obnoxious!$a#$b#Someone should shut him up.",
+"Ezekiel.Dialogue.Sat2": "What do you want now?#$e#Huh? How am I?$u#$b#Fine, why do you care?",
+"Ezekiel.Dialogue.Sun2": "What?",
+
+//4 Hearts
+"Ezekiel.Dialogue.Mon4": "Hey kid, have you visited the mines?#$b#It takes guts to do that. I admire your courage.$h",
+"Ezekiel.Dialogue.Tue4": "You're here again?#$b# What do you want now?",
+"Ezekiel.Dialogue.Wed4": "Hm?#$b#Oh, it's you.#$b#I was wondering... How do you manage a big farm like that?#$b#I was planning to buy one someday.#$b#Corine says I shouldn't, though. She doesn't want me to overwork myself.$s",
+"Ezekiel.Dialogue.Thu4": "Hm? You're here again.#$b#@, was it? Funny name...",
+"Ezekiel.Dialogue.Fri4": "Kent knows what I'm going through.$s#$b#But he's been through a lot worse.$s#$b#Gave his all for his country and what's he got to show for it?",
+"Ezekiel.Dialogue.Sat4": "Corine looks a lot like her mom, Helen.$h#$b#I don't want to lose her as well...$s#$e#What are you doing eavesdropping?$a#$b#None of your business!$a#$b#Scram!$a",
+"Ezekiel.Dialogue.Sun4": "Do you know Andy?#$b#Hmmm? What?#$b#Oh him? He's just a farmer I know.",
+
+//6 Hearts
+"Ezekiel.Dialogue.Mon6": "What? You're here again?#$b#Well, it's fine.#$b#I need some help too. I want to ask, how much do strawberries sell for?#$b#Oh? That much?#$b#Hmm, maybe I'll take up strawberry farming.$h",
+"Ezekiel.Dialogue.Tue6": "Met this strange professor at the restaurant today.#$b#Swell guy.#$b#He talked about water and magic, like some kind of fairy tale.#$b#Nonsense, but he tells a good story.$h",
+"Ezekiel.Dialogue.Wed6": "Hey, @.#$b#I remember you.$h#$b#What do you want?",
+"Ezekiel.Dialogue.Thu6": "Corine says I'm forgetful.$s#$b#But I will never forget her birthday!$h#$b#It's on the 26th of fall!#$b#Don't you dare say I got it wrong!$a",
+"Ezekiel.Dialogue.Fri6": "What's this nonsense about a rolling kiwi?$a#$b#If it exists, I haven't seen it, so it doesn't exist!$a",
+"Ezekiel.Dialogue.Sat6": "I just want her to be safe, @.$s#$b#Losing her would kill me.$s",
+"Ezekiel.Dialogue.Sun6": "Stay safe out there, @...#$b#The world ain't all sunshine and rainbows.$s",
+
+//8 Hearts
+"Ezekiel.Dialogue.Mon8": "I trust you, @.#$b#You're a good kid.$h#$b#Don't get all sentimental, though!$a",
+"Ezekiel.Dialogue.Tue8": "I finally saw the rolling kiwi!$u#$b#There! It's right behind you!$u#$b#Ah, I'm messing with you, that's just a rock.$h",
+"Ezekiel.Dialogue.Wed8": "'In Gotoro the gem berries grow.#$b#Between the graves, row on row.$s#$b#Why we were there, I do not know.$s#$b#The gem berries grow in Gotoro.$s'#$e#War never changes, @...$s",
+"Ezekiel.Dialogue.Thu8": "When I left for the army, my old buddy Richard took care of little Corine.#$b#I owe that man big time. He is a very respectable man.#$b#One of the greatest I've ever known.$h",
+"Ezekiel.Dialogue.Fri8": "I visited the town yesterday with my daughter.#$b#Saw your farm and I gotta tell you, I'm impressed.$h#$b#You're doing a decent job. Good work, @.$h",
+"Ezekiel.Dialogue.Sat8": "ARGH!$u#$b#@? Don't scare me like that!$a#$b#You're going to give this old man a heart attack!$s#$b#Anyway, how are ya?$h",
+"Ezekiel.Dialogue.Sun8": "I remember when I was young. Not a worry in the world...$h#$b#Oh, good old memories. I used to have it so easy.$s",
+
+//10 Hearts
+"Ezekiel.Dialogue.Mon10": "Hey there, @.$h#$b#Come visit me and Helen sometimes...$h#$b#Helen?$u#$b#Course you can't visit Helen.$a#$b#Can't visit someone who's not here!$a",
+"Ezekiel.Dialogue.Tue10": "The beer helps with nightmares.$s#$b#Sometimes I wake up and can't go back to sleep without a cold one.$s ",
+"Ezekiel.Dialogue.Wed10": "I know I can be overprotective of my daughter.$s#$b#But you're a good friend, @, and you showed me it's not bad to trust a little.$h#$b#Corine is a young woman now.$s#$b#Even if that's hard for me to accept...$4",
+"Ezekiel.Dialogue.Thu10": "I visit Kent sometimes.#$b#Turns out we have a lot in common.$s",
+"Ezekiel.Dialogue.Fri10": "Corine and I cleaned up my collection earlier.#$b#I found some extra stuff lying around, maybe you can make use of these.#$b#Here.[334]",
+"Ezekiel.Dialogue.Sat10": "'The days seem much shorter...$s#$b#Dark nights just linger on...$s#$b#Dreams turn into nightmares...$s#$b#When the one you love has gone.$s#$b#I miss her, @.$4",
+"Ezekiel.Dialogue.Sun10": "I saw the strangest man the other day.$u#$b#He was wearing a purple robe. He was real funny-lookin', too.$h#$b#He just looked at me and then nodded.#$b#Such a weird fella.$h",
+
+//Special Dialogue
+"Ezekiel.Dialogue.MovieInvitation": "Movies!? I haven't seen one in years!#$b#This better be good.$a",
+
+//Locations
+"Ezekiel.Dialogue.Saloon": "Bah!$a#$b#Gus calls this liquor?$a",
+"Ezekiel.Dialogue.LogCabinHotelLobby": "I'm here to see Richard. He's an old friend of mine.",
+
+//Resort
+"Ezekiel.Dialogue.Resort_Entering": "It's a little sunny.#$b#Corine said to bring a hat but I'll be fine.$h",
+"Ezekiel.Dialogue.Resort_Leaving": "I think I have sunburn on the top of my head.$s#$b#I should've worn my hat!$a",
+"Ezekiel.Dialogue.Resort_Shore": "I don't like swimming.$a#$b#Takes a lot of energy for a guy like me to stay floating.$s",
+"Ezekiel.Dialogue.Resort_Chair": "Wake me up when the sun sets, @.$h",
+"Ezekiel.Dialogue.Resort_Bar": "Ha, I'd rather stay at this bar all day than go for a swim!$h",
+"Ezekiel.Dialogue.Resort": "I don't like sand.$s#$b#It's coarse and rough and irritating and it gets everywhere.$a",
+
+//Freddie
+
+"Freddie.Dialogue.Introduction": "Hello there, stranger.#$b#You must be the new farmer everyone has been talking about!$h#$b#Nice to meet you. My name is Freddie.#$b#I live here in Ridgeside with my wife Lola. Come by sometime for a chat, won't you.$h",
+//Spring
+"Freddie.Dialogue.spring_1": "Ah! Springtime.#$b#The earth begins to wake, and the sun reappears.#$e#My favorite time of year!$h",
+"Freddie.Dialogue.spring_12": "Lola likes to help prepare for tomorrow's hunt.#$e#I prefer to sit back and enjoy a plate of deviled eggs.$h",
+"Freddie.Dialogue.spring_23": "These old bones still know how to cut a rug, you know.#$e#Tomorrow will be fun!$h",	
+//Summer
+"Freddie.Dialogue.summer_1": "Lola and I have planned more trips to the beach this summer.#$e#Should be able to follow through at least once this year.$s",
+"Freddie.Dialogue.summer_10": "The governor's coming tomorrow, you know.#$b#He and I are old friends. It will be good to see him.",
+"Freddie.Dialogue.summer_27": "Lola and I will be there tomorrow night. Those jellyfish are always a sight to behold.$h",	
+//Fall
+"Freddie.Dialogue.fall_1": "Food is the best in the fall, @.#$e#Have you tried Lola's pumpkin soup?#$b#It's like a hug in a bowl.$h",
+"Freddie.Dialogue.fall_15": "Tomorrow, you get a chance to show off your hard work, adventurer.#$b#Good luck!$h",
+"Freddie.Dialogue.fall_26": "I used to love dressing up.#$b#What's a disguise if not a costume?$h#$e#Gets kind of old after twenty years, though.$h",	
+//Winter
+"Freddie.Dialogue.winter_1": "6 layers of clothing, and somehow I'm still cold.$u",
+"Freddie.Dialogue.winter_7": "I'm looking forward to tomorrow.#$e#The cold is hard on old bones, though, so Lola and I will be all bundled up.",
+"Freddie.Dialogue.winter_14": "Lola and I used to travel around the world.#$e#It's much more peaceful now, but I do miss those days sometimes.",
+"Freddie.Dialogue.winter_15": "The Night Market always brings back memories.",
+"Freddie.Dialogue.winter_16": "Bit of a trip down memory lane, this.$s#$e#The coffee they make is the best you'll ever have, trust me.$h",
+"Freddie.Dialogue.winter_17": "If you've had your eye on something, now's the time to get it!#$b#Or you'll have to wait until next year!",
+"Freddie.Dialogue.winter_24": "Almost at the end of another year.#$b#Hopefully, Lola and I will see the next one.$s#$e#Ah, don't worry, I'm kidding.$h",
+//Days of the Week
+//0 Hearts
+"Freddie.Dialogue.Mon": "Hello there, adventurer.$h#$b#Visiting the village today?#$e#I hope you're doing fine. ",
+"Freddie.Dialogue.Tue": "How's the farm, @?$h#$b#Holding up well, I hope?",
+"Freddie.Dialogue.Wed": "I wake up early to tend to our crops.#$e#Lola sleeps like a log, but still insists on waking up with me to help.$h#$e#Don't tell her I said that.$u",
+"Freddie.Dialogue.Thu": "The waterfalls around the village are beautiful, aren't they?#$e#We're lucky to live here.$h",
+"Freddie.Dialogue.Fri": "Hello there, @.#$b#How's it been?#$e#Thought about getting a barn built yet?",
+"Freddie.Dialogue.Sat": "Oh, to be young again.#$e#I won't lose hope! I can still be lively in this old man's body, ha ha!$h",
+"Freddie.Dialogue.Sun": "Lola wasn't feeling well this morning.#$e# She said she's fine...#$b#But still, I worry.$s",
+//2 Hearts
+"Freddie.Dialogue.Mon2": "How's it going, @?$h#$e#Are you done with your farmwork for the day?#$e#Take some time to explore the village!$h",
+"Freddie.Dialogue.Tue2": "The younger kids sometimes run around outside our house.#$b#We can watch them play from our porch.#$e#It's good to see the children safe and having fun.$h",
+"Freddie.Dialogue.Wed2": "Do you know Evelyn? She's an old friend of ours.#$e#We used to go on crazy adventures together.#$e#Don't let her appearance fool you, she's got some wild stories.$h",
+"Freddie.Dialogue.Thu2": "Pika is a great cook.#$b#You can taste the love he puts into his food.#$e#I especially like the Tom Kha Soup.$h",
+"Freddie.Dialogue.Fri2": "If you ever see the rumored rolling kiwi around. Be friendly to it.#$e#I mean... Why not?$h",
+"Freddie.Dialogue.Sat2": "It's never too late to try out new things, @!#$e#Well, it's a little late, in my case.#$b#My body can only handle so much.$s",
+"Freddie.Dialogue.Sun2": "Hello there, @! How are you today?$h",
+//4 Hearts
+"Freddie.Dialogue.Mon4": "I like how the trees change colors as the seasons change.$h#$b#I know it's something mundane...#$b#But you should never forget to appreciate the little things.$h",
+"Freddie.Dialogue.Tue4": "Oh! I just figured out what I'm going to do today!$h#$e#I should go clean out the shed.#$e#Lola's been bugging me for weeks.",
+"Freddie.Dialogue.Wed4": "I remember little Alex when he was just a tiny sprout.$h#$e#That kid might make it as a gridball player if he really works at it.#$e#I hope George and Evelyn realize his potential.",
+"Freddie.Dialogue.Thu4": "Hello there, adventurer. How's the farm?#$e#I picked up some of your produce at Pierre's the other day!$h",
+"Freddie.Dialogue.Fri4": "Why, hello there, @!#$e#How have you been?$h",
+"Freddie.Dialogue.Sat4": "We're a small operation compared to you, but the crops I've been growing have been doing well.$h#$e#I buy my seeds from Jeric because he's much closer than Pierre, and his seeds are good quality!",
+"Freddie.Dialogue.Sun4": "Lola and I are used to getting into trouble, you know.$h#$e#We've gotten out of more than a few scrapes by the skin of our teeth...",
+
+//6 Hearts
+"Freddie.Dialogue.Mon6": "How are you, @? I hope you're well.$h#$e#Hold on to your health, you hear me?#$e#Lola's been a little shaky in the mornings lately.$s#$b#I need to remember to call Dr. Harvey.$s",
+"Freddie.Dialogue.Tue6": "I asked Philip, the physical therapist, about this pain I get in my back whenever I take a step with my right foot.#$e#He gave me a copy of his schedule so I can set up an appointment...#$b#What a nice guy.$h",
+"Freddie.Dialogue.Wed6": "Ah, @! I have a few tips for when you visit the mines.#$e#Make sure to bring good food, only gather the essentials and make sure you're headed back home before midnight!#$e#But I'm sure you knew that already, a seasoned adventurer like yourself, ha ha!$h#$e#Stay safe out there!",
+"Freddie.Dialogue.Thu6": "I've seen your farm in the papers.$u#$e#You're doing a great job, @.#$b#You should be very proud of yourself, I know I am.$h",
+"Freddie.Dialogue.Fri6": "How are you, @? Always take care of yourself okay?#$e#Never take life for granted.$h",
+"Freddie.Dialogue.Sat6": "Never forget, you will always have your friends by your side...#$e#And that includes me.#$b#I'm lucky to call you a friend.$h",
+"Freddie.Dialogue.Sun6": "Hello there, @! You should take a break sometimes.#$e#It's called a lazy Sunday for a reason!$h",
+
+//8 Hearts
+"Freddie.Dialogue.Mon8": "You're a good person, @, and a very good friend to an old man like me.#$e#I thank you for your company.$h",
+"Freddie.Dialogue.Tue8": "Lola has been waking up feeling much better these last few days!$h#$e#Doc says it wasn't anything serious, but I still feel mighty relieved.$h",
+"Freddie.Dialogue.Wed8": "If you look closely at the waterfalls,You might see things you haven't noticed before.#$e#I wonder...$4",
+"Freddie.Dialogue.Thu8": "Perhaps I will join you in the mines one day.#$e#I might be old, but I've still got it!$h",
+"Freddie.Dialogue.Fri8": "My wife and I always look forward to festivals!$h#$e#I used to think they were just a hassle, but now, I treasure the time with friends.$h",
+"Freddie.Dialogue.Sat8": "Lola loves to knit.$h#$e#She picked it up before I met her, and kept it up during our travels.#$b#She even learned some special techniques and stitches from different cultures throughout Ferngill.",
+"Freddie.Dialogue.Sun8": "Have you ever been to Zuzu City?#$e#There is a place in Zuzu City where Lola and I sell the artifacts we find during our adventures...#$e#Safest way for these things to end up in a museum without someone asking unnecessary questions, if you know what I mean!$h",
+
+//10 Hearts
+"Freddie.Dialogue.Mon10": "Have you ever been to the Fern Islands?#$e#We were thinking of spending our retirement there, but we decided we wouldn't fit in among all the other old people.#$b#So we moved to Ridgeside Village instead.$h",
+"Freddie.Dialogue.Tue10": "Lola and I went to Gotoro before the war started the first time.#$e#We met a genius blacksmith named Ikor, who taught us how to craft weapons out of gems.#$e#You haven't lived until you've fought with a diamond knife.$h",
+"Freddie.Dialogue.Wed10": "Lola and I got lost in the Calico Desert once.#$b#We were found by a travelling salesman on a camel.#$b#Sometimes we go out to Calico to visit him.#$e#Be careful if you travel through the desert!#$b#It has more secrets than you could know hidden in the sands.",
+"Freddie.Dialogue.Thu10": "Hmm? Oh... hello, @.$s#$e#Sorry, I'm a bit distracted. Lola started coughing something awful this morning, she could barely get out of bed.$s#$e#We immediately called Dr. Harvey, of course, but...$s#$b#He said Lola has something he's never seen before...$s",
+"Freddie.Dialogue.Fri10": "%Freddie has bags under his eyes. He appears to be half asleep.",
+"Freddie.Dialogue.Sat10": "Lola and I were rivals the first time we worked together.#$e#We were assigned to thin out the monster population in a cave north of Castle Village, and decided to challenge each other to see who could clear out the most monsters by the end of the night.#$e#At some point, a shadow brute caused a small rockslide, and I got trapped. Lola tried to rescue me, but ended up getting stuck herself!$u#$e#We couldn't see well enough to make any sort of escape attempt, so we ended up spending the night in that little pocket of rubble.#$e#For some reason, I felt it was the right time and confessed my feelings for her, and... well, things went from there.$h",
+"Freddie.Dialogue.Sun10": "You're a good friend, @, and a good person.$h#$e#You've got so much potential.#$e#Always appreciate your friends and family, and never take the people around you for granted, you hear me?#$b#I'm not gonna keel over on you or anything.#$b#Just want to make sure you hear that from me.",
+//Special Dialogue
+"Freddie.Dialogue.MovieInvitation": "Oh, I'd be happy to join you! It's been a long time since I was able to watch a movie!$h#$e#Lola and I would often go to the movies back in the day. We'd usually sneak in a thing or two.$4",
+//Resort
+"Freddie.Dialogue.Resort_Entering": "Oh, this is something else.$u#$e#Wow.$u",
+"Freddie.Dialogue.Resort_Leaving": "We must come back soon.$h",
+"Freddie.Dialogue.Resort_Shore": "This brings back old memories.#$b#Good memories, too.$h#$e#Lola has always been a stunner in a bathing suit, you know.$4", 
+"Freddie.Dialogue.Resort_Chair": "This heat is good for my old bones...#$b#...and Lola over there is good for my heart.#$e#I am a lucky man.$h",
+"Freddie.Dialogue.Resort_Bar": "Whiskey on the rocks, please.",
+"Freddie.Dialogue.Resort": "Haven't been here since that day...$s",
+
+//Helen Dialogue
+"Helen.Dialogue.Introduction": "We're not supposed to meet.",
+//Days of the Week
+"Helen.Dialogue.spring": "We're not supposed to meet.",
+"Helen.Dialogue.summer": "We're not supposed to meet.",
+"Helen.Dialogue.fall": "We're not supposed to meet.",
+"Helen.Dialogue.winter": "We're not supposed to meet.",
+
+//Jio
+"Jio.Dialogue.Introduction": "The spirits greet you, stranger. I am but a nameless traveler, but you may refer to me as Jio.",
+//Spring
+"Jio.Dialogue.spring_1": "The cold fades with the coming of the warm southern breeze.#$e#It seems calmer now.$h",
+"Jio.Dialogue.spring_12": "The rooster that crows too early.#$e#Must tread on eggshells.$h",
+"Jio.Dialogue.spring_23": "I will hide among the flowers, as a single petal among many.",
+//Summer
+"Jio.Dialogue.summer_1": "There's energy brewing under the earth.$4",
+"Jio.Dialogue.summer_10": "I will sneak into town to taste the soup tomorrow.#$e#It better be good...$a",
+"Jio.Dialogue.summer_27": "The beacons.$u#$b#It's the signal.$4#$e#Tomorrow night...",
+//Fall
+"Jio.Dialogue.fall_1": "The spirits are getting louder.#$e#Be careful.$h",
+"Jio.Dialogue.fall_15": "Do not bother looking for me tomorrow.#$e#You will never find me.$h",
+"Jio.Dialogue.fall_26": "I will go undercover tomorrow.#$e#Do not try to find me, it will be a waste of your time.$h",
+//Winter
+"Jio.Dialogue.winter_1": "The dead stay silent.",
+"Jio.Dialogue.winter_7": "Snow dampens all noise.#$e#Is it easier to be heard or to be silent, when the world is covered like this?",
+"Jio.Dialogue.winter_14": "I get to meet some old friends tomorrow.",
+"Jio.Dialogue.winter_15": "They bring stories and memories with them.$s",
+"Jio.Dialogue.winter_16": "I like this coffee.$h",
+"Jio.Dialogue.winter_17": "Every boat has a merchant.#$e#Some only appear for the worthy few.$h",
+"Jio.Dialogue.winter_24": "A holiday party tomorrow?$u#$e#It sounds enjoyable.$h",
+//Days of the Week
+//0 Hearts
+"Jio.Dialogue.Mon": "You never saw me.",
+"Jio.Dialogue.Tue": "%Jio is ignoring you.",
+"Jio.Dialogue.Wed": "Don't follow me.#$e#You'll regret it if you try.$h",
+"Jio.Dialogue.Thu": "%Jio is ignoring you.",
+"Jio.Dialogue.Fri": "You don't see me.#$e#I'm just an illusion.$h",
+"Jio.Dialogue.Sat": "%Jio is ignoring you.",
+"Jio.Dialogue.Sun": "Begone.#$e#You're too nosy!$a",
+
+//2 Hearts
+"Jio.Dialogue.Mon2": "Hm?#$e#You're here again?$a#$e#Don't follow me.",
+"Jio.Dialogue.Tue2": "%Jio is ignoring you.",
+"Jio.Dialogue.Wed2": "Are you not busy?$u#$e#You seem to have a lot of time on your hands.$a",
+"Jio.Dialogue.Thu2": "%Jio is ignoring you.",
+"Jio.Dialogue.Fri2": "Don't touch my belongings.#$e#It's for your own safety.$h",
+"Jio.Dialogue.Sat2": "%Jio is ignoring you.",
+"Jio.Dialogue.Sun2": "Don't come any closer.#$e#What did I just say?$a#$e#Begone.",
+
+//4 Hearts
+"Jio.Dialogue.Mon4": "You don't give up, do you?#$e#Interesting...",
+"Jio.Dialogue.Tue4": "Ugh$s.#$e#I'm fine, it'll stop bleeding soon.$h",
+"Jio.Dialogue.Wed4": "Don't touch that.#$e#It isn't for children!$a",
+"Jio.Dialogue.Thu4": "%Jio is ignoring you.",
+"Jio.Dialogue.Fri4": "Don't follow me.#$e#How many times do I have to tell you?$a",
+"Jio.Dialogue.Sat4": "%Jio is ignoring you.",
+"Jio.Dialogue.Sun4": "You are exceedingly persistent.",
+
+//6 Hearts
+"Jio.Dialogue.Mon6": "I have work to do.#$e#Don't bother me.",
+"Jio.Dialogue.Tue6": "Why are you here again?#$e#Do what you need to and get going.",
+"Jio.Dialogue.Wed6": "%Jio is ignoring you.",
+"Jio.Dialogue.Thu6": "Don't touch that, you'll hurt yourself.#$e#Does that look like fake blood to you?$h",
+"Jio.Dialogue.Fri6": "Do you know Marlon?#$b#If you do, go to him.#$e#Why?#$b#So you don't bother me.",
+"Jio.Dialogue.Sat6": "It is dangerous to loiter around me as you do.",
+"Jio.Dialogue.Sun6": "Do you have a deathwish?#$e#Get out of here.",
+
+//8 Hearts
+"Jio.Dialogue.Mon8": "Come on, Kiwi.$h#$e#Oh, it's you.$u#$e#What do you want?",
+"Jio.Dialogue.Tue8": "You seem like a reasonable person.$h#$e#Maybe there's some merit in letting you accompany me.",
+"Jio.Dialogue.Wed8": "I saw you exit the mines the other day with some loot.#$e#It seems you're capable of defending yourself in combat.$h",
+"Jio.Dialogue.Thu8": "I'm in a hurry.#$b#Can't talk.$s#$e#Why?#$b#None of your business.$a",
+"Jio.Dialogue.Fri8": "This job isn't for the weak.#$e#What, you think you're strong?$u#$e#Hmm.#$e#You might be worth something to the Dusk Force.$h#$e#Come back when our boss is around.",
+"Jio.Dialogue.Sat8": "Beware of evil spirits when the sun sets, do not linger past midnight.$a",
+"Jio.Dialogue.Sun8": "You have a lack of fear because you have not yet met fear itself.$s",
+
+//10 Hearts
+"Jio.Dialogue.Mon10": "We've got a job to finish.#$b#Are you coming?#$e#Perhaps next time, then.",
+"Jio.Dialogue.Tue10": "You're trustworthy enough.#$b#Keep your mouth shut about what you saw, you hear?#$e#Let's not speak of this again.",
+"Jio.Dialogue.Wed10": "%Jio is mumbling about plum pudding with a smile on his face.#$e#Mmm.$h#$b#What!?$4#$b#When!?$u#$b#Why are you here!?$a",
+"Jio.Dialogue.Thu10": "Beware of the old man who works at the water research facility.#$e#He knows far too much and understands too little.",
+"Jio.Dialogue.Fri10": "This land has old secrets, and you'll live a happier life if you don't know them.#$e#Trust me.$h",
+"Jio.Dialogue.Sat10": "Don't go wandering off into the ridge at night.$a#$e#I will not be around if you get into trouble.$s",
+"Jio.Dialogue.Sun10": "The unseen blade is the deadliest.#$e#Always flank your enemies.$h",
+
+//Special Dialogue
+"Jio.Dialogue.MovieInvitation": "A movie?#$b#I am quite interested in seeing these moving pictures.#$b#I'll be there.$h",
+
+//Resort
+"Jio.Dialogue.Resort_Entering": "I sense activity within that volcano.$4#$e#Not the earth.#$b#Those within it.#$b#...$u#$b#Dwarves.$4#$b#It must be dwarves.$h",
+"Jio.Dialogue.Resort_Leaving": "To tell the truth, I'm looking forward to being back in the valley.",
+"Jio.Dialogue.Resort_Shore": "Do you people actually enjoy this kind of heat?$s",
+"Jio.Dialogue.Resort_Chair": "Too bright.$a#$e#Too hot.$s",
+"Jio.Dialogue.Resort_Bar": "Alcohol numbs the senses... that might be preferable here.$s",
+"Jio.Dialogue.Resort": "Kiwi appears to be enjoying herself.$h",
+
+//Keahi Dialogue
+"Keahi.Dialogue.Introduction": "Heya! Where did you come from? I've never seen you before!#$b#I'm Keahi! Come visit my dad's restaurant sometime, okay?$h",
+//Spring
+"Keahi.Dialogue.spring_1": "Finally it's no longer cold outside.#$b#I don't have to wear a coat anymore!$h#$e#WINTER, SPRING, SUMMER OR FALL!$h",	
+"Keahi.Dialogue.spring_12": "Hey, during tomorrow's Egg Hunt...#$b#Please let me win, okay?$4",
+"Keahi.Dialogue.spring_23": "I'm gonna show off my moves at the Flower Dance tomorrow.#$e#I want to impress the pretty lady who works at the hotel!$h.",
+//Summer
+"Keahi.Dialogue.summer_1": "My dad says I should stay out of the sun, but it's not fun in the shade!$s#$e#ALL YOU GOTTA DO IS CALL!$h",	
+"Keahi.Dialogue.summer_10": "Don't tell anyone, but...#$b#I'm going to put a slime in the soup! Ha ha ha!$h",
+"Keahi.Dialogue.summer_27": "We're going to the beach tomorrow night!#$b#Are you gonna be there too?#$e#I hope we can all play together!$h",
+//Fall
+"Keahi.Dialogue.fall_1": "I'm going to hide in a pile of leaves and scare people!$h#$e#AND I'LL BE THERE, YEAH YEAH YEAH!$h",	
+"Keahi.Dialogue.fall_15": "I've been saving up my allowance, and I'm gonna buy ALL the tokens tomorrow!",
+"Keahi.Dialogue.fall_26": "What are you gonna wear tomorrow, @?#$b#I bet it'll be fun!$h",
+
+//Winter
+"Keahi.Dialogue.winter_1": "I don't like the cold.#s#$b#But I want to throw snowballs at people!$#$e#YOU GOT A FRIEND!$h#$e#Hahaha, did you see that! I sang a song that lasted a whole year!$h",	
+"Keahi.Dialogue.winter_7": "I'm gonna make a giant snowman tomorrow for Ysa!#$e#It'll be so awesome!$h",
+"Keahi.Dialogue.winter_14": "I have to go with my dad to the night market tomorrow.#$e#He said something about learning how to bargain?",
+"Keahi.Dialogue.winter_15": "I don't get what Dad's doing.#$e#What does bargain mean?",
+"Keahi.Dialogue.winter_16": "Dad says I have to convince people to make things pay less.#$e#I'm not supposed to argue with grownups, though.$u",
+"Keahi.Dialogue.winter_17": "I tried to bargain for a piece of candy at Pierre's, and then Dad said that's not how bargaining works.$u",
+"Keahi.Dialogue.winter_24": "It's gonna be an awesome new year!$h#$b#I can't wait!$h",
+
+//Days of the Week
+//0 Hearts
+"Keahi.Dialogue.Mon": "Heya!#$e#Wanna play?$h",
+"Keahi.Dialogue.Tue": "What's up?#$e#Can we play on your farm?$h",
+"Keahi.Dialogue.Wed": "Vincent is a good buddy of mine, he's fun to be around!#$e#It's even more fun when we're playing with Trinnie and Jas!$h",
+"Keahi.Dialogue.Thu": "I saw Yuuma the other day. I invited him over to play but he just walked away.$s#$e#He's so weird.$a",
+"Keahi.Dialogue.Fri": "Dad says my cooking has improved!$h#$e#Don't tell him, but I've been trying to cook better so he'll let me go outside and play more, ha ha.$4",
+"Keahi.Dialogue.Sat": "Heya! Whatcha doin'?#$e#Wanna play with me?$h",
+"Keahi.Dialogue.Sun": "%Keahi seems to be holding his breath.",
+//2 Hearts
+"Keahi.Dialogue.Mon2": "Hello there! Come play with me!#$e#How far can you kick a Joja can?$h",
+"Keahi.Dialogue.Tue2": "Trinnie and Jas made me have a tea party with them the other day.$h#$e#I don't care about tea, but they kept calling me 'Miss Keahi'!$u",
+"Keahi.Dialogue.Wed2": "My dad gets angry with me sometimes...$s#$e#There are times where I wish he'd just leave me alone!$a",
+"Keahi.Dialogue.Thu2": "Heya, @! Wanna play?$h#$e#It's fine if you're too busy...$s",
+"Keahi.Dialogue.Fri2": "Trinnie and I chased a rolling kiwi yesterday!$u#$e#It was so fast!$h",
+"Keahi.Dialogue.Sat2": "I played a prank on Mr. Bert the other day and hid a rotten fish inside his house.#$e#Ha ha ha! It was so funny!#$e#Trinnie got scolded when she got home, though.$u#$e#I told her I was sorry.$s",
+"Keahi.Dialogue.Sun2": "That old guy with blue hair is so weird.#$e#He keeps putting water in bottles and then just looks at them.#$e#Why does he do that?$u",
+//4 Hearts
+"Keahi.Dialogue.Mon4": "Vincent and Jas showed me a little secret with spring onions the other day!$u#$b#If you're really good friends with them, maybe they'll tell you too!$h",
+"Keahi.Dialogue.Tue4": "Trinnie says she can beat me in a race from Blooming Hill to Nightingale.#$e#I'd like to see her try, ha ha!$h",
+"Keahi.Dialogue.Wed4": "We found a weird statue in the Cindersap Forest.#$b#It looked like a creepy doll.$u#$b#I wanted to take it home, but it was too big.$s",
+"Keahi.Dialogue.Thu4": "Heya, @!#$e#Can we play on your farm today?$h",
+"Keahi.Dialogue.Fri4": "Is farming hard? Maybe I can be a farmer, too.#$e#Maybe Jeric or Alissa will be my farmhands!$h",
+"Keahi.Dialogue.Sat4": "We played on Aunt Marnie's farm the other day.#$e#A goat tried to eat Trinnie's hair!$u",
+"Keahi.Dialogue.Sun4": "Hey, @!#$e#Do you think Ysa likes Zesty Tuna?#$b#Maybe I'll make her some.#$e#Or maybe I should save up my allowance for a diamond!$h#$b#Then she'll have to marry me!$4",
+
+//6 Hearts
+"Keahi.Dialogue.Mon6": "I followed Philip around the other day.$h#$b#He spent a lot of time at Yuuma's house.#$e#I wonder what he does there?$u",
+"Keahi.Dialogue.Tue6": "I saw Yuuma with a tall man the other day.#$b#They were just walking around slowly though.#$e#I think it was his brother?",
+"Keahi.Dialogue.Wed6": "Jas is so quiet, but she's a good friend!$h#$e#Vincent is never quiet. He's just like Trinnie.$h.",
+"Keahi.Dialogue.Thu6": "Miss Penny is such a good teacher!#$b#I learned about different animals the other day!$h#$e#Miss Flor is also a lot of fun to talk to.$h#$b#But sometimes she uses words I don't know and it gives me a headache!$u",
+"Keahi.Dialogue.Fri6": "Heya! Can I play on your farm now?$h#$e#I'll be good, I promise!$s",
+"Keahi.Dialogue.Sat6": "I tried making a new recipe yesterday.#$b#Dad said it needed some more flavor.$s#$e#I'm gonna make it have lots of flavor next time!$h",
+"Keahi.Dialogue.Sun6": "What's up, @?#$e#Can we play on your farm?$h#$e#We'll clean up afterwards, I promise!$s",
+
+//8 Hearts
+"Keahi.Dialogue.Mon8": "Dad got angry at me and Trinnie yesterday.$s#$e#We tried to tape a 'kick me' sign on Shane's back.$h#$b#Jas got angry at us too.$s#$e#We shouldn't have done that.$s",
+"Keahi.Dialogue.Tue8": "My dad is trying to teach me Samaowaii.#$b#It's what they speak on the Fern Islands.#$e#I was born in the village but my dad is from the islands.#$e#My mom is too...$s",
+"Keahi.Dialogue.Wed8": "Vincent and I went near the sewers yesterday!$h#$e#I'm pretty sure we saw someone in there, but it smelled too bad to look around!$u",
+"Keahi.Dialogue.Thu8": "Hey! Can I play on your farm?#$e#What if I baked you a chocolate cake? Will you let me play then?$h",
+"Keahi.Dialogue.Fri8": "Trinnie and I were playing house...#$e#She got mad at me when I said I wanted to be the cook instead of the daddy.$s#$e#But being a dad is boring! Being a cook is much more fun!$h",
+"Keahi.Dialogue.Sat8": "Dad said my dishes are tastier than his!$h#$e#I'm so happy!$h",
+"Keahi.Dialogue.Sun8": "%Keahi seems to be half asleep.",
+
+//10 Hearts
+"Keahi.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[0]$h#$e#Okay. Bye!$4",
+"Keahi.Dialogue.Tue10": "Hi, @!#$b#I made this![204]#$e#It tastes good! I hope you like it!$h",
+"Keahi.Dialogue.Wed10": "Trinnie and I saw a ninja at the ridge yesterday!!$u#$b#He looked so cool!#$b#I think I wanna be like him when I grow up!$h#$e#Or I think I'd like to be a ninja-cook!$4#$b#Chopping down ingredients with my sword like bam, bam!#$e#%Keahi's making fighting sounds.",
+"Keahi.Dialogue.Thu10": "Hey! Can I play on your farm now?#$e#SWhat if I watered the crops?$4#$e#Pleaaaase?$s",
+"Keahi.Dialogue.Fri10": "You're fun, @!$h#$b#You can always play with us, okay?#$e#Maybe I'll bake you a chocolate cake!$4",
+"Keahi.Dialogue.Sat10": "One day I'm going to open up my own restaurant!$h#$e#Come visit me when I do, okay?$h",
+"Keahi.Dialogue.Sun10": "I wish I could fly so I could see the valley from up above.#$e#That would be so much fun!$h",
+
+//Special Dialogue
+"Keahi.Dialogue.MovieInvitation": "Movie!?$u#$b#COOL! Thanks, @!$h#$b#I'll see ya there.",
+//Resort
+"Keahi.Dialogue.Resort_Entering": "Wow! This place looks amazing!$h",
+"Keahi.Dialogue.Resort_Leaving": "Awh, I didn't really want to leave yet.$s",
+"Keahi.Dialogue.Resort_Shore": "Hey @, how long can you hold your breath underwater?$h",
+"Keahi.Dialogue.Resort_Chair": "I'm so tired from all the swimming.#$e#How do the fish do it?$u",
+"Keahi.Dialogue.Resort_Bar": "I'm so thirsty.$s#$e#I drank some water from the ocean, but now I'm even thirstier!$u",
+"Keahi.Dialogue.Resort": "I'm going to build the largest sandcastle ever!$h",
+
+//Kiwi Dialogue
+"Kiwi.Dialogue.Introduction": "Kiwi does not know you. Kiwi think you new here. Do not follow Kiwi.",
+//Spring
+"Kiwi.Dialogue.spring_1": "Kiwi like springtime.$h#$e#Kiwi hide better in spring.$a",
+"Kiwi.Dialogue.spring_12": "Town Egg Festival look fun.$h#$e#Kiwi sneak in maybe.$a",
+"Kiwi.Dialogue.spring_23": "Humans dance tomorrow.#$e#Kiwi like forest dancing.$h",
+//Summer
+"Kiwi.Dialogue.summer_1": "Kiwi want to go to beach.$h#$e#Hup hup.$a",
+"Kiwi.Dialogue.summer_10": "Does soup of tomorrow taste good?",
+"Kiwi.Dialogue.summer_27": "Some jellyfish good friends.$h#$e#Kiwi miss jellyfish.$s",
+//Fall
+"Kiwi.Dialogue.fall_1": "Kiwi like to swim in leaves!$h#$e#Shee!$a",
+"Kiwi.Dialogue.fall_15": "Kiwi play tomorrow with humans, maybe?#$b#But Kiwi work first.",
+"Kiwi.Dialogue.fall_26": "Hmm, tomorrow?#$e#Kiwi is there maybe.",
+//Winter
+"Kiwi.Dialogue.winter_1": "Kiwi hate winter.$a#$b#Is cold.$u#$e#Kiwi bad hide in snow. Hmph!$s#$e#Shoo!$a",
+"Kiwi.Dialogue.winter_7": "Kiwi does not swim.#$e#But catch fish, maybe?$h",
+"Kiwi.Dialogue.winter_14": "Good friends come tomorrow.$h#$e#Many old friends...$s",
+"Kiwi.Dialogue.winter_15": "Boats bring new things.",
+"Kiwi.Dialogue.winter_16": "Someday Kiwi ride boat, maybe?#$e#See new places?$u",
+"Kiwi.Dialogue.winter_17": "Maybe Kiwi travel someday, but Kiwi always come back to valley.$h",
+"Kiwi.Dialogue.winter_24": "New year soon.#$b#Same Kiwi.$h#$e#New Kiwi work, maybe?$u",
+//Days of the Week
+//0 Hearts
+"Kiwi.Dialogue.Mon": "Kiwi has mission today.#$e#Don't follow Kiwi.$a",
+"Kiwi.Dialogue.Tue": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Wed": "Don't touch.$a#$e#Kiwi has knives.",
+"Kiwi.Dialogue.Thu": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Fri": "Hup hup hup.$h#$e#Go.$a",
+"Kiwi.Dialogue.Sat": "Kiwi does not like strange person.#$e#Shoo!$a",
+"Kiwi.Dialogue.Sun": "%Kiwi is ignoring you.",
+
+//2 Hearts
+"Kiwi.Dialogue.Mon2": "Don't annoy Kiwi.#$e#Shoo!$a",
+"Kiwi.Dialogue.Tue2": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Wed2": "Kiwi favorite things are sharp things.$4#$e#Swords and knives.#$b#You close?$u#$b#Kiwi stab!$h#$e#Shoo!$a",
+"Kiwi.Dialogue.Thu2": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Fri2": "Don't chase Kiwi.#$e#Hate follow.$a",
+"Kiwi.Dialogue.Sat2": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Sun2": "Jio!#$b#Wait for Kiwi!$s#$e#Oof!$s",
+
+//4 Hearts
+"Kiwi.Dialogue.Mon4": "Kiwi is busy.#$e#Shoo!$a",
+"Kiwi.Dialogue.Tue4": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Wed4": "Faster than Kiwi?$u#$b#No.$a#$e#@ slow!$h",
+"Kiwi.Dialogue.Thu4": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Fri4": "Kiwi vanish now.$4#$e#Shoo!$a",
+"Kiwi.Dialogue.Sat4": "%Kiwi is ignoring you.",
+"Kiwi.Dialogue.Sun4": "Kiwi is not like other Junimo.#$e#Shoo!$a",
+
+//6 Hearts
+"Kiwi.Dialogue.Mon6": "Kiwi see friend more maybe.$h#$e#Hmm?$4",
+"Kiwi.Dialogue.Tue6": "Kiwi favorite thing is making blades sharp.$h#$e#Don't touch!$s",
+"Kiwi.Dialogue.Wed6": "%Kiwi is pretending to ignore you.",
+"Kiwi.Dialogue.Thu6": "@ good person maybe.#$e#Kiwi is still suspicious.$u#$e#Only follow Kiwi from distance.$h",
+"Kiwi.Dialogue.Fri6": "%Kiwi is trying to ignore you, but can't stop smiling at you.",
+"Kiwi.Dialogue.Sat6": "Some human chase Kiwi.$u#$e#Kiwi hate chase.$a#$e#Is annoying.$s",
+"Kiwi.Dialogue.Sun6": "Other Junimo are like family but Kiwi not for family...#$e#Shoo!$s",
+
+//8 Hearts
+"Kiwi.Dialogue.Mon8": "Kiwi like friend @.#$e#Shee!$h",
+"Kiwi.Dialogue.Tue8": "Want to train with Kiwi?#$e#Hup hup!$h",
+"Kiwi.Dialogue.Wed8": "Kiwi does not like to talk lots.#$e#Kiwi train.",
+"Kiwi.Dialogue.Thu8": "Jio is good friend.#$b#Jio is long time friend.#$e#Jio is very nice to Kiwi.$h",
+"Kiwi.Dialogue.Fri8": "Kiwi like frontflips.$h#$e#Can friend @ flip front?$u",
+"Kiwi.Dialogue.Sat8": "Friend @ is quick and quiet too?$u#$b#No.$a#$e#Kiwi and Jio boss can teach.$h#$b#Boss not here today.$s",
+"Kiwi.Dialogue.Sun8": "Kiwi have special Junimo weapon. See?$h#e#Shoo!$a#b#No touch.#$e#Too small for human.$h",
+
+//10 Hearts
+"Kiwi.Dialogue.Mon10": "Kiwi make weapons.#$e#You want?$h",
+"Kiwi.Dialogue.Tue10": "Oh hi. Kiwi like you!$h#$e#Kiwi think @ is good friend.#$e# Is happy to meet friend @.$h",
+"Kiwi.Dialogue.Wed10": "Shee!$h#$b#Hup hup!$h#$b#Friend!$h#$b#Kiwi is happy to see.$h",
+"Kiwi.Dialogue.Thu10": "Kiwi scared sometimes.$s#$b#Mission is scary maybe.$u#$e#Jio make Kiwi not scared.#$b#Jio good friend.$h#$b#Like @, maybe.$4",
+"Kiwi.Dialogue.Fri10": "Kiwi is bad Junimo before.$s#$b#Kiwi not like old Junimo life.#$e#Kiwi banish before.#$b#Now good Kiwi.#$e#Kiwi happy now.$h",
+"Kiwi.Dialogue.Sat10": "Truth, Kiwi love to play with tiny human.#$e#Kiwi is happy.$h",
+"Kiwi.Dialogue.Sun10": "Ridge scare Kiwi at night maybe.$s#$b#But Kiwi has duty!$a#$e#Kiwi do good!$h#$b#Make Jio proud.$u",
+
+//Special Dialogue
+"Kiwi.Dialogue.MovieInvitation": "Kiwi watch movie!?$h#$b#Kiwi like friend @.$4",
+
+//Resort
+"Kiwi.Dialogue.Resort_Entering": "Kiwi go on adventure.$h#$e#Maybe swim.$u",
+"Kiwi.Dialogue.Resort_Leaving": "Kiwi will be back!$a",
+"Kiwi.Dialogue.Resort_Shore": "Kiwi try swim.$h#$e#Only float.$s",
+"Kiwi.Dialogue.Resort_Chair": "Kiwi sit and rest.$s#$e#But still strong.$a",
+"Kiwi.Dialogue.Resort_Bar": "Sun bright, sun hot. Kiwi thirsty.",
+"Kiwi.Dialogue.Resort": "Kiwi see rainbow chicken.#$b#Fly high in sky.$u#$e#One day Kiwi also fly.$h",
+
+
 }

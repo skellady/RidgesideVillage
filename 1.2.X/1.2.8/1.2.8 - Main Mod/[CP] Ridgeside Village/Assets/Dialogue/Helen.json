@@ -8,9 +8,11 @@
 
 	"Introduction": "We're not supposed to meet.",
 
-//Days of the Week
+		//Days of the Week
 	"spring": "We're not supposed to meet.",
-
+	"summer": "We're not supposed to meet.",
+	"fall": "We're not supposed to meet.",
+	"winter": "We're not supposed to meet.",
 
 		},
 	},

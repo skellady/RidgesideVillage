@@ -129,11 +129,6 @@
 },
 {
    "Action": "Load",
-   "Target": "Maps/PLACEHOLDER",
-   "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
-},
-{
-   "Action": "Load",
    "Target": "Maps/summer_zrsvcliffhouse",
    "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
 },

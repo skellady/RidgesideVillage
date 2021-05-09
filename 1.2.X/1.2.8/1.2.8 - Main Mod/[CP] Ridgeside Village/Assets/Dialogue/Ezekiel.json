@@ -8,22 +8,22 @@
 
 	"Introduction": "Huh? Who are you supposed to be?#$b#Oh, the new farmer? Well, that's good.#$b#I'm Ezekiel. Nice to meet you, I suppose.",
 
-//Spring
+	//Spring
 	"spring_1": "Spring again...#$b#Blasted birds outside my window won't shut their Yoba-forsaken beaks!$a",
 	"spring_12": "Eggs!$a#$b#Why did it have to be eggs?$a#$e#What kind of rotten egg comes up with a festival about eggs?$a",
 	"spring_23": "My little girl is going to look so pretty in her Flower Dance dress.$h#$b#Don't let me catch you staring at her tomorrow!$a",
 
-//Summer
+	//Summer
 	"summer_1": "Why is it so hot!$a#$b#Who turned up the heat?$u#$b#Bah! I can't wait for winter.$a",
 	"summer_10": "The nerve of that governor, coming to town just to eat.$a#$b#He has no idea what some of us are going through!$a#$b#He doesn't know or he doesn't care.#$b#Either way, I don't like him!$a",
 	"summer_27": "Why bother going to a beach at night?#$b#The dance of the moonlight jellies?#$b#I'll be staying home and sleeping like a rational man.",
 
-//Fall
+	//Fall
 	"fall_1": "Who is going to clean all those leaves off the ground, huh?",
 	"fall_15": "A fair? Tomorrow?#$b#Bah! There's an awful lot of festivals for a town that can't even fix up a building on its own!$a",
 	"fall_26": "I don't get scared easily.",
 
-//Winter
+	//Winter
 	"winter_1": "Cold!$a#$b#My hands are cold, my feet are cold, my face is cold.$a#$e#Bah! I can't wait for summer!$a",
 	"winter_7": "Fishing? I do love fishing!$h#$b#I'll win tomorrow, that's for sure!$h",
 	"winter_14": "You see those boats on the horizon?$u#$b#Gotta keep an eye on them, you hear me?$a",
@@ -32,7 +32,7 @@
 	"winter_17": "Corine bought me a metal stein last night.$h#$b#At least something good came of these merchants docking at our beach, stinking up our ocean.$a",
 	"winter_24": "I look forward to the feast tomorrow.#$b#Gus makes some good food. But I'm the better brewer!$h",
 
-//Days of the Week
+	//Days of the Week
 
 	//0 Hearts
 	"Mon": "Why aren't you at your farm?#$e#Don't slack off.",
@@ -88,14 +88,14 @@
 	"Sat10": "'The days seem much shorter...$s#$b#Dark nights just linger on...$s#$b#Dreams turn into nightmares...$s#$b#When the one you love has gone.$s#$b#I miss her, @.$4",
 	"Sun10": "I saw the strangest man the other day.$u#$b#He was wearing a purple robe. He was real funny-lookin', too.$h#$b#He just looked at me and then nodded.#$b#Such a weird fella.$h",
 
-//Special Dialogue
+	//Special Dialogue
 	"MovieInvitation": "Movies!? I haven't seen one in years!#$b#This better be good.$a",
 
-//Locations
+	//Locations
     "Saloon": "Bah!$a#$b#Gus calls this liquor?$a",
     "LogCabinHotelLobby": "I'm here to see Richard. He's an old friend of mine.",
 
-//Resort
+	//Resort
 	"Resort_Entering": "It's a little sunny.#$b#Corine said to bring a hat but I'll be fine.$h",
 	"Resort_Leaving": "I think I have sunburn on the top of my head.$s#$b#I should've worn my hat!$a",
 	"Resort_Shore": "I don't like swimming.$a#$b#Takes a lot of energy for a guy like me to stay floating.$s",
