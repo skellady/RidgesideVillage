@@ -1,0 +1,88 @@
+{
+"Changes": [
+
+		/*********
+		** Seasonal Portraits
+		*********/	
+		
+			/*********
+			** Corine
+			*********/	
+				/*********
+				** Summer
+				*********/	
+		{
+            "LogName": "Corine - Summer",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Summer",
+            },
+            "Update": "OnLocationChange"			
+		},						
+				/*********
+				** Fall
+				*********/	
+		{
+            "LogName": "Corine - Fall",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Fall",          
+            },
+            "Update": "OnLocationChange"			
+		},
+				/*********
+				** Winter
+				*********/			
+		{
+            "LogName": "Corine - Winter",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+            },
+            "Update": "OnLocationChange"			
+		},
+		{
+            "LogName": "Corine - Winter - Inside",			
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/Portraits/Corine/Seasonal/Inside_{{Season}}_{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+				"LocationName": "Custom_Ridgeside_EzekielHouse, Custom_Ridgeside_LogCabinHotelLobby, SeedShop, Saloon, FarmHouse",                
+            },
+            "Update": "OnLocationChange"			
+		},		
+		
+		/*********
+		** Festival Portraits
+		*********/	
+			/*********
+			** Luau Portraits
+			*********/
+
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Corine",
+			"FromFile": "Assets/BeachPortraits/Corine/{{CorinePortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+	
+
+]
+}

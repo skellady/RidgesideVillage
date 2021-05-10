@@ -1,0 +1,57 @@
+{
+"Changes": [
+
+	/*********
+	** Sprite Changes
+	*********/	
+		//Corine Ninja Change
+	{
+		"LogName": "Corine Ninja Outfit Sprite",
+		"Action": "EditImage",
+		"Target": "Characters/Corine",
+		"FromFile": "Assets/{{Target}}_Ninja.png",
+		"Update": "OnLocationChange",
+		"When": {
+			"HasSeenEvent: hostPlayer": 75160125,
+			"LocationName": "Custom_Ridgeside_RidgesideVillage, Custom_Ridgeside_Ridge, Farm, FarmHouse",
+			"DayOfWeek": "Thursday",
+		},
+	},
+
+		//Undreya SPRITE RANDOMIZE
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Undreya",
+			"FromFile": "Data/Assets/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
+			"When": {
+				"HasSeenEvent: hostPlayer": 75160182,
+				"DayOfWeek: |contains=Thursday": false
+			},
+		},
+
+
+		/*********
+		** Seasonal Sprites
+		*********/	
+
+		/*********
+		** Festival Sprites
+		*********/
+			/*********
+			** Luau Sprites
+			*********/						
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+        "FromFile": "Assets/BeachCharacters/{{TargetWithoutPath}}_Beach.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+]
+}
