@@ -56,6 +56,18 @@
 //		"When": {   "Relationship:Shiro": "Married" },
 //	},	
 
+		//Undreya Disposition
+		{
+			"Action": "EditData",
+			"Target": "Characters/Schedules/Undreya",
+			"Entries": {
+				"spring": "{{RANDOMUNDREYA}}"
+			},
+			"When": {
+				"HasSeenEvent: hostPlayer |contains=75160182": true,
+				"DayOfWeek |contains=Thursday": false
+			}
+		},
 
 ]
 }

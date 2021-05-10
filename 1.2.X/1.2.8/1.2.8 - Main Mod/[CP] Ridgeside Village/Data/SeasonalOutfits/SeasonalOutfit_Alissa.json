@@ -1,0 +1,86 @@
+{
+"Changes": [
+
+
+		/*********
+		** Seasonal Portraits
+		*********/	
+			/*********
+			** Alissa
+			*********/	
+				/*********
+				** Summer
+				*********/	
+		{
+            "LogName": "Alissa - Summer",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Summer",
+            },
+            "Update": "OnLocationChange"			
+		},
+				/*********
+				** Fall
+				*********/	
+		{
+            "LogName": "Alissa - Fall",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Fall",          
+            },
+            "Update": "OnLocationChange"			
+		},
+				/*********
+				** Winter
+				*********/			
+		{
+            "LogName": "Alissa - Winter",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+            },
+            "Update": "OnLocationChange"			
+		},
+		{
+            "LogName": "Alissa - Winter - Inside",			
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/Portraits/Alissa/Seasonal/Inside_{{Season}}_{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+            "When": {
+                "Season": "Winter",
+				"LocationName": "Custom_Ridgeside_AlissaHouse, Custom_Ridgeside_AlissaShed, Custom_Ridgeside_BertHouse, Custom_Ridgeside_LennyHouse, SeedShop, AnimalShop, FarmHouse",                
+            },
+            "Update": "OnLocationChange"			
+		},
+
+		/*********
+		** Festival Portraits
+		*********/	
+			/*********
+			** Luau Portraits
+			*********/
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Alissa",
+			"FromFile": "Assets/BeachPortraits/Alissa/{{AlissaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+
+]
+}
