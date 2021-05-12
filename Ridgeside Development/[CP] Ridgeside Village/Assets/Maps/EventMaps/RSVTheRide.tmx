@@ -4,7 +4,7 @@
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="spring_zrsvscene1" tilewidth="16" tileheight="16" tilecount="2340" columns="39">
-  <image source="spring_zrsvscene1.png" width="624" height="960"/>
+  <image source="spring_zrsvscene1" width="624" height="960"/>
  </tileset>
  <layer id="1" name="Back" width="39" height="20">
   <data encoding="csv">

@@ -4,7 +4,7 @@
   <property name="AmbientLight" value="255 255 255"/>
  </properties>
  <tileset firstgid="1" name="spring_outdoorsTileSheet" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
+  <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
  </tileset>
  <tileset firstgid="1976" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
   <image source="townInterior" width="512" height="1088"/>
@@ -75,7 +75,7 @@
   </tile>
  </tileset>
  <tileset firstgid="4152" name="mine" tilewidth="16" tileheight="16" tilecount="288" columns="16">
-  <image source="Mines/mine.png" width="256" height="288"/>
+  <image source="Mines/mine" width="256" height="288"/>
  </tileset>
  <layer id="1" name="Back" width="20" height="30">
   <data encoding="csv">

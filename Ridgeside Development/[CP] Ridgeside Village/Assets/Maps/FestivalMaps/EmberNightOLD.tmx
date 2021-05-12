@@ -5,13 +5,13 @@
   <property name="Outdoors" value="T"/>
  </properties>
  <tileset firstgid="1" name="spring_zridgesidebuildings" tilewidth="16" tileheight="16" tilecount="2418" columns="62">
-  <image source="spring_zridgesidebuildings.png" width="992" height="624"/>
+  <image source="spring_zridgesidebuildings" width="992" height="624"/>
  </tileset>
  <tileset firstgid="2419" name="townInterior" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
-  <image source="townInterior.png" width="512" height="1088"/>
+  <image source="townInterior" width="512" height="1088"/>
  </tileset>
  <tileset firstgid="4595" name="springobjects" tilewidth="16" tileheight="16" tilecount="936" columns="24">
-  <image source="springobjects.png" width="384" height="624"/>
+  <image source="springobjects" width="384" height="624"/>
  </tileset>
  <tileset firstgid="5531" name="outdoors" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
   <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
@@ -1179,7 +1179,7 @@
   </tile>
  </tileset>
  <tileset firstgid="7506" name="RSVBonfire" tilewidth="16" tileheight="16" tilecount="576" columns="48">
-  <image source="RSVBonfire.png" width="768" height="192"/>
+  <image source="RSVBonfire" width="768" height="192"/>
  </tileset>
  <tileset firstgid="8082" name="fest" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
   <image source="Festivals" width="512" height="512"/>

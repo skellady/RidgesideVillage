@@ -4,10 +4,10 @@
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="spring_zrsvwideviewnight" tilewidth="16" tileheight="16" tilecount="3720" columns="93">
-  <image source="spring_zrsvwideviewnight.png" width="1500" height="640"/>
+  <image source="spring_zrsvwideviewnight" width="1500" height="640"/>
  </tileset>
  <tileset firstgid="3721" name="spring_zrsvcablecar" tilewidth="16" tileheight="16" tilecount="390" columns="26">
-  <image source="spring_zrsvcablecar.png" width="416" height="240"/>
+  <image source="spring_zrsvcablecar" width="416" height="240"/>
  </tileset>
  <layer id="1" name="Back" width="93" height="40">
   <data encoding="csv">

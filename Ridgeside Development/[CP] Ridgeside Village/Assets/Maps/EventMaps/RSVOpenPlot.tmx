@@ -7,7 +7,7 @@ AlwaysFront 89 26 908 AlwaysFront 95 14 908 AlwaysFront 101 6 908 AlwaysFront 93
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="Landscape" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
+  <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
   <tile id="150">
    <properties>
     <property name="Spawnable" value="t"/>

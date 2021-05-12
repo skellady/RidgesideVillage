@@ -6,7 +6,7 @@
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="spring_zridgesidebuildings" tilewidth="16" tileheight="16" tilecount="2418" columns="62">
-  <image source="spring_zridgesidebuildings.png" width="992" height="624"/>
+  <image source="spring_zridgesidebuildings" width="992" height="624"/>
  </tileset>
  <layer id="1" name="Back" width="7" height="10">
   <data encoding="csv">
