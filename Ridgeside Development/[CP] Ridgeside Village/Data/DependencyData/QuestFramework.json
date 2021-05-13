@@ -8,7 +8,7 @@
 		{
 			"Action": "Load",
 			"Target": "LooseSprites/RSVQuestBoard, LooseSprites/RSVNinjaBoard",
-			"FromFile": "Assets/{{Target}}_{{Language}}.png",
+			"FromFile": "Assets/LooseSprites/{{TargetWithoutPath}}_{{Language}}.png",
 		},
 		
 	//Blank Questboards
