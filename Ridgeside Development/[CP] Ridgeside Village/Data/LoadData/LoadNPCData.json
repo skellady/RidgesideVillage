@@ -1,0 +1,13 @@
+{
+"Changes": [
+
+/*********
+** Include MapData
+*********/	
+	{
+		"Action": "Include",
+		"FromFile": "Data/MapData/MapMusic.json, Data/MapData/Patches.json, Data/MapData/MapStrings.json, Data/MapData/MapWarps.json",
+	},
+
+]
+}

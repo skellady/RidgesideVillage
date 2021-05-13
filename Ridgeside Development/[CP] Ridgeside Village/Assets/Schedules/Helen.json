@@ -1,2 +1,14 @@
 {
+"Changes": [
+
+	{
+		"LogName": "Freddie Base Schedule",
+		"Action": "EditData",
+		"Target": "Characters/Schedules/Freddie",
+		"Entries": {
+			
+					},
+	},
+
+]
 }
