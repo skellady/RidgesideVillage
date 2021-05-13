@@ -2,109 +2,6 @@
 "Changes": [
 
 	/*********
-	** Config Changes
-	*********/	
-
-	/*********
-	** Events Config Changes
-	*********/
-		{
-			//Cutscene to RidgesideVillage Disable
-			"Action": "EditData",
-			"Target": "Data/Events/Custom_Ridgeside_RSVCliff",
-			"When": { "RepeatCableCarCutscene": false },
-			"Entries": {
-				"75160060": null,
-				"75160175": null,
-				"75160176": null,
-			},
-		},
-		
-	/*********
-	** Music Config Change
-	*********/
-		/*********
-		** Ridgeside Village
-		*********/		
-
-		{
-			"LogName": "Ridgeside Village Music Off",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
-			"MapProperties": {
-				"Music": null
-				},
-			"When": {
-				"EnableRidgesideMusic": false
-				}
-		},
-
-		/*********
-		** Aguar's Lab
-		*********/	
-		{
-			"LogName": "Ridgeside Village Music Off",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_AguarLab",
-			"MapProperties": {
-				"Music": null
-				},
-			"When": {
-				"EnableRidgesideMusic": false
-				}
-		},
-
-		/*********
-		** Aguar's Basement
-		*********/	
-		{
-			"LogName": "Ridgeside Village Music Off",
-			"Action": "EditMap",
-			"Target": "Maps/Custom_Ridgeside_AguarBasement",
-			"MapProperties": {
-				"Music": null
-				},
-			"When": {
-				"EnableRidgesideMusic": false
-				}
-		},		
-
-	/*********
-	** Sprites Config Changes
-	*********/
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Maddie",
-			"FromFile": "Assets/Characters/Maddie_Glasses.png",
-			"PatchMode": "Replace",
-			"When": { "MaddiePortraitStyle": "LegacyGlasses" },
-		},
-
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Philip",
-			"FromFile": "Assets/Characters/Philip_Legacy.png",
-			"PatchMode": "Replace",
-			"When": { "PhilipPortraitStyle": "Legacy" },
-		},
-
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Flor",
-			"FromFile": "Assets/Characters/Flor_PrismaFrost.png",
-			"PatchMode": "Replace",
-			"When": { "FlorSpriteStyle": "PrismaFrost" },
-		},
-
-		{
-			"Action": "EditImage",
-			"Target": "Characters/Flor_Beach",
-			"FromFile": "Assets/Characters/Flor_Beach_PrismaFrost.png",
-			"PatchMode": "Replace",
-			"When": { "FlorSpriteStyle": "PrismaFrost" },
-		},
-		
-	/*********
 	** Portraits Config Changes
 	*********/
 
@@ -431,6 +328,7 @@
 			"FromFile": "Assets/BeachPortraits/Yuuma/{{YuumaPortraitStyle}}.png",
 			"PatchMode": "Replace",
 		},
+
 
 ]
 }
