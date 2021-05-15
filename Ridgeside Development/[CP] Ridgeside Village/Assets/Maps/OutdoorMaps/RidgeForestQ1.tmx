@@ -40,7 +40,7 @@
   </tile>
  </tileset>
  <tileset firstgid="37" name="outdoors" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
+  <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
   <tile id="150">
    <properties>
     <property name="Spawnable" value="t"/>
@@ -1241,10 +1241,10 @@
   </tile>
  </tileset>
  <tileset firstgid="2012" name="spring_zridgetiles" tilewidth="16" tileheight="16" tilecount="64" columns="8">
-  <image source="spring_zridgetiles.png" width="128" height="128"/>
+  <image source="spring_zridgetiles" width="128" height="128"/>
  </tileset>
  <tileset firstgid="2076" name="Town" tilewidth="16" tileheight="16" tilecount="2304" columns="32">
-  <image source="spring_town.png" width="512" height="1152"/>
+  <image source="spring_town" width="512" height="1152"/>
   <tile id="159">
    <properties>
     <property name="Passable" value="T"/>
@@ -1467,7 +1467,7 @@
   </tile>
  </tileset>
  <tileset firstgid="4380" name="springobjects" tilewidth="16" tileheight="16" tilecount="936" columns="24">
-  <image source="springobjects.png" width="384" height="624"/>
+  <image source="springobjects" width="384" height="624"/>
  </tileset>
  <layer id="1" name="Back" width="92" height="55">
   <data encoding="csv">

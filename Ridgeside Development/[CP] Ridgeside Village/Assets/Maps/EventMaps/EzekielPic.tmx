@@ -4,10 +4,10 @@
   <property name="Outdoors" type="bool" value="true"/>
  </properties>
  <tileset firstgid="1" name="MenuTiles" tilewidth="16" tileheight="16" tilecount="1152" columns="16">
-  <image source="MenuTiles.png" width="256" height="1152"/>
+  <image source="MenuTiles" width="256" height="1152"/>
  </tileset>
  <tileset firstgid="1153" name="EzekielPicFinal" tilewidth="16" tileheight="16" tilecount="63" columns="9">
-  <image source="EzekielPicFinal.png" width="144" height="112"/>
+  <image source="EzekielPicFinal" width="144" height="112"/>
  </tileset>
  <layer id="1" name="Back" width="15" height="13">
   <data encoding="csv">

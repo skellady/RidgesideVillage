@@ -36,11 +36,11 @@
    </properties>
   </tile>
  </tileset>
- <tileset firstgid="37" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="288" columns="16">
+ <tileset firstgid="37" name="mine" tilewidth="16" tileheight="16" tilecount="288" columns="16">
   <image source="Mines/mine" width="256" height="288"/>
  </tileset>
  <tileset firstgid="325" name="summer_zrsvcablecar" tilewidth="16" tileheight="16" tilecount="390" columns="26">
-  <image source="summer_zrsvcablecar.png" width="416" height="240"/>
+  <image source="summer_zrsvcablecar" width="416" height="240"/>
  </tileset>
  <layer id="1" name="Back" width="29" height="20">
   <data encoding="csv">

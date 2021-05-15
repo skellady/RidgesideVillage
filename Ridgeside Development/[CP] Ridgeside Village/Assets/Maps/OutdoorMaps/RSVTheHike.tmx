@@ -37,7 +37,7 @@
   </tile>
  </tileset>
  <tileset firstgid="37" name="spring_zridgesidebuildings" tilewidth="16" tileheight="16" tilecount="2418" columns="62">
-  <image source="spring_zridgesidebuildings.png" width="992" height="624"/>
+  <image source="spring_zridgesidebuildings" width="992" height="624"/>
  </tileset>
  <tileset firstgid="2455" name="outdoors" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
   <image source="spring_outdoorsTileSheet" width="400" height="1264"/>

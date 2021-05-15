@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="80" height="87" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="148">
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="80" height="87" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="148">
  <properties>
   <property name="Light" value="143 26 4 126 22 4 118 26 4 111 26 4 100 26 4 121 41 4 107 41 4 124 49 4 135 49 4 108 53 4 114 53 4 87 85 4 81 85 4 80 100 4 87 110 4 8 61 4 50 121 4 9 119 4 37 56 4 51 42 4 56 36 4 46 27 4 65 18 4 79 16 4 89 26 4 95 14 4 101 6 4 93 1 4 79 54 4 79 62 4 88 57 4 85 62 4 94 57 4 91 62 4 72 57 4 73 52 4 70 14 4"/>
   <property name="NightTiles">AlwaysFront 143 26 908 AlwaysFront 126 22 908 AlwaysFront 118 26 908 AlwaysFront 111 26 908 AlwaysFront 100 26 908 AlwaysFront 121 41 908 AlwaysFront 107 41 908 AlwaysFront 124 49 908 AlwaysFront 135 49 908 AlwaysFront 108 53 908 AlwaysFront 114 53 908 AlwaysFront 87 85 908 AlwaysFront 81 85 908 AlwaysFront 80 100 908 AlwaysFront 87 110 908 AlwaysFront 8 61 908 AlwaysFront 50 121 908 AlwaysFront 9 119 908 AlwaysFront 37 56 908 AlwaysFront 51 42 908 AlwaysFront 56 36 908 AlwaysFront 46 27 908 AlwaysFront 65 18 908 AlwaysFront 79 16 908 
@@ -1205,7 +1205,7 @@ AlwaysFront 89 26 908 AlwaysFront 95 14 908 AlwaysFront 101 6 908 AlwaysFront 93
   </tile>
  </tileset>
  <tileset firstgid="2012" name="Town" tilewidth="16" tileheight="16" tilecount="2304" columns="32">
-  <image source="spring_town.png" width="512" height="1152"/>
+  <image source="spring_town" width="512" height="1152"/>
   <tile id="159">
    <properties>
     <property name="Passable" value="T"/>
@@ -1428,7 +1428,7 @@ AlwaysFront 89 26 908 AlwaysFront 95 14 908 AlwaysFront 101 6 908 AlwaysFront 93
   </tile>
  </tileset>
  <tileset firstgid="4316" name="spring_zridgeside" tilewidth="16" tileheight="16" tilecount="220" columns="10">
-  <image source="spring_zridgeside.png" width="160" height="352"/>
+  <image source="spring_zridgeside" width="160" height="352"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="100"/>
@@ -1536,7 +1536,7 @@ AlwaysFront 89 26 908 AlwaysFront 95 14 908 AlwaysFront 101 6 908 AlwaysFront 93
   </tile>
  </tileset>
  <tileset firstgid="4536" name="zrsvspecialeffects" tilewidth="16" tileheight="16" tilecount="56" columns="7">
-  <image source="zrsvspecialeffects.png" width="112" height="128"/>
+  <image source="zrsvspecialeffects" width="112" height="128"/>
   <tile id="0">
    <animation>
     <frame tileid="0" duration="200"/>
