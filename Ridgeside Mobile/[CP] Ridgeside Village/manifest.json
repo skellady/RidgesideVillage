@@ -20,11 +20,7 @@
 	   },
 	   {
         "UniqueID": "spacechase0.JsonAssets",
-        "IsRequired": true,
-	   },
-	   {
-        "UniqueID": "PurrplingCat.QuestFramework",
-        "IsRequired": true,
+        "IsRequired": false,
 	   },
 	   {
 		"UniqueID": "Rafseazz.RSVJA",
