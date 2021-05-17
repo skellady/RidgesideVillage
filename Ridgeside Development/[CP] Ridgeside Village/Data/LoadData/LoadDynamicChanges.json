@@ -3,7 +3,7 @@
 
 		{
 			"Action": "Include",
-			"FromFile": "Data/DynamicChanges/AntiSocialChanges.json"
+			"FromFile": "Data/DynamicChanges/DialogueChanges.json, Data/DynamicChanges/DispositionChanges.json, Data/DynamicChanges/EventChanges.json, Data/DynamicChanges/ExlusionChanges.json, Data/DynamicChanges/MapChanges.json, Data/DynamicChanges/MapStringChanges.json, Data/DynamicChanges/MusicChanges.json, Data/DynamicChanges/PortraitChanges.json, Data/DynamicChanges/ScheduleChanges.json, Data/DynamicChanges/SpriteChanges.json"
 		},
 
 ]

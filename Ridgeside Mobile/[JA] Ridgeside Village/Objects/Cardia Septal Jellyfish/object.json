@@ -1,11 +1,11 @@
 {
 	"Name": "Cardia Septal Jellyfish",
-	"Description": "Truly a biological wonder. It got it's name from it's shape that presents the septum of a heart and the ventricles that it connects. This creature has two bodies, one female and the other is male. Though poisonous, it is endangered because of it's slow mobility.",
+	"Description": "Truly a biological wonder. It bears a striking resemblance to the septum of a heart and the ventricles that connect it. Though poisonous, it is endangered because of its lack of mobility.",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 3000,
+	"Price": 1500,
 	"IsColored": false,
 	"GiftTastes":
 	{

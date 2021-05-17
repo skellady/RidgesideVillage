@@ -1,20 +1,5 @@
 {
 "Changes": [
 
-	/*********
-	** NPC Exclusions
-	*********/
-		{
-			"Action": "EditData",
-			"Target": "Data/CustomNPCExclusions",
-			"Entries": {
-				"Kiwi": "ALL",
-				"Jio": "ALL",
-				"Undreya": "ALL",
-				"Helen": "ALL",
-			}
-		},
-
-
 ]
 }

@@ -1,16 +1,17 @@
 ﻿{
-  "Name": "Ridgeside Village Music Files",
-  "Author": "Platonymous",
-  "Version": "1.0.3",
+  "Name": "[CM] Ridgeside Mobile",
+  "Author": "Rafseazz",
+  "Version": "1.0.0",
   "Description": "RSV Music",
-  "UniqueID": "Rafseazz.RSVCM",
+  "UniqueID": "Rafseazz.RidgesideMobileCM",
+  "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
     "UniqueID": "Platonymous.CustomMusic",
-    "MinimumVersion": "1.0.3"
+    "MinimumVersion": "1.0.0"
   },
 	"Dependencies": [
 	 {
-      "UniqueID": "Rafseazz.RSVCP",
+      "UniqueID": "Rafseazz.RidgesideMobileCP",
       "IsRequired": true,
 	 }
 ]

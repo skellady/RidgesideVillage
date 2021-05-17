@@ -1,22 +1,22 @@
 {
-  "Name": "RSV Forage",
+  "Name": "[FTM] Ridgeside Mobile",
   "Author": "Rafseazz",
-  "Version": "1.10.11",
+  "Version": "1.0.0",
   "Description": "FTM for RSV",
-  "UniqueID": "Rafseazz.RSVFTM",
+  "UniqueID": "Rafseazz.RidgesideMobileFTM",
   "MinimumApiVersion": "3.0",
   "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
-    "MinimumVersion": "1.8"
+    "MinimumVersion": "1.0"
    },
 	"Dependencies": [
 	 {
-      "UniqueID": "Rafseazz.RSVJA",
+      "UniqueID": "Rafseazz.RidgesideMobileJA",
       "IsRequired": true,
 	 },
 	 {
-      "UniqueID": "Rafseazz.RSVCP",
+      "UniqueID": "Rafseazz.RidgesideMobileCP",
       "IsRequired": true,
 	 },	
 ]

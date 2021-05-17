@@ -1,14 +1,14 @@
 ﻿{
-	"Name": "RSV TMXL",
+	"Name": "[TMXL] Ridgeside Mobile",
 	"Author": "Rafseazz",
 	"Version": "1.0.0",
 	"Description": "RSV TMXL Files",
-	"UniqueID": "Rafseazz.RSVTMXL",
+	"UniqueID": "Rafseazz.RidgesideMobileTMXL",
 	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": [ "Nexus:???" ],
 	"ContentPackFor": {
 		"UniqueID": "Platonymous.TMXLoader",
-		"MinimumVersion": "1.6.4"
+		"MinimumVersion": "1.0.0"
   },
   "Dependencies": [
   {

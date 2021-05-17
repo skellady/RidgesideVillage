@@ -1,9 +1,9 @@
 {
-	"Name": "Ridgeside Village",
+	"Name": "[CP] Ridgeside Mobile",
 	"Author": "Rafseazz",
-	"Version": "1.1.3",
-	"Description": "Adds a new village in the west.",
-	"UniqueID": "Rafseazz.RSVCP",
+	"Version": "1.0.0",
+	"Description": "Adds a new village in the west. Along with lots more!",
+	"UniqueID": "Rafseazz.RidgesideMobileCP",
 	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": [ "Nexus:7286" ],
 	"ContentPackFor": {
@@ -20,11 +20,7 @@
 	   },
 	   {
         "UniqueID": "spacechase0.JsonAssets",
-        "IsRequired": false,
-	   },
-	   {
-		"UniqueID": "Rafseazz.RSVJA",
-		"IsRequired": true,
+        "IsRequired": true,
 	   },
 	   {
 		"UniqueID": "MoreFish",
@@ -32,6 +28,18 @@
 	   },
 	   {
 		"UniqueID": "FlashShifter.StardewValleyExpandedCP",
+		"IsRequired": false,
+	   },
+	   {
+		"UniqueID": "misscoriel.eventrepeater",
+		"IsRequired": true,
+	   },
+	   {
+		"UniqueID": "SuperAardvark.AntiSocial",
+		"IsRequired": true,
+	   },
+	   {
+		"UniqueID": "flashshifter.immersivefarm2remastered",
 		"IsRequired": false,
 	   },
    ]

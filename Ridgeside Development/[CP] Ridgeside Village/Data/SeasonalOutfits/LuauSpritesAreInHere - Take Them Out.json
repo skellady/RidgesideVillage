@@ -1,0 +1,299 @@
+{
+"Changes": [
+
+				/*********
+		** Seasonal Portraits
+		*********/	
+			
+		/*********
+		** Festival Portraits
+		*********/	
+			/*********
+			** Luau Portraits
+			*********/
+				/*********
+				** Bachelor Portraits
+				*********/
+			{
+				"Action": "EditImage",
+				"Target": "Portraits/Ian",
+				"FromFile": "Assets/BeachPortraits/Ian/{{IanPortraitStyle}}.png",
+				"PatchMode": "Replace",
+		        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"         
+            	    	},
+                	    	"Update": "OnLocationChange"   
+			},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jeric",
+			"FromFile": "Assets/BeachPortraits/Jeric/{{JericPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Kenneth",
+			"FromFile": "Assets/BeachPortraits/Kenneth/{{KennethPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Philip",
+			"FromFile": "Assets/BeachPortraits/Philip/{{PhilipPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shiro",
+			"FromFile": "Assets/BeachPortraits/Shiro/{{ShiroPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		
+	/*********
+	** Bachelorette Portraits
+	*********/
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Flor",
+			"FromFile": "Assets/BeachPortraits/Flor/{{FlorPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maddie",
+			"FromFile": "Assets/BeachPortraits/Maddie/{{MaddiePortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Ysabelle",
+			"FromFile": "Assets/BeachPortraits/Ysabelle/{{YsabellePortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		
+	/*********
+	** Non-Marriage Candidates Portraits
+	*********/
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Aguar",
+			"FromFile": "Assets/BeachPortraits/Aguar/{{AguarPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Bert",
+			"FromFile": "Assets/BeachPortraits//Bert/{{BertPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Ezekiel",
+			"FromFile": "Assets/BeachPortraits/Ezekiel/{{EzekielPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Freddie",
+			"FromFile": "Assets/BeachPortraits/Freddie/{{FreddiePortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jio",
+			"FromFile": "Assets/BeachPortraits/Jio/{{JioPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Kiwi",
+			"FromFile": "Assets/BeachPortraits/Kiwi/{{KiwiPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Lenny",
+			"FromFile": "Assets/BeachPortraits/Lenny/{{LennyPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Lola",
+			"FromFile": "Assets/BeachPortraits/Lola/{{LolaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Olga",
+			"FromFile": "Assets/BeachPortraits/Olga/{{OlgaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pika",
+			"FromFile": "Assets/BeachPortraits/Pika/{{PikaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Richard",
+			"FromFile": "Assets/BeachPortraits/Richard/{{RichardPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		
+	/*********
+	** Children Portraits
+	*********/
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Keahi",
+			"FromFile": "Assets/BeachPortraits/Keahi/{{KeahiPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Trinnie",
+			"FromFile": "Assets/BeachPortraits/Trinnie/{{TrinniePortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Yuuma",
+			"FromFile": "Assets/BeachPortraits/Yuuma/{{YuumaPortraitStyle}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   			
+		},
+
+
+
+		/*********
+		** Seasonal Sprites
+		*********/	
+
+		/*********
+		** Festival Sprites
+		*********/
+			/*********
+			** Luau Sprites
+			*********/						
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+        "FromFile": "Assets/BeachCharacters/{{TargetWithoutPath}}_Beach.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+]
+}

@@ -1,19 +1,6 @@
 {
 "Changes": [
 
-	/*********
-	** AntiSocial NPCs
-	*********/	
-		{
-			"LogName": "Antisocial NPCs",
-			"Action": "EditData",
-			"Target": "Data/AntiSocialNPCs",
-			"Entries": {
-				"Undreya": true,
-				"Helen": true,
-				"Kiwi": true,
-			}
-		},
 
 	/*********
 	** AntiSocial Changes
