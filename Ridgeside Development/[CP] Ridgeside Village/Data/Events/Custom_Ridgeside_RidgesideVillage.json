@@ -153,5 +153,26 @@
                 },
         },
 
+        {
+                //Event dialogue Maddie 6 hearts
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Maddie",
+                "Entries": {                        
+                        
+                        "maddie3_1": "{{i18n:event-75160136.Fork1}}",
+                        "maddie3_2": "{{i18n:event-75160136.Fork2}}",
+                }
+        },
+
+         {
+                //Event dialogue Maddie 10 (previously 8) hearts
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Maddie",
+                "Entries": {                                              
+                        "maddie4_1": "{{i18n:event-75160138.Fork1}}",
+                        "maddie4_2": "{{i18n:event-75160138.Fork2}}",
+                }
+        },
+
 ]
 }

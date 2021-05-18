@@ -2,13 +2,13 @@
 "Changes": [
 	
 /*********
-** Include NPC Data
+** Include SeasonalOutfits Data
 *********/	
 	{
-		"LogName": "Include all the NPC Data",		
+		"LogName": "Include SeasonalOutfits files",		
 		"Action": "Include",
 		"FromFile": "Data/NPCData/Animations.json, Data/NPCData/ConversationTopics.json, Data/NPCData/MapStrings.json, Data/NPCData/MapWarps.json",
 	},
-	
+
 ]
 }

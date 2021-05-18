@@ -12,6 +12,9 @@
    	"FromFile": "Data/LoadSchedules.json"
   },
 
+	/*********
+	** Include Schedule Files
+	*********/	
   {
 	"LogName": "Include Ridgeside Schedule Files",
    	"Action": "Include",

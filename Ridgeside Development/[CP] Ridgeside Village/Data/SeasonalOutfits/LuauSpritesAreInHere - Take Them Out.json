@@ -17,7 +17,7 @@
 			{
 				"Action": "EditImage",
 				"Target": "Portraits/Ian",
-				"FromFile": "Assets/BeachPortraits/Ian/{{IanPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 				"PatchMode": "Replace",
 		        "When": {
                 	"DayEvent": "luau",
@@ -28,7 +28,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Jeric",
-			"FromFile": "Assets/BeachPortraits/Jeric/{{JericPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -39,7 +39,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Kenneth",
-			"FromFile": "Assets/BeachPortraits/Kenneth/{{KennethPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -50,7 +50,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Philip",
-			"FromFile": "Assets/BeachPortraits/Philip/{{PhilipPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -61,7 +61,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Shiro",
-			"FromFile": "Assets/BeachPortraits/Shiro/{{ShiroPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -77,7 +77,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Flor",
-			"FromFile": "Assets/BeachPortraits/Flor/{{FlorPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -88,7 +88,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Maddie",
-			"FromFile": "Assets/BeachPortraits/Maddie/{{MaddiePortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -99,7 +99,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Ysabelle",
-			"FromFile": "Assets/BeachPortraits/Ysabelle/{{YsabellePortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -114,7 +114,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Aguar",
-			"FromFile": "Assets/BeachPortraits/Aguar/{{AguarPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -125,7 +125,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Bert",
-			"FromFile": "Assets/BeachPortraits//Bert/{{BertPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -136,7 +136,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Ezekiel",
-			"FromFile": "Assets/BeachPortraits/Ezekiel/{{EzekielPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -147,7 +147,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Freddie",
-			"FromFile": "Assets/BeachPortraits/Freddie/{{FreddiePortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -158,7 +158,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Jio",
-			"FromFile": "Assets/BeachPortraits/Jio/{{JioPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -169,7 +169,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Kiwi",
-			"FromFile": "Assets/BeachPortraits/Kiwi/{{KiwiPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -180,7 +180,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Lenny",
-			"FromFile": "Assets/BeachPortraits/Lenny/{{LennyPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -191,7 +191,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Lola",
-			"FromFile": "Assets/BeachPortraits/Lola/{{LolaPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -202,7 +202,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Olga",
-			"FromFile": "Assets/BeachPortraits/Olga/{{OlgaPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -213,7 +213,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Pika",
-			"FromFile": "Assets/BeachPortraits/Pika/{{PikaPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -224,7 +224,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Richard",
-			"FromFile": "Assets/BeachPortraits/Richard/{{RichardPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -239,7 +239,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Keahi",
-			"FromFile": "Assets/BeachPortraits/Keahi/{{KeahiPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -250,7 +250,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Trinnie",
-			"FromFile": "Assets/BeachPortraits/Trinnie/{{TrinniePortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -261,7 +261,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Yuuma",
-			"FromFile": "Assets/BeachPortraits/Yuuma/{{YuumaPortraitStyle}}.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -283,10 +283,10 @@
 			** Luau Sprites
 			*********/						
     {
-        "LogName": "Luau Sprites",
+        "LogName": "Aguar Luau Sprites",
         "Action": "EditImage",
-        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
-        "FromFile": "Assets/BeachCharacters/{{TargetWithoutPath}}_Beach.png",
+        "Target": "Characters/Aguar",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
 		"PatchMode": "Replace",
 	        "When": {
                	"DayEvent": "luau",
@@ -295,5 +295,378 @@
                    	"Update": "OnLocationChange"   		        
     },
 
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Alissa",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Bert",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Corine",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Ezekiel",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Flor",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau_{{FlorSpriteStyle}}.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Freddie",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Ian",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Jeric",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Jio",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Keahi",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Kenneth",
+        "FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+        {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Kiwi",
+		        "FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Lenny",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Lola",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Maddie",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Olga",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Philip",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+        {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Pika",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Richard",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Shiro",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Trinnie",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Ysabelle",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Yuuma",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+        {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Undreya",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Helen",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
+
+    {
+        "LogName": "Luau Sprites",
+        "Action": "EditImage",
+        "Target": "Characters/Aguar, Characters/Alissa, Characters/Bert, Characters/Corine, Characters/Ezekiel, Characters/Flor, Characters/Freddie, Characters/Ian, Characters/Jeric, Characters/Jio, Characters/Keahi, Characters/Kenneth, Characters/Kiwi, Characters/Lenny, Characters/Lola, Characters/Maddie, Characters/Olga, Characters/Philip, Characters/Pika, Characters/Richard, Characters/Shiro, Characters/Trinnie, Characters/Ysabelle, Characters/Yuuma, Characters/Undreya, Characters/Helen",
+		"FromFile": "Assets/Characters/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_Luau.png",
+		"PatchMode": "Replace",
+	        "When": {
+               	"DayEvent": "luau",
+               	"LocationName": "Beach, temp"                    
+               	},
+                   	"Update": "OnLocationChange"   		        
+    },
 ]
 }

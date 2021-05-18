@@ -18,7 +18,17 @@
 			},
 	},
 
-
+        {
+                //Event dialogue Maddie 2 hearts
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Maddie",
+                "Entries": {                        
+                        "maddie1_1": "{{i18n:event-75160134.Fork1}}",
+                        "maddie1_2": "{{i18n:event-75160134.Fork2}}",
+                        "maddie1_3": "{{i18n:event-75160134.Fork3}}",
+                }
+        },
+        
 	
 ]
 }

@@ -1,0 +1,14 @@
+{
+"Changes": [
+	
+/*********
+** Include InterModCompat Data
+*********/	
+	{
+		"LogName": "Include all InterModCompat files",		
+		"Action": "Include",
+		"FromFile": "Data/NPCData/CustomGiftDialogue.json, Data/NPCData/DaisyNikoEarthyRecolor.json, Data/NPCData/EastScarpe.json, Data/NPCData/KarmyllasImmersiveMaps.json, Data/NPCData/StardewValleyExpanded.json, Data/NPCData/TownSchool.json, Data/NPCData/VibrantPastoralRecolor.json",
+	},
+	
+]
+}

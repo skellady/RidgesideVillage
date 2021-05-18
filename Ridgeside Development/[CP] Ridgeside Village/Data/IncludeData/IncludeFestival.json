@@ -97,5 +97,13 @@
 			"Action": "Include",
 			"FromFile": "Data/Festivals/FestivalLocations/EggFestival.json, Data/Festivals/FestivalLocations/FlowerDance.json, Data/Festivals/FestivalLocations/Luau.json, Data/Festivals/FestivalLocations/MoonlightJellies.json, Data/Festivals/FestivalLocations/SVFair.json, Data/Festivals/FestivalLocations/SpiritEve.json, Data/Festivals/FestivalLocations/IceFestival.json, Data/Festivals/FestivalLocations/WinterStar.json, Data/Festivals/FestivalLocations/EmberOfResolutions.json, Data/Festivals/FestivalLocations/Gathering.json"
 		},
+
+	/*********
+	** Festival Dialogue Includes
+	*********/
+		{
+			"Action": "Include",
+			"FromFile": "Data/Festivals/FestivalDialogue/EggFestival.json, Data/Festivals/FestivalDialogue/FlowerDance.json, Data/Festivals/FestivalDialogue/Luau.json, Data/Festivals/FestivalDialogue/MoonlightJellies.json, Data/Festivals/FestivalDialogue/SVFair.json, Data/Festivals/FestivalDialogue/SpiritEve.json, Data/Festivals/FestivalDialogue/IceFestival.json, Data/Festivals/FestivalDialogue/WinterStar.json, Data/Festivals/FestivalDialogue/EmberOfResolutions.json, Data/Festivals/FestivalDialogue/Gathering.json"
+		},
 ]
 }
