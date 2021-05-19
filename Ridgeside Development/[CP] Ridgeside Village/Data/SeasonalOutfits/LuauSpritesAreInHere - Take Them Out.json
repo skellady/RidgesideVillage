@@ -1,7 +1,7 @@
 {
 "Changes": [
 
-				/*********
+		/*********
 		** Seasonal Portraits
 		*********/	
 			
@@ -9,48 +9,13 @@
 		** Festival Portraits
 		*********/	
 			/*********
-			** Luau Portraits
+			** Luau Portrait
 			*********/
-				/*********
-				** Bachelor Portraits
-				*********/
-			{
-				"Action": "EditImage",
-				"Target": "Portraits/Ian",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
-				"PatchMode": "Replace",
-		        "When": {
-                	"DayEvent": "luau",
-                	"LocationName": "Beach, temp"         
-            	    	},
-                	    	"Update": "OnLocationChange"   
-			},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Jeric",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
-			"PatchMode": "Replace",
-	        "When": {
-                	"DayEvent": "luau",
-                	"LocationName": "Beach, temp"                    
-                	},
-                    	"Update": "OnLocationChange"   
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Portraits/Kenneth",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
-			"PatchMode": "Replace",
-	        "When": {
-                	"DayEvent": "luau",
-                	"LocationName": "Beach, temp"                    
-                	},
-                    	"Update": "OnLocationChange"   
-		},
+
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Philip",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{PhilipPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -61,7 +26,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Shiro",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{ShiroPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -77,7 +42,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Flor",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{FlorPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -88,7 +53,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Maddie",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{MaddiePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -99,7 +64,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Ysabelle",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{YsabellePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -114,7 +79,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Aguar",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{AguarPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -125,7 +90,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Bert",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{BertPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -136,7 +101,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Ezekiel",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{EzekielPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -147,7 +112,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Freddie",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{FreddiePortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -158,7 +123,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Jio",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{JioPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -169,7 +134,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Kiwi",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{KiwiPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -180,7 +145,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Lenny",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{LennyPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -191,7 +156,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Lola",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{LolaPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -202,7 +167,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Olga",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{OlgaPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -213,7 +178,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Pika",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{PikaPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -224,7 +189,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Richard",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{RichardPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -239,7 +204,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Keahi",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{KeahiPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -261,7 +226,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Yuuma",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{TrinniePortraitStyle}}_Luau.png",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{YuumaPortraitStyle}}_Luau.png",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",

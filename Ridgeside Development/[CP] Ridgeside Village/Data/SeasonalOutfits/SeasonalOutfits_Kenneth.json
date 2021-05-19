@@ -1,0 +1,21 @@
+{
+"Changes": [
+
+			/*********
+			** Luau Portrait
+			*********/
+
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Kenneth",
+			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{KennethPortraitStyle}}_Luau.png",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+]
+}
