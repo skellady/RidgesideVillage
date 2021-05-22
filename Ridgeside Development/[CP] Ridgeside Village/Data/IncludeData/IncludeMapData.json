@@ -7,7 +7,7 @@
 	{
 		"LogName": "Include all the Map Data",		
 		"Action": "Include",
-		"FromFile": "Data/MapData/MapMusic.json, Data/MapData/Patches.json, Data/MapData/MapStrings.json, Data/MapData/MapWarps.json",
+		"FromFile": "Data/MapData/MapMusic.json, Data/MapData/MapPatches.json, Data/MapData/MapStrings.json, Data/MapData/MapWarps.json",
 	},
 
 ]

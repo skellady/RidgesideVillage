@@ -845,11 +845,11 @@
 	"Changes": [
 
 	/*********
-	** Data Includes
+	** Include Data
 	*********/
 		{
 			"Action": "Include",
-			"FromFile": "Data/Animations.json, Data/ConfigChanges.json, Data/ConversationTopics.json, Data/CustomCompanions.json, Data/LoadEvents.json, Data/EventDialogues.json, Data/FestivalDialogue.json, Data/FishData.json, Data/IntermodPatches.json, Data/LoadFestival.json, Data/LoadTileSheets.json, Data/Mail.json, Data/MapPatches.json, Data/MapStrings.json, Data/MonsterData.json, Data/MovieData.json, Data/Music.json, Data/NPCData.json, Data/QuestEvents.json, Data/Romance.json, Data/Warps.json, Data/WorldMap.json, Data/DynamicChanges.json"
+			"FromFile": "Data/IncludeData/IncludeDependencyData.json, Data/IncludeData/IncludeDynamicChanges.json, Data/IncludeData/IncludeEvents.json, Data/IncludeData/IncludeFestival.json, Data/IncludeData/IncludeInterModCompat.json, Data/IncludeData/IncludeMapData.json, Data/IncludeData/IncludeNPCData.json, Data/IncludeData/IncludeSeasonalOutfits.json, Data/IncludeData/IncludeTilesheets.json"
 		},
 
 	],

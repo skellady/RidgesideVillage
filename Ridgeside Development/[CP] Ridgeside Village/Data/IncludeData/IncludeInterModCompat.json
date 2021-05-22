@@ -7,7 +7,7 @@
 	{
 		"LogName": "Include all InterModCompat files",		
 		"Action": "Include",
-		"FromFile": "Data/NPCData/CustomGiftDialogue.json, Data/NPCData/DaisyNikoEarthyRecolor.json, Data/NPCData/EastScarpe.json, Data/NPCData/KarmyllasImmersiveMaps.json, Data/NPCData/StardewValleyExpanded.json, Data/NPCData/TownSchool.json, Data/NPCData/VibrantPastoralRecolor.json",
+		"FromFile": "Data/InterModCompat/CustomGiftDialogue.json, Data/InterModCompat/DaisyNikoEarthyRecolor.json, Data/InterModCompat/EastScarpe.json, Data/InterModCompat/KarmyllasImmersiveMaps.json, Data/InterModCompat/StardewValleyExpanded.json, Data/InterModCompat/TownSchool.json, Data/InterModCompat/VibrantPastoralRecolor.json",
 	},
 	
 ]
