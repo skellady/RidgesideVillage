@@ -15,7 +15,7 @@
             "LogName": "Corine - Summer",			
 			"Action": "EditImage",
 			"Target": "Portraits/Corine",
-			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/{{Season}}_{{CorinePortraitStyle}}.png, Assets/{{Target}}/Seasonals/{{Season}}_Default.png }}",
 			"PatchMode": "Replace",
             "When": {
                 "Season": "Summer",
@@ -29,7 +29,7 @@
             "LogName": "Corine - Fall",			
 			"Action": "EditImage",
 			"Target": "Portraits/Corine",
-			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/{{Season}}_{{CorinePortraitStyle}}.png, Assets/{{Target}}/Seasonals/{{Season}}_Default.png }}",
 			"PatchMode": "Replace",
             "When": {
                 "Season": "Fall",          
@@ -43,7 +43,7 @@
             "LogName": "Corine - Winter",			
 			"Action": "EditImage",
 			"Target": "Portraits/Corine",
-			"FromFile": "Assets/Portraits/Corine/Seasonal/{{Season}}_{{CorinePortraitStyle}}.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/{{Season}}_{{CorinePortraitStyle}}.png, Assets/{{Target}}/Seasonals/{{Season}}_Default.png }}",
 			"PatchMode": "Replace",
             "When": {
                 "Season": "Winter",
@@ -54,7 +54,7 @@
             "LogName": "Corine - Winter - Inside",			
 			"Action": "EditImage",
 			"Target": "Portraits/Corine",
-			"FromFile": "Assets/Portraits/Corine/Seasonal/Inside_{{Season}}_{{CorinePortraitStyle}}.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/{{Season}}_{{CorinePortraitStyle}}.png, Assets/{{Target}}/Seasonals/{{Season}}_Default.png }}",
 			"PatchMode": "Replace",
             "When": {
                 "Season": "Winter",
@@ -74,7 +74,7 @@
 		{
 			"Action": "EditImage",
 			"Target": "Portraits/Corine",
-			"FromFile": "Assets/BeachPortraits/Corine/{{CorinePortraitStyle}}.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/{{Season}}_{{CorinePortraitStyle}}.png, Assets/{{Target}}/Seasonals/{{Season}}_Default.png }}",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
