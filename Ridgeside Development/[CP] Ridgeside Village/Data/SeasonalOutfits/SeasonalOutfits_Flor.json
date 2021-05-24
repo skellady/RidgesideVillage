@@ -1,5 +1,41 @@
 {
 "Changes": [
 
+		/*********
+		** Festivals
+		*********/	
+			/*********
+			** Luau Portraits
+			*********/
+
+		{
+        	"LogName": "Flor Luau Portraits",			
+			"Action": "EditImage",
+			"Target": "Portraits/Flor",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/Luau_{{FlorPortraitStyle}}.png, Assets/{{Target}}/{{FlorPortraitStyle}}.png }}",
+			"PatchMode": "Replace",
+	        "When": {
+                	"DayEvent": "luau",
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+
+			/*********
+			** Luau Sprites
+			*********/						
+    	{
+        	"LogName": "Flor Luau Sprites",
+        	"Action": "EditImage",
+        	"Target": "Characters/Flor",
+			"FromFile": "Assets/{{Target}}/Seasonals/Luau_{{TargetWithoutPath}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+            		"DayEvent": "luau",
+               		"LocationName": "Beach, temp"                    
+               		},
+                   		"Update": "OnLocationChange"   		        
+    	},
+
 ]
 }

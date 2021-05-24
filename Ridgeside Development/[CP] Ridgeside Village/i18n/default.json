@@ -119,14 +119,14 @@
 "Gift.Dislike.Aguar": "I find this rather unpleasant.",
 "Gift.Dislike.Alissa": "I'm sorry, but I'm not fond of this.",
 "Gift.Dislike.Bert": "Are you pulling a prank?",
-"Gift.Dislike.Corine": "Eww, what’s that?",
+"Gift.Dislike.Corine": "Eww, what's that?",
 "Gift.Dislike.Ezekiel": "Are you mocking me?",
 "Gift.Dislike.Flor": "I... Uh... I don't really like this.",
 "Gift.Dislike.Freddie": "I don't like this, adventurer.",
 "Gift.Dislike.Ian": "Giving this to someone is kind of mean.",
 "Gift.Dislike.Jeric": "Sorry, but I don't like this.",
 "Gift.Dislike.Jio": "Please leave.",
-"Gift.Dislike.Keahi": "Ew! What’s that!?",
+"Gift.Dislike.Keahi": "Ew! What's that!?",
 "Gift.Dislike.Kenneth": "I don't like this at all, @.",
 "Gift.Dislike.Kiwi": "Kiwi not like this. Shoo!",
 "Gift.Dislike.Lenny": "I don't like this, @. I'm sorry.",
@@ -554,11 +554,11 @@
 
 	//Response 1
 "event-75160116.05": "Nothing, just curious.",
-"event-75160116.Fork1": "That’s kind of weird...#$b# Maybe don’t be curious about others’ private property?#$b# I’m teasing! But I will remember to lock the shed tonight.$a",
+"event-75160116.Fork1": "That's kind of weird...#$b# Maybe don't be curious about others' private property?#$b# I'm teasing! But I will remember to lock the shed tonight.$a",
 
 	//Response 2
 "event-75160116.06": "I missed you and I was looking for you.",
-"event-75160116.Fork2": "U-uh, what?$7#$b#Hey, don’t joke around like that!$l",
+"event-75160116.Fork2": "U-uh, what?$7#$b#Hey, don't joke around like that!$l",
 
 	//Response 3
 "event-75160116.07": "I was spying on my competition.",
@@ -588,7 +588,7 @@
 
 	//Farmer doesn't agree to help
 "event-75160065.05": "Sorry, I'm busy.",
-"event-75160065.Fork2": "Oh, that’s too bad. %fork$s",
+"event-75160065.Fork2": "Oh, that's too bad. %fork$s",
 "event-75160065.BertSad.01": "Oh well. I guess you better get going then huh?#$b#I'll figure out how to fix this on my own, no worries!.#$b#Bye now @.",
 
 //Bert problem with Trinnie (Bert 4 hearts)
@@ -908,11 +908,11 @@
 
 	//Farmer is being considerate
 "event-75160128.11": "It's okay. You were just really tired. I didn't see anything..",
-"event-75160128.Fork1": "Huh? … R-really?$s#$b# That’s good to know… I-I’m glad.",
+"event-75160128.Fork1": "Huh? … R-really?$s#$b# That's good to know… I-I'm glad.",
 
 	//Farmer is being nonchalant 
 "event-75160128.12": "Be more careful next time.",
-"event-75160128.Fork2": "I-I-I know! I definitely will! Absolutely!$s#$b# This will never happen again!$s#$b# I-it can’t, or I’d implode... $s",
+"event-75160128.Fork2": "I-I-I know! I definitely will! Absolutely!$s#$b# This will never happen again!$s#$b# I-it can't, or I'd implode... $s",
 
 	//Continue
 "event-75160128.14": "Umm. S-so.$s#$b# Thank you for telling me, @. A-and please, um... please don't tell anyone else?$s#$b#I know you won't, but I just... um. W-wanted to ask...$s#$b#I-I hope you have a good day!$h",
@@ -946,23 +946,24 @@
 
 //Flor plans a research (Flor 6 hearts)
 "event-75160130.01": "Hm?$6",
-"event-75160130.02": "Oh!.. I'm sorry I was lost in my own thoughts @.$7#$b#Uhmm.. I'm actually trying to figure out something.$6",
-"event-75160130.03": "Well uhmm.. So..$6",
-"event-75160130.04": "There's this published research about human interactions between peers of the same interests$6#$b#I was quite interested in it. But instead, I'm even more interested in the same concept, but with different subjects.$6",
+"event-75160130.02": "Oh!... I'm sorry, I was lost in thought.$7#$b#Um... I'm actually trying to figure something out.$6",
+"event-75160130.03": "Well, um... So...$6",
+"event-75160130.04": "I've been inspired by a recent publication about interactions between peers with the same interests.$6#$b#I want to explore a similar research question, but with different subjects.$6",
 "event-75160130.05": "Come take a look at this.$6",
-"event-75160130.06": "So uhmm.. I plan to do the same research, but instead of peers of the same interests.$6#$b#I'll have peers with different interests try and converse with one another.$7#$b#Oohh I'm quite excited to see what are the interactions!$7#$b#Commonly they would be awkward, But I intend to administer a sense of supervision to where the subjects are forced to come up of a topic to converse to their contrast.$7#$b#I wonder how will they start up a conversation!$7",
-"event-75160130.07": "Flor takes off her glasses and keeps them.",
-"event-75160130.08": "Excuse me, I just had to take off my glasses.#$b#I get a migraine when I wear them for too long.$s",
-"event-75160130.09": "So I was saying...$h",
-"event-75160130.10": "You both didn't realize you were sitting a little close#Upon facing you, her face is near and right in front of yours and you both lock eyes.#Her green eyes gazing upon yours, with a sense of shock yet admiring the eyes in front of hers, but still a stranger to another's gaze this close to hers.#She looks surprisingly even more prettier up close, especially with her glasses off.",
-"event-75160130.11": "OH! Uhmm.. I'm sorry I seem to have sat a little too close to you @..$12#$b#Uhmm.. I don't mind.. I mean..$12",
-"event-75160130.12": "So! Uhm.. @...$12#$b#I.. I.. hope you'd... YOU'D... You'd he-help me.. with my.. uhm..$12#$b#Research!.. Yes! Research!$12#$b#I.. I.. don't know anyone enough to ask them of this... so uhmm..$12#$b#Plea--please @.. I mean! If it's fine by you..$12",
-"event-75160130.13": "You will?! Woohoo!$l#$b#I mean! Uhmm... Thank you @...$12#$b#I really appreciate this...$12",
-"event-75160130.14": "Flor seems to be giggling as her back is turned against you.",
-"event-75160130.15": "Uhhmm... I.. I will send a letter to you if I'm ready to conduct the research..$12#$b#I'm sorry for speaking like this... I can't seem to stop this redness on my face.. I..I'm trying to conceal it..$12#$b#Uhmm.. So uhm.. I hope to see you again @...$12#$b#And.. uhmm.. yeah..$12",
-"event-75160130.16": "*whispering to herself* Flor what is happening to you?$12#$b#Why am I this flustered?$12#$b#Calm down... eeep!..$12",
-"event-75160130.17": "I'm sorry for the way I was acting earlier @..$s#$b#I.. I didn't really know what happened..$12",
-
+"event-75160130.06": "So, um.. I plan to use a similar protocol, but instead of peers with the same interests...$6#$b#...I'll have peers with different interests try to converse with one another.$7#$b#Of course, there would be no data to collect if they just sat there in silence. So I'll instruct them to find *something* to talk about, but otherwise leave them to their own devices.$7#$b#Ooh, I'm so excited to see how they start up a conversation!$7",
+"event-75160130.07": "Oh, excuse me for a moment.$6",
+"event-75160130.08": "Flor takes off her glasses.",
+"event-75160130.09": "I get a migraine when I wear these for too long.$s",
+"event-75160130.10": "So, as I was saying...$h",
+"event-75160130.11": "Flor goes into detail about the design of the experiment she's planning. She seems nervous at first, as if she thinks she's boring you... but when you start to interject with questions, the kind that show you're really listening, she gets more and more enthusiastic.#In the middle of explaining one of the trickier points of ethics in research with human participants, she locks eyes with you and--unusually for her--doesn't immediately look away.#You're struck by how vulnerable she seems. You're seeing her eyes without the barrier of her glasses, and that's part of it. But more than that, you're seeing her passion, unchecked and unfiltered.#Eventually, seeming to realize that she's been making direct eye contact for a while, she trails off self-consciously and ducks behind her trusty book.",
+"event-75160130.12": "Um, I'm sorry if I got carried away there...#$b#I know that was a lot to unload on you when this isn't even your field... I mean, your field *of expertise*, not... with the crops... um...$12",
+"event-75160130.13": "So! Um... @...$12#$b#I... I was hoping *you'd*... You'd he-help me... with my... um...$12#$b#Research!... Yes! Research!$12#$b#I… don't know anyone else well enough to ask this of them... so, um..$12#$b#Plea--please @... I mean! If it's not an imposition...$12",
+"event-75160130.14": "You will?! Thank you, @! I really appreciate this!$1",
+"event-75160130.15": "Flor smiles with evident relief.",
+"event-75160130.16": "Um, I'll send you a letter when I'm ready to conduct the research..$12#$b#I'm sorry for being so awkward. It's... it's hard for me to tell when I'm overstepping, um, socially...$12#$b# So, um... I hope to see you soon, @...$12#$b#And... um... yeah!$1",
+"event-75160130.17": "Flor whispers to herself:",
+"event-75160130.18": "Flor, calm down! It went fine... everything's fine!$12#$b#Why do I always have to get this flustered?$12",
+"event-75160130.19": "Thank you for agreeing to help me, @.#$b#And... for listening to me.$1",
 
 //Flor research (Flor 8 hearts part 2)
 "event-75160132.01": "Okay.. All set!$h",
@@ -1122,7 +1123,7 @@
 "event-75160146.05": "Ian seems worried about how much he has to do...",
 
 "event-75160146.06": "Let me help you deliver these.",
-"event-75160146.Fork1": "Huh? You want to help?#$b#I’m okay, @. And I don’t want to bother you. I know you’re busy, too!$h#$b# But thanks! That’s really nice of you.$h",
+"event-75160146.Fork1": "Huh? You want to help?#$b#I'm okay, @. And I don't want to bother you. I know you're busy, too!$h#$b# But thanks! That's really nice of you.$h",
 "event-75160146.08": "You really insist, huh?#$b#If it's really not a problem, I could use the help...#$b#Okay then! Can you push this other cart?$h",
 "event-75160146.09": "You good? Let's go!",
 "event-75160146.10": "Onward!$h",
@@ -2524,7 +2525,7 @@
 "event-75160113.10": "Hey now, don't be sad, Yuuma.#$b#Tell you what, until your parents come back, I can be your pretend mother!$h",
 "event-75160113.11": "Hm? Really, Trinnie?#$b#Sometimes I see you wear mismatched slippers when we play!$h#$b#You can't be a mommy!$h",
 "event-75160113.12": "HA HA! She got you real good there, Trin!$h",
-"event-75160113.13": "Hmph! You’ll see! Yuuma will cheer up real fast if I take care of him!$a",
+"event-75160113.13": "Hmph! You'll see! Yuuma will cheer up real fast if I take care of him!$a",
 "event-75160113.14": "Ha ha! He sure will!$h#$b#Just by seeing your clumsy antics!$h",
 "event-75160113.15": "Ha ha! I missed you guys!$h#$b#Thank you for cheering me up!$h",
 "event-75160113.16": "I had fun with my friends today!$h",

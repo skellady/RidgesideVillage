@@ -1,13 +1,18 @@
 {
 "Changes": [
 
+		/*********
+		** Festivals
+		*********/	
 			/*********
-			** Luau Portrait
+			** Luau Portraits
 			*********/
+
 		{
+        	"LogName": "Jeric Luau Portraits",			
 			"Action": "EditImage",
 			"Target": "Portraits/Jeric",
-			"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{JericPortraitStyle}}_Luau.png",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/Luau_{{JericPortraitStyle}}.png, Assets/{{Target}}/{{JericPortraitStyle}}.png }}",
 			"PatchMode": "Replace",
 	        "When": {
                 	"DayEvent": "luau",
@@ -15,5 +20,22 @@
                 	},
                     	"Update": "OnLocationChange"   
 		},
+
+			/*********
+			** Luau Sprites
+			*********/						
+    	{
+        	"LogName": "Jeric Luau Sprites",
+        	"Action": "EditImage",
+        	"Target": "Characters/Jeric",
+			"FromFile": "Assets/{{Target}}/Seasonals/Luau_{{TargetWithoutPath}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+            		"DayEvent": "luau",
+               		"LocationName": "Beach, temp"                    
+               		},
+                   		"Update": "OnLocationChange"   		        
+    	},
+
 ]
 }

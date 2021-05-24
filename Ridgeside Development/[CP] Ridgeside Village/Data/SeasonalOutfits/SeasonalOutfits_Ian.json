@@ -1,19 +1,41 @@
 {
 "Changes": [
 
+		/*********
+		** Festivals
+		*********/	
 			/*********
-			** Luau Portrait
+			** Luau Portraits
 			*********/
-			{
-				"Action": "EditImage",
-				"Target": "Portraits/Ian",
-				"FromFile": "Assets/Portraits/{{TargetWithoutPath}}/Seasonals/{{TargetWithoutPath}}_{{IanPortraitStyle}}_Luau.png",
-				"PatchMode": "Replace",
-		        "When": {
+
+		{
+        	"LogName": "Ian Luau Portraits",			
+			"Action": "EditImage",
+			"Target": "Portraits/Ian",
+			"FromFile": "{{FirstValidFile: Assets/{{Target}}/Seasonals/Luau_{{IanPortraitStyle}}.png, Assets/{{Target}}/{{IanPortraitStyle}}.png }}",
+			"PatchMode": "Replace",
+	        "When": {
                 	"DayEvent": "luau",
-                	"LocationName": "Beach, temp"         
-            	    	},
-                	    	"Update": "OnLocationChange"   
-			},
+                	"LocationName": "Beach, temp"                    
+                	},
+                    	"Update": "OnLocationChange"   
+		},
+
+			/*********
+			** Luau Sprites
+			*********/						
+    	{
+        	"LogName": "Ian Luau Sprites",
+        	"Action": "EditImage",
+        	"Target": "Characters/Ian",
+			"FromFile": "Assets/{{Target}}/Seasonals/Luau_{{TargetWithoutPath}}.png",
+			"PatchMode": "Replace",
+	        "When": {
+            		"DayEvent": "luau",
+               		"LocationName": "Beach, temp"                    
+               		},
+                   		"Update": "OnLocationChange"   		        
+    	},
+
 ]
 }
