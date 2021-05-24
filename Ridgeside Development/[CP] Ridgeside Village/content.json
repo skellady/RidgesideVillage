@@ -339,6 +339,8 @@
 			"Default": "Default",
 			"Description": "Pick your preferred Flor Sprite"
 		},							
+
+//Map Style		
 		"PastoralMapStyle": {
 			"AllowValues": "PastoralBase, PastoralGreen",
 			"Default": "PastoralBase",

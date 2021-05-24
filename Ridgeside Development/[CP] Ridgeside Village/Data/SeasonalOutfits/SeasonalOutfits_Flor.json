@@ -28,7 +28,7 @@
         	"LogName": "Flor Luau Sprites",
         	"Action": "EditImage",
         	"Target": "Characters/Flor",
-			"FromFile": "Assets/{{Target}}/Seasonals/Luau_{{TargetWithoutPath}}.png",
+			"FromFile": "Assets/{{Target}}/Seasonals/Luau_{{TargetWithoutPath}}_{{FlorSpriteStyle}}.png",
 			"PatchMode": "Replace",
 	        "When": {
             		"DayEvent": "luau",
