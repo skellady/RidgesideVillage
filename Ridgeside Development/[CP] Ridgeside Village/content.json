@@ -177,176 +177,176 @@
 		},
 
 //Portrait Style		
-		"AguarPortraitStyle": {
-			"AllowValues": "Default, Legacy, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Aguar Portrait"
-		},
-		
-		"AlissaPortraitStyle" :{
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Alissa Portrait"
-		},
-		
-		"BertPortraitStyle": { 
-			"AllowValues": "Default, Legacy, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Bert Portrait"
-		},
-		
-		"CorinePortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Corine Portrait"
-		},
-		
-		"EzekielPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Ezekiel Portrait"
-		},
-		
-		"FlorPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Flor Portrait"
-		},
-		
-		"FreddiePortraitStyle": {
-			"AllowValues": "Default, Legacy, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Freddie Portrait"
-		},
+"AguarPortraitStyle": {
+	"AllowValues": "Default, Legacy, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Aguar Portrait"
+},
 
-		"HelenPortraitStyle": {
-			"AllowValues": "Default,",
-			"Default": "Default",
-			"Description": "Pick your preferred Helen Portrait"
-		},	
-		
-		"IanPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, BodyArtBrandon, OnePointOne, Blyaaa",
-			"Default": "Default",
-			"Description": "Pick your preferred Ian Portrait"
-		},
-		
-		"JericPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Jeric Portrait"
-		},
-		
-		"JioPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
-			"Default": "Default",
-			"Description": "Pick your preferred Jio Portrait"
-		},
-		
-		"KeahiPortraitStyle": {
-			"AllowValues": "Default, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Keahi Portrait"
-		},
-		
-		"KennethPortraitStyle": {
-			"AllowValues": "Default, Legacy, LegacyBeard, Avislone, OnePointOne, Blyaaa",
-			"Default": "Default",
-			"Description": "Pick your preferred Kenneth Portrait"
-		},
-		
-		"KiwiPortraitStyle": {
-			"AllowValues": "Default, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Kiwi Portrait"
-		},
-		
-		"LennyPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Lenny Portrait"
-		},
-		
-		"LolaPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
-			"Default": "Default",
-			"Description": "Pick your preferred Lola Portrait"
-		},
-		
-		"MaddiePortraitStyle": {
-			"AllowValues": "Default, Legacy, LegacyGlasses, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Maddie Portrait"
-		},
-		
-		"OlgaPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Olga Portrait"
-		},
-		
-		"PhilipPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Philip Portrait"
-		},
-		
-		"PikaPortraitStyle": {
-			"AllowValues": "Default, Legacy, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Pika Portrait"
-		},
-		
-		"RichardPortraitStyle": {
-			"AllowValues": "Default, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Richard Portrait"
-		},
-		
-		"ShiroPortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Shiro Portrait"
-		},
-		
-		"TrinniePortraitStyle": {
-			"AllowValues": "Default, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Trinnie Portrait"
-		},
+"AlissaPortraitStyle" :{
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Alissa Portrait"
+},
 
-		"UndreyaPortraitStyle": {
-			"AllowValues": "Default",
-			"Default": "Default",
-			"Description": "Pick your preferred Undreya Portrait"
-		},		
-		
-		"YsabellePortraitStyle": {
-			"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
-			"Default": "Default",
-			"Description": "Pick your preferred Ysabelle Portrait"
-		},
-		
-		"YuumaPortraitStyle": {
-			"AllowValues": "Default, OnePointOne",
-			"Default": "Default",
-			"Description": "Pick your preferred Yuuma Portrait"
-		},
+"BertPortraitStyle": { 
+	"AllowValues": "Default, Legacy, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Bert Portrait"
+},
+
+"CorinePortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Corine Portrait"
+},
+
+"EzekielPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Ezekiel Portrait"
+},
+
+"FlorPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Flor Portrait"
+},
+
+"FreddiePortraitStyle": {
+	"AllowValues": "Default, Legacy, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Freddie Portrait"
+},
+
+"HelenPortraitStyle": {
+	"AllowValues": "Default,",
+	"Default": "Default",
+	"Description": "Pick your preferred Helen Portrait"
+},	
+
+"IanPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, BodyArtBrandon, OnePointOne, Blyaaa",
+	"Default": "Default",
+	"Description": "Pick your preferred Ian Portrait"
+},
+
+"JericPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Jeric Portrait"
+},
+
+"JioPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
+	"Default": "Default",
+	"Description": "Pick your preferred Jio Portrait"
+},
+
+"KeahiPortraitStyle": {
+	"AllowValues": "Default, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Keahi Portrait"
+},
+
+"KennethPortraitStyle": {
+	"AllowValues": "Default, Legacy, LegacyBeard, Avislone, OnePointOne, Blyaaa",
+	"Default": "Default",
+	"Description": "Pick your preferred Kenneth Portrait"
+},
+
+"KiwiPortraitStyle": {
+	"AllowValues": "Default, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Kiwi Portrait"
+},
+
+"LennyPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Lenny Portrait"
+},
+
+"LolaPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
+	"Default": "Default",
+	"Description": "Pick your preferred Lola Portrait"
+},
+
+"MaddiePortraitStyle": {
+	"AllowValues": "Default, Legacy, LegacyGlasses, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Maddie Portrait"
+},
+
+"OlgaPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Olga Portrait"
+},
+
+"PhilipPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Philip Portrait"
+},
+
+"PikaPortraitStyle": {
+	"AllowValues": "Default, Legacy, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Pika Portrait"
+},
+
+"RichardPortraitStyle": {
+	"AllowValues": "Default, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Richard Portrait"
+},
+
+"ShiroPortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Shiro Portrait"
+},
+
+"TrinniePortraitStyle": {
+	"AllowValues": "Default, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Trinnie Portrait"
+},
+
+"UndreyaPortraitStyle": {
+	"AllowValues": "Default",
+	"Default": "Default",
+	"Description": "Pick your preferred Undreya Portrait"
+},		
+
+"YsabellePortraitStyle": {
+	"AllowValues": "Default, Legacy, Avislone, OnePointOne, Blyaaa",
+	"Default": "Default",
+	"Description": "Pick your preferred Ysabelle Portrait"
+},
+
+"YuumaPortraitStyle": {
+	"AllowValues": "Default, OnePointOne",
+	"Default": "Default",
+	"Description": "Pick your preferred Yuuma Portrait"
+},
 
 //Sprite Style					
-		"FlorSpriteStyle": {
-			"AllowValues": "Default, Legacy",
-			"Default": "Default",
-			"Description": "Pick your preferred Flor Sprite"
-		},							
+"FlorSpriteStyle": {
+	"AllowValues": "Default, Legacy",
+	"Default": "Default",
+	"Description": "Pick your preferred Flor Sprite"
+},							
 
 //Map Style		
-		"PastoralMapStyle": {
-			"AllowValues": "PastoralBase, PastoralGreen",
-			"Default": "PastoralBase",
-			"Description": "Pick your preferred Pastoral fall season map-style"
-		},					
-	},
+"PastoralMapStyle": {
+	"AllowValues": "PastoralBase, PastoralGreen",
+	"Default": "PastoralBase",
+	"Description": "Pick your preferred Pastoral fall season map-style"
+},					
+},
 
 	/*********
 	** Dynamic tokens
@@ -549,7 +549,7 @@
 	/*********
 	** Define in-game locations
 	*********/
-    "CustomLocations": [
+	"CustomLocations": [
 
 		/*********
 		** EventMaps
@@ -557,294 +557,294 @@
 			/*********
 			** Aguar
 			*********/		
-      	{
-         	"Name": "Custom_Ridgeside_AguarCave",
-         	"FromMapFile": "Assets/Maps/EventMaps/AguarCave.tmx",
-         	"MigrateLegacyNames": [ "AguarCave" ]
-      	},   
-      	{
-         	"Name": "Custom_Ridgeside_AguarCaveTemporary",
-         	"FromMapFile": "Assets/Maps/EventMaps/AguarCaveTemporary.tmx",
-         	"MigrateLegacyNames": [ "AguarCaveTemporary" ]
-      	},    
+			{
+				"Name": "Custom_Ridgeside_AguarCave",
+				"FromMapFile": "Assets/Maps/EventMaps/AguarCave.tmx",
+				"MigrateLegacyNames": [ "AguarCave" ]
+			},   
+			{
+				"Name": "Custom_Ridgeside_AguarCaveTemporary",
+				"FromMapFile": "Assets/Maps/EventMaps/AguarCaveTemporary.tmx",
+				"MigrateLegacyNames": [ "AguarCaveTemporary" ]
+			},    
 
 			/*********
 			** Ezekiel
 			*********/	
-      	{
-         	"Name": "Custom_Ridgeside_EzekielPic",
-         	"FromMapFile": "Assets/Maps/EventMaps/EzekielPic.tmx",
-         	"MigrateLegacyNames": [ "EzekielPic" ]
-      	},
+			{
+				"Name": "Custom_Ridgeside_EzekielPic",
+				"FromMapFile": "Assets/Maps/EventMaps/EzekielPic.tmx",
+				"MigrateLegacyNames": [ "EzekielPic" ]
+			},
 			/*********
 			** Lola
 			*********/
-      	{
-         	"Name": "Custom_Ridgeside_LolaShed",
-         	"FromMapFile": "Assets/Maps/EventMaps/LolaShed.tmx",
-         	"MigrateLegacyNames": [ "LolaShed" ]
-      	},        	
+			{
+				"Name": "Custom_Ridgeside_LolaShed",
+				"FromMapFile": "Assets/Maps/EventMaps/LolaShed.tmx",
+				"MigrateLegacyNames": [ "LolaShed" ]
+			},        	
 			/*********
 			** Undreya
 			*********/	
-      	{
-         	"Name": "Custom_Ridgeside_RSVAbandonedHouse",
-         	"FromMapFile": "Assets/Maps/EventMaps/RSVAbandonedHouse.tmx",
-         	"MigrateLegacyNames": [ "RSVAbandonedHouse" ]
-      	},
+			{
+				"Name": "Custom_Ridgeside_RSVAbandonedHouse",
+				"FromMapFile": "Assets/Maps/EventMaps/RSVAbandonedHouse.tmx",
+				"MigrateLegacyNames": [ "RSVAbandonedHouse" ]
+			},
 			/*********
 			** Multiple NPCs
 			*********/
-        {
-            "Name": "Custom_Ridgeside_PrincessVilleDate",
-            "FromMapFile": "Assets/Maps/EventMaps/PrincessVilleDate.tmx",
-         	"MigrateLegacyNames": [ "PrincessVilleDate" ]
-        },   
+			{
+				"Name": "Custom_Ridgeside_PrincessVilleDate",
+				"FromMapFile": "Assets/Maps/EventMaps/PrincessVilleDate.tmx",
+				"MigrateLegacyNames": [ "PrincessVilleDate" ]
+			},   
 			/*********
 			** Public Greenhouses
 			*********/
-      	{
-         	"Name": "Custom_Ridgeside_RSVGreenhouse1",
-         	"FromMapFile": "Assets/Maps/EventMaps/RSVGreenhouse1.tmx",
-         	"MigrateLegacyNames": [ "RSVGreenhouse1" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RSVGreenhouse2",
-         	"FromMapFile": "Assets/Maps/EventMaps/RSVGreenhouse2.tmx",
-         	"MigrateLegacyNames": [ "RSVGreenhouse2" ]
-      	},
+			{
+				"Name": "Custom_Ridgeside_RSVGreenhouse1",
+				"FromMapFile": "Assets/Maps/EventMaps/RSVGreenhouse1.tmx",
+				"MigrateLegacyNames": [ "RSVGreenhouse1" ]
+			},
+			{
+				"Name": "Custom_Ridgeside_RSVGreenhouse2",
+				"FromMapFile": "Assets/Maps/EventMaps/RSVGreenhouse2.tmx",
+				"MigrateLegacyNames": [ "RSVGreenhouse2" ]
+			},
 			/*********
 			** CableCar Cutscene
 			*********/		
-      	{
-         	"Name": "Custom_Ridgeside_RSVTheRide",
-         	"FromMapFile": "Assets/Maps/EventMaps/RSVTheRide.tmx",
-         	"MigrateLegacyNames": [ "RSVTheRide" ]
-      	}, 
+			{
+				"Name": "Custom_Ridgeside_RSVTheRide",
+				"FromMapFile": "Assets/Maps/EventMaps/RSVTheRide.tmx",
+				"MigrateLegacyNames": [ "RSVTheRide" ]
+			}, 
 			/*********
 			** MineCart Map
 			*********/		
-      	{
-         	"Name": "Custom_Ridgeside_RSVMinecart",
-         	"FromMapFile": "Assets/Maps/EventMaps/RSVMinecart.tmx",
-         	"MigrateLegacyNames": [ "RSVMinecart" ]
-     	},
+			{
+				"Name": "Custom_Ridgeside_RSVMinecart",
+				"FromMapFile": "Assets/Maps/EventMaps/RSVMinecart.tmx",
+				"MigrateLegacyNames": [ "RSVMinecart" ]
+			},
 		/*********
 		** FestivalMaps
 		*********/    	   
-      	{
-         	"Name": "Custom_Ridgeside_EmberNight",
-         	"FromMapFile": "Assets/Maps/FestivalMaps/EmberNight.tmx",
-         	"MigrateLegacyNames": [ "EmberNight" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RSVGathering",
-         	"FromMapFile": "Assets/Maps/FestivalMaps/RSVGathering.tmx",
-         	"MigrateLegacyNames": [ "RSVGathering" ]
-      	},      	  	   
+		{
+			"Name": "Custom_Ridgeside_EmberNight",
+			"FromMapFile": "Assets/Maps/FestivalMaps/EmberNight.tmx",
+			"MigrateLegacyNames": [ "EmberNight" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RSVGathering",
+			"FromMapFile": "Assets/Maps/FestivalMaps/RSVGathering.tmx",
+			"MigrateLegacyNames": [ "RSVGathering" ]
+		},      	  	   
 
 		/*********
 		** IndoorMaps
 		*********/    	
-      	{
-         	"Name": "Custom_Ridgeside_AguarBasement",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AguarBasement.tmx",
-         	"MigrateLegacyNames": [ "AguarBasement" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_AguarLab",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AguarLab.tmx",
-         	"MigrateLegacyNames": [ "AguarLab" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_AlissaHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaHouse.tmx",
-         	"MigrateLegacyNames": [ "AlissaHouse" ]
-      	},     	   
-      	{
-         	"Name": "Custom_Ridgeside_AlissaShed",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaShed.tmx",
-         	"MigrateLegacyNames": [ "AlissaShed" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_AlissaCowBarn",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaCowBarn.tmx",
-         	"MigrateLegacyNames": [ "AlissaCowBarn" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_AlissaGoatBarn",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/AlissaGoatBarn.tmx",
-         	"MigrateLegacyNames": [ "AlissaGoatBarn" ]
-      	},        	   	
-      	{
-         	"Name": "Custom_Ridgeside_BertHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse.tmx",
-         	"MigrateLegacyNames": [ "BertHouse" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_BertHouse2ndFloor",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse2ndFloor.tmx",
-         	"MigrateLegacyNames": [ "BertHouse2ndFloor" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_EzekielHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/EzekielHouse.tmx",
-         	"MigrateLegacyNames": [ "EzekielHouse" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_FreddieHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/FreddieHouse.tmx",
-         	"MigrateLegacyNames": [ "FreddieHouse" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_IanHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/IanHouse.tmx",
-         	"MigrateLegacyNames": [ "IanHouse" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_JericHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/JericHouse.tmx",
-         	"MigrateLegacyNames": [ "JericHouse" ]
-      	},     	   
-      	{
-         	"Name": "Custom_Ridgeside_KennethHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/KennethHouse.tmx",
-         	"MigrateLegacyNames": [ "KennethHouse" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_LennyHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/LennyHouse.tmx",
-         	"MigrateLegacyNames": [ "LennyHouse" ]
-      	},
-        {
-            "Name": "Custom_Ridgeside_LogCabinHotel2ndFloor",
-            "FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotel2ndFloor.tmx",
-         	"MigrateLegacyNames": [ "LogCabinHotel2ndFloor" ]
-        },        
-        {
-            "Name": "Custom_Ridgeside_LogCabinHotel3rdFloor",
-            "FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotel3rdFloor.tmx",
-         	"MigrateLegacyNames": [ "LogCabinHotel3rdFloor" ]
-        },
-        {
-            "Name": "Custom_Ridgeside_LogCabinHotelLobby",
-            "FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotelLobby.tmx",
-         	"MigrateLegacyNames": [ "LogCabinHotelLobby" ]
-        },        
-      	{
-         	"Name": "Custom_Ridgeside_MaddieHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/MaddieHouse.tmx",
-         	"MigrateLegacyNames": [ "MaddieHouse" ]
-      	},
-        {
-            "Name": "Custom_Ridgeside_PikaHouse",
-            "FromMapFile": "Assets/Maps/IndoorMaps/PikaHouse.tmx",
-         	"MigrateLegacyNames": [ "PikaHouse" ]
-        },        
-      	{
-         	"Name": "Custom_Ridgeside_RSVNinjaHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/RSVNinjaHouse.tmx",
-         	"MigrateLegacyNames": [ "RSVNinjaHouse" ]
-     	},  
-       	{
-         	"Name": "Custom_Ridgeside_ShiroHouse",
-         	"FromMapFile": "Assets/Maps/IndoorMaps/ShiroHouse.tmx",
-         	"MigrateLegacyNames": [ "ShiroHouse" ]
-      	},
+		{
+			"Name": "Custom_Ridgeside_AguarBasement",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AguarBasement.tmx",
+			"MigrateLegacyNames": [ "AguarBasement" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_AguarLab",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AguarLab.tmx",
+			"MigrateLegacyNames": [ "AguarLab" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_AlissaHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AlissaHouse.tmx",
+			"MigrateLegacyNames": [ "AlissaHouse" ]
+		},     	   
+		{
+			"Name": "Custom_Ridgeside_AlissaShed",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AlissaShed.tmx",
+			"MigrateLegacyNames": [ "AlissaShed" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_AlissaCowBarn",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AlissaCowBarn.tmx",
+			"MigrateLegacyNames": [ "AlissaCowBarn" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_AlissaGoatBarn",
+			"FromMapFile": "Assets/Maps/IndoorMaps/AlissaGoatBarn.tmx",
+			"MigrateLegacyNames": [ "AlissaGoatBarn" ]
+		},        	   	
+		{
+			"Name": "Custom_Ridgeside_BertHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse.tmx",
+			"MigrateLegacyNames": [ "BertHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_BertHouse2ndFloor",
+			"FromMapFile": "Assets/Maps/IndoorMaps/BertHouse2ndFloor.tmx",
+			"MigrateLegacyNames": [ "BertHouse2ndFloor" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_EzekielHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/EzekielHouse.tmx",
+			"MigrateLegacyNames": [ "EzekielHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_FreddieHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/FreddieHouse.tmx",
+			"MigrateLegacyNames": [ "FreddieHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_IanHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/IanHouse.tmx",
+			"MigrateLegacyNames": [ "IanHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_JericHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/JericHouse.tmx",
+			"MigrateLegacyNames": [ "JericHouse" ]
+		},     	   
+		{
+			"Name": "Custom_Ridgeside_KennethHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/KennethHouse.tmx",
+			"MigrateLegacyNames": [ "KennethHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_LennyHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/LennyHouse.tmx",
+			"MigrateLegacyNames": [ "LennyHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_LogCabinHotel2ndFloor",
+			"FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotel2ndFloor.tmx",
+			"MigrateLegacyNames": [ "LogCabinHotel2ndFloor" ]
+		},        
+		{
+			"Name": "Custom_Ridgeside_LogCabinHotel3rdFloor",
+			"FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotel3rdFloor.tmx",
+			"MigrateLegacyNames": [ "LogCabinHotel3rdFloor" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_LogCabinHotelLobby",
+			"FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotelLobby.tmx",
+			"MigrateLegacyNames": [ "LogCabinHotelLobby" ]
+		},        
+		{
+			"Name": "Custom_Ridgeside_MaddieHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/MaddieHouse.tmx",
+			"MigrateLegacyNames": [ "MaddieHouse" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_PikaHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/PikaHouse.tmx",
+			"MigrateLegacyNames": [ "PikaHouse" ]
+		},        
+		{
+			"Name": "Custom_Ridgeside_RSVNinjaHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/RSVNinjaHouse.tmx",
+			"MigrateLegacyNames": [ "RSVNinjaHouse" ]
+		},  
+		{
+			"Name": "Custom_Ridgeside_ShiroHouse",
+			"FromMapFile": "Assets/Maps/IndoorMaps/ShiroHouse.tmx",
+			"MigrateLegacyNames": [ "ShiroHouse" ]
+		},
 
 		/*********
 		** QuestMaps
 		*********/    	
-      	{
-         	"Name": "Custom_Ridgeside_MysticFalls1",
-         	"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls1.tmx",
-         	"MigrateLegacyNames": [ "MysticFalls1" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_MysticFalls2",
-         	"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls2.tmx",
-         	"MigrateLegacyNames": [ "MysticFalls2" ]
-      	},      	   
-      	{
-         	"Name": "Custom_Ridgeside_MysticFalls3",
-         	"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls3.tmx",
-         	"MigrateLegacyNames": [ "MysticFalls3" ]
-      	},
+		{
+			"Name": "Custom_Ridgeside_MysticFalls1",
+			"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls1.tmx",
+			"MigrateLegacyNames": [ "MysticFalls1" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_MysticFalls2",
+			"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls2.tmx",
+			"MigrateLegacyNames": [ "MysticFalls2" ]
+		},      	   
+		{
+			"Name": "Custom_Ridgeside_MysticFalls3",
+			"FromMapFile": "Assets/Maps/QuestMaps/MysticFalls3.tmx",
+			"MigrateLegacyNames": [ "MysticFalls3" ]
+		},
 
 		/*********
 		** OutdoorMaps
 		*********/    	
-      	{
-        	"Name": "Custom_Ridgeside_Ridge",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/Ridge.tmx",
-         	"MigrateLegacyNames": [ "Ridge" ]
-      	},      
-      	{
-         	"Name": "Custom_Ridgeside_RidgeFalls",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeFalls.tmx",
-         	"MigrateLegacyNames": [ "RidgeFalls" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RidgeForestQ1",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ1.tmx",
-         	"MigrateLegacyNames": [ "RidgeForestQ1" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RidgeForestQ2",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ2.tmx",
-         	"MigrateLegacyNames": [ "RidgeForestQ2" ]
-     	},                  
-      	{
-         	"Name": "Custom_Ridgeside_RidgeForestQ3",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ3.tmx",
-         	"MigrateLegacyNames": [ "RidgeForestQ3" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RidgeForestQ4",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ4.tmx",
-         	"MigrateLegacyNames": [ "RidgeForestQ4" ]
-      	},
-        {
-            "Name": "Custom_Ridgeside_RidgesideVillage",
-            "FromMapFile": "Assets/Maps/OutdoorMaps/RidgesideVillage.tmx",
-         	"MigrateLegacyNames": [ "RidgesideVillage" ]
-        },    
-      	{
-         	"Name": "Custom_Ridgeside_RSVCableCar",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RSVCableCar.tmx",
-         	"MigrateLegacyNames": [ "RSVCableCar" ]
-      	},
-      	{
-         	"Name": "Custom_Ridgeside_RSVCliff",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RSVCliff.tmx",
-         	"MigrateLegacyNames": [ "RSVCliff" ]
-      	},       	     	
-      	{
-         	"Name": "Custom_Ridgeside_RSVTheHike",
-         	"FromMapFile": "Assets/Maps/OutdoorMaps/RSVTheHike.tmx",
-         	"MigrateLegacyNames": [ "RSVTheHike" ]
-     	},      	
+		{
+			"Name": "Custom_Ridgeside_Ridge",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/Ridge.tmx",
+			"MigrateLegacyNames": [ "Ridge" ]
+		},      
+		{
+			"Name": "Custom_Ridgeside_RidgeFalls",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeFalls.tmx",
+			"MigrateLegacyNames": [ "RidgeFalls" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RidgeForestQ1",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ1.tmx",
+			"MigrateLegacyNames": [ "RidgeForestQ1" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RidgeForestQ2",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ2.tmx",
+			"MigrateLegacyNames": [ "RidgeForestQ2" ]
+		},                  
+		{
+			"Name": "Custom_Ridgeside_RidgeForestQ3",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ3.tmx",
+			"MigrateLegacyNames": [ "RidgeForestQ3" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RidgeForestQ4",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgeForestQ4.tmx",
+			"MigrateLegacyNames": [ "RidgeForestQ4" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RidgesideVillage",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RidgesideVillage.tmx",
+			"MigrateLegacyNames": [ "RidgesideVillage" ]
+		},    
+		{
+			"Name": "Custom_Ridgeside_RSVCableCar",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RSVCableCar.tmx",
+			"MigrateLegacyNames": [ "RSVCableCar" ]
+		},
+		{
+			"Name": "Custom_Ridgeside_RSVCliff",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RSVCliff.tmx",
+			"MigrateLegacyNames": [ "RSVCliff" ]
+		},       	     	
+		{
+			"Name": "Custom_Ridgeside_RSVTheHike",
+			"FromMapFile": "Assets/Maps/OutdoorMaps/RSVTheHike.tmx",
+			"MigrateLegacyNames": [ "RSVTheHike" ]
+		},      	
 
 		/*********
 		** DynamicMaps
 		*********/    	
-      	{
-         	"Name": "Custom_Ridgeside_RSVCliffNight",
-         	"FromMapFile": "Assets/Maps/DynamicMaps/RSVCliffNight.tmx",
-         	"MigrateLegacyNames": [ "RSVCliffNight" ]
-      	},      	      	      	      	      	
-      	{
-         	"Name": "Custom_Ridgeside_RSVHiddenWarp",
-         	"FromMapFile": "Assets/Maps/DynamicMaps/RSVHiddenWarp.tmx",
-         	"MigrateLegacyNames": [ "RSVHiddenWarp" ]
-      	},     
-      	{
-         	"Name": "Custom_Ridgeside_RSVHiddenWarp2",
-         	"FromMapFile": "Assets/Maps/DynamicMaps/RSVHiddenWarp2.tmx",
-         	"MigrateLegacyNames": [ "RSVHiddenWarp2" ]
-      	},        	 	   
+		{
+			"Name": "Custom_Ridgeside_RSVCliffNight",
+			"FromMapFile": "Assets/Maps/DynamicMaps/RSVCliffNight.tmx",
+			"MigrateLegacyNames": [ "RSVCliffNight" ]
+		},      	      	      	      	      	
+		{
+			"Name": "Custom_Ridgeside_RSVHiddenWarp",
+			"FromMapFile": "Assets/Maps/DynamicMaps/RSVHiddenWarp.tmx",
+			"MigrateLegacyNames": [ "RSVHiddenWarp" ]
+		},     
+		{
+			"Name": "Custom_Ridgeside_RSVHiddenWarp2",
+			"FromMapFile": "Assets/Maps/DynamicMaps/RSVHiddenWarp2.tmx",
+			"MigrateLegacyNames": [ "RSVHiddenWarp2" ]
+		},        	 	   
 
-    ],
+	],
 
 	/*********
 	** Patches
@@ -854,12 +854,12 @@
 	/*********
 	** Include Data
 	*********/
-		{
-			"Action": "Include",
-			"FromFile": "Data/IncludeData/IncludeDependencyData.json, Data/IncludeData/IncludeDynamicChanges.json, Data/IncludeData/IncludeEvents.json, Data/IncludeData/IncludeFestival.json, Data/IncludeData/IncludeInterModCompat.json, Data/IncludeData/IncludeMapData.json, Data/IncludeData/IncludeNPCData.json, Data/IncludeData/IncludeSeasonalOutfits.json, Data/IncludeData/IncludeTilesheets.json"
-		},
+	{
+		"Action": "Include",
+		"FromFile": "Data/IncludeData/IncludeDependencyData.json, Data/IncludeData/IncludeDynamicChanges.json, Data/IncludeData/IncludeEvents.json, Data/IncludeData/IncludeFestival.json, Data/IncludeData/IncludeInterModCompat.json, Data/IncludeData/IncludeMapData.json, Data/IncludeData/IncludeNPCData.json, Data/IncludeData/IncludeSeasonalOutfits.json, Data/IncludeData/IncludeTilesheets.json"
+	},
 
-	],
+],
 
 	/*********
 	** Event repeater
