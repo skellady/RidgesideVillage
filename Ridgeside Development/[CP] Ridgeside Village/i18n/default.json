@@ -41,8 +41,11 @@
 "Name.Trinnie": "Trinnie",
 "Name.Ysabelle": "Ysabelle",
 "Name.Yuuma": "Yuuma",
+
 "Name.Undreya": "Undreya",
 "Name.Helen": "Helen",
+
+"Name.Jason": "Jason",
 
 // NPC Data
 "NPC_Data.Alissa": "Bert 'uncle' Olga 'aunt' Trinnie 'cousin_Trinnie'",
@@ -59,6 +62,7 @@
 "NPC_Data.Shiro": "Yuuma 'brother'",
 "NPC_Data.Trinnie": "Bert 'dad' Olga 'mom' Alissa 'sister'",
 "NPC_Data.Ysabelle": "Richard 'grandfather'",
+
 "NPC_Data.Yuuma": "Shiro 'brother'",
 "NPC_Data.Helen": "Ezekiel 'husband' Corine 'daughter'",
 

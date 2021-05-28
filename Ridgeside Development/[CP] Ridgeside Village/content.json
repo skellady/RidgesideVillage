@@ -843,6 +843,10 @@
 			"FromMapFile": "Assets/Maps/DynamicMaps/RSVHiddenWarp2.tmx",
 			"MigrateLegacyNames": [ "RSVHiddenWarp2" ]
 		},        	 	   
+		{
+			"Name": "Custom_Ridgeside_MouseHouse",
+			"FromMapFile": "Assets/Maps/DynamicMaps/MouseHouseInside.tmx",
+		},  
 
 	],
 

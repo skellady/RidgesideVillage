@@ -118,8 +118,8 @@
 		"stardrop_gift": "{{i18n: Romance.stardrop.gift.{{TargetWithoutPath}} }}",
 		"rejectNPCA": "{{i18n: Romance.rejectNPCA.{{TargetWithoutPath}} }}",
 		"rejectNPCB": "{{i18n: Romance.rejectNPCB.{{TargetWithoutPath}} }}"
-	}
-}
+	},
+},
 
 //-----------------------------------
 // M A R R I A G E  D I A L O G U E  
