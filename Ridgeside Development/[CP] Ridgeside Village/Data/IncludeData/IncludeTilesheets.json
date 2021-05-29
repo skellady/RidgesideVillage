@@ -232,5 +232,10 @@
    "Target": "Maps/winter_MouseHouse",
    "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
 },
+{
+   "Action": "Load",
+   "Target": "Maps/HatMouseHats",
+   "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
+},
 ]
 }

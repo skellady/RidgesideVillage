@@ -8,14 +8,14 @@
   <image source="townInterior" width="512" height="1088"/>
  </tileset>
  <tileset firstgid="2177" name="z_hats" tilewidth="16" tileheight="16" tilecount="600" columns="15">
-  <image source="hats.png" width="240" height="640"/>
+  <image source="HatMouseHats.png" width="240" height="640"/>
  </tileset>
  <layer id="1" name="Back" width="12" height="12">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,1404,1407,1404,1408,1404,1690,1407,1404,1407,1404,0,
 0,1436,1439,1436,1440,1436,1722,1439,1436,1439,1436,0,
-0,0,0,0,0,0,0,0,0,1073741837,0,0,
+0,0,0,0,0,0,0,0,0,1,0,0,
 0,2079,2080,2080,2080,2080,2080,2080,2080,2080,2079,607,
 0,1610614816,640,639,640,639,640,639,640,639,1610614816,639,
 0,1610614816,608,607,608,607,1659,1660,608,607,1610614816,607,
@@ -195,7 +195,7 @@
   <object id="169" name="TileData" x="64" y="96" width="16" height="16">
    <properties>
     <property name="Action" value=""/>
-    <property name="Shop" value="HatMouseShop"/>
+    <property name="Shop" value="HatMouse"/>
    </properties>
   </object>
  </objectgroup>
@@ -229,7 +229,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
 0,197,197,197,197,163,0,164,197,197,197,0,
-0,0,0,0,0,0,0,0,0,0,0,0
+1,1,1,1,1,0,0,0,0,0,0,0
 </data>
  </layer>
  <objectgroup id="9" name="Front"/>

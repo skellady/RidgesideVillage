@@ -39,7 +39,7 @@
 			"Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//Custom_Ridgeside_RSVAbandonedHouse 5 5/{{i18n:Name.Undreya}}",
 			"Helen": "adult/neutral/neutral/neutral/female/non-datable/null/Other/null/{{i18n:NPC_Data.Helen}}/Custom_Ridgeside_RSVHiddenWarp2 5 5/{{i18n:Name.Helen}}",
 
-			"Jason": "adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ridgeside_MouseHouse 4 5/{{i18n:Name.Jason}}",			
+			"Jason": "child/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ridgeside_MouseHouse 4 5/{{i18n:Name.Jason}}",			
 		},
 	},
 
