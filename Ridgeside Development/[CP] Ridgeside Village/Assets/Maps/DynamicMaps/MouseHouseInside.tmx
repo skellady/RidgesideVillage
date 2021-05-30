@@ -195,7 +195,7 @@
   <object id="169" name="TileData" x="64" y="96" width="16" height="16">
    <properties>
     <property name="Action" value=""/>
-    <property name="Shop" value="HatMouse"/>
+    <property name="Shop" value="Vanilla!HatMouse"/>
    </properties>
   </object>
  </objectgroup>
