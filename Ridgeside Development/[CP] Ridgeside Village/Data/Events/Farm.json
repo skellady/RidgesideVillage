@@ -18,8 +18,8 @@
 		//Corine visits farmer (Corine 10 hearts part 1)
 			"75160126/f Corine 2500/D Corine/t 600 1000/w sunny/e 75160125/d Mon Tue Wed Fri Sat Sun": "cm:CorineTheme/64 15/farmer 64 16 2 Corine 64 18 0/skippable/pause 500/emote Corine 20/pause 500/emote farmer 16/pause 500/speak Corine \"{{i18n:event-75160126.01}}\"/emote farmer 32/pause 500/speak Corine \"{{i18n:event-75160126.02}}\"/emote farmer 8/pause 500/speak Corine \"{{i18n:event-75160126.03}}\"/emote farmer 28/pause 500/emote Corine 20/pause 500/move Corine 0 -1 0/message \"{{i18n:event-75160126.04}}\"/move Corine 0 1 0/speak Corine \"{{i18n:event-75160126.05}}\"/playSound shadowpeep/showFrame Corine 24/pause 500/warp Corine -100 -100/emote farmer 16/pause 2000/end dialogue Corine \"{{i18n:event-75160126.06}}\"",
 		
-		//Flor sends letter (Flor 10 (previously 8) hearts part 1)
-			"75160131/e 75160130/f Flor 2500/x FlorLetter": "null",
+		//Flor sends letter (Flor 8 hearts part 1)
+			"75160131/e 75160130/f Flor 2000/x FlorLetter": "null",
 		
 		//Maddie sends letter (Maddie 10 (previously 8) hearts part 1)
 			"75160137/e 75160136/f Maddie 2500/x MaddieLetter": "null",
