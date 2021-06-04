@@ -324,11 +324,11 @@
 	{
 		"Action": "EditMap",
 		"Target": "Maps/Forest-FlowerFestival",
-		"FromFile": "Assets/Maps/FestivalMaps/EggFestival-Patch_SVE.tmx",
+		"FromFile": "Assets/Maps/InterModMaps/EggFestival-Patch_SVE.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 9 },
 		"ToArea": { "X": 10, "Y": 60, "Width": 2, "Height": 9 },
-		"PatchMode": "Replace",		
 		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true },
+		"PatchMode": "ReplaceByLayer",			
 	},
 
 	/*********
