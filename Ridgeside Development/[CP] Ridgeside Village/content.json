@@ -732,6 +732,10 @@
 			"MigrateLegacyNames": [ "LogCabinHotelLobby" ]
 		},        
 		{
+			"Name": "Custom_Ridgeside_LogCabinHotelBasement",
+			"FromMapFile": "Assets/Maps/IndoorMaps/LogCabinHotelBasement.tmx",
+		},		
+		{
 			"Name": "Custom_Ridgeside_MaddieHouse",
 			"FromMapFile": "Assets/Maps/IndoorMaps/MaddieHouse.tmx",
 			"MigrateLegacyNames": [ "MaddieHouse" ]
