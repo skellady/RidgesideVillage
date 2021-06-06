@@ -405,7 +405,7 @@
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "emote Alissa 56",
+                  "Script": "",
                   "Text": "{{i18n:MovieData.Alissa.SpringMovie0.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
@@ -573,7 +573,7 @@
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "emote Alissa 20",
+                  "Script": "",
                   "Text": "{{i18n:MovieData.Alissa.WinterMovie1.Love.DuringMovie}}"
                 },
                 "AfterMovie": {
