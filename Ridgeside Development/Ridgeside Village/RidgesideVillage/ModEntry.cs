@@ -5,7 +5,7 @@ using StardewModdingAPI;
 using StardewValley;
 using Harmony;
 
-namespace MagicBaitForRSV
+namespace RidgesideVillage
 {
     public class ModEntry : Mod
     {
@@ -28,7 +28,7 @@ namespace MagicBaitForRSV
                 return;
             }
             JsonAssetsAPI = Helper.ModRegistry.GetApi<IJsonAssetsApi>("spacechase0.JsonAssets");
-            var harmony = HarmonyInstance.Create("Rafseazz.MagicBaitForRSV");
+            var harmony = HarmonyInstance.Create("Rafseazz.RidgesideVillage");
             harmony.Patch(
                 original: AccessTools.Method(typeof(GameLocation), nameof(GameLocation.getFish)),
                 postfix: new HarmonyMethod(typeof(ModEntry), nameof(ModEntry.GetFish_Postfix))

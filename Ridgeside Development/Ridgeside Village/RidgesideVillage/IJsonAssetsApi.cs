@@ -5,7 +5,7 @@ using StardewValley;
 using System;
 using System.Collections.Generic;
 
-namespace MagicBaitForRSV
+namespace RidgesideVillage
 {
     public interface IJsonAssetsApi
     {
