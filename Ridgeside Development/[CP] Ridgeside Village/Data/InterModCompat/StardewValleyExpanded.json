@@ -322,13 +322,15 @@
 	*********/
 
 	{
+		"LogName": "Egg Festival SVE Patch",
 		"Action": "EditMap",
-		"Target": "Maps/Forest-FlowerFestival",
+		"Target": "Maps/Town-EggFestival",
 		"FromFile": "Assets/Maps/InterModMaps/EggFestival-Patch_SVE.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 9 },
 		"ToArea": { "X": 10, "Y": 60, "Width": 2, "Height": 9 },
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true },
-		"PatchMode": "ReplaceByLayer",			
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "DayEvent": "luau", "LocationName": "Temp" },
+		"PatchMode": "ReplaceByLayer",
+		"Update": "OnLocationChange"
 	},
 
 	/*********
@@ -447,7 +449,7 @@
 
 //Gathering Dialogue
 {
-	"LogName": "Ridgeside Gathering",
+	"LogName": "Ridgeside Gathering Dialogue for SVE",
 	"Action": "EditData",
 	"Target": "Data/Festivals/fall20",
 	"Entries": {
