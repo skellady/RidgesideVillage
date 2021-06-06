@@ -237,5 +237,10 @@
    "Target": "Maps/HatMouseHats",
    "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
 },
+{
+   "Action": "Load",
+   "Target": "Maps/zrsv_logbasement",
+   "FromFile": "Assets/Maps/TileSheets/{{TargetWithoutPath}}.png"
+},
 ]
 }
