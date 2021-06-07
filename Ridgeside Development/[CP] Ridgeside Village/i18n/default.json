@@ -3,7 +3,7 @@
 //Miscellaneous
 //-------------
 
-"Find.Undreya": "Huh? Who are you!?#You managed to spot me, huh. Maybe you're who he meant...# Uhmm... Hey, return here tomorrow night, same time. I want to meet you properly.",
+"Find.Undreya": "Huh? Who are you!?#You managed to spot me, huh. Maybe you're who he meant...# Umm... Hey, return here tomorrow night, same time. I want to meet you properly.",
 "Ember.of.Resolutions": "Ember of Resolutions",
 "EoR.Bonfire": "Should we start the bonfire? It's getting close to midnight now.",
 "EoR.Yes": "Yes, let's start.",
@@ -248,7 +248,7 @@
 "keahiprank.Alex": "%Alex is pinching his nose.#$b#You okay there, @?$s",
 "keahiprank.Elliott": "Oh my, You smell quite... exotic.$s#$b#Perhaps a dip in the water with lots and lots of bath oils could clear this aroma?$s",
 "keahiprank.Harvey": "That smell...#$b#Do you have a medical issue?$s#$b#It's okay, you know...#$b#I won't judge you as a medical practitioner.",
-"keahiprank.Sam": "Woah! You smell that?!$a#$b#Where's that coming from!? It's really gross!$s",
+"keahiprank.Sam": "Whoa! You smell that?!$a#$b#Where's that coming from!? It's really gross!$s",
 "keahiprank.Sebastian": "Did you forget to take a bath or something, @?",
 "keahiprank.Shane": "Don't come near me with that smell!$a#$b#Take a bath.$a",
 
@@ -301,7 +301,7 @@
 "EoR.20": "I'm glad almost everyone put in a log to the bonfire pit tonight.$h#$b#This will be a big one!$4#$b#Now, let's light it up!$0",
 "EoR.21": "Be careful now Lenny!",
 "EoR.22": "Ahh! It's bright!",
-"EoR.23": "Woah!",
+"EoR.23": "Whoa!",
 "EoR.24": "Oh my!",
 "EoR.25": "Happy new year!",
 "EoR.26": "It's so warm...",
@@ -771,7 +771,7 @@
 "event-75160125.14": "Jio throws a sword over to Corine.",
 "event-75160125.15": "Let's take them on!$7",
 "event-75160125.16": "GET THEM!",
-"event-75160125.17": "Woah! I'm getting the hang of this pretty quick!$h",
+"event-75160125.17": "Whoa! I'm getting the hang of this pretty quick!$h",
 "event-75160125.18": "Indeed, quite interesting.",
 "event-75160125.19": "Uhrg! I have no choice! ARRRRGH",
 "event-75160125.20": "@! Take out the other beast!$a",
@@ -884,7 +884,7 @@
 "event-75160073.02": "Buh! I can do that just fine, sweetie.#$b#I'm still a lively old man!$h",
 "event-75160073.03": "Oh! Hi there, @! Dad and I were just preparing to go out for a stroll.$h#$b#We're headed for the mountain path.#$b#I'm sorry, I want to ask you to join if you want, but Dad doesn't like having anyone else when we take these strolls.$s",
 "event-75160073.04": "Buh! Hey Corine, don't go on assuming things, now.#$b#It would be fine for @ to tag along.$h#$b#@'s a good kid.$h",
-"event-75160073.05": "Woah! Did I just hear that right, Dad?$h#$b#You're friendly today, huh? This is a first!",
+"event-75160073.05": "Whoa! Did I just hear that right, Dad?$h#$b#You're friendly today, huh? This is a first!",
 "event-75160073.06": "Well! I don't like that we're wasting time here, kids.#$b#Come on, we're not getting any younger!$a",
 "event-75160073.07": "Your mother and I used to come around this cliff just before the sunrises sometimes.$h#$b#I'd hold her close in my arms, and she'd embrace me as the light flickers on the horizon.$h#$b#You were still a little child then, sweetie. I don't think you would remember those times.#$b#You were asleep for most of them!$h",
 "event-75160073.08": "Oh, come on now, Daddy!$h#$b#*sigh*$s",
@@ -925,7 +925,7 @@
 "event-75160128.FlorEmbarrassed.02": "You! T-that thing you said was rude and I d-didn't appreciate it.$a",
 
 //Flor trips (Flor 4 hearts)
-"event-75160129.01": "Woah!!$u",
+"event-75160129.01": "Whoa!!$u",
 "event-75160129.02": "Oww...$s#$b#That hurt...$s#$b#Huh? @!?#$b#You caught me?#$b#I hope I didn't hurt you!$s#$b#Uhmm... T-thank you.$h",
 "event-75160129.03": "Oh! I'm sorry!$u#$b#I'm really sorry!$s#$b#Oh, I have given you the w-worst impressions of me...$s",
 "event-75160129.04": "Um... I t-think I better go.$s#$b#I'm a mess...$s",
@@ -1157,70 +1157,70 @@
 "event-75160148.11": "I think it's best if he tells you about his problem.$s#$b#I need to resort all this mail now.$s",
 "event-75160148.12": "Poor Ian... I do wonder why his family hasn't written back yet?$s",
 "event-75160148.13": "I think I saw Ian go towards the Ridge....",
-"event-75160148.14": "Hey, @...$s#$b#I'm so bummed right now.$s#$b#I could really use a drink... But I won't because I have to wake up early tomorrow to help out Pierre with his stock.$s#$b#(Inhales and Exhales deeply)$s",
-"event-75160148.15": "I'm sorry I'm all mopey right now..$s#$b#I just... I'm worried about my family.$s#$b#They still haven't written back after my last letter.$s#$b#I worked so hard to write that letter, and to earn enough money to send back to them....$s#$b#And I worry they haven't received any of it, because they haven't wrote back yet....$s#$b#I'm so worried... I'm so anxious...$s",
+"event-75160148.14": "Hey, @...$s#$b#I'm so bummed right now.$s#$b#I could really use a drink... But I won't because I have to wake up early tomorrow to help out Pierre with his stock.$s#$b#(Inhales and exhales deeply)$s",
+"event-75160148.15": "I'm sorry I'm all mopey right now..$s#$b#I just... I'm worried about my family.$s#$b#They still haven't written back after my last letter.$s#$b#I worked so hard to write that letter, and to earn enough money to send back to them....$s#$b#And I worry they haven't received any of it, because they haven't wrote back yet....$s#$b#I'm so worried... I'm so anxious....$s",
 "event-75160148.16": "Ian is trembling.#He seems to be really scared....",
-"event-75160148.17": "I work so hard for them, you know..$6#$b#Especially for my younger sister.$6#$b#She needs the money to finish college. She deserves that kind of life.$6#$b#And when she finishes, she won't have to work so many extra jobs just to earn decent money....$6#$b#I didn't finish school, and here I am, all dumb and all.$6#$b#All I could depend on is my body, so I worked and worked and worked.$6#$b#I moved here to the valley because it's  cheap and there's plenty of odd jobs. $6#$b#Since then, I've been working any job that comes up, no matter the pay. Just to get enough coin to send back....$6#$b#I was missing them the other day and I wanted to check upon how they were doing.$6#$b#But I haven't received any letter back yet.... $6#$b#We're been pretty poor all my life, I guess you could say we're in poverty....$6#$b#My sis, she dreams of being a doctor one day, you know....$7#$b#I'd do anything for my family. For my little sister....$7#$b#I don't even care if I get mocked for not being able to read, or when I work 20 hours a day.$7#$b#I'd gladly do all of it, just for them.$7",
+"event-75160148.17": "I work so hard for them, you know..$6#$b#Especially for my younger sister.$6#$b#She needs the money to finish college. She deserves that kind of life.$6#$b#And when she finishes, she won't have to work so many extra jobs just to earn decent money....$6#$b#I didn't finish school, and here I am, all dumb and all.$6#$b#All I could depend on is my body, so I worked and worked and worked.$6#$b#I moved here to the valley because it's  cheap and there's plenty of odd jobs. $6#$b#Since then, I've been working any job that comes up, no matter the pay. Just to get enough coin to send back....$6#$b#I was missing them the other day and I wanted to check upon how they were doing.$6#$b#But I haven't received any letter back yet.... $6#$b#We've been pretty poor all my life, I guess you could say we're in poverty....$6#$b#My sis, she dreams of being a doctor one day, you know....$7#$b#I'd do anything for my family. For my little sister....$7#$b#I don't even care if I get mocked for not being able to read, or when I work twenty hours a day.$7#$b#I'd gladly do all of it, just for them.$7",
 "event-75160148.18": "Ian seems to be wiping his tears off",
 "event-75160148.19": "(sniff) And yeah..$s#$b#That's why I've been working so much.$s#$b#And why I'm so scared right now....$s#$b#I just want to know if they're doing good.$s#$b#I'm scared, if something were to happen to them and I'm not there....$s#$b#I just hope they reply soon.$s#$b#Any kind of reply will do....$s",
 "event-75160148.20": "What can I say to help Ian?",
 
 	//Response 1
 "event-75160148.21": "I'm sure a reply will come up soon. Just you wait.",
-"event-75160148.Fork1": "That's what I'm hoping too @...$s#$b#I just can't help being so anxious about it you know?$s#$b#I just want to know...$s",
+"event-75160148.Fork1": "That's what I'm hoping too @...$s#$b#I just can't help being so anxious about it, you know?$s#$b#I just want to know...$s",
 
 	//Response 2
-"event-75160148.22": "You should take a break when you can, You're really tired right now.",
-"event-75160148.Fork2": "I think I won't be able to sleep well when I don't know what's their condition at the moment...$s#$b#But @, I really appreciate the concern..$s#$b#Thank you...$h",
+"event-75160148.22": "You should take a break when you can. You're really tired right now.",
+"event-75160148.Fork2": "I think I won't be able to sleep well when I don't know what's their condition at the moment...$s#$b#But @, I really appreciate the concern....$s#$b#Thank you...$h",
 
 	//Response 3
 "event-75160148.23": "I'll be here whenever you need someone to vent out your frustrations to.",
-"event-75160148.Fork3": "You'd really stick around with me when I'm this mopey? Thanks @, You're a good friend...$h#$b#I just can't help being this scared though...$s",
+"event-75160148.Fork3": "You'd really stick around with me when I'm this mopey? Thanks, @. You're a good friend...$h#$b#I just can't help being this scared though...$s",
 
 	//Continue
-"event-75160148.24": "I should wait, right?$s#$b#I.... I don't know...$s",
-"event-75160148.25": "You put your hand on Ian's shoulder",
+"event-75160148.24": "I should wait, right?$s#$b#I... I don't know....$s",
+"event-75160148.25": "You put your hand on Ian's shoulder.",
 "event-75160148.26": "I guess there's no point in worrying so much right now. I don't know what I don't know.$s#$b#I should really learn to have patience, huh?$s#$b#I'm sorry for being this mopey, @. That must've been such a hassle for you to listen to me.$7#$b#But hey... I appreciate it.$7#$b#Thanks.$7",
 "event-75160148.27": "Yeah. I should not lose hope....#$b#I believe they will write back soon.$h",
 "event-75160148.28": "Thanks for cheering me up, @.#$b#For now, I should really rest up. I got so tired, I let my emotions get the best of me.$h#$b#But it was really refreshing to talk to someone about it.#$b#Thanks again @.$h",
 
 //Ian checks mail (Ian 8 hearts)
-"event-75160149.01": "@! How I'm glad to see you!$h#$b#A letter just arrived! And I'm hoping it's from my family!$h#$b#I was hoping to come by your house when I get the letter!$h#$b#I mean.. Well coz I just want to read it with you I guess.$l#$b#Ehem. Anyway..",
-"event-75160149.02": "Okay.. I'll look..$a",
-"event-75160149.03": "Ian reaches inside his mailbox#It seems like it hasn't been used for so long.",
-"event-75160149.04": "Okay.. I got the letter!$h#$b#Uhm...$s",
-"event-75160149.05": "Uhm.. Can you come take a look at this @?$h#$b#I ehr..$s",
-"event-75160149.06": "Ian hands over the letter to you",
-"event-75160149.07": "Uhm.. I can't read..$h",
-"event-75160149.08": "I was hoping if you can see who it was from..$h",
+"event-75160149.01": "@! How I'm glad to see you!$h#$b#A letter just arrived! And I'm hoping it's from my family!$h#$b#I was hoping to come by your house when I get the letter!$h#$b#I mean.. Well, cause I just want to read it with you I guess.$l#$b#Ehem. Anyway..",
+"event-75160149.02": "Okay... I'll look....$a",
+"event-75160149.03": "Ian reaches inside his mailbox.#It seems like it hasn't been used in a long time.",
+"event-75160149.04": "Okay... I got the letter!$h#$b#Um....$s",
+"event-75160149.05": "Um... Can you come take a look at this @?$h#$b#I, er...$s",
+"event-75160149.06": "Ian hands over the letter to you.",
+"event-75160149.07": "Um... I can't read well....$h",
+"event-75160149.08": "I was hoping if you can see who it was from....$h",
 "event-75160149.09": "You look into the letter and...",
 "event-75160149.10": "It says it's from 'Khea Winters'",
-"event-75160149.11": "Wait? Really? It says Khea?$u#$b#That's my sister's name!$h#$b#Woah! She wrote back!?$h#$b#I can't wait to open it!$h",
-"event-75160149.12": "Uhm.. @?#$b#Is it okay if you read it for me?$h#$b#I.. I ehr.. I'm sorry I can't really read well..$s",
-"event-75160149.13": "Thank you so much @..$h#$b#Let's go sit by my porch.$h",
-"event-75160149.14": "Okay @... I'm ready.#$b#I sure hope they're doing fine..$s#$b#You can read it now.",
-"event-75160149.15": "You start to read the letter to Ian...#To my brother Ian,#First of all, I'm so sorry for not being able to reply to your many letters, But you can rest easy knowing we all received the money and letters you sent us these past months.#I'm so sorry again for not being able to reply to your recent letters, Mama and Papa didn't know how to send one, and I was away on a school internship program.#But the moment I got hold of your letters and read them to mom and dad, they were very happy, we all were.#My graduation is almost coming up Ian, and I really wish you can attend.#But I know you wouldn't agree to using up extra money just for travel expenses. So I understand.#I've been doing great in school and I just want to say thank you for everything big brother Ian,#You're such an inspiration for me and without you and our parent's hard work, I wouldn't be where I am right now.#I promise, I will be successful one day, and I will repay you all back#Thank you so much again big brother. Mama says hi!#We miss you so much. Please rest when you can, I know you work yourself to the bone.#Take care of yourself, not just for us, but for yourself too.#You're the best big brother I could ever ask for. See you soon!#Love, Your little sister, Khea",
-"event-75160149.16": "I..$s#$b#I..$6#$b#I'm glad..$7",
-"event-75160149.17": "Can you believe it! My little sister's graduating!!$h#$b#I'm so happy @!! I'm so happy!$h#$b#I could scream out!$h#$b#My little sister's graduating!!$h",
-"event-75160149.18": "Thank you so much for reading the letter for me @!$h#$b#I couldn't ask anyone better to read such good news for me..$l#$b#Thank you! Thank you!$h#$b#Can you believe it!? My sister's graduating!$h",
-"event-75160149.19": "I better start learning how to read!$u#$b#Maybe they'll send more letters soon! I can't wait to hear about her graduation!$h#$b#Okay.. I can squeeze in some time to learn..#$b#I should go to the library more often huh...#$b#Yeah, I can do that. I'll start to learn!$h#$b#Maybe I can surprise my family when I learn a lot too! They'll be proud as well!$h#$b#I'll ask some help from Flor or Penny there, I see them going over there often.$h#$b#And uhmm.. @?$l#$b#It would really be awesome if you come by the library too.$l#$b#I mean, ehr, I could learn a lot from you too!$h#$b#Haha!$h",
+"event-75160149.11": "Wait? Really? It says Khea?$u#$b#That's my sister's name!$h#$b#Whoa! She wrote back!?$h#$b#I can't wait to open it!$h",
+"event-75160149.12": "Um... @?#$b#Is it okay if you read it for me?$h#$b#I... I, er... I'm sorry I can't really read well....$s",
+"event-75160149.13": "Thank you so much, @.$h#$b#Let's go sit on my patio.$h",
+"event-75160149.14": "Okay @... I'm ready.#$b#I sure hope they're doing fine....$s#$b#You can read it now.",
+"event-75160149.15": "You start to read the letter to Ian.#To my brother Ian,#First of all, I'm so sorry for not being able to reply to your many letters. But you can rest easy knowing we all received the money and letters you sent us these past months.#I'm sorry again for not being able to reply to your recent letters. Mama and Papa didn't know how to send one, and I was away on an internship.#But the moment I got hold of your letters and read them to Mom and Dad, they were very happy. We all were.#My graduation is almost coming up, Ian, and I really wish you can attend.#But I know you wouldn't agree to using up extra money just for travel expenses. So I understand.#I've been doing great in school and I just want to say thank you for everything, big brother Ian.#You're such an inspiration for me and without you and our parents' hard work, I wouldn't be where I am right now.#I promise, I will be successful one day, and I will repay you all back!#Thank you so much again, big brother. Mama says hi!#We miss you so much. Please rest when you can, I know you work yourself to the bone.#Take care of yourself, not just for us, but for yourself too.#You're the best big brother I could ever ask for. See you soon!#Love, your little sister, Khea",
+"event-75160149.16": "I...$s#$b#I...$6#$b#I'm glad....$7",
+"event-75160149.17": "Can you believe it! My little sister's graduating!!$h#$b#I'm so happy, @!! I'm so happy!$h#$b#I could scream out!$h#$b#My little sister's graduating!!$h",
+"event-75160149.18": "Thank you so much for reading the letter for me, @!$h#$b#I couldn't ask anyone better to read such good news for me..$l#$b#Thank you! Thank you!$h#$b#Can you believe it!? My sister's graduating!$h",
+"event-75160149.19": "I better start learning how to read!$u#$b#Maybe they'll send more letters soon! I can't wait to hear about her graduation!$h#$b#Okay.. I can squeeze in some time to learn....#$b#I should go to the library more often, huh....#$b#Yeah, I can do that. I'll start to learn!$h#$b#Maybe I can surprise my family when I learn a lot, too! They'll be proud as well!$h#$b#I'll ask for some help from Flor or Penny there, I see them going over there often.$h#$b#And umm... @?$l#$b#It would really be awesome if you come by the library too.$l#$b#I mean, er, I could learn a lot from you too!$h#$b#Haha!$h",
 "event-75160149.20": "Again @... Thank you..$l",
 "event-75160149.21": "Okay! I better save up money to send for her graduation outfit too!#$b#Wait, they do have those right?$h#$b#I'm not so familiar with graduation.$h",
-"event-75160149.22": "Ian seems to be really happy and proud#He is now aiming to better himself as well.#I'm glad",
-"event-75160149.23": "Okay.. I sure do hope reading is not as hard as writing.$h#$b#Or is it the other way around?$u",
+"event-75160149.22": "Ian seems to be really happy and proud!#He is now aiming to better himself as well.#I'm glad.",
+"event-75160149.23": "Okay... I sure do hope reading is not as hard as writing.$h#$b#Or is it the other way around?$u",
 
 //Ian goes home late (Ian 10 hearts)
 "event-75160150.01": "@?$u",
-"event-75160150.02": "Hey, what are you doing up so late?$h#$b#You might catch a cold in this cold night you know.$s#$b#Come here, you.$l",
+"event-75160150.02": "Hey, what are you doing up so late?$h#$b#You might catch a cold in this cold night, you know.$s#$b#Come here, you.$l",
 "event-75160150.03": "Ian hugs you gently.",
 "event-75160150.04": "Come on, let's sit by the bench.$h",
 "event-75160150.05": "I'm so sorry, I don't really know how to be a boyfriend, you know..$s#$b#I'm kind of lost, I don't really know what to do.$s#$b#I mean, am I doing this right or am I like--$s",
-"event-75160150.06": "You hold Ian's hand#And you smile as you look at him.",
-"event-75160150.07": "Just be me, huh?$l#$b#Okay.. I can do that..$l",
-"event-75160150.08": "And, er... @?$l#$b#I just wanted to say thanks for sticking by my side.$l#$b#I haven't had anyone like you who makes me feel this special.$l#$b#So er... thanks.$l",
+"event-75160150.06": "You hold Ian's hand.#And you smile as you look at him.",
+"event-75160150.07": "Just be me, huh?$l#$b#Okay... I can do that.$l",
+"event-75160150.08": "And, er... @?$l#$b#I just wanted to say thanks for sticking by my side.$l#$b#I haven't had anyone like you who makes me feel this special.$l#$b#So, er... thanks.$l",
 "event-75160150.09": "It was a quiet but lovely night.#Under all the stars, in Ian's arms.",
 "event-75160150.10": "Huh? Follow you to your farm house?$l#$b#Oh, okay then..$l",
-"event-75160150.11": "That was an amazing moment, @..$l#$b#Woah, I'm exhausted.$h",
+"event-75160150.11": "That was an amazing moment, @..$l#$b#Whoa, I'm exhausted.$h",
 
 //Jeric visits farmer (Jeric 2 hearts)
 "event-75160151.01": "Hey there, @! How's it going?$h#$b#I just wanted to drop by and see the competition, you know?$6",
@@ -1267,24 +1267,24 @@
 //Jeric admits defeat (Jeric 8 hearts)
 "event-75160154.01": "Nice seeing you here @!$h#$b#I was actually on my way to visit your farm.$6",
 "event-75160154.02": "Why? Well, since you're here, I might as well tell you.$h",
-"event-75160154.03": "I admit defeat.#$b#You have the better farm than the both of us.",
-"event-75160154.04": "Come on! I'll tell you why.#$b#First let's get comfortable so we can talk.$h",
-"event-75160154.05": "Now this is a nice spot to hang out for a while right?$h#$b#Let's go back here someday again.$h",
+"event-75160154.03": "I admit defeat.#$b#You have the better farm between the both of us.",
+"event-75160154.04": "Come on! I'll tell you why.#$b#First, let's get comfortable so we can talk.$h",
+"event-75160154.05": "Now this is a nice spot to hang out for a while, right?$h#$b#Let's go back here again someday.$h",
 "event-75160154.06": "Now, about that little competition.",
 "event-75160154.07": "I admit defeat.#$b#You have the best farm.",
-"event-75160154.08": "The reason? Well, to be honest I don't really know why.#$b#But I just wanted to admit defeat, I felt like I just wanted to.$h",
-"event-75160154.09": "What?? You won't accept it?#$b#I gave up too easily?#$b#Oh come on now, I didn't even think you took it seriously.#$b#To be honest, I just wanted to make a little bet so I have an excuse to talk to you.$h#$b#I have to admit, I'm attracted to you @.$l",
-"event-75160154.10": "But yeah.. To be honest, I really did feel inspired by you.#$b#My farm was in the verge of bankruptcy, but ever since you moved here and started gaining success, I got fired up for some reason.$6#$b#So, I came by your farm one day and made a little competition, to make things official.#$b#But lately I have lost some motivation.. I don't know why.. Maybe because of another near bankruptcy experience I had the last week..$s#$b#I mean, I managed to avoid it, But still.. I don't know, I just got real tired I guess$s",
-"event-75160154.11": "Yeah I know... I give up too easily..$s#$b#I don't know.. To be honest I just wanted to impress you and all.#$b#But I guess I failed..$s",
+"event-75160154.08": "The reason? Well, to be honest, I don't really know why.#$b#I felt like I just wanted to.$h",
+"event-75160154.09": "What? You won't accept it?#$b#I gave up too easily?#$b#Oh come on now, I didn't think you even took it seriously.#$b#To be honest, I just wanted to make a little bet so I had an excuse to talk to you.$h#$b#I got to admit, I'm attracted to you, @.$l",
+"event-75160154.10": "But yeah... To be honest, I really did feel inspired by you.#$b#My farm was on the verge of bankruptcy, but ever since you moved here and started being successful, I got fired up for some reason.$6#$b#So, I came by your farm one day and made a little competition, to make things official.#$b#But lately I've lost my spark... I don't know why.... Maybe because of another near-bankruptcy scare I had the last week.$s#$b#I mean, I managed to avoid it, But still.... I don't know, I just got real tired, I guess$s",
+"event-75160154.11": "Yeah I know... I give up too easily.$s#$b#I don't know. To be honest, I just wanted to impress you and all.#$b#But I guess I failed....$s",
 "event-75160154.12": "Huh? What? You were impressed by me already?$u#$b#What do you mean?",
-"event-75160154.13": "Jeric,#You were able to build up a farm by yourself from scratch after moving out from the city#And you were able to maintain it by yourself for so long.#You did your best and It's okay to be tired and to lose motivation#That's normal.#But I don't think you should give up yet.#And hey, I want to continue our little competition.#And I want to win fair and square.",
-"event-75160154.14": "Wow @..$l#$b#To be honest I was already fired up again the moment you said you were already impressed by me.$l",
-"event-75160154.15": "Okay, I take it back$l#$b#The competition is still on!$h#$b#And you'll see! I'll win this!$h",
-"event-75160154.16": "@.. Thanks.$h#$b#You're amazing you know that.$l",
+"event-75160154.13": "Jeric.#You were able to build up a farm by yourself from scratch after moving out from the city.#And you were able to maintain it by yourself for so long.#You did your best and it's okay to be tired and lose motivation sometimes.#That's normal.#But I don't think you should give up yet.#And I want to continue our competition.#And I want to win fair and square.",
+"event-75160154.14": "Wow, @....$l#$b#To be honest, I was already feeling it again the moment you said you were already impressed by me.$l",
+"event-75160154.15": "Okay, I take it back!$l#$b#The competition is still on!$h#$b#And you'll see! I'll win this!$h",
+"event-75160154.16": "@... Thanks.$h#$b#You're amazing, you know that?$l",
 "event-75160154.17": "I could kiss you right now. Hehe.$l",
-"event-75160154.18": "Haha! I'm just messing with you!$h#$b#I'll do that one day when I win over you.$6",
-"event-75160154.19": "Jeric's confidence and motivation is back on track now#I'm glad he is determined. I better not lose!",
-"event-75160154.20": "Thanks again for that moment @.$h#$b#I shouldn't give up too easily. It's a huge turn off right?",
+"event-75160154.18": "Haha! I'm just messing with you!$h#$b#I'll do that one day when I win you over.$6",
+"event-75160154.19": "Jeric's confidence and motivation is back on track now.#I'm glad he is determined. I better not lose!",
+"event-75160154.20": "Thanks again for that moment, @.$h#$b#I shouldn't give up too easily. It's a huge turn off right?",
 
 //Jeric date (Jeric 10 hearts part 2)
 "event-75160156.01": "@! I'm glad you're here!$h#$b#Well? I hope you like this little picnic surprise?$l",
@@ -1337,20 +1337,20 @@
 "event-75160079.07": "I wonder what do the spirits look like?#And what's up with the ridge?",
 
 //Jio asks for favor (Jio 6 hearts)
-"event-75160080.01": "Ah @. Good timing.#$b#This may sound out of character for me but. I need a favor.#$b#I trust you'll be fine with it. It's a simple task.",
-"event-75160080.02": "I'm delighted.$h#$b#Here's the mission.#$b#I need to buy local goods at the town grocery store.#$b#The one owned by the guy named 'Pierre'#$b#I don't want to purchase goods over at Joja, I don't trust their products.$a",
-"event-75160080.03": "Hm? Why won't I do it myself?#$b#The problem is, I have been to that store before. But the store owner named Pierre seems to ask so many questions.#$b#I find it annoying and I don't want to deal with that again.$a#$b#If you may, please buy the products for me, It's quite urgent.#$b#I shall come along with you to town, But I'll be in the shadows.$h",
-"event-75160080.04": "So here's the list of goods to be purchased...#$b#3 sacks of flour, 20 bottles of wine, and 35 melons",
-"event-75160080.05": "Don't ask too much questions.#$b#All I have to say is they are important!$a",
+"event-75160080.01": "Ah, @. Good timing.#$b#This may sound out of character for me, but.... I need assistance.#$b#I trust you'll be fine with it. It's a simple task.",
+"event-75160080.02": "I'm delighted.$h#$b#Here's the mission.#$b#I need to buy some local goods at the town grocery store.#$b#The one owned by the guy named 'Pierre'.#$b#I don't want to purchase goods over at Joja, I don't trust their products.$a",
+"event-75160080.03": "Hm? Why won't I do it myself?#$b#The problem is, I have been to that store before... but the store owner named Pierre seems to ask so many questions.#$b#I find it intrusive and I don't want to deal with that again.$a#$b#If you may, please buy the products for me. It's quite urgent.#$b#I shall come along with you to town, but I'll be in the shadows.$h",
+"event-75160080.04": "Here's the list of goods to be purchased.#$b#Three sacks of flour. Twenty bottles of wine, and thirty-five melons",
+"event-75160080.05": "Don't ask too many questions.#$b#All I have to say is they are important!$a",
 "event-75160080.06": "Okay. Let's go.",
-"event-75160080.07": "Pst. Hey @.",
-"event-75160080.08": "Up here in the roof.",
-"event-75160080.09": "Don't forget. 35 Melons.#$b#Got it?#$b#I already gave you the money so don't worry.#$b#That's more than enough.",
-"event-75160080.10": "Oh! Hey there @!#$b#What are you going to buy today?$h",
-"event-75160080.11": "WHAT!$u#$b#Woah! I mean, Yeah! I'll benefit greatly from this!$h#$b#Take all those wines and melons!$h#$b#Also don't forget your 3 sacks!$h#$b#Pleasure doing business with ya!$h",
-"event-75160080.12": "Great job!$h#$b#Here, let me help you with those.",
+"event-75160080.07": "Psst. @.",
+"event-75160080.08": "Up here, on the roof.",
+"event-75160080.09": "Don't forget. Thirty-five melons. They should be of an average size and weight with proper firmness.#$b#Got it?#$b#I already gave you the money so don't worry.#$b#It should be more than enough.",
+"event-75160080.10": "Oh! Hi, @!#$b#What are you going to buy today?$h",
+"event-75160080.11": "...What?$u#$b#Whoa! I mean, yes, of course! This will be a lovely profit for today!$h#$b#Take all those wines and melons!$h#$b#Also don't forget your three sacks!$h#$b#Pleasure doing business with you!$h",
+"event-75160080.12": "Excellent job.$h#$b#Here, let me help you with those.",
 "event-75160080.13": "Thanks for the help @, I'm in your debt.#$b#Alright. Let's head back.",
-"event-75160080.14": "Thanks again, But those items are for a secret cause.$h",
+"event-75160080.14": "Thanks again, but those items are for a secret cause.$h",
 
 //Jio and the spirits (Jio 8 hearts)
 "event-75160081.01": "Hmm.. Why are you here at this late hour again?#$b#You're curious about them aren't you?",
@@ -1412,9 +1412,9 @@
 "event-75160084.11": "TADAAH!$h#$b#Here's one Super Meal ala Keahi!$h",
 "event-75160084.12": "Hm! Nice execution, son.$h#$b#Now for the taste test.",
 "event-75160084.13": "Shall we, @?",
-"event-75160084.14": "Woah! Really!?$h",
+"event-75160084.14": "Whoa! Really!?$h",
 "event-75160084.15": "Great job, son!$h#$b#I think this might even surpass mine!$h#$b#Looks like you even put your own little twist on it.  That's some real chef instincts there!",
-"event-75160084.16": "Woah! Thanks, Dad!!$h#$b#I'm sooooo glad that worked out!$h#$b#Even remembered to turn off the stove after use!$h",
+"event-75160084.16": "Whoa! Thanks, Dad!!$h#$b#I'm sooooo glad that worked out!$h#$b#Even remembered to turn off the stove after use!$h",
 "event-75160084.17": "Wahaha! I'm proud of you, son!$h",
 "event-75160084.18": "Keahi made such a tasty dish!#He's got a bright future ahead of him.",
 "event-75160084.19": "Phew! I did good!$h",
@@ -1429,7 +1429,7 @@
 "event-75160085.07": "My my! That's one big explosion!$h",
 "event-75160085.08": "Hm?! Who fired a firecracker! My guests were shocked!$a",
 "event-75160085.09": "OHH! Pretty!!$h",
-"event-75160085.10": "Woah, cool!$h",
+"event-75160085.10": "Whoa, cool!$h",
 "event-75160085.11": "Wait.. Isn't that the firework reserved for the next festival?$a",
 "event-75160085.12": "KEAHI!!!!!!!!!!!!!$a",
 "event-75160085.13": "Oh no. I'm in such big trouble!$u",
@@ -1453,7 +1453,7 @@
 "event-75160158.02": "What exactly is it?#$b#Well... it's a friend.$h#$b#Uhm. I don't think you'll understand that easily.$s#$b#But I'm sure it'll make sense when I get it up and running.$h#$b#Okay.. I think it should work this time.#$b#I really hope so.. I've been working on this for 5 years now..$h",
 "event-75160158.03": "Please work.. please work..$s",
 "event-75160158.04": "Hmm..$6",
-"event-75160158.05": "Woah! Hey, @! Are you okay!?$u#$b#I'm so sorry you almost got hurt!$s",
+"event-75160158.05": "Whoa! Hey, @! Are you okay!?$u#$b#I'm so sorry you almost got hurt!$s",
 "event-75160158.06": "I'm glad you're fine!$s#$b#Okay, I better put the fire out!$s",
 "event-75160158.07": "Huh? What's wrong @?#$b#I'm already taking care of the fire right?",
 "event-75160158.08": "What? My behind?$6",
@@ -1763,53 +1763,53 @@
 "event-75160135.MaddieGo.01": "Well, bye I guess?",
 
 //Maddie relaxing (Maddie 6 hearts)
-"event-75160136.01": "Ah, finally finished my tasks for the day.$h#$b#Oh. Hello @. What brings you here?#$b#I mean... Not that I care.$7",
-"event-75160136.02": "Oh just visiting the valley you say?#$b#Well, I hope you enjoy.",
+"event-75160136.01": "Ah, finally finished my tasks for the day.$h#$b#Oh. Hello, @. What brings you here?#$b#I mean... not that I care.$7",
+"event-75160136.02": "Oh, just visiting the valley, you say?#$b#Well, I hope you enjoy.",
 "event-75160136.03": "What to do now?",
 
 	//Farmer came to visit Maddie
 "event-75160136.04": "Actually, I came to visit you.",
 "event-75160136.Fork1": "Wha--What?$8#$b#Wha--what are you saying?$a#$b#Ha-ha-ha. Very funny now.$7",
-"event-75160136.06": "Well.. Uhm..$7#$b#It would be less boring when I have someone to mock here.$6#$b#Come sit.$7",
-"event-75160136.07": "So.. Uhm..$7#$b#How's the farm life so far city boy?^How's the farm life so far city girl?$6#$b#Bet you're regretting it all now huh?$7",
-"event-75160136.08": "Oh? You're enjoying it? Pshh. Really now?$h#$b#The other day I saw you almost collapsing from all that hard work.$6",
-"event-75160136.09": "Haha. Your body bred from the city ain't that tough huh?$h#$b#Wahaha.$h",
-"event-75160136.10": "But really though. I'm just messing with you.$8#$b#I actually admire your work. You've done a somewhat decent job. I have to give it to you.$a#$b#You grow healthy crops and manage a huge farm by yourself.#$b#That's impressive, even for you @.$6",
-"event-75160136.11": "Huh? smiling suites me?$8#$b#Well I---$8#$b#I uhmm$u#$b#Another joke and I'll pour some acid on you now!$a",
+"event-75160136.06": "Well.. um...$7#$b#Things are less boring when I have someone to mock with me.$6#$b#Come sit.$7",
+"event-75160136.07": "So, um...$7#$b#How's the farm life so far, city boy?^How's the farm life so far, city girl?$6#$b#Bet you're regretting it all now, huh?$7",
+"event-75160136.08": "Oh? You're enjoying it? Pshh. Really, now?$h#$b#The other day I saw you looking half-dead from all that hard work.$6",
+"event-75160136.09": "Haha. Your body bred from the city isn't that tough, huh?$h#$b#Wahaha.$h",
+"event-75160136.10": "I'm just teasing you.$8#$b#I actually admire your work. You've done a somewhat decent job. I have to give it to you.$a#$b#You grow healthy crops and manage a huge farm by yourself.#$b#That's impressive, even for you @.$6",
+"event-75160136.11": "Huh? smiling suites me?$8#$b#Well I---$8#$b#I, umm--$u#$b#Another joke and I'll pour some acid on you!$a",
 "event-75160136.12": "You notice a leaf stuck in her hair.",
-"event-75160136.13": "Hey what are you--$a",
-"event-75160136.14": "As you reach for her hair, she turns around to face you.#And as she does, your hand is now holding her cheek and your face in front of her face.",
-"event-75160136.15": "Uhh!!$8#$b#Uhmm..$8",
-"event-75160136.16": "WOAH!$u",
-"event-75160136.17": "Ouchh!!$s",
-"event-75160136.18": "Wha-?!$a#$b#Trinnie?$a#$b#What were you doing on top of that tree?$a#$b#Hey are you okay?$s",
-"event-75160136.19": "Owww$s#$b#I'm sorry! I was hiding from Keahi! We were playing hide and seek.$s#$b#Oww... My arm hurts..$s",
+"event-75160136.13": "Hey, what are you--$a",
+"event-75160136.14": "As you reach for her hair, she turns around to face you.#And as she does, your hand is now holding her cheek and your face is in front of her face.",
+"event-75160136.15": "!!$8#$b#Umm...$8",
+"event-75160136.16": "WHOA!$u",
+"event-75160136.17": "Ouch!!$s",
+"event-75160136.18": "Wha-?!$a#$b#Trinnie?$a#$b#What were you doing on top of that tree?$a#$b#Hey, are you okay?$s",
+"event-75160136.19": "Owww$s#$b#I'm sorry! I was hiding from Keahi! We were playing hide and seek.$s#$b#Oww... My arm hurts....$s",
 "event-75160136.20": "Wait, don't move. Let me go there..$a",
-"event-75160136.21": "My goodness. Thankfully it's nothing too serious.$h#$b#You only got some bruises. Thankfully nothing's broken.$h#$b#But we better go to the clinic to be safe okay?$a",
-"event-75160136.22": "Okay Miss Maddie..$s#$b#I'm sorry for disturbing you..$s",
-"event-75160136.23": "Hey now.. Don't be sad.$h#$b#What's important is you're doing fine okay?$h#$b#Uhm @. May I ask you to get another pack of ice inside the lab?#$b#There are some in the fridge. We'll walk to town and the current ice is melting.",
-"event-75160136.24": "Hey, You should sit still for a while.#$b#Here, let me hold the ice packet over the bruise..$h",
+"event-75160136.21": "My goodness. Thankfully it's nothing too serious.$h#$b#You only got some bruises. Thankfully nothing's broken.$h#$b#But we'd better go to the clinic to be safe, okay?$a",
+"event-75160136.22": "Okay Miss Maddie...$s#$b#I'm sorry for disturbing you....$s",
+"event-75160136.23": "Don't cry.$h#$b#What's important is you're not seriously hurt, okay?$h#$b#@. May I ask you to get another pack of ice inside the lab?#$b#There are some in the fridge. This bag will melt while we walk to town.",
+"event-75160136.24": "Hey, you should sit still for a while.#$b#Here, let me hold the ice pack over the bruise.$h",
 "event-75160136.25": "I'm sorry for disrupting your date with @, Miss Maddie. I wasn't careful while I was hanging on the--",
-"event-75160136.26": "Wait? What#$b#OH NO! That wasn't a date!$u#$b#We're just friends! Uhm! I mean, Is that farmer even my friend?$a#$b#I mean.. Well.. I think..$7#$b#@...$8",
-"event-75160136.27": "Uhm.. Miss Maddie?#$b#I could see that you kinda like @. I really think so.$h#$b#But.. Why is it like you don't want that? Is @ a bad person?$s",
-"event-75160136.28": "Oh! No! @ is a good person.$7#$b#That oaf might be annoying, But a good person nevertheless.$7#$b#But well..$s",
-"event-75160136.29": "What's wrong Miss Maddie?",
+"event-75160136.26": "Wait? What?#$b#OH NO! That wasn't a date!$u#$b#We're just friends! I--I mean, is that farmer even my friend?$a#$b#I mean.. Well.. I think...$7#$b#@....$8",
+"event-75160136.27": "Um... Miss Maddie?#$b#It looks like you kinda like @. I really think so.$h#$b#But... Why is it like you don't want that? Is @ a bad person?$s",
+"event-75160136.28": "Oh! No! @ is a good person.$7#$b#That oaf might be annoying, but a good person nevertheless.$7#$b#But, well....$s",
+"event-75160136.29": "What's wrong, Miss Maddie?",
 "event-75160136.30": "Hmm..$s#$b#Let's just say.. It's kind of hard to trust someone when the same kind of trust has been broken before...$7",
-"event-75160136.31": "Uhh. I'm sorry Miss Maddie, I don't get it.$u",
-"event-75160136.32": "Haha, well, One day you'll understand that Trinnie.$h",
-"event-75160136.33": "Hmm.. Oh well.#$b#But Miss Maddie, I think...#$b#I think if you're sad, you should go to the person you feel happy with.$h#$b#Like @! I saw you look so happy earlier!$h",
-"event-75160136.34": "Huh? No way now..$8#$b#Hmph. That annoying little..$8",
-"event-75160136.35": "Miss Maddie! Why is the ice pack in my face! It's so cold!!$u",
+"event-75160136.31": "Uhh... I'm sorry Miss Maddie, I don't get it.$u",
+"event-75160136.32": "Haha, well, one day you might understand, Trinnie. Although I hope you don't.$h",
+"event-75160136.33": "Okay, you say so....#$b#But Miss Maddie, I think...#$b#I think if you're sad, you should go to the person you feel happy with.$h#$b#Like @! I saw you look so happy earlier!$h",
+"event-75160136.34": "Huh? No way.$8#$b#Hmph. That annoying little....$8",
+"event-75160136.35": "Miss Maddie! Why is the ice pack in my face? It's too cold!!$u",
 "event-75160136.36": "Oh! Sorry!$u",
-"event-75160136.37": "Oh! Hiya @! I'm a little better now!$h#$b#Oww!! I shouldn't have waved my arm!$u",
-"event-75160136.38": "Uhm. You got the ice pack?$8",
+"event-75160136.37": "Oh! Hiya, @! I'm a little better now!$h#$b#Oww!! I shouldn't have waved my arm!$u",
+"event-75160136.38": "Um. You got the ice pack?$8",
 "event-75160136.39": "We went to the clinic after.#Thankfully Trinnie's all fine.",
-"event-75160136.40": "Uhmm.. Thanks for helping me with Trinnie.$8#$b#Hmph.. Bye now..$8",
+"event-75160136.40": "Umm... Thanks for helping me with Trinnie.$8#$b#Hmph... Bye now....$8",
 
 	//Farmer leaves
-"event-75160136.05": "Well, See you.",
-"event-75160136.Fork2": "Uhm. Okay..$7%fork",
-"event-75160136.MaddieBye.01": "Hmm..$s",
+"event-75160136.05": "Well, see you.",
+"event-75160136.Fork2": "Um. Okay..$7%fork",
+"event-75160136.MaddieBye.01": "Hmm.$s",
 
 //Maddie confesses (Maddie 8 hearts)
 "event-75160138.01": "....$7",
@@ -1900,7 +1900,7 @@
 
 //Olga with flowers (Olga 4 hearts)
 "event-75160095.01": "Oh! Howdy there, @.#$b#Hehe, isn't it a glorious day on the mountainside?$h",
-"event-75160095.02": "Why do I look so happy?#$b#Well, my husband woke me up with a rose and breakfast in bed today.$h#$b#Hmph, He never stops being so sweet and loveable. Some people might say he's TOO sweet.$a#$b#But by Yoba, I love the big doof.$h",
+"event-75160095.02": "Why do I look so happy?#$b#Well, my husband woke me up with a rose and breakfast in bed today.$h#$b#Hmph, he never stops being so sweet and loveable. Some people might say he's TOO sweet.$a#$b#But by Yoba, I love the big doof.$h",
 "event-75160095.03": "He can be a real airhead, but he is very responsible.$h#$b#And I love both sides of him.#$b#Hey, @. If you ever have a special someone, always treasure 'em like they're your grandmama's recipes, alright?#$b#Make sure you're the one to tie 'em to the ground when they get too carried away with their desires and dreams.#$b#Always remind them to take care of themselves. Course, you take care of yourself too, okay?$h",
 "event-75160095.04": "Oh that Bert. Hmph. < $h",
 
@@ -1916,10 +1916,10 @@
 "event-75160096.09": "Well, better get back to work now, right, farmer?$h",
 
 //Olga and Bert talk about life (Olga 8 hearts)
-"event-75160097.01": "Here's your cup of wine hon.",
-"event-75160097.02": "Thanks hon.$h",
+"event-75160097.01": "Here's your cup of wine, hon.",
+"event-75160097.02": "Thanks, hon.$h",
 "event-75160097.03": "Ah... We made the right choice.#$b#At least, I hope we did.#$b#I mean, the city life was alright and all, but it was too hectic and busy.$s#$b#Things were moving too fast.$s#$b#I didn't know if raising Trinnie there would be good.$s#$b#I REALLY hope we did the right thing, Bert.$s",
-"event-75160097.04": "Hey Olga, sweeti, don't you fret your head.#$b#We made the right call. We have a nice house, a steady income.#$b#And Trinnie is happy. Not to mention the fresh air!$h#$b#See! C'mon, let's go dancing in this fresh valley air!$h",
+"event-75160097.04": "Hey Olga, sweetie, don't you fret your head.#$b#We made the right call. We have a nice house, a steady income.#$b#And Trinnie is happy. Not to mention the fresh air!$h#$b#See! C'mon, let's go dancing in this fresh valley air!$h",
 "event-75160097.05": "Oh, stop it, you.$h#$b#But yeah... Thank you for always making me feel at ease, Bert.#$b#I'm glad you're by my side.$4",
 "event-75160097.06": "Cheers, hon!$h",
 
@@ -1955,7 +1955,7 @@
 "event-75160163.09": "*urp* Oh no, I think I might puke.$u",
 "event-75160163.10": "Oh no!$6#$b#@! Guide him outside, quick!$6#$b#He won't make it by himself!$s",
 "event-75160163.11": "*urp* Ughhh..$s#$b#Oh boy! Here it comes!$u",
-"event-75160163.12": "Woah!#Thankfully we made it out in time!",
+"event-75160163.12": "Whoa!#Thankfully we made it out in time!",
 "event-75160163.13": "Uhgg.. I think it's over no--$s#$b#Oh no, spoke too soon!$u",
 "event-75160163.14": "You rub Philip's back as he pukes.#Why did he drink so much, anyway?",
 "event-75160163.15": "Ugh, I think it's done.$s#$b#Oooof.$s",
@@ -2017,7 +2017,7 @@
 //Philip asleep (Philip 8 hearts)
 "event-75160166.01": "Philip fell asleep outside.#It seemed he fell asleep while reading a comic book",
 "event-75160166.02": "*snore*...$10#$b#Huh?$10",
-"event-75160166.03": "Woah! I fell asleep!$u",
+"event-75160166.03": "Whoa! I fell asleep!$u",
 "event-75160166.04": "Oh! Hey there @.$6#$b#It's kinda embarrassing you found me asleep here in the hotel lawn.$6#$b#I was just reading a comic book after a whole day of work.$6#$b#I guess I was really tired that I just immediately fell asleep.$h#$b#Quite embarrassing huh?$6",
 "event-75160166.05": "Haha you're real kind @.$6#$b#I really should sleep in my room now huh?#$b#But it's so relaxing here though.$6",
 "event-75160166.06": "How's work? It was good.$6#$b#I'm just super happy with my patient's progress so far.#$b#It warms my heart to see their eyes light up with hope whenever therapy shows good progress in their recovery.$h",
@@ -2028,7 +2028,7 @@
 "event-75160166.11": "He's sound asleep.#(Yawn) you seem to be getting sleepy as well..",
 "event-75160166.12": "yawn",
 "event-75160166.13": "Hey you two.#$b#Are you both doing okay?$h#$b#You both do know you can just check-in the hotel and sleep in a bed instead in the lawn right?$h",
-"event-75160166.14": "Woah! How long have we've been asleep there?$6",
+"event-75160166.14": "Whoa! How long have we've been asleep there?$6",
 "event-75160166.15": "I'm not really sure, I was just on my way to the hotel.$h#$b#You two seem so tired from all your hard work though. And you both deserve some rest.#$b#But I recommend not sleeping here unguarded, some guests here are unpredictable you know?$h",
 "event-75160166.16": "We're so sorry Lenny. And thanks for waking us up.$6",
 "event-75160166.17": "It's alright dears.$h#$b#Well, I better get going now. See you both around.$h",
@@ -2321,7 +2321,7 @@
 
 //Trinnie and other kids visit farmer (Trinnie 6 hearts)
 "event-75160108.01": "GOOOOOD MORNING @!!!$h",
-"event-75160108.02": "Woah! Your farm is big!$h",
+"event-75160108.02": "Whoa! Your farm is big!$h",
 "event-75160108.03": "How's it going, @?$h",
 "event-75160108.04": "Come on guys, not too loud!",
 "event-75160108.05": "We were playing by the bus stop earlier and we were thinking of visiting your farm @.#$b#We were curious how it looks now, since you moved in.",
@@ -2381,12 +2381,12 @@
 "event-75160142.04": "@? What are you doing here?$9#$b#Oh wait, pardon me. This is a public gym after all.$9#$b#Uhm... Anyway, what brings you here?$8",
 "event-75160142.05": "Oh, so you saw that?$9#$b#I apologize for that bad display of art.$9#$b#It's an embarrassment...$9",
 "event-75160142.06": "For you it might all look fine and graceful as you say...$9#$b#But really, I don't feel 'it' you know..$9#$b#It doesn't feel right...$9#$b#Ever since...$9",
-"event-75160142.07": "Yeah.. Ever since...$9",
-"event-75160142.08": "Ysabelle seems down..",
+"event-75160142.07": "Yeah... Ever since...$9",
+"event-75160142.08": "Ysabelle seems down.",
 "event-75160142.09": "Are you okay?",
 "event-75160142.10": "(stay silent)",
-"event-75160142.11": "Uhgg.. I hate this..$9",
-"event-75160142.12": "Pardon me for my behavior at the moment @..$9#$b#I just don't like remembering the past. It's my fault really...$9#$b#...uhmm...$9",
+"event-75160142.11": "Ugh... I hate this....$9",
+"event-75160142.12": "Pardon me for my behavior at the moment, @....$9#$b#I just don't like remembering the past. It's my fault really...$9#$b#...uhmm...$9",
 "event-75160142.13": "What should I say?",
 
 	//Farmer is being optimistic
@@ -2404,73 +2404,73 @@
 
 	//Farmer annoys Ysabelle
 "event-75160142.15": "Come on, tell me!",
-"event-75160142.Fork2": "Hmph, how rude of you @.$10#$b#You seem to only care for your own entertainment huh?$10#$b#How immature.$10%fork",
+"event-75160142.Fork2": "Hmph, how rude of you, @.$10#$b#You seem to only care for your own entertainment, huh?$10#$b#How immature.$10%fork",
 "event-75160142.YsabelleAngry.01": "Please leave, I don't want you around here.$10#$b#And kindly remember to remove your shoes the next time you step on the dance mat, thank you.$10",
 "event-75160142.YsabelleAngry.02": "Hmph, what do you want?$a",
 
 //Ysabelle escapes (Ysabelle 6 hearts)
-"event-75160143.01": "Why did you have to call...$s#$b#I really really miss you both.. But..$s#$b#You don't seem to understand..$7",
-"event-75160143.02": "@! Woah! Hey!$u#$b#Uhmm... Did you just hear me talking to myself??$6#$b#Oh my.. That must've been a weird site to behold huh?$6",
-"event-75160143.03": "Before we continue, I'm not comfortable speaking with you while you're being that far away.#$b#Come sit beside me would you!$h#$b#Silly you.",
-"event-75160143.04": "Hey uhm, so again, pardon for that really weird display.$6#$b#I was just talking to myself about stuff related to my parents.$s#$b#They called and talked to me earlier via the phone and discussed some matters regarding my dance career.$s#$b#And hmph... They still don't get it...$s",
+"event-75160143.01": "Why did you have to call...$s#$b#I really really miss you both... But..$s#$b#You don't seem to understand..$7",
+"event-75160143.02": "@! Whoa! Hey!$u#$b#Umm... Did you just hear me talking to myself?$6#$b#Oh my... That must've been a strange sight to behold, huh?$6",
+"event-75160143.03": "Before we continue, I'm not comfortable speaking with you while you're being that far away.#$b#Come sit beside me, won't you?$h#$b#Silly you.",
+"event-75160143.04": "So again, pardon for that really weird display.$6#$b#I was just talking to myself about stuff related to my parents.$s#$b#They called and talked to me earlier via the phone and discussed some matters regarding my dance career.$s#$b#And, well... They still don't get it...$s",
 "event-75160143.05": "Oh that's right, I have not opened up to you about that huh?$6#$b#Hmm..$s",
-"event-75160143.06": "Come, sit closer would you?$6",
-"event-75160143.07": "Hmm.. Remember that time where I was really frustrated with my dancing?$s#$b#Well, it wasn't like that before..$s#$b#I used to dance with no care in the world, just express myself and all.$6#$b#The feeling was lovely, It was freeing, it was 'me'.$0#$b#And I would give anything up just to regain that feeling back...$s",
-"event-75160143.08": "You see... My parents were really obsessed with the idea of being famous and all.$s#$b#So when they saw how good I was with ballet, they pressured me to achieve higher awards, win competitions, be more..$s#$b#At first it was nothing, as a young child it felt like I was given what I wanted. And I just kept at it..$s#$b#But as I grew up, the demands rose along with my age..$s#$b#To just keep on dancing.. dancing.. dancing and DANCING.. But it wasn't out of passion anymore..$s#$b#I was tired.. I was lost.. It all felt wrong..$s#$b#I wasn't able to make any friends anymore, for mom would say they would be a hindrance to my training...$s#$b#I wasn't able to eat my favorite foods either.. For dad said it would affect my performance..$s#$b#I.. I...$s",
-"event-75160143.09": "I hated myself... I hated to dance..$7#$b#It all felt so wrong.$7#$b#I felt so frustrated, conflicted, sad, angry, I... I don't know..$7#$b#I couldn't even cry myself to sleep in some nights because of how tired I would've been..$7#$b#I kept this facade of smiles, grace, and perfection as my image grew, and as my parents enjoyed the fame...$7#$b#As I lived the life of being the 'Sunrise Rose Princess' as they would've called me...$7#$b#I hated it... I was tired... I was angry...$7#$b#I was not myself...$7",
-"event-75160143.10": "Ysabelle is trying to wipe her tears off#But seems futile as more tears slowly replace the wiped ones.",
-"event-75160143.11": "My goodness... Here I am, crying out in front of a friend...$12#$b#I'm so sorry @... This might be a hassle for you to listen to...$7",
-"event-75160143.12": "You wipe some of Ysabelle's tears off her cheeks#And you held her hand",
-"event-75160143.13": "I have to admit...$12#$b#I do feel comfortable when you're around @...$12",
-"event-75160143.14": "And yeah... Well...$7#$b#One day... I had enough.$7#$b#I was in the middle of this show performance for a group of important people... I don't even remember anymore...$7#$b#I just did what my parents wanted me to do...$7#$b#But on that day... at that certain performance...$7#$b#I cried in the middle of it... Then I broke down in tears...$7#$b#And just… Well... Stopped dancing, and cried...$7#$b#Ofcourse, everyone was confused.. Especially my parents..$7#$b#I was then escorted backstage… And as I waited for my parents to arrive...$7#$b#My mind was blank... I didn't know what to feel...$7#$b#It's like I broke down…… And I was just blank...$7#$b#A girl in a grand ballet dress, all glittered and dolled up, but with a blank emotion in the face amongst tears and sweat..$12#$b#Hehe.. I didn't even hear the scolding of my parents anymore as they arrived..$12",
-"event-75160143.15": "After that incident, I decided to run away..$7#$b#I just felt I had to.. And so I did..$7#$b#Rode some buses and eventually found my way here to the valley and stayed with my Grandpa.$7#$b#I have to tell you though, It was funny seeing his huge surprise when he saw me walk into the lobby of his hotel$12#$b#He contacted my parents afterwards and they made a deal..$7#$b#I was allowed to stay with him for the meantime as they try to clean up the mess I left back home..$7#$b#But that was quite some time ago though.. I haven't really talked to them since, especially that I avoided their calls..$7#$b#Until earlier where I answered the call for I missed them... And hoping that they had changed..$7#$b#But no.. They still want me to perform for them...$7#$b#No way I'm going back..$7",
-"event-75160143.16": "But hey, I'm not going back because of lots of reasons besides avoiding the fame and pressure.$12#$b#I actually like working in the hotel, even if it can be quite boring sometimes.$12#$b#And living here in the valley, and being with friends at last.$12#$b#I'm happy here..$12#$b#Especially having such friends like you @..$12#$b#Thank you, I'm truly grateful..$12",
-"event-75160143.17": "And uhm.. @..$12",
-"event-75160143.18": "Thank you for listening to me..$12#$b#It really means a lot to me. I'm glad you're here.$12",
-"event-75160143.19": "Ysabelle held your hands and gave you a smile.#She seems really glad she was able to open up to you.",
-"event-75160143.20": "Opening up my problems to you made me feel at ease @.$l#$b#Thank you.$h",
+"event-75160143.06": "Come, sit closer, would you?$6",
+"event-75160143.07": "Hmm... Remember that time where I was really frustrated with my dancing?$s#$b#Well, it wasn't like that before...$s#$b#I used to dance with no care in the world, just express myself and all.$6#$b#The feeling was lovely, It was freeing, it was 'me'.$0#$b#And I would give anything up just to regain that feeling back...$s",
+"event-75160143.08": "You see... My parents were really obsessed with the idea of being famous.$s#$b#So when they saw how good I was with ballet, they pressured me to achieve higher awards, win competitions, be more....$s#$b#At first, it was nothing. As a young child, it felt like I was given what I wanted. And I just kept at it....$s#$b#But as I grew up, the demands grew as well....$s#$b#To just keep on dancing... dancing... dancing and DANCING... But it wasn't out of passion anymore.$s#$b#I was tired... I was lost... It all felt wrong...$s#$b#I wasn't able to make any friends anymore, for Mom would say they would be a hindrance to my training...$s#$b#I wasn't able to eat my favorite foods either.. Dad said it would affect my performance..$s#$b#I... I...$s",
+"event-75160143.09": "I hated myself... I hated to dance...$7#$b#It all felt so wrong.$7#$b#I felt so frustrated, conflicted, sad, angry, I... I don't know....$7#$b#I couldn't even cry myself to sleep, some nights, because of how tired I was.$7#$b#I kept this facade of smiles, grace, and perfection as my image grew, and as my parents enjoyed the fame...$7#$b#As I lived the life of being the 'Sunrise Rose Princess' as they called me...$7#$b#I hated it... I was tired... I was angry...$7#$b#I was not myself...$7",
+"event-75160143.10": "Ysabelle is trying to wipe her tears off.#But it seems futile, as more tears slowly replace the wiped ones.",
+"event-75160143.11": "My goodness... Here I am, crying in front of a friend...$12#$b#I'm so sorry, @... This might be a hassle for you to listen to...$7",
+"event-75160143.12": "You wipe some of Ysabelle's tears off her cheeks#And you hold her hand.",
+"event-75160143.13": "I have to admit...$12#$b#I do feel comfortable when you're around, @....$12",
+"event-75160143.14": "And yeah... Well...$7#$b#One day... I had enough.$7#$b#I was in the middle of this show performance for a group of important people... I don't even remember anymore...$7#$b#I just did what my parents wanted me to do.$7#$b#But on that day... at that certain performance...$7#$b#I cried in the middle of it. Then I broke down in tears...$7#$b#And just... well... stopped dancing, and cried.$7#$b#Ofcourse, everyone was confused... especially my parents...$7#$b#I was then escorted backstage... and as I waited for my parents to arrive...$7#$b#My mind was blank. I didn't know what to feel...$7#$b#It's like I broke down... and I was just blank.$7#$b#Just imagine, a girl in a grand ballet dress, all glittered and dolled up, but with a completely emotionless face stained by tears and sweat.$12#$b#Hehe... I didn't even hear the scolding of my parents when they arrived.$12",
+"event-75160143.15": "After that incident, I decided to run away.$7#$b#I just felt I had to... and so I did.$7#$b#Rode some buses and eventually found my way here to the valley and stayed with my grandpa.$7#$b#I have to tell you, it was funny seeing how surprised he was when he saw me walk into the lobby of his hotel!$12#$b#He contacted my parents afterwards and they made a deal.$7#$b#I was allowed to stay with him for now as they tried to clean up the mess I left back home..$7#$b#But that was quite some time ago. I haven't really talked to them since, especially since I avoided their calls....$7#$b#Until earlier where I answered the the phone. Because I missed them... And was hoping that they had changed.$7#$b#But no. They still want me to perform for them...$7#$b#There's no way I'm going back to that life.$7",
+"event-75160143.16": "But I'm not going back because of lots of reasons besides avoiding the fame and pressure.$12#$b#I actually like working in the hotel, even if it can be quite boring sometimes.$12#$b#And getting to live here in the valley, and being with friends at last.$12#$b#I'm happy here.$12#$b#Especially since I got to make friends like you, @..$12#$b#Thank you, I'm truly grateful.$12",
+"event-75160143.17": "And um... @....$12",
+"event-75160143.18": "Thank you for listening to me.$12#$b#It really means a lot to me. I'm glad you're here.$12",
+"event-75160143.19": "Ysabelle holds your hands and gives you a smile.#She seems really glad she was able to open up to you.",
+"event-75160143.20": "Opening up my problems to you made me feel at ease, @.$l#$b#Thank you.$h",
 
 //Ysabelle dances (Ysabelle 8 hearts)
-"event-75160144.01": "You have some weird displays around the hotel Grandpa.$h#$b#Grandma would've been embarrassed right now with such a bizarre display.#$b#I mean really? You really had to frame the business certificate?$h",
-"event-75160144.02": "I'll have you know, my dear, that this very certificate is more than what it seems!$h#$b#It was given to us the very day your Grandma and I were married.$h#$b#I just love to display this, so laugh all you want.$h",
-"event-75160144.03": "You're weird Grandpa. Haha!$h#$b#You really do miss Grandma huh?#$b#Me too grandpa..$s",
-"event-75160144.04": "I miss her everyday my dear.#$b#If she sees us weeping here in front of the certificate, then she would definitely be embarrassed for us. Haha! We're too sentimental.$h#$b#Come now dear Ysa, Your grandma wouldn't want us to be sad most of the time.",
-"event-75160144.05": "Hehe, I know grandpa.$h",
-"event-75160144.06": "Oh hello there @.$h#$b#You caught us in a sentimental moment.#$b#I hope you don't mind.$h",
-"event-75160144.07": "My granddaughter is such a softie isn't she? Right @?$h#$b#Hoho!$h",
-"event-75160144.08": "Oh come now Grandpa!$a",
+"event-75160144.01": "You have some weird displays around the hotel, Grandpa.$h#$b#Grandma would've been embarrassed if she saw some of the bizarre things you put out.#$b#I mean, really? You really had to frame the business certificate?$h",
+"event-75160144.02": "I'll have you know, my dear, that this very certificate is more than what it seems!$h#$b#It was given to us the very day your Grandma and I were married.$h#$b#I just love to display this, so you may laugh all you want.$h",
+"event-75160144.03": "You're weird Grandpa. Haha!$h#$b#You really do miss Grandma, huh?#$b#Me too....$s",
+"event-75160144.04": "I miss her every day, my dear.#$b#But if she were to see us weeping here in front of the certificate, then that is when she would've been embarrassed for us. Haha! We're too sentimental.$h#$b#Come now, dear Ysa, your grandma wouldn't want us to be sad most of the time.",
+"event-75160144.05": "Hehe. I know, grandpa.$h",
+"event-75160144.06": "Oh hello there, @.$h#$b#You caught us in a sentimental moment.#$b#I hope you don't mind.$h",
+"event-75160144.07": "My granddaughter is such a softie isn't she? Right, @?$h#$b#Hoho!$h",
+"event-75160144.08": "Oh come now, Grandpa! Like you aren't!$a",
 "event-75160144.09": "I may know a way to lighten the mood around here.#$b#Let's see now...$h",
-"event-75160144.10": "Grandpa?#$b#Oh! It's been so long since you played that.#$b#I did wonder why?",
-"event-75160144.11": "Well.. I hadn't had the motivation to do so for quite some time now.#$b#Maybe I was still feeling sad and all.#$b#But now, I just have the feeling..",
-"event-75160144.12": "I remember this song your grandmother and I wrote..#$b#I do hope I still remember..#$b#And I also remember you dancing to this Ysa.$h#$b#And so, will you do the honors?",
-"event-75160144.13": "I don't know Grandpa.. I..$s",
-"event-75160144.14": "@??$l#$b#Yeah.. I guess you're right..$l#$b#I should try huh?$l..#$b#Okay.. I'll do it..$l",
-"event-75160144.15": "I'm glad my dear..$h#$b#Let's see now..",
+"event-75160144.10": "Grandpa?#$b#Oh! It's been so long since you played that.#$b#I did wonder why.",
+"event-75160144.11": "Well.. I hadn't had the motivation to do so for quite some time.#$b#Maybe I was still greiving.#$b#But now, I just have this feeling....",
+"event-75160144.12": "I remember this song your grandmother and I wrote.#$b#I do hope I still remember how to play it.#$b#And I also remember you dancing to this Ysa.$h#$b#And so, will you do the honors?",
+"event-75160144.13": "I don't know, Grandpa... I....$s",
+"event-75160144.14": "@??$l#$b#Yeah.. I guess you're right.$l#$b#I should at least try, huh?$l..#$b#Okay... I'll do it.$l",
+"event-75160144.15": "I'm glad, my dear.$h#$b#Let's see, now....",
 "event-75160144.16": "Ysabelle is smiling as she dances.#She seems at ease.",
-"event-75160144.17": "She's back..$h#$b#I'm glad.$h",
-"event-75160144.18": "Ysabelle does not seem to be conscious of her movements anymore.#She seems to have fun now as she dances",
-"event-75160144.19": "Watch me @..$l",
-"event-75160144.20": "I think I'm having fun with dance again..$h#$b#Grandpa! Another song!$h",
-"event-75160144.21": "Anything for you dear!$h",
+"event-75160144.17": "She's back....$h#$b#I'm glad.$h",
+"event-75160144.18": "Ysabelle does not seem to be conscious of her movements anymore.#She seems to have fun now as she dances.",
+"event-75160144.19": "Watch me, @....$l",
+"event-75160144.20": "I think I'm having fun with dance again....$h#$b#Grandpa! Another song!$h",
+"event-75160144.21": "Anything for you, dear!$h",
 "event-75160144.22": "I'm glad she's feeling like herself again.#Ysabelle's dance was beautiful, unlike anything I've seen before.",
-"event-75160144.23": "I can't believe I danced without any care again!$h#$b#I've missed this feeling. I'm so happy!$h#$b#I hope you liked my dance @..$l",
+"event-75160144.23": "I can't believe I danced without any care again!$h#$b#I've missed this feeling. I'm so happy!$h#$b#I hope you liked my dance, @....$l",
 
 //Ysabelle dance with farmer (Ysabelle 10 hearts)
-"event-75160145.01": "Hey love..$l",
+"event-75160145.01": "Hey, love....$l",
 "event-75160145.02": "Ysabelle holds your hand",
-"event-75160145.03": "Come here, baby..$h",
-"event-75160145.04": "Just hold me..$l",
-"event-75160145.05": "Ysabelle's eyes lock unto yours as you both stare into each other.#With your arms on one another, you feel each other's breaths after that small dance.#She looks at you...",
-"event-75160145.06": "@... You don't know how happy you make me...$l",
+"event-75160145.03": "Come here, baby....$h",
+"event-75160145.04": "Just hold me....$l",
+"event-75160145.05": "Ysabelle's eyes lock unto yours as you both stare into each other.#With your arms on one another, you feel each other's breaths after that small dance.#She looks at you.",
+"event-75160145.06": "@... You don't know how happy you make me....$l",
 "event-75160145.07": "Come... follow me...$l#$b#Let's take this to my room...$l",
 "event-75160145.08": "I'm glad you came over by the gym earlier.$l#$b#Well now, stop it with that silly smile! You're embarrassing me!$l",
 
 //Yuuma buying stuff (Yuuma 2 hearts)
-"event-75160110.01": "Why hello there, @!$h#$b#And what can I help you today?",
+"event-75160110.01": "Why hello there, @!$h#$b#And what can I help you with today?",
 "event-75160110.02": "Excuse me sir.^Excuse me miss.#$b#Is it okay if I get ahead in line? I am in a hurry.#$b#It's fine if you don't want to.$h",
-"event-75160110.03": "Thank you kind sir.^Thank you kind miss.",
+"event-75160110.03": "Thank you, kind sir.^Thank you, kind miss.",
 "event-75160110.04": "Here you go, mister Pierre.#$b#I would like to purchase these, please.",
-"event-75160110.05": "You don't have to be so formal now, Yuuma.$h#$b#And woah! This is a lot of stuff! Are you okay carrying these all by yourself?",
+"event-75160110.05": "You don't have to be so formal now, Yuuma.$h#$b#And whoa, this is a lot of stuff! Are you okay carrying these all by yourself?",
 "event-75160110.06": "It is no bother, sir.#$b#I can handle these.",
 "event-75160110.07": "Hmmm. Okay, then....",
 "event-75160110.08": "Thank you!",
@@ -2509,14 +2509,14 @@
 "event-75160112.24": "Doctor Harvey confirmed that Shiro is indeed getting better.#$b#The pain he felt earlier was just his body healing after his last surgery.",
 
 //Yuuma with other kids (Yuuma 8 hearts)
-"event-75160113.01": "Woah! You have so many drawings, Yuuma!$h#$b#They look so cool!",
+"event-75160113.01": "Whoa! You have so many drawings, Yuuma!$h#$b#They look so cool!",
 "event-75160113.02": "Oh! Look at that dinosaur! It looks so real!$h",
 "event-75160113.03": "You have quite the talent, Yuuma!$h",
 "event-75160113.04": "Hey! It's great to play with you again!$h",
 "event-75160113.05": "Thanks guys! Niisan is with Philip today. And he's getting better.$h#$b#I'm happy I can play with you today.$h",
 "event-75160113.06": "Hey, Yuuma? What's behind this door here?$h",
 "event-75160113.07": "Oh! That's my Mom and Dad's room.#$b#They aren't here right now, though.#$b#They're abroad because of their job and they just send us money sometimes.",
-"event-75160113.08": "Woah! Just like my dad?",
+"event-75160113.08": "Whoa! Just like my dad?",
 "event-75160113.09": "I don't really know.#$b#But I do miss them...$s",
 "event-75160113.10": "Hey now, don't be sad, Yuuma.#$b#Tell you what, until your parents come back, I can be your pretend mother!$h",
 "event-75160113.11": "Hm? Really, Trinnie?#$b#Sometimes I see you wear mismatched slippers when we play!$h#$b#You can't be a mommy!$h",
@@ -2539,7 +2539,7 @@
 
 	//MineCart Restored
 "event-75160190.01": "I think it's done!$h#$b#Good job, everyone!$h",
-"event-75160190.02": "Woah, that was a tough gig!$h",
+"event-75160190.02": "Whoa, that was a tough gig!$h",
 "event-75160190.03": "Hi there, Lenny and @.#$b#We just finished restoring the old Ridgeside minecart system!$h",
 "event-75160190.04": "Woohoo! That sounds great!$h",
 "event-75160190.05": "Well it wouldn't have been possible without @!#$b#Great job, @!$h",
@@ -2553,9 +2553,9 @@
 	//InterModEvents
 		//East Scarpe
 			//Adds Eloise to Trinnie 6 Heart Event
-"InterModEvent.EastScarpe.Trinnie6Hearts.01": "GOODMORNING, @!!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.01": "GOOD MORNING, @!!$h",
 "InterModEvent.EastScarpe.Trinnie6Hearts.02": "@! Hello!!$h",
-"InterModEvent.EastScarpe.Trinnie6Hearts.03": "Woah! Your farm is big!$h",
+"InterModEvent.EastScarpe.Trinnie6Hearts.03": "Whoa! Your farm is big!$h",
 "InterModEvent.EastScarpe.Trinnie6Hearts.04": "How's it going, mister!$h^How's it going, miss!$h",
 "InterModEvent.EastScarpe.Trinnie6Hearts.05": "Come on, guys... Not too loud!",
 "InterModEvent.EastScarpe.Trinnie6Hearts.06": "We were playing by the bus stop earlier and we were thinking of visiting your farm, @.#$b#We thought it was haunted before you moved in.$u",
@@ -2584,18 +2584,18 @@
 "InterModEvent.EastScarpe.Alissa8Hearts.03": "Miss Lenny! You didn't have to say that out loud!$9",
 "InterModEvent.EastScarpe.Alissa8Hearts.04": "You look lovely in that dress, Alissa! I'm so proud of you!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.05": "Good luck out there! Have fun!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.06": "Thank you guys. I'll... I'll try! I'm so nervous!$8",
-"InterModEvent.EastScarpe.Alissa8Hearts.07": "This huge crowd is here for you, Alissa!$h#$b#And we're here for you too!$h!",
-"InterModEvent.EastScarpe.Alissa8Hearts.08": "The song you wrote is going to be a hit! I'm excited!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.09": "We got you, Alissa. Don't worry!$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.10": "Thank... Thank you!$11#$b#Thank you so much for performing with me, guys.$8",
-"InterModEvent.EastScarpe.Alissa8Hearts.11": "Hey! No biggie! After this you should hang out with us more often!#$b#Okay?$h",
-"InterModEvent.EastScarpe.Alissa8Hearts.12": "Oh! Uhm... Okay!$8",
-"InterModEvent.EastScarpe.Alissa8Hearts.13": "I'm so overwhelmed right now!$11",
+"InterModEvent.EastScarpe.Alissa8Hearts.06": "Thank you guys. I'll.. I'll try! I'm still so nervous!$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.07": "Whoa, this is one big crowd we have here, Alissa!$h#$b#We'll do our best playing your song!",
+"InterModEvent.EastScarpe.Alissa8Hearts.08": "This is gonna be fun, Alissa!  Just imagine the audience in their underwear!$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.09": "We got your back, Alissa. Just take a breath and do it like practice.$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.10": "Thank... Thanks, you guys!$11#$b#Thank you so much for performing with me.$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.11": "Hey! No biggie! And after this you should come crash our practice jams!#$b#Okay?$h",
+"InterModEvent.EastScarpe.Alissa8Hearts.12": "Oh! Um, you got it!$8",
+"InterModEvent.EastScarpe.Alissa8Hearts.13": "I'm sooo overwhelmed right now!$11",
 "InterModEvent.EastScarpe.Alissa8Hearts.14": "Okay, everyone! Gather 'round! Let's all welcome our very own popstar!$h#$b#Alissa Liden!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.15": "Okay guys, you can get on stage now. The instruments and audio equipment are all set!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.16": "Everyone is settling down. I should wait a bit...",
-"InterModEvent.EastScarpe.Alissa8Hearts.17": "Uhmm, I would like to welcome everybody to Ridgeside Village once again.$11#$b#Please enjoy the show.!$10",
+"InterModEvent.EastScarpe.Alissa8Hearts.17": "Umm, I would like to welcome everybody to Ridgeside Village once again.$11#$b#Please enjoy the show.!$10",
 "InterModEvent.EastScarpe.Alissa8Hearts.18": "GO, BIG SIS ALISSA!! GO!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.19": "Let's hear it!$h",
 "InterModEvent.EastScarpe.Alissa8Hearts.20": "Woohoo! Let's dance!$h",
@@ -2794,7 +2794,7 @@
 "MapString.rsv.ezekiel12": "I wonder what's on TV?",
 "MapString.rsv.ezekiel13": "It's an old rusty sword.#Dog tags are hanging from its hilt.",
 "MapString.rsv.ezekiel14": "Dear Helen,^^It's a new day. Corine has a job at the local restaurant now. Everything is fine. I miss you. We're planning to visit your grave tomorrow.^^Love, Zeke.#It looks like this letter was written a very long time ago.",
-"MapString.rsv.ezekiel15": "Ezekiel's Dresser. It's thankfully locked.",
+"MapString.rsv.ezekiel15": "Ezekiel's dresser. It's thankfully locked.",
 "MapString.rsv.ezekiel16": "Corine's desk.#There is a notebook with a list of jobs.#Looks like she's looking for her dream job...",
 "MapString.rsv.ezekiel17": "A tray with a half-finished bag of chips and a can of soda.",
 "MapString.rsv.ezekiel18": "Corine's dresser. It's locked.#Or is it?#Yes, it is.",
@@ -2867,9 +2867,9 @@
 "MapString.rsv.lolashed1": "There's some kind of smoke inside of this onyx ring!",
 "MapString.rsv.lolashed2": "The amethyst gem on top of the ring is calling you to pick it.#You barely manage to yank your hand back and turn away.",
 "MapString.rsv.lolashed3": "This is a topaz ring. It looks like it's glowing.",
-"MapString.rsv.lolashed4": "Woah! Look all this gold! You could buy a lot of stuff with this.",
+"MapString.rsv.lolashed4": "Whoa! Look all this gold! You could buy a lot of stuff with this.",
 "MapString.rsv.lolashed5": "It's an aquamarine ring. It looks...wet?",
-"MapString.rsv.lolashed6": "Woah! This jade ring has blood on it!",
+"MapString.rsv.lolashed6": "Whoa! This jade ring has blood on it!",
 "MapString.rsv.lolashed7": "It's an emerald ring. The emerald is huge!",
 "MapString.rsv.lolashed8": "These boots seem to have hidden blades below the soles.#I better not touch these or I might get hurt.",
 "MapString.rsv.lolashed9": "A collection of metal bars and weapons.",
@@ -3097,7 +3097,7 @@
 			//Mysterium (MINDFUCK) (MYSTERY)
 "MovieData.Bert.FallMovie0.Like.BeforeMovie": "Oh, this could be good. Ain't that right, @?$h",
 "MovieData.Bert.FallMovie0.Like.DuringMovie": "NO WAY!$u",
-"MovieData.Bert.FallMovie0.Like.AfterMovie": "Woah! That was some plot twist right there, huh @?$h",
+"MovieData.Bert.FallMovie0.Like.AfterMovie": "Whoa! That was some plot twist right there, huh @?$h",
 
 			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
 "MovieData.Bert.WinterMovie0.Like.BeforeMovie": "Ohh, I think Olga would like this",
@@ -3137,7 +3137,7 @@
 
 			//Mysterium (MINDFUCK) (MYSTERY)
 "MovieData.Corine.FallMovie0.Like.BeforeMovie": "This could be fun! Mystery movies are a delight.",
-"MovieData.Corine.FallMovie0.Like.DuringMovie": "Woah! Didn't expect that one.$h",
+"MovieData.Corine.FallMovie0.Like.DuringMovie": "Whoa! Didn't expect that one.$h",
 "MovieData.Corine.FallMovie0.Like.AfterMovie": "I had fun with the film, @. Thank you for having me tag along with you.$h",
 
 			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
@@ -3198,7 +3198,7 @@
 
 			//Howls in the Rain (HORROR)
 "MovieData.Ezekiel.FallMovie1.Love.BeforeMovie": "A horror film huh? This could be interesting.",
-"MovieData.Ezekiel.FallMovie1.Love.DuringMovie": "Woah! dangnabit! That was a scare!$a",
+"MovieData.Ezekiel.FallMovie1.Love.DuringMovie": "Whoa! dangnabit! That was a scare!$a",
 "MovieData.Ezekiel.FallMovie1.Love.AfterMovie": "WAHAHA! I never had such fun for a long time! Thanks for bringing me along @.$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
@@ -3292,11 +3292,11 @@
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
 "MovieData.Ian.SpringMovie0.Like.BeforeMovie": "An animated movie? I wonder how they come up with this?",
 "MovieData.Ian.SpringMovie0.Like.DuringMovie": "Hey, this is really funny!$h",
-"MovieData.Ian.SpringMovie0.Like.AfterMovie": "Woah! That was great! Thanks @$h",
+"MovieData.Ian.SpringMovie0.Like.AfterMovie": "Whoa! That was great! Thanks @$h",
 
 			//Journey of the Praire King (VIDEOGAME)
-"MovieData.Ian.SummerMovie0.Love.BeforeMovie": "Hey isn't this the video game? It's a film now? Woah!$h",
-"MovieData.Ian.SummerMovie0.Love.DuringMovie": "Woah! Dodge it!$u",
+"MovieData.Ian.SummerMovie0.Love.BeforeMovie": "Hey isn't this the video game? It's a film now? Whoa!$h",
+"MovieData.Ian.SummerMovie0.Love.DuringMovie": "Whoa! Dodge it!$u",
 "MovieData.Ian.SummerMovie0.Love.AfterMovie": "That was intense! I'm excited to play the game again!$h",
 
 			//Mysterium (MINDFUCK) (MYSTERY)
@@ -3310,13 +3310,13 @@
 "MovieData.Ian.WinterMovie0.Like.AfterMovie": "That was really good. Thank you, @. $h",
 
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
-"MovieData.Ian.SpringMovie1.Love.BeforeMovie": "Hey! A movie about other places? Woah!$h",
+"MovieData.Ian.SpringMovie1.Love.BeforeMovie": "Hey! A movie about other places? Whoa!$h",
 "MovieData.Ian.SpringMovie1.Love.DuringMovie": "Oh boy! I wish I could visit those places someday.$h",
 "MovieData.Ian.SpringMovie1.Love.AfterMovie": "Those places seem fun to visit. I'll save up for the trip one day.$h",
 
 			//Wumbus (SCI-FI) (COMEDY)
 "MovieData.Ian.SummerMovie1.Like.BeforeMovie": "What is a wumbus? I wanna find out!$h",
-"MovieData.Ian.SummerMovie1.Like.DuringMovie": "Woah! That's so cool! Look at those!$h",
+"MovieData.Ian.SummerMovie1.Like.DuringMovie": "Whoa! That's so cool! Look at those!$h",
 "MovieData.Ian.SummerMovie1.Like.AfterMovie": "That was a good movie! I had fun!$h",
 
 			//Howls in the Rain (HORROR)
@@ -3352,7 +3352,7 @@
 
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
 "MovieData.Jeric.SpringMovie1.Like.BeforeMovie": "I've been to many places before. I look forward to this film.",
-"MovieData.Jeric.SpringMovie1.Like.DuringMovie": "Hey! I've seen those in some posters as well! Woah! That's a huge place!$h",
+"MovieData.Jeric.SpringMovie1.Like.DuringMovie": "Hey! I've seen those in some posters as well! Whoa! That's a huge place!$h",
 "MovieData.Jeric.SpringMovie1.Like.AfterMovie": "That inspired me to visit those places someday. Wanna come with?$h",
 
 			//Wumbus (SCI-FI) (COMEDY)
@@ -3439,7 +3439,7 @@
 
 			//Wumbus (SCI-FI) (COMEDY)
 "MovieData.Keahi.SummerMovie1.Love.BeforeMovie": "Oh hey! That little wumbus thingy looks cool!$h",
-"MovieData.Keahi.SummerMovie1.Love.DuringMovie": "Woah, this is cool!$h",
+"MovieData.Keahi.SummerMovie1.Love.DuringMovie": "Whoa, this is cool!$h",
 "MovieData.Keahi.SummerMovie1.Love.AfterMovie": "I'M GONNA BE A WUMBUS! WOLOLOLOLO!$h",
 
 			//Howls in the Rain (HORROR)
@@ -3454,7 +3454,7 @@
 
 	//Kenneth
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
-"MovieData.Kenneth.SpringMovie0.Like.BeforeMovie": "Animated!? Woah! That's innovative!$h",
+"MovieData.Kenneth.SpringMovie0.Like.BeforeMovie": "Animated!? Whoa! That's innovative!$h",
 "MovieData.Kenneth.SpringMovie0.Like.DuringMovie": "The animation is decent. I wonder how they did it?",
 "MovieData.Kenneth.SpringMovie0.Like.AfterMovie": "I had a good time! What? The story? Oh, I'm sorry I didn't notice.$h",
 
@@ -3485,7 +3485,7 @@
 
 			//Howls in the Rain (HORROR)
 "MovieData.Kenneth.FallMovie1.Like.BeforeMovie": "A horror flick? This is exciting.$h",
-"MovieData.Kenneth.FallMovie1.Like.DuringMovie": "Woah, that's some nice use of special effects.$h",
+"MovieData.Kenneth.FallMovie1.Like.DuringMovie": "Whoa, that's some nice use of special effects.$h",
 "MovieData.Kenneth.FallMovie1.Like.AfterMovie": "That was great! The effects were well done! Huh? The story? OH! Right, uhm, it's fine I guess.$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
@@ -3731,7 +3731,7 @@
 
 			//Howls in the Rain (HORROR)
 "MovieData.Olga.FallMovie1.Like.BeforeMovie": "The protagonist here played IncrediMan before. I'm curious to see this.",
-"MovieData.Olga.FallMovie1.Like.DuringMovie": "Woah! That was a scare!$u",
+"MovieData.Olga.FallMovie1.Like.DuringMovie": "Whoa! That was a scare!$u",
 "MovieData.Olga.FallMovie1.Like.AfterMovie": "That was a thrilling experience. I had fun, @. Thank you.$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
@@ -3773,7 +3773,7 @@
 			//Howls in the Rain (HORROR)
 "MovieData.Pika.FallMovie1.Love.BeforeMovie": "A thriller? Whaha I'm looking forward for this.$h",
 "MovieData.Pika.FallMovie1.Love.DuringMovie": "%Pika seems to be laughing.",
-"MovieData.Pika.FallMovie1.Love.AfterMovie": "Woah! Now that was a relaxing time. Mahalo for inviting me @.$h",
+"MovieData.Pika.FallMovie1.Love.AfterMovie": "Whoa! Now that was a relaxing time. Mahalo for inviting me @.$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
 "MovieData.Pika.WinterMovie1.Like.BeforeMovie": "Ah, I remember this movie. My wife and I watched the original version before.",
@@ -3885,7 +3885,7 @@
 
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
 "MovieData.Trinnie.SpringMovie1.Like.BeforeMovie": "A movie about different place? Ohh! I wanna see!$h",
-"MovieData.Trinnie.SpringMovie1.Like.DuringMovie": "Woah!! I wonder what kind of candies they sell there!?$h",
+"MovieData.Trinnie.SpringMovie1.Like.DuringMovie": "Whoa!! I wonder what kind of candies they sell there!?$h",
 "MovieData.Trinnie.SpringMovie1.Like.AfterMovie": "I can't wait to ask Papa about those places! I wanna visit them!$h",
 
 			//Wumbus (SCI-FI) (COMEDY)
@@ -3951,7 +3951,7 @@
 "MovieData.Yuuma.SpringMovie0.Like.AfterMovie": "That was a good movie. Thank you @.$h",
 
 			//Journey of the Praire King (VIDEOGAME)
-"MovieData.Yuuma.SummerMovie0.Love.BeforeMovie": "Woah, it's the movie! I'm excited!$h",
+"MovieData.Yuuma.SummerMovie0.Love.BeforeMovie": "Whoa, it's the movie! I'm excited!$h",
 "MovieData.Yuuma.SummerMovie0.Love.DuringMovie": "Yay! Go get him!$h",
 "MovieData.Yuuma.SummerMovie0.Love.AfterMovie": "I had fun, @. Thank you.$h",
 
@@ -4672,7 +4672,7 @@
 "Alissa.Dialogue.Wed6": "Hey there, @! Have you visited Pika's restaurant yet?#$b#He has some amazing dishes there! I don't eat out a lot but it's nice to promote good food!$h",
 "Alissa.Dialogue.Thu6": "%Alissa's singing to herself.#$b#Oh! Hi, @! I know you have caught me singing to myself from time to time.$l#$e#It's just a little hobby haha.$h#$b#I'm not confident in my voice.$7",
 "Alissa.Dialogue.Fri6": "Good day, @!#$e#Corine, the cashier and waitress at Pika's restaurant, is so pretty!$l#$b#I think I have a little girl crush! Teehee.$l",
-"Alissa.Dialogue.Sat6": "Oh, hello there. You're asking about the shed beside my house?#$b#It's where we store our harvest.#$e#We ship them every week.#$b#You ship yours everyday? Woah! That's mighty diligent of you.",
+"Alissa.Dialogue.Sat6": "Oh, hello there. You're asking about the shed beside my house?#$b#It's where we store our harvest.#$e#We ship them every week.#$b#You ship yours everyday? Whoa! That's mighty diligent of you.",
 "Alissa.Dialogue.Sun6": "%Alissa is talking to herself.#$b#Hmm, I really want to know what my voice would sound like if it were on a microphone.$u#$e#What? Oh! Nothing! I was just thinking out loud! I thought I was alone.$7",
 
 //8 Hearts
@@ -4998,7 +4998,7 @@
 //Resort
 "Corine.Dialogue.Resort_Entering": "This place looks amazing!$h",
 "Corine.Dialogue.Resort_Leaving": "Time to head back home!#$b#It was a fun day!$h",
-"Corine.Dialogue.Resort_Leaving_2": "*Yawn* Woah! Am I tired!$h",
+"Corine.Dialogue.Resort_Leaving_2": "*Yawn* Whoa! Am I tired!$h",
 "Corine.Dialogue.Resort_Shore": "It would be nice if someone rubs some sunscreen on my back right about now.$s",
 "Corine.Dialogue.Resort_Shore_2": "Ah! The relaxing sun, the waves crashing, and the warm sand. This is fabulous.$h",
 "Corine.Dialogue.Resort_Umbrella": "Oh don't mind me here. Just taking a break from the sun.$h",
@@ -5361,7 +5361,7 @@
 //4 Hearts
 "Ian.Dialogue.Mon4": "Oh, hi @!#$b#What's up?#$b#Taking a break?#$b#Well, if you need any help with your farm, I can always find some time.$h#$b#I don't charge much!",
 "Ian.Dialogue.Tue4": "I practice wood sculpting and carpentry at night.#$b#I'm not as good as Leah or Robin, though.#$b#It's just a small hobby to get my mind off things.",
-"Ian.Dialogue.Wed4": "I saw your field yesterday as I worked at Marnie's Ranch.#$b#You have to manage a lot that big?#$b#Woah!#$b#I remember helping your grandpa before too.#$b#He was a good man.",
+"Ian.Dialogue.Wed4": "I saw your field yesterday as I worked at Marnie's Ranch.#$b#You have to manage a lot that big?#$b#Whoa!#$b#I remember helping your grandpa before too.#$b#He was a good man.",
 "Ian.Dialogue.Thu4": "I wonder if I can drive the bus too?#$b#I've driven a tractor plenty of times... hmmm.",
 "Ian.Dialogue.Fri4": "Yesterday I asked Pika if I can do some errands for him.#$b#He told me that it's all fine and Corine has it covered.#$b#I then asked Corine if I can lend a hand.#$b#She said that it's sweet and all but she wants to earn her money herself.#$b#I admire her outlook in life.$h",
 "Ian.Dialogue.Sat4": "I don't really waste too much money and save where I can.#$b#I mean, what would I even spend it on?#$b#I get it's for pleasure, but, I mean, I've already got like two shirts and a good pair of jeans.#$b#What do you mean that's not enough?",
@@ -7678,7 +7678,7 @@
 "Jeric.MarriageDialogue.OneKid_3": "I still can't believe that I'm a father.$l#$b#I'm going to work hard to be as good as the Governor was to me.$h",
 
 //Two kids
-"Jeric.MarriageDialogue.TwoKids_0": "Woah, hey look at our kids, babe!$h#$e#%kid2 looks a lot like me, I wonder if they will get into modeling too, right babe?$7",
+"Jeric.MarriageDialogue.TwoKids_0": "Whoa, hey look at our kids, babe!$h#$e#%kid2 looks a lot like me, I wonder if they will get into modeling too, right babe?$7",
 "Jeric.MarriageDialogue.TwoKids_1": "This still sometimes feels unreal. I have my own family.$l#$b#I love you babe.",
 "Jeric.MarriageDialogue.TwoKids_2": "I found %kid1 and %kid2 trying to climb on my motorcycle the other day.$u#$e#I can't wait for them to get big enough for me to teach them how to ride.$l",
 "Jeric.MarriageDialogue.TwoKids_3": "Hey babe! Look at our kids, aren't they looking gorgeous?$6#$b#I designed those outfits myself!$h",
@@ -8006,7 +8006,7 @@
 "Philip.MarriageDialogue.Rainy_Day_2": "There's something so relaxing about the sound of the rain on the roof.",
 "Philip.MarriageDialogue.Rainy_Day_3": "Hey love, don't forget your raincoat today, okay?",
 "Philip.MarriageDialogue.Rainy_Day_4": "I have patients to see today... I better put an extra pair of scrubs in my bag.",
-"Philip.MarriageDialogue.Rainy_Day_Philip": "Woah, it's raining hard.$s#$b#You better be careful if you plan on going out, okay?",
+"Philip.MarriageDialogue.Rainy_Day_Philip": "Whoa, it's raining hard.$s#$b#You better be careful if you plan on going out, okay?",
 
 //Rainy Night
 "Philip.MarriageDialogue.Rainy_Night_0": "Welcome home! How was your day?$h",
@@ -8133,7 +8133,7 @@
 "Shiro.MarriageDialogue.Rainy_Day_Shiro": "It's a little cold, isn't it, @?#$b#Maybe we can spend the day indoors together and keep warm.$h",
 
 ///Rainy Night
-"Shiro.MarriageDialogue.Rainy_Night_0": "I'm glad you're back home, @. $h#$b#Woah! You're soaking wet! $a#$b#You better change your clothes now. I don't want you getting sick.",
+"Shiro.MarriageDialogue.Rainy_Night_0": "I'm glad you're back home, @. $h#$b#Whoa! You're soaking wet! $a#$b#You better change your clothes now. I don't want you getting sick.",
 "Shiro.MarriageDialogue.Rainy_Night_1": "Hey. I got a little tired doing some chores inside the house, but I'm alright.$8#$b#  I'm sorry for worrying you, I'll rest a bit now! $8",
 "Shiro.MarriageDialogue.Rainy_Night_2": "The rain's not stopping, huh? I'm glad you're home, though.#$b# I wish I could join you in your adventures in the rain. $s#$b#It sounds fun, if wet.$8",
 "Shiro.MarriageDialogue.Rainy_Night_3": "Welcome back home, @! I've been doing my best to keep the house clean. It's the least I can do.$l",
