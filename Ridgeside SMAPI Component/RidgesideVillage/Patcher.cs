@@ -12,6 +12,11 @@ namespace RidgesideVillage
     {
     class Patcher
         {
+        const int CURIOSITY_LURE = 856;
+        const double BASE_CATCH_CHANCE = 0.2;
+        const double CATCH_CHANCE_WITH_CURIOLURE = 0.27;  // Curiosity Lure increases chance by 7%
+        const int MIN_FISHING = 3;
+
         static IModHelper Helper;
         static IManifest Manifest;
         static IMonitor ModMonitor;
@@ -38,13 +43,15 @@ namespace RidgesideVillage
                 if (!__instance.IsUsingMagicBait(who)) {
                     return;
                     }
-                string nameToUse = (locationName == null) ? __instance.Name : locationName;
+                string nameToUse = locationName ?? __instance.Name;
                 ModMonitor.Log($"Player {who.Name} using magic bait at {nameToUse} with original fish result is {__result.Name}", LogLevel.Trace);
-                float bobberAddition = 0f;
-                if (who != null && who.CurrentTool is StardewValley.Tools.FishingRod && (who.CurrentTool as StardewValley.Tools.FishingRod).getBobberAttachmentIndex() == 856) // Curiosity Lure increases chance by 7%
-                {
-                    bobberAddition += 0.07f;
-                    }
+
+                double catchChance =
+                    (who.CurrentTool is StardewValley.Tools.FishingRod rod && rod.getBobberAttachmentIndex() == CURIOSITY_LURE)
+                    ? CATCH_CHANCE_WITH_CURIOLURE
+                    : BASE_CATCH_CHANCE
+                    ;
+
                 List<string> fish_names = new List<string>();
                 switch (nameToUse) {
                     // Custom locations are added to the game without their prefixes
@@ -71,7 +78,7 @@ namespace RidgesideVillage
                 foreach (string fish in fish_names) {
                     int fish_id = JsonAssetsAPI.GetObjectId(fish);
                     // Currently this gives each fish a 20% chance to be caught, could be lower if we add more configuration
-                    if (fish_id != -1 && !who.fishCaught.ContainsKey(fish_id) && who.FishingLevel >= 3 && Game1.random.NextDouble() < 0.2 + (double)bobberAddition) {
+                    if (fish_id != -1 && !who.fishCaught.ContainsKey(fish_id) && who.FishingLevel >= MIN_FISHING && Game1.random.NextDouble() < catchChance) {
                         ModMonitor.Log($"Fish {fish} (ID: {fish_id}) is caught: {who.fishCaught.ContainsKey(fish_id)}, setting fish result to this fish", LogLevel.Trace);
                         __result = new StardewValley.Object(fish_id, 1);
                         return;
