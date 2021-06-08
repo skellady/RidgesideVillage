@@ -11,7 +11,6 @@ namespace RidgesideVillage
     {
         internal static IMonitor ModMonitor { get; set; }
         internal new static IModHelper Helper { get; set; }
-        internal static IJsonAssetsApi JsonAssetsAPI { get; set; }
 
         internal static ModConfig Config;
 
