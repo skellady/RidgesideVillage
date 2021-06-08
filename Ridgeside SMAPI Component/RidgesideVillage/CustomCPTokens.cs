@@ -22,217 +22,69 @@ namespace RidgesideVillage
             ModManifest = mod.ModManifest;
             cp = Helper.ModRegistry.GetApi<IContentPatcherApi>("Pathoschild.ContentPatcher");
             }
+
         public void RegisterTokens() {
-            cp.RegisterToken(this.ModManifest, "PastoralMapStyle", () =>
-            {
-                if (Config.pastoralMapStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "PastoralMapStyle", () => new string[] { Config.pastoralMapStyle ?? "Default" });
 
-                return new string[] { Config.pastoralMapStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "EnableRidgesideMusic", () =>
-            {
-                return new string[] { Config.enableRidgesideMusic.ToString() };
-            });
+            cp.RegisterToken(this.ModManifest, "EnableRidgesideMusic", () => new string[] { Config.enableRidgesideMusic.ToString() });
 
-            cp.RegisterToken(this.ModManifest, "RepeatCableCarCutscene", () =>
-            {
-                return new string[] { Config.repeatCableCarCutscene.ToString() };
-            });
+            cp.RegisterToken(this.ModManifest, "RepeatCableCarCutscene", () => new string[] { Config.repeatCableCarCutscene.ToString() });
 
-            cp.RegisterToken(this.ModManifest, "EnableOtherNPCsInCableCar", () =>
-            {
-                return new string[] { Config.enableOtherNPCsInCableCar.ToString() };
-            });
-            cp.RegisterToken(this.ModManifest, "AguarPortraitStyle", () =>
-            {
-                if (Config.aguarPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "EnableOtherNPCsInCableCar", () => new string[] { Config.enableOtherNPCsInCableCar.ToString() });
 
-                return new string[] { Config.aguarPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "AlissaPortraitStyle", () =>
-            {
-                if (Config.alissaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "AguarPortraitStyle", () => new string[] { Config.aguarPortraitStyle ?? "Default" });
 
-                return new string[] { Config.alissaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "BertPortraitStyle", () =>
-            {
-                if (Config.bertPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "AlissaPortraitStyle", () => new string[] { Config.alissaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.bertPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "CorinePortraitStyle", () =>
-            {
-                if (Config.corinePortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "BertPortraitStyle", () => new string[] { Config.bertPortraitStyle ?? "Default" });
 
-                return new string[] { Config.corinePortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "EzekielPortraitStyle", () =>
-            {
-                if (Config.ezekielPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "CorinePortraitStyle", () => new string[] { Config.corinePortraitStyle ?? "Default" });
 
-                return new string[] { Config.ezekielPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "FlorPortraitStyle", () =>
-            {
-                if (Config.florPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "EzekielPortraitStyle", () => new string[] { Config.ezekielPortraitStyle ?? "Default" });
 
-                return new string[] { Config.florPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "FreddiePortraitStyle", () =>
-            {
-                if (Config.freddiePortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "FlorPortraitStyle", () => new string[] { Config.florPortraitStyle ?? "Default" });
 
-                return new string[] { Config.freddiePortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "IanPortraitStyle", () =>
-            {
-                if (Config.ianPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "FreddiePortraitStyle", () => new string[] { Config.freddiePortraitStyle ?? "Default" });
 
-                return new string[] { Config.ianPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "JericPortraitStyle", () =>
-            {
-                if (Config.jericPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "IanPortraitStyle", () => new string[] { Config.ianPortraitStyle ?? "Default" });
 
-                return new string[] { Config.jericPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "JioPortraitStyle", () =>
-            {
-                if (Config.jioPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "JericPortraitStyle", () => new string[] { Config.jericPortraitStyle ?? "Default" });
 
-                return new string[] { Config.jioPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "KeahiPortraitStyle", () =>
-            {
-                if (Config.keahiPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "JioPortraitStyle", () => new string[] { Config.jioPortraitStyle ?? "Default" });
 
-                return new string[] { Config.keahiPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "KennethPortraitStyle", () =>
-            {
-                if (Config.kennethPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "KeahiPortraitStyle", () => new string[] { Config.keahiPortraitStyle ?? "Default" });
 
-                return new string[] { Config.kennethPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "KiwiPortraitStyle", () =>
-            {
-                if (Config.kiwiPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "KennethPortraitStyle", () => new string[] { Config.kennethPortraitStyle ?? "Default" });
 
-                return new string[] { Config.kiwiPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "LennyPortraitStyle", () =>
-            {
-                if (Config.lennyPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "KiwiPortraitStyle", () => new string[] { Config.kiwiPortraitStyle ?? "Default" });
 
-                return new string[] { Config.lennyPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "LolaPortraitStyle", () =>
-            {
-                if (Config.lolaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "LennyPortraitStyle", () => new string[] { Config.lennyPortraitStyle ?? "Default" });
 
-                return new string[] { Config.lolaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "MaddiePortraitStyle", () =>
-            {
-                if (Config.maddiePortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "LolaPortraitStyle", () => new string[] { Config.lolaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.maddiePortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "OlgaPortraitStyle", () =>
-            {
-                if (Config.olgaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "MaddiePortraitStyle", () => new string[] { Config.maddiePortraitStyle ?? "Default" });
 
-                return new string[] { Config.olgaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "PhillipPortraitStyle", () =>
-            {
-                if (Config.phillipPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "OlgaPortraitStyle", () => new string[] { Config.olgaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.phillipPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "PikaPortraitStyle", () =>
-            {
-                if (Config.pikaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "PhillipPortraitStyle", () => new string[] { Config.phillipPortraitStyle ?? "Default" });
 
-                return new string[] { Config.pikaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "RichardPortraitStyle", () =>
-            {
-                if (Config.richardPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "PikaPortraitStyle", () => new string[] { Config.pikaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.richardPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "ShiroPortraitStyle", () =>
-            {
-                if (Config.shiroPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "RichardPortraitStyle", () => new string[] { Config.richardPortraitStyle ?? "Default" });
 
-                return new string[] { Config.shiroPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "TrinniePortraitStyle", () =>
-            {
-                if (Config.trinniePortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "ShiroPortraitStyle", () => new string[] { Config.shiroPortraitStyle ?? "Default" });
 
-                return new string[] { Config.trinniePortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "YsabellePortraitStyle", () =>
-            {
-                if (Config.ysabellePortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "TrinniePortraitStyle", () => new string[] { Config.trinniePortraitStyle ?? "Default" });
 
-                return new string[] { Config.ysabellePortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "YuumaPortraitStyle", () =>
-            {
-                if (Config.yuumaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "YsabellePortraitStyle", () => new string[] { Config.ysabellePortraitStyle ?? "Default" });
 
-                return new string[] { Config.yuumaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "HelenPortraitStyle", () =>
-            {
-                if (Config.helenPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "YuumaPortraitStyle", () => new string[] { Config.yuumaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.helenPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "UndreyaPortraitStyle", () =>
-            {
-                if (Config.undreyaPortraitStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "HelenPortraitStyle", () => new string[] { Config.helenPortraitStyle ?? "Default" });
 
-                return new string[] { Config.undreyaPortraitStyle };
-            });
-            cp.RegisterToken(this.ModManifest, "FlorSpriteStyle", () =>
-            {
-                if (Config.florSpriteStyle == null)
-                    return new string[] { "Default" };
+            cp.RegisterToken(this.ModManifest, "UndreyaPortraitStyle", () => new string[] { Config.undreyaPortraitStyle ?? "Default" });
 
-                return new string[] { Config.florSpriteStyle };
-            });
+            cp.RegisterToken(this.ModManifest, "FlorSpriteStyle", () => new string[] { Config.florSpriteStyle ?? "Default" });
 
             }
         }
