@@ -13,12 +13,16 @@ namespace RidgesideVillage
         internal new static IModHelper Helper { get; set; }
         internal static IJsonAssetsApi JsonAssetsAPI { get; set; }
 
-        private static ModConfig Config;
+        internal static ModConfig Config;
+
+        private ConfigMenu ConfigMenu;
 
         public override void Entry(IModHelper helper)
         {
             ModMonitor = Monitor;
             Helper = helper;
+
+            ConfigMenu = new ConfigMenu(this);
 
             helper.Events.GameLoop.GameLaunched += OnGameLaunched;
             helper.Events.GameLoop.SaveLoaded += OnSaveLoaded;
@@ -268,62 +272,7 @@ namespace RidgesideVillage
                     return new string[] { Config.florSpriteStyle };
                 });
             }
-            //GMCM code
-            var gmcm = Helper.ModRegistry.GetApi<IGenericModConfigMenuApi>("spacechase0.GenericModConfigMenu");
-
-            if (gmcm is null)
-            {
-                //return if GMCM is not installed
-                return;
-            }
-            else
-            {
-
-                gmcm.RegisterModConfig(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
-
-                //Misc Config Page
-                gmcm.RegisterLabel(ModManifest, "Mod Appearance Configuration", "Pick your preferred graphics");
-                gmcm.RegisterChoiceOption(ModManifest, "Pastoral Map Style", "Pick your preferred Pastoral fall season map-style", () => Config.pastoralMapStyle, (string val) => Config.pastoralMapStyle = val, ModConfig.pastoralMapStyleChoices);
-                gmcm.RegisterLabel(ModManifest, "Cable Car Configuration", "Choose how the cable car cutscenes work");
-                gmcm.RegisterSimpleOption(ModManifest, "Enable Cable Car Cutscene", "Enable cable car cutscene", () => Config.repeatCableCarCutscene, (bool val) => Config.repeatCableCarCutscene = val);
-                gmcm.RegisterSimpleOption(ModManifest, "Enable Other NPCs in Cable Car", "Enable the chances of other NPCs to appear riding the Cable Car (Along with LASV, ES and SVE NPCs)", () => Config.enableOtherNPCsInCableCar, (bool val) => Config.enableOtherNPCsInCableCar = val);
-                gmcm.RegisterLabel(ModManifest, "Mod Audio Configuration", "Choose how the mod's audio works");
-                gmcm.RegisterSimpleOption(ModManifest, "Enable Ridgeside Village Music", "Enables music for Ridgeside Village", () => Config.enableRidgesideMusic, (bool val) => Config.enableRidgesideMusic = val);
-                gmcm.RegisterPageLabel(ModManifest, "Go to: Portrait and Sprite Configuration", "", "Portrait and Sprite Configuration");
-
-                //Portrait Config Page
-                gmcm.StartNewPage(ModManifest, "Portrait and Sprite Configuration");
-                gmcm.RegisterLabel(ModManifest, "Character Portrait Configuration", "Pick your preferred portraits");
-                gmcm.RegisterChoiceOption(ModManifest, "Aguar Portrait Style", "Pick your preferred Aguar Portrait", () => Config.aguarPortraitStyle, (string val) => Config.aguarPortraitStyle = val, ModConfig.aguarPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Alissa Portrait Style", "Pick your preferred Alissa Portrait", () => Config.alissaPortraitStyle, (string val) => Config.alissaPortraitStyle = val, ModConfig.alissaPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Bert Portrait Style", "Pick your preferred Bert Portrait", () => Config.bertPortraitStyle, (string val) => Config.bertPortraitStyle = val, ModConfig.bertPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Corine Portrait Style", "Pick your preferred Corine Portrait", () => Config.corinePortraitStyle, (string val) => Config.corinePortraitStyle = val, ModConfig.corinePortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Ezekiel Portrait Style", "Pick your preferred Ezekiel Portrait", () => Config.ezekielPortraitStyle, (string val) => Config.ezekielPortraitStyle = val, ModConfig.ezekielPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Flor Portrait Style", "Pick your preferred Flor Portrait", () => Config.florPortraitStyle, (string val) => Config.florPortraitStyle = val, ModConfig.florPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Freddie Portrait Style", "Pick your preferred Freddie Portrait", () => Config.freddiePortraitStyle, (string val) => Config.freddiePortraitStyle = val, ModConfig.freddiePortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Ian Portrait Style", "Pick your preferred Ian Portrait", () => Config.ianPortraitStyle, (string val) => Config.ianPortraitStyle = val, ModConfig.ianPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Jeric Portrait Style", "Pick your preferred Jeric Portrait", () => Config.jericPortraitStyle, (string val) => Config.jericPortraitStyle = val, ModConfig.jericPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Jio Portrait Style", "Pick your preferred Jio Portrait", () => Config.jioPortraitStyle, (string val) => Config.jioPortraitStyle = val, ModConfig.jioPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Keahi Portrait Style", "Pick your preferred Keahi Portrait", () => Config.keahiPortraitStyle, (string val) => Config.keahiPortraitStyle = val, ModConfig.keahiPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Kiwi Portrait Style", "Pick your preferred Kiwi Portrait", () => Config.kiwiPortraitStyle, (string val) => Config.kiwiPortraitStyle = val, ModConfig.kiwiPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Lenny Portrait Style", "Pick your preferred Lenny Portrait", () => Config.lennyPortraitStyle, (string val) => Config.lennyPortraitStyle = val, ModConfig.lennyPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Lola Portrait Style", "Pick your preferred Lola Portrait", () => Config.lolaPortraitStyle, (string val) => Config.lolaPortraitStyle = val, ModConfig.lolaPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Maddie Portrait Style", "Pick your preferred Maddie Portrait", () => Config.maddiePortraitStyle, (string val) => Config.aguarPortraitStyle = val, ModConfig.maddiePortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Olga Portrait Style", "Pick your preferred Olga Portrait", () => Config.olgaPortraitStyle, (string val) => Config.olgaPortraitStyle = val, ModConfig.olgaPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Phillip Portrait Style", "Pick your preferred Phillip Portrait", () => Config.phillipPortraitStyle, (string val) => Config.phillipPortraitStyle = val, ModConfig.phillipPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Pika Portrait Style", "Pick your preferred Pika Portrait", () => Config.pikaPortraitStyle, (string val) => Config.pikaPortraitStyle = val, ModConfig.pikaPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Richard Portrait Style", "Pick your preferred Richard Portrait", () => Config.richardPortraitStyle, (string val) => Config.richardPortraitStyle = val, ModConfig.richardPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Shiro Portrait Style", "Pick your preferred Shiro Portrait", () => Config.shiroPortraitStyle, (string val) => Config.shiroPortraitStyle = val, ModConfig.shiroPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Trinnie Portrait Style", "Pick your preferred Trinnie Portrait", () => Config.trinniePortraitStyle, (string val) => Config.trinniePortraitStyle = val, ModConfig.trinniePortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Ysabelle Portrait Style", "Pick your preferred Ysabelle Portrait", () => Config.ysabellePortraitStyle, (string val) => Config.ysabellePortraitStyle = val, ModConfig.ysabellePortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Yuuma Portrait Style", "Pick your preferred Yuuma Portrait", () => Config.yuumaPortraitStyle, (string val) => Config.yuumaPortraitStyle = val, ModConfig.yuumaPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Helen Portrait Style", "Pick your preferred Helen Portrait", () => Config.helenPortraitStyle, (string val) => Config.helenPortraitStyle = val, ModConfig.helenPortraitStyleChoices);
-                gmcm.RegisterChoiceOption(ModManifest, "Undreya Portrait Style", "Pick your preferred Undreya Portrait", () => Config.undreyaPortraitStyle, (string val) => Config.undreyaPortraitStyle = val, ModConfig.undreyaPortraitStyleChoices);
-                gmcm.RegisterLabel(ModManifest, "Character Sprite Configuration", "Pick your preferred sprites");
-                gmcm.RegisterChoiceOption(ModManifest, "Flor Sprite Style", "Pick your preferred Flor Sprite", () => Config.florSpriteStyle, (string val) => Config.florSpriteStyle = val, ModConfig.florSpriteStyleChoices);
-                gmcm.RegisterPageLabel(ModManifest, "Back to main page", "", "");
-
-            }
+            ConfigMenu.RegisterMenu();
         }
 
         private void OnSaveLoaded(object sender, EventArgs ex)

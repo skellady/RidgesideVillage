@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConfigMenu.cs" />
     <Compile Include="IGenericModConfigMenuApi.cs" />
     <Compile Include="IContentPatcherApi.cs" />
     <Compile Include="IJsonAssetsApi.cs" />
