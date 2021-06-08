@@ -10,21 +10,22 @@ namespace RidgesideVillage
     class ConfigMenu
         {
         private readonly IModHelper Helper;
-        private readonly IMonitor Monitor;
         private readonly IManifest ModManifest;
-        private readonly IGenericModConfigMenuApi Gmcm;
+
         private ModConfig Config {
             get => ModEntry.Config;
             set => ModEntry.Config = value;
             }
+
         public ConfigMenu(IMod mod) {
             Helper = mod.Helper;
-            Monitor = mod.Monitor;
             ModManifest = mod.ModManifest;
-            Config = ModEntry.Config;
-            Gmcm = Helper.ModRegistry.GetApi<IGenericModConfigMenuApi>("spacechase0.GenericModConfigMenu");
             }
+
         public void RegisterMenu() {
+            var Gmcm = Helper.ModRegistry.GetApi<IGenericModConfigMenuApi>("spacechase0.GenericModConfigMenu");
+            if (Gmcm is null) return;
+
             Gmcm.RegisterModConfig(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
 
             //Misc Config Page
