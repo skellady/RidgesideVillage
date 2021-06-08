@@ -9,9 +9,10 @@ namespace RidgesideVillage
     {
     class CustomCPTokens
         {
-        private IModHelper Helper;
-        private IManifest ModManifest;
-        private IContentPatcherApi cp;
+        private readonly IModHelper Helper;
+        private readonly IManifest ModManifest;
+        private readonly IMonitor Monitor;
+
         private ModConfig Config {
             get => ModEntry.Config;
             set => ModEntry.Config = value;
@@ -20,10 +21,16 @@ namespace RidgesideVillage
         public CustomCPTokens(IMod mod) {
             Helper = mod.Helper;
             ModManifest = mod.ModManifest;
-            cp = Helper.ModRegistry.GetApi<IContentPatcherApi>("Pathoschild.ContentPatcher");
+            Monitor = mod.Monitor;
             }
 
         public void RegisterTokens() {
+            var cp = Helper.ModRegistry.GetApi<IContentPatcherApi>("Pathoschild.ContentPatcher");
+            if (cp is null) {
+                Monitor.Log("Content Patcher is not installed- RSV requires CP to run. Please install CP and restart your game.", LogLevel.Alert);
+                return;
+                }
+
             cp.RegisterToken(this.ModManifest, "PastoralMapStyle", () => new string[] { Config.pastoralMapStyle ?? "Default" });
 
             cp.RegisterToken(this.ModManifest, "EnableRidgesideMusic", () => new string[] { Config.enableRidgesideMusic.ToString() });
