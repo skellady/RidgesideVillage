@@ -52,6 +52,7 @@
     <Compile Include="ILHelper.cs" />
     <Compile Include="ModConfig.cs" />
     <Compile Include="ModEntry.cs" />
+    <Compile Include="Patcher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
