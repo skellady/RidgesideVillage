@@ -32,6 +32,9 @@ namespace RidgesideVillage
 
         private void OnGameLaunched(object sender, EventArgs e)
         {
+
+            Config = Helper.ReadConfig<ModConfig>();
+
             if (!Helper.ModRegistry.IsLoaded("spacechase0.JsonAssets"))
             {
                 return;
@@ -42,8 +45,6 @@ namespace RidgesideVillage
                 original: AccessTools.Method(typeof(GameLocation), nameof(GameLocation.getFish)),
                 postfix: new HarmonyMethod(typeof(ModEntry), nameof(ModEntry.GetFish_Postfix))
             );
-
-            Config = Helper.ReadConfig<ModConfig>();
 
             // Custom CP Token Set-up
             CustomCPTokens.RegisterTokens();
