@@ -280,7 +280,7 @@
 //Festival Main Event Dialogues
 //-----------------------------
 "EoR.01": "Welcome once again to everybody here.#$b#Before anything else, I would like to thank my sister, Lenny, for organizing the Ember of Resolutions gathering every year.#$b#Thank you Lenny.$h",
-"EoR.02": "Oh come on now lil bro!$h#$b#I'm just happy to end the year here with everyone gathered up around one big bonfire.",
+"EoR.02": "Oh, come on now, lil bro!$h#$b#I'm just happy to end the year here with everyone gathered up around one big bonfire.",
 "EoR.03": "It does warm my heart to see the citizens of two towns together on the last night of the year.$h",
 "EoR.04": "Oh Lewis...",
 "EoR.05": "Awww",
@@ -349,7 +349,7 @@
 "event-75160174.02": "This is exciting!",
 "event-75160174.03": "Nice!",
 "event-75160174.04": "More plants!",
-"event-75160174.05": "Oh cool",
+"event-75160174.05": "Oh, cool",
 "event-75160174.06": "Wonderful!",
 "event-75160174.07": "More guests!",
 "event-75160174.08": "A new Greenhouse!#$b#I'm glad Lenny gave me my own plot to plant crops inside!#$b#This can be helpful",
@@ -1273,7 +1273,7 @@
 "event-75160154.06": "Now, about that little competition.",
 "event-75160154.07": "I admit defeat.#$b#You have the best farm.",
 "event-75160154.08": "The reason? Well, to be honest, I don't really know why.#$b#I felt like I just wanted to.$h",
-"event-75160154.09": "What? You won't accept it?#$b#I gave up too easily?#$b#Oh come on now, I didn't think you even took it seriously.#$b#To be honest, I just wanted to make a little bet so I had an excuse to talk to you.$h#$b#I got to admit, I'm attracted to you, @.$l",
+"event-75160154.09": "What? You won't accept it?#$b#I gave up too easily?#$b#Oh, come on now, I didn't think you even took it seriously.#$b#To be honest, I just wanted to make a little bet so I had an excuse to talk to you.$h#$b#I got to admit, I'm attracted to you, @.$l",
 "event-75160154.10": "But yeah... To be honest, I really did feel inspired by you.#$b#My farm was on the verge of bankruptcy, but ever since you moved here and started being successful, I got fired up for some reason.$6#$b#So, I came by your farm one day and made a little competition, to make things official.#$b#But lately I've lost my spark... I don't know why.... Maybe because of another near-bankruptcy scare I had the last week.$s#$b#I mean, I managed to avoid it, But still.... I don't know, I just got real tired, I guess$s",
 "event-75160154.11": "Yeah I know... I give up too easily.$s#$b#I don't know. To be honest, I just wanted to impress you and all.#$b#But I guess I failed....$s",
 "event-75160154.12": "Huh? What? You were impressed by me already?$u#$b#What do you mean?",
@@ -1529,7 +1529,7 @@
 "event-75160177.05": "No! Kiwi is not foolish.$a#$b#Kiwi watch human, decide human good or human bad.$a",
 "event-75160177.06": "Hmm. Kiwi suspicious much...$a",
 
-//Kiwi asks farmer about junimos (Kiwi 4 hearts)
+//Kiwi asks farmer about junimo (Kiwi 4 hearts)
 "event-75160178.01": "Hup!",
 "event-75160178.02": "Kiwi come to find friend @.#$b#Kiwi has questions. Answer, yes?#$b#Kiwi wants to know.",
 "event-75160178.03": "Only couple questions. Kiwi very busy too.#$b#Kiwi watch human, before. Human see and talk with other Junimo maybe? #$b#Kiwi is Junimo too. But Kiwi is different...#$b#Shoo.... Much different.$s",
@@ -1550,9 +1550,9 @@
 	//Farmer stays
 "event-75160179.05": "Stay",
 "event-75160179.Fork2": "Hm. Human's staying huh?",
-"event-75160179.06": "Kiwi is just here wondering about other Junimos#$b#Kiwi was not like any other Junimo. Kiwi was from the Dusked so Kiwi does not know about others.#$b#Kiwi is basically...$s#$b#Kiwi is alone..$s",
+"event-75160179.06": "Kiwi is just here wondering about other Junimo.#$b#Kiwi was not like any other Junimo. Kiwi was from the Dusked so Kiwi does not know about others.#$b#Kiwi is basically...$s#$b#Kiwi is alone..$s",
 "event-75160179.07": "Don't mind Kiwi though.#$b#Kiwi has Jio.. and Kiwi sees you as a friend too human.#$b#Kiwi is not totally alone.$h#$b#Kiwi thanks you.",
-"event-75160179.08": "But Kiwi is sometimes curious about real Junimos.#$b#But Kiwi thinks now is not the best time to meet them.",
+"event-75160179.08": "But Kiwi is sometimes curious about real Junimo.#$b#But Kiwi thinks now is not the best time to meet them.",
 "event-75160179.09": "Kiwi shall go now.#$b#Thank you for listening to Kiwi human.#$b#No.. Kiwi means, friend.#$b#Thank you friend.$h",
 
 	//Farmer leaves
@@ -1562,16 +1562,16 @@
 //Kiwi's past (Kiwi 8 hearts)
 "event-75160180.01": "You are, indeed, one fascinating Junimo.#$b#I will look further into this 'Dusked' cult.#$b#They may have some hidden knowledge about the dark arts.",
 "event-75160180.02": "Kiwi wishes to help you in any way, wizard.#$b#Kiwi trusts you can help Kiwi too.",
-"event-75160180.03": "Greetings, @. What brings you here?#$b#Any news on the Junimos at the Community Center?",
+"event-75160180.03": "Greetings, @. What brings you here?#$b#Any news on the Junimo at the Community Center?",
 "event-75160180.04": "Hup! Hello, friend!$h#$b#Kiwi is just here asking for wizard's help about Kiwi's creation.",
-"event-75160180.05": "So you two are acquainted, then.#$b#You do have a strong connection with Junimos, don't you, @?#$b#Hmmm. Maybe you can assist me in deciphering Kiwi's past.#$I may ask for your assistance.#$b#But that will be sometime in the future.",
-"event-75160180.06": "Kiwi understands, wizard.#$b#Kiwi is in no rush as well. Kiwi is just curious about past and how Kiwi was made.",
+"event-75160180.05": "So you two are acquainted, then.#$b#You do have a strong connection with Junimo, don't you, @?#$b#Hmmm. Maybe you can assist me in deciphering Kiwi's past.#$I may ask for your assistance.#$b#But that will be sometime in the future.",
+"event-75160180.06": "Kiwi understands, wizard.#$b#Kiwi is in no rush as well. Kiwi is just curious about the past and how Kiwi was made.",
 "event-75160180.07": "Thank you, wizard.#$b#Kiwi shall go now.",
 "event-75160180.08": "Farewell, friend.$h",
 "event-75160180.09": "@. I have some things to tell you about that Junimo.",
-"event-75160180.10": "That, or rather Kiwi, may not be a 'real' Junimo. Or at least, not a complete one.#$b#It seems that it is not bound to the laws of a regular Junimo and is not concerned with the fauna or flora in any way.#$b#Kiwi seems to be made for the sole purpose of... killing.",
+"event-75160180.10": "That, or rather Kiwi, may not be a 'real' Junimo. Or at least, not a complete one.#$b#It seems that it is not bound to the laws of a regular Junimo and is not connected with fauna or flora in the same way other Junimo are.#$b#Kiwi seems to be made for the sole purpose of... killing.",
 "event-75160180.11": "I told it I didn't know much about the Dusked cult.#$b#But in actuality, I know that they are a dark organization of assassins imbued with the dark arts in order to carry out their murders.#$b#I do not approve much of their practices, even if they claim to do it for the betterment of humanity.#$b#Let me warn you, @, they are dangerous. Don't get too close to them.",
-"event-75160180.12": "That Junimo's case does intrigue me, though.#$b#I wonder how they were able to create such a weapon.#$b#The dangerous thing about Kiwi is that mundane humans cannot easily see Junimos, unlike you or any other magical being.#$b#So basically, Kiwi is an invisible weapon who can assassinate any human easily and get away unseen, leaving no traces.#$b#And I'm certain that Junimo has taken lots of lives prior to moving here, as has its keeper.",
+"event-75160180.12": "That Junimo's case does intrigue me, though.#$b#I wonder how they were able to create such a weapon.#$b#The dangerous thing about Kiwi is that mundane humans cannot easily see Junimo, unlike you or any other magical being.#$b#So basically, Kiwi is an invisible weapon who can assassinate any human easily and get away unseen, leaving no traces.#$b#And I'm certain that Junimo has taken lots of lives prior to moving here, as has its keeper.",
 "event-75160180.13": "I will return to my studies now, @.#$b#Take care of yourself.",
 
 //Lenny tours farmer in village (Lenny 0 hearts)
@@ -1601,7 +1601,7 @@
 
 //Lenny and Lewis talk (Lenny 6 hearts)
 "event-75160088.01": "Wahaha! I also remember when you confessed to my best friend at high school! You were this little kid too!$h",
-"event-75160088.02": "Oh come on now Lenny, that was really embarrassing you know?$s#$b#But you have to give it to my young self, I was bold enough to even try!$h",
+"event-75160088.02": "Oh, come on now, Lenny, that was really embarrassing you know?$s#$b#But you have to give it to my young self, I was bold enough to even try!$h",
 "event-75160088.03": "I have to agree to that, You were pretty brave when you were young.#$b#Unlike now though!$h",
 "event-75160088.04": "Hey! What's that supposed to mean?$4",
 "event-75160088.05": "Ah! @, what brings you by?$h",
@@ -1816,7 +1816,7 @@
 "event-75160138.02": "No.. Stay there..$7#$b#I'm... I'm not ready..$7",
 "event-75160138.03": "There was this person before... A long time ago..$7#$b#He was everything to me..$s^She was everything to me..$s#$b#I was happy.. Everyday I felt loved, precious to someone.. I gave all what I can give back as well..$s#$b#I.. I..$7#$b#I... was happy..$10",
 "event-75160138.04": "Heh, he promised me, everything..$11^Heh, she promised me, everything..$11#$b#And I was a sucker who believed it all..$11#$b#And you know what was the best promise he made?$11^And you know what was the best promise she made?$11",
-"event-75160138.05": "He asked me to marry him.$11^She asked me to marry her.$11#$b#And, ofcourse, like a total fool. I said yes.$11#$b#I wanted to marry the-- Ugh!$10",
+"event-75160138.05": "He asked me to marry him.$11^She asked me to marry her.$11#$b#And, of course, like a total fool. I said yes.$11#$b#I wanted to marry the-- Ugh!$10",
 "event-75160138.06": "The day of the ceremony... Everything felt like a dream..$10#$b#Until the moment where...$10",
 "event-75160138.07": "I was left alone in the altar...",
 "event-75160138.08": "I waited...#And waited...#and waited...#As people slowly went home...#slowly.. one by one..#some angry.. some sad.. some just embraced me..#Yet I waited... I don't know why..#Until...",
@@ -2098,7 +2098,7 @@
 "event-75160101.08": "Okay, All set now Keahi!$h#$b#Oh! Good Morning to you @.",
 "event-75160101.09": "Hey? Why do you two look gloomy?#$b#Something's wrong?",
 "event-75160101.10": "Dad... Can I ask you something?$s",
-"event-75160101.11": "Oh! Ofcourse son! What's wrong?",
+"event-75160101.11": "Oh! Of course son! What's wrong?",
 "event-75160101.12": "Uhmm... Are you okay?$s#$b#@ and I heard you talking to Mom's necklace..$s#$b#And I often hear you do that too for quite some time now...$s#$b#Dad... I'm here if you need someone to talk to..$s#$b#@'s here too, he's your good friend right?$s",
 "event-75160101.13": "Oh! I didn't know it was bothering you son..$s#$b#I'm also sorry for making you feel uncomfortable @.$s#$b#I just... I just keep missing my wahine everyday when I wake up...$s#$b#But hey! There's no time to sulk guys!$h#$b#Come on! We have work to do!$h",
 "event-75160101.14": "Keahi? Hey.. Don't cry now..$s#$b#If your Mom was here he would be very sad if she sees you crying you know?$h",
@@ -2137,7 +2137,7 @@
 //Richard just wants to make Ysa happy (Richard 6 hearts)
 "event-75160104.01": "Hmph... This is so boring.$s",
 "event-75160104.02": "And what, pray tell, would you prefer to do instead, Ysa?$a#$b#Remember, I took you in after you ran away from your parents, so don't go lazing about now, granddaughter.$h",
-"event-75160104.03": "Oh come on, grandpa, you have to admit it, too.$s#$b#It gets kind of boring just sitting around here in the lobby for almost the whole day, just waiting for someone to come in.$6#$b#But hey, don't get me wrong, grandpa! I like helping you around here!$h",
+"event-75160104.03": "Oh, come on, grandpa, you have to admit it, too.$s#$b#It gets kind of boring just sitting around here in the lobby for almost the whole day, just waiting for someone to come in.$6#$b#But hey, don't get me wrong, grandpa! I like helping you around here!$h",
 "event-75160104.04": "You complain just like how your father would complain when I made him help me around here.$h#$b#But I do appreciate your hard work, Ysa. Thank you.",
 "event-75160104.05": "Ooooh! So does that mean I get the day off now, grandpa?$h",
 "event-75160104.06": "Hah! You may wish!$h",
@@ -2422,7 +2422,7 @@
 "event-75160143.11": "My goodness... Here I am, crying in front of a friend...$12#$b#I'm so sorry, @... This might be a hassle for you to listen to...$7",
 "event-75160143.12": "You wipe some of Ysabelle's tears off her cheeks#And you hold her hand.",
 "event-75160143.13": "I have to admit...$12#$b#I do feel comfortable when you're around, @....$12",
-"event-75160143.14": "And yeah... Well...$7#$b#One day... I had enough.$7#$b#I was in the middle of this show performance for a group of important people... I don't even remember anymore...$7#$b#I just did what my parents wanted me to do.$7#$b#But on that day... at that certain performance...$7#$b#I cried in the middle of it. Then I broke down in tears...$7#$b#And just... well... stopped dancing, and cried.$7#$b#Ofcourse, everyone was confused... especially my parents...$7#$b#I was then escorted backstage... and as I waited for my parents to arrive...$7#$b#My mind was blank. I didn't know what to feel...$7#$b#It's like I broke down... and I was just blank.$7#$b#Just imagine, a girl in a grand ballet dress, all glittered and dolled up, but with a completely emotionless face stained by tears and sweat.$12#$b#Hehe... I didn't even hear the scolding of my parents when they arrived.$12",
+"event-75160143.14": "And yeah... Well...$7#$b#One day... I had enough.$7#$b#I was in the middle of this show performance for a group of important people... I don't even remember anymore...$7#$b#I just did what my parents wanted me to do.$7#$b#But on that day... at that certain performance...$7#$b#I cried in the middle of it. Then I broke down in tears...$7#$b#And just... well... stopped dancing, and cried.$7#$b#Of course, everyone was confused... especially my parents...$7#$b#I was then escorted backstage... and as I waited for my parents to arrive...$7#$b#My mind was blank. I didn't know what to feel...$7#$b#It's like I broke down... and I was just blank.$7#$b#Just imagine, a girl in a grand ballet dress, all glittered and dolled up, but with a completely emotionless face stained by tears and sweat.$12#$b#Hehe... I didn't even hear the scolding of my parents when they arrived.$12",
 "event-75160143.15": "After that incident, I decided to run away.$7#$b#I just felt I had to... and so I did.$7#$b#Rode some buses and eventually found my way here to the valley and stayed with my grandpa.$7#$b#I have to tell you, it was funny seeing how surprised he was when he saw me walk into the lobby of his hotel!$12#$b#He contacted my parents afterwards and they made a deal.$7#$b#I was allowed to stay with him for now as they tried to clean up the mess I left back home..$7#$b#But that was quite some time ago. I haven't really talked to them since, especially since I avoided their calls....$7#$b#Until earlier where I answered the the phone. Because I missed them... And was hoping that they had changed.$7#$b#But no. They still want me to perform for them...$7#$b#There's no way I'm going back to that life.$7",
 "event-75160143.16": "But I'm not going back because of lots of reasons besides avoiding the fame and pressure.$12#$b#I actually like working in the hotel, even if it can be quite boring sometimes.$12#$b#And getting to live here in the valley, and being with friends at last.$12#$b#I'm happy here.$12#$b#Especially since I got to make friends like you, @..$12#$b#Thank you, I'm truly grateful.$12",
 "event-75160143.17": "And um... @....$12",
@@ -2438,7 +2438,7 @@
 "event-75160144.05": "Hehe. I know, grandpa.$h",
 "event-75160144.06": "Oh hello there, @.$h#$b#You caught us in a sentimental moment.#$b#I hope you don't mind.$h",
 "event-75160144.07": "My granddaughter is such a softie isn't she? Right, @?$h#$b#Hoho!$h",
-"event-75160144.08": "Oh come now, Grandpa! Like you aren't!$a",
+"event-75160144.08": "Oh, come now, Grandpa! Like you aren't!$a",
 "event-75160144.09": "I may know a way to lighten the mood around here.#$b#Let's see now...$h",
 "event-75160144.10": "Grandpa?#$b#Oh! It's been so long since you played that.#$b#I did wonder why.",
 "event-75160144.11": "Well.. I hadn't had the motivation to do so for quite some time.#$b#Maybe I was still greiving.#$b#But now, I just have this feeling....",
@@ -2647,9 +2647,102 @@
 "NPC.MapLocations.NightingaleName": "Nightingale Orchard",
 
 //Dynamic Changes
-"DynamicChanges.Winter.Crops": "It's winter, all the crops are hidden under a thick blanket of snow!",
+	//MapString Change
+		"DynamicChanges.Winter.Crops": "It's winter, all the crops are hidden under a thick blanket of snow!",
 
-"DynamicChanges.Aguar.Dialogue.Tue6": "Give Marlon my greetings when you see him again.$h",
+	//Dynamic Dialogue Changes
+		//Aguar Dialogue
+			//Alternative Daily Dialogue (Met Marlon)
+				"DynamicChanges.Aguar.Dialogue.Tue6": "Give Marlon my greetings when you see him again.$h",
+
+			//Alternative Winter Market Dialogue				
+				"Aguar.Dialogue.winter_15": "Have you seen the deep-sea fishing contraption at the night market?#$e#It's monstrous.",
+				"Aguar.Dialogue.winter_16": "I must see if I can find time to communicate with the mermaid...$h",
+				"Aguar.Dialogue.winter_17": "%Mr. Aguar is ignoring you. He appears to be humming the mermaid's song under his breath.",
+
+		//Alissa Dialogue
+			//Alternative Winter Market Dialogue
+				//Single
+					"Alissa.Dialogue.winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
+					"Alissa.Dialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
+					"Alissa.Dialogue.winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
+
+				//Married
+					"Alissa.MarriageDialogue.winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
+					"Alissa.MarriageDialogue.winter_16": "Auntie saw a microphone for sale.#$b#I was really embarrassed when she told me to test it on the spot.$7",
+					"Alissa.MarriageDialogue.winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
+
+		//Bert Dialogue
+			//Alternative Winter Market Dialogue
+				"Bert.Dialogue.winter_15": "Fish.$u#$b#They've just been eatin' fish for months!$u#$b#Can you believe it, @?$u",
+				"Bert.Dialogue.winter_16": "Brought some samples of my finest produce tonight, @.#$e#I don't mean to be rude to these fine folk, but sometimes you just need sumthin' from the earth, you know?$h",
+				"Bert.Dialogue.winter_17": "Sold a bushel and a half of some of the hardier greens.#$e#They'll have fresh veggies out there on the open seas!$h",
+
+		//Corine Dialogue
+			//Alternative Winter Market Dialogue
+				"DynamicChanges.Corine.MarriageDialogue.winter_15": "Hey honey! Would you like to check out the shops with me?#$b#We can get some coffee and make our way down the dock.$l",
+				"DynamicChanges.Corine.MarriageDialogue.winter_16": "I wonder if there is anything Jio would like...#$b#Oh! Ha ha, don't worry, @.$h#$b#You know you're my number one.$l",
+				"DynamicChanges.Corine.MarriageDialogue.winter_17": "Brr! I’m freezing.$u#$b#Let's head back and cuddle up together soon, okay?$l",
+
+		//Ezekiel Dialogue
+
+
+		//Flor Dialogue
+
+
+		//Freddie Dialogue
+
+
+		//Ian Dialogue
+
+
+		//Jeric Dialogue
+
+
+		//Jio Dialogue
+
+
+		//Keahi Dialogue
+
+
+		//Kenneth Dialogue
+
+
+		//Kiwi Dialogue
+
+
+		//Lenny Dialogue
+
+
+		//Lola Dialogue
+
+
+		//Maddie Dialogue
+
+
+		//Olga Dialogue
+
+
+		//Philip Dialogue
+
+
+		//Pika Dialogue
+
+
+		//Richard Dialogue
+
+
+		//Shiro Dialogue
+
+
+		//Trinnie Dialogue
+
+
+		//Ysabelle Dialogue
+
+
+		//Yuuma Dialogue
+
 
 //MapStrings
 "MapString.rsv.close": "It's closed.",
@@ -4333,7 +4426,7 @@
 "Festivals.EoR.Flor": "Happy New Year.$h#$e#Cold... $s#$b#It is quite cold up here.#$e#Such an interesting tradition, this bonfire.#$b#I wonder how this whole event came to be?#$e#Do you know how, @? Maybe we could come up with theories.$h#$e#I believe that the founder of this festival was a closet pyromaniac and only wanted an excuse to create a giant bonfire.$h#$b#I'm interested to delve into that person's psyche.$h",
 "Festivals.EoR.Flor_spouse": "Happy New Year, love.#$e#Hey love... It's cold!$s#$b#Hold me closer please... $l#$b#That's nice.$h#$e#It makes me really happy to realize that when I go to bed tonight... #$b#... that I'll be waking up next to you.$l#$b#There is no better start to a year.$h",
 "Festivals.EoR.Ian": "Happy New Year, @#$e#Phew. It was a bit of a struggle to bring these tables up here.$h#$b#Oh well, it's worth it as long as everyone gets to enjoy it.$h#$e#I'm hoping I'll get more gigs next year... $s",
-"Festivals.EoR.Ian_spouse": "Happy New Year, honey$h#$e##I'm just so happy you came into my life.$l#$b#Life was a real struggle before I met you.$s#$b#I was all on my own, with Lenny ocassionally helping out.$6#$b#But now I have you... $7#$b#... and I guess you have me.$7#$b#Thanks for everything, @.$7",
+"Festivals.EoR.Ian_spouse": "Happy New Year, honey$h#$e#I'm just so happy you came into my life.$l#$b#Life was a real struggle before I met you.$s#$b#I was all on my own, with Lenny ocassionally helping out.$6#$b#But now I have you... $7#$b#... and I guess you have me.$7#$b#Thanks for everything, @.$7",
 "Festivals.EoR.Jeric": "Happy New Year, @.#$e#Another year, another hustle.$h#$b#I hope things go well for you next year!#$e#Me? Things will be better for me next year.#$e#Why? Because I'm going to work even harder to beat your crops.$h",
 "Festivals.EoR.Jeric_spouse": "Happy New Year, baby.#$e#Come here and give your hubby a kiss?$l#$b#Seriously though, @. I'm grateful.$6#$b#Thanks for being there for me.#$b#You're the first real family I've had since the governor.$s#$b#I love you so much.$7",
 "Festivals.EoR.Kenneth": "Happy New Year, @#$e#I love it when Pika and Gus collaborate.$h#$b#They're probably the best cooks this valley has to offer!$h#$b#Onto a new year of great festivals.$h",
@@ -5491,7 +5584,7 @@
 "Jason.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[0]$h#$e#Okay. Bye!$4",
 "Jason.Dialogue.Tue10": "Hi, @!#$b#I made this![204]#$e#It tastes good! I hope you like it!$h",
 "Jason.Dialogue.Wed10": "Trinnie and I saw a ninja at the ridge yesterday!!$u#$b#He looked so cool!#$b#I think I wanna be like him when I grow up!$h#$e#Or I think I'd like to be a ninja-cook!$4#$b#Chopping down ingredients with my sword like bam, bam!#$e#%Keahi's making fighting sounds.",
-"Jason.Dialogue.Thu10": "Hey! Can I play on your farm now?#$e#SWhat if I watered the crops?$4#$e#Pleaaaase?$s",
+"Jason.Dialogue.Thu10": "Hey! Can I play on your farm now?#$e#What if I watered the crops?$4#$e#Pleaaaase?$s",
 "Jason.Dialogue.Fri10": "You're fun, @!$h#$b#You can always play with us, okay?#$e#Maybe I'll bake you a chocolate cake!$4",
 "Jason.Dialogue.Sat10": "One day I'm going to open up my own restaurant!$h#$e#Come visit me when I do, okay?$h",
 "Jason.Dialogue.Sun10": "I wish I could fly so I could see the valley from up above.#$e#That would be so much fun!$h",
@@ -6116,7 +6209,7 @@
 //Winter
 "Lola.Dialogue.winter_1": "This cold is awful hard on fragile old bones.#$b#You know what the best solution for the cold is?#$b#A hot drink![395]#$e#Stay warm, dear.$h",
 "Lola.Dialogue.winter_7": "I may be old, but I'm not weak!$a#$e#I know people mean well, but I wish they would stop offering to carry my shopping or some nonsense.$s",
-"Lola.Dialogue.winter_14": "Freddie and I were talking about going on a trip the other day, but when I dug my suitcase out of the attic, it was a wreck!$u#$#b#I guess some vermin got into it or something.$s",
+"Lola.Dialogue.winter_14": "Freddie and I were talking about going on a trip the other day, but when I dug my suitcase out of the attic, it was a wreck!$u#$b#I guess some vermin got into it or something.$s",
 "Lola.Dialogue.winter_15": "I'm going to look for a new suitcase.",
 "Lola.Dialogue.winter_16": "I haven't found a suitcase yet, but I had some lovely conversations with the man making coffee!$h",
 "Lola.Dialogue.winter_17": "I found a suitcase, dear, and I have to say I'm very excited!$h",
@@ -6877,7 +6970,7 @@
 //Day before Festivals
 "Undreya.Dialogue.spring_12": "Don't go collecting eggs without checking them tomorrow.#$b#You might hand me over the townsfolk by accident!$u",
 "Undreya.Dialogue.summer_10": "I always attend the Luau. I love the soup!$h#$b#I also like the spare change that purple balloon has.#$b#He should visit more often.$h",
-"Undreya.Dialogue.summer_27": "I wanna see the jellies too!$h#$b#Ofcourse I'll be there tomorrow! You'll just have a hard time finding me!$h",
+"Undreya.Dialogue.summer_27": "I wanna see the jellies too!$h#$b#Of course I'll be there tomorrow! You'll just have a hard time finding me!$h",
 "Undreya.Dialogue.fall_26": "Uhmmm.. I don't like tomorrow..$s",
 "Undreya.Dialogue.winter_7": "I hate fish. Yuck!$a#$b#I'm not interested in the festival tomorrow.",
 "Undreya.Dialogue.winter_14": "Ooh! I've been looking forward for the merchants to come!$h#$b#So many pockets to pick! Teehee < $h",
