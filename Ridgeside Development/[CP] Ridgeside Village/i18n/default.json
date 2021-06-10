@@ -715,7 +715,7 @@
 
 //Corine sees ninjas (Corine 4 hearts)
 "event-75160123.01": "Oh @!$h#$b#Do you sometimes visit the ridge too?#$b#I sometimes go here during my break time to unwind and relax for a bit.$h#$b#Come here! Sit by me.",
-"event-75160123.02": "Ahhh. The fresh air and the sounds of nature is quite relaxing, isn't it?$h#$b#You should take the time to relax whenever you can, @. I heard farming can be a really taxing job!",
+"event-75160123.02": "Ah, the fresh air and the sounds of nature are quite relaxing, aren't they?$h#$b#You should take the time to relax whenever you can, @. I heard farming can be a really taxing job!",
 "event-75160123.03": "Huh? Did you hear that?$a#$b#It sounded like it came from the east.$a",
 "event-75160123.04": "Hmmm....$a#$b#Hey, look over there!$a",
 "event-75160123.05": "Hm? Where did he go?$a#$b#Wait... Something's not right.$a",
@@ -4882,7 +4882,7 @@
 "Aguar.Dialogue.Sun8": "My apologies for being rude when we first met, @.$s#$b#I am, as you know, very focused on my work. It was not personal.$h",
 
 //10 Hearts
-"Aguar.Dialogue.Mon10": "Finished with your farm work for the day?#$b#Come, hold this for me.#$e#It probably won't explode.$h",
+"Aguar.Dialogue.Mon10": "Finished with your farm work for the day?#$b#Come, hold this for me.#$e#It probably won't explode.[60 62 64 66 68 70]$h",
 "Aguar.Dialogue.Tue10": "A wizard is a prestigious position to aspire to, @, but it proved to be surprisingly restrictive.$s#$e#The magic council refused to let me do this work in an official capacity.$a#$b#So, of course, I resigned.",
 "Aguar.Dialogue.Wed10": "The water from the mountains appears to be carrying tiny fragments of ore and gemstones with more frequency, lately.#$e#Panning the rivers would not be a waste of time, @.$h",
 "Aguar.Dialogue.Thu10": "Have you visited the mermaid that comes with the Night Market every winter?#$b#Yes, she is real.#$e#They're fascinating and intelligent creatures.$h",
@@ -5581,8 +5581,8 @@
 "Jason.Dialogue.Sun8": "%Keahi seems to be half asleep.",
 
 //10 Hearts
-"Jason.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[0]$h#$e#Okay. Bye!$4",
-"Jason.Dialogue.Tue10": "Hi, @!#$b#I made this![204]#$e#It tastes good! I hope you like it!$h",
+"Jason.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[16 18 20 22]$h#$e#Okay. Bye!$4",
+"Jason.Dialogue.Tue10": "Hi, @!#$b#I made this![194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 244 604 605 606 607 608 609 610 611 612 613 618 648 649 651 727 728 729 730 731 732 733]#$e#It tastes good! I hope you like it!$h",
 "Jason.Dialogue.Wed10": "Trinnie and I saw a ninja at the ridge yesterday!!$u#$b#He looked so cool!#$b#I think I wanna be like him when I grow up!$h#$e#Or I think I'd like to be a ninja-cook!$4#$b#Chopping down ingredients with my sword like bam, bam!#$e#%Keahi's making fighting sounds.",
 "Jason.Dialogue.Thu10": "Hey! Can I play on your farm now?#$e#What if I watered the crops?$4#$e#Pleaaaase?$s",
 "Jason.Dialogue.Fri10": "You're fun, @!$h#$b#You can always play with us, okay?#$e#Maybe I'll bake you a chocolate cake!$4",
@@ -5879,8 +5879,8 @@
 "Keahi.Dialogue.Sun8": "%Keahi seems to be half asleep.",
 
 //10 Hearts
-"Keahi.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[0]$h#$e#Okay. Bye!$4",
-"Keahi.Dialogue.Tue10": "Hi, @!#$b#I made this![204]#$e#It tastes good! I hope you like it!$h",
+"Keahi.Dialogue.Mon10": "Heya, @!$h#$e#Here, hold this.[16 18 20 22]$h#$e#Okay. Bye!$4",
+"Keahi.Dialogue.Tue10": "Hi, @!#$b#I made this![194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 244 604 605 606 607 608 609 610 611 612 613 618 648 649 651 727 728 729 730 731 732 733]#$e#It tastes good! I hope you like it!$h",
 "Keahi.Dialogue.Wed10": "Trinnie and I saw a ninja at the ridge yesterday!!$u#$b#He looked so cool!#$b#I think I wanna be like him when I grow up!$h#$e#Or I think I'd like to be a ninja-cook!$4#$b#Chopping down ingredients with my sword like bam, bam!#$e#%Keahi's making fighting sounds.",
 "Keahi.Dialogue.Thu10": "Hey! Can I play on your farm now?#$e#SWhat if I watered the crops?$4#$e#Pleaaaase?$s",
 "Keahi.Dialogue.Fri10": "You're fun, @!$h#$b#You can always play with us, okay?#$e#Maybe I'll bake you a chocolate cake!$4",
