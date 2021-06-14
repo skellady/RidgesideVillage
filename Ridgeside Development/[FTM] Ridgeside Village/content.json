@@ -10,6 +10,73 @@
           "Ridge Cherry",
           "Mountain Arugula",
           16,
+          18,
+          20,
+          22
+        ],
+        "SummerItemIndex": [
+          "Mountain Chico",
+          "Ridge Wild Apple",
+          396,
+          398,
+          402,
+          404
+        ],
+        "FallItemIndex": [
+          "Autumn Drop Berry",
+          "Highland Chard",
+          406,
+          408,
+          404,
+          410
+        ],
+        "WinterItemIndex": [
+          "Frost Clump Berry",
+          "Ridgeside Clementine",
+          414,
+          418,
+          283
+        ],
+        "UniqueAreaID": "RSV Hike Forage",
+        "MapName": "Custom_Ridgeside_RSVTheHike",
+        "MinimumSpawnsPerDay": 5,
+        "MaximumSpawnsPerDay": 20,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "0, 37; 79, 39",
+          "0, 0; 42, 13",
+          "43, 0; 79, 16"
+        ],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Ridge Cherry",
+          "Mountain Arugula",
+          16,
           20
         ],
         "SummerItemIndex": [
@@ -40,7 +107,41 @@
         ],
         "ExcludeTerrainTypes": [],
         "IncludeCoordinates": [],
-        "ExcludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "0,127;103,129",
+          "0,0;2,129",
+          "0,0; 8, 22",
+          "9, 0; 30, 17",
+          "31, 0; 47, 14",
+          "48,0; 59, 18",
+          "60, 0;72, 15",
+          "73, 0; 86, 7",
+          "107,0; 139, 15",
+          "140, 0; 149, 20",
+          "138, 31; 149, 51",
+          "143, 55;149, 68",
+          "146, 81; 149, 93",
+          "145, 94; 149, 105",
+          "104, 128; 130, 129",
+          "3, 21; 9,41",
+          "10, 38; 25,45",
+          "18, 46; 25, 50",
+          "45, 28; 125, 50",
+          "65, 51; 144, 65",
+          "81, 79; 114, 89",
+          "129, 78; 143, 87",
+          "107, 62; 128, 78",
+          "79, 6; 97, 28",
+          "109, 23; 124, 29",
+          "125, 24; 149, 25",
+          "30, 88; 35, 93",
+          "126, 39; 137, 51",
+          "95, 0; 101, 24",
+          "101, 27; 103, 27",
+          "88, 107; 104, 113",
+          "96,114; 112, 119",
+          "102, 120; 127, 127"
+        ],
         "StrictTileChecking": "High",
         "SpawnTiming": {
           "StartTime": 600,
@@ -103,7 +204,14 @@
         ],
         "ExcludeTerrainTypes": [],
         "IncludeCoordinates": [],
-        "ExcludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "0, 0; 30, 7",
+          "0,0; 25, 13",
+          "34,0; 79, 20",
+          "66, 21; 79, 25",
+          "43, 38; 78, 39",
+          "14, 37; 37,39"
+        ],
         "StrictTileChecking": "High",
         "SpawnTiming": {
           "StartTime": 600,
@@ -556,7 +664,7 @@
     "WinterItemIndex": [],
     "CustomTileIndex": []
   },
-//  "Large_Object_Spawn_Settings": {
+  //  "Large_Object_Spawn_Settings": {
 //    "Areas": [
 //      {
 //        "ObjectTypes": [
@@ -1271,7 +1379,7 @@
           "LimitedNumberOfSpawns": null
         },
         "DaysUntilSpawnsExpire": null
-      },
+      }
     ],
     "CustomTileIndex": []
   },
