@@ -12,6 +12,7 @@ Meet new interesting people with immersive backstories, engaging dialogue and ex
 
 ## Support Ridgeside Village!
 (Thank you so much!)
+
 [Ko-Fi](https://ko-fi.com/ridgesidevillage) - [Patreon](https://www.patreon.com/RidgesideVillage)
 
 ## Ridgeside Socials!
