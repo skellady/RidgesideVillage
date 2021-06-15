@@ -92,24 +92,31 @@
 
 ## Special mentions:
 
-Mamaesh
+**Mamaesh**
+
 Has contributed to a huge part of the mod. Gave life to characters. <3
 
-ItsBenter
+**ItsBenter**
+
 For all the tips & tricks!
 
-Lemurkat
+**Lemurkat**
+
 For all the tips & tricks!
 
-Gervig91
+**Gervig91**
+
 For all the tips & tricks!
 
-Choogoo
+**Choogoo**
+
 For all the support!
 
-Navi
+**Navi**
+
 For all the tips & tricks!
 
-Stardew Valley Discord
-The primary hub for the Stardew Modding Community
+**[Stardew Valley Discord](https://discord.com/invite/stardewvalley)**
+
+The primary hub for the Stardew Modding Community.
 You guys are awesome <3
