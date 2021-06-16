@@ -2960,7 +2960,7 @@
 "MapString.rsv.lolashed1": "There's some kind of smoke inside of this onyx ring!",
 "MapString.rsv.lolashed2": "The amethyst gem on top of the ring is calling you to pick it.#You barely manage to yank your hand back and turn away.",
 "MapString.rsv.lolashed3": "This is a topaz ring. It looks like it's glowing.",
-"MapString.rsv.lolashed4": "Whoa! Look all this gold! You could buy a lot of stuff with this.",
+"MapString.rsv.lolashed4": "Whoa! Look at all this gold! You could buy a lot of stuff with this.",
 "MapString.rsv.lolashed5": "It's an aquamarine ring. It looks...wet?",
 "MapString.rsv.lolashed6": "Whoa! This jade ring has blood on it!",
 "MapString.rsv.lolashed7": "It's an emerald ring. The emerald is huge!",
@@ -3172,7 +3172,7 @@
 "MovieData.Alissa.FallMovie1.Dislike.AfterMovie": "I didn't really have a good time, I covered my eyes the entire movie.$s#$b#I'm so sorry @.$s",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
-"MovieData.Alissa.WinterMovie1.Love.BeforeMovie": "Ohh! I remember the soundtrack of this movies was quite a good one!$h",
+"MovieData.Alissa.WinterMovie1.Love.BeforeMovie": "Ohh! I remember the soundtrack of this movie was quite a good one!$h",
 "MovieData.Alissa.WinterMovie1.Love.DuringMovie": "Oh my..$l",
 "MovieData.Alissa.WinterMovie1.Love.AfterMovie": "I had a fun time @. It was really something..$l",
 
@@ -3459,7 +3459,7 @@
 "MovieData.Jeric.FallMovie1.Like.AfterMovie": "EHHRR EHEM.$u#$b#I managed to get through it!$u#$b#Phew!$h",
 
 			//Zuzu City Express (CLASSIC) (ROMANCE)
-"MovieData.Jeric.WinterMovie1.Love.BeforeMovie": "Hey I've been looking forward to watch this remake.$h",
+"MovieData.Jeric.WinterMovie1.Love.BeforeMovie": "Hey I've been looking forward to watching this remake.$h",
 "MovieData.Jeric.WinterMovie1.Love.DuringMovie": "%Jeric held your hand",
 "MovieData.Jeric.WinterMovie1.Love.AfterMovie": "Ah! I loved that film! Thanks for tagging me along @.$h",
 
@@ -3692,7 +3692,7 @@
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
 "MovieData.Lola.SpringMovie1.Love.BeforeMovie": "I bet I know more than this movie.$h",
 "MovieData.Lola.SpringMovie1.Love.DuringMovie": "Oops, They don't know that---$h#$b#OOPS!$u#$b#Nevermind, that was supposed to be a state secret.$h",
-"MovieData.Lola.SpringMovie1.Love.AfterMovie": "I had fun with this movie @. I,t was nostalgic. Thank you dear.$h",
+"MovieData.Lola.SpringMovie1.Love.AfterMovie": "I had fun with this movie @. It was nostalgic. Thank you dear.$h",
 
 			//Wumbus (SCI-FI) (COMEDY)
 "MovieData.Lola.SummerMovie1.Like.BeforeMovie": "People get more creative every year. This is a nice touch.",
@@ -3871,7 +3871,7 @@
 			//Zuzu City Express (CLASSIC) (ROMANCE)
 "MovieData.Pika.WinterMovie1.Like.BeforeMovie": "Ah, I remember this movie. My wife and I watched the original version before.",
 "MovieData.Pika.WinterMovie1.Like.DuringMovie": "%Pika seems to be smiling while wiping a tear off.",
-"MovieData.Pika.WinterMovie1.Like.AfterMovie": "That brought back so much memories. Mahalo for bringing me along @.$h",
+"MovieData.Pika.WinterMovie1.Like.AfterMovie": "That brought back so many memories. Mahalo for bringing me along @.$h",
 
 	//Richard
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
@@ -3895,7 +3895,7 @@
 "MovieData.Richard.WinterMovie0.Like.AfterMovie": "I had a pleasant time @. It helped me relax. Thank you.$h",
 
 			//Natural Wonders: Exploring Our Vibrant World (TOUR) (EDUCATIONAL)
-"MovieData.Richard.SpringMovie1.Like.BeforeMovie": "I've not traveled for so long. So I'm looking forward for this little virtual trip.",
+"MovieData.Richard.SpringMovie1.Like.BeforeMovie": "I've not traveled for so long. So I'm looking forward to this little virtual trip.",
 "MovieData.Richard.SpringMovie1.Like.DuringMovie": "%Richard seems to be enjoying the movie.",
 "MovieData.Richard.SpringMovie1.Like.AfterMovie": "This brings back so many memories! It reminded me I should contact my old friends in other places.$h",
 
@@ -3958,7 +3958,7 @@
 	//Trinnie
 			//Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
 "MovieData.Trinnie.SpringMovie0.Love.BeforeMovie": "I'm excited!$h",
-"MovieData.Trinnie.SpringMovie0.Love.DuringMovie": "That little sappling sooo cute!! I want one!$h",
+"MovieData.Trinnie.SpringMovie0.Love.DuringMovie": "That little sappling is sooo cute!! I want one!$h",
 "MovieData.Trinnie.SpringMovie0.Love.AfterMovie": "I can't wait to go back home! The movie made me think about my plants!$h",
 
 			//Journey of the Praire King (VIDEOGAME)
@@ -4010,7 +4010,7 @@
 			//Mysterium (MINDFUCK) (MYSTERY)
 "MovieData.Ysabelle.FallMovie0.Love.BeforeMovie": "Great pick, @, I love these!$h",
 "MovieData.Ysabelle.FallMovie0.Love.DuringMovie": "I bet that this will be.. Oh! No, that's too obvious!$h",
-"MovieData.Ysabelle.FallMovie0.Love.AfterMovie": "That was fun and delightful experience, @. I had a good time. Thank you for inviting me.",
+"MovieData.Ysabelle.FallMovie0.Love.AfterMovie": "That was a fun and delightful experience, @. I had a good time. Thank you for inviting me.",
 
 			//Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
 "MovieData.Ysabelle.WinterMovie0.Like.BeforeMovie": "Shall we head in? I'm excited.$h",
@@ -4106,7 +4106,7 @@
 "Festivals.EggFest.Flor": "Have you noticed how they don't seem to put an age limit on the Egg Hunt?#$b#It's most appealing for the children, but no one has an issue with young adults like Abigail joining.",
 "Festivals.EggFest.Flor_spouse": "I wonder if Abigail will ever get tired of participating in the hunt.#$b#Not that I think she should!$u#$b#I'm really just wondering, I swear!$h",
 "Festivals.EggFest.Ian": "Miss Evelyn's deviled eggs are really good.$h#$b#She told me she puts chili powder on top instead of paprika! That's a secret from Gus, though.",
-"Festivals.EggFest.Ian_spouse": "Have you tried the egg tart Jodi made? Here, have some of mine.$h#$b# Say 'ahh'!#$e#Sorry... I, uh, caught up in the moment.$l",
+"Festivals.EggFest.Ian_spouse": "Have you tried the egg tart Jodi made? Here, have some of mine.$h#$b# Say 'ahh'!#$e#Sorry... I, uh, got caught up in the moment.$l",
 "Festivals.EggFest.Jeric": "Are you going to participate in the egg hunt, @?#$e# Look out for Keahi, he's super fast! #$b#He has to be, to get away with his pranks.$h",
 "Festivals.EggFest.Jeric_spouse": "Good luck if you're entering the egg hunt, babe!",
 "Festivals.EggFest.Kenneth": "Awww... $s#$b#I wasn't able to get any egg tart! I was too late.",
@@ -4232,7 +4232,7 @@
 "Festivals.Jellies.Kenneth": "It's like the festival is giving mother nature a break from electricity#$b#It's nice to unplug, even just for a bit!$h",
 "Festivals.Jellies.Kenneth_spouse": "I used to want to recreate the bioluminescence that the jellies have and make it into a lamp or something.#$e#I really think it's best if it's just theirs, though. They do it best.$h",
 "Festivals.Jellies.Maddie": "I should either be asleep already or working on my research.$s#$b#But Mr. Aguar insists on going and I'm not going to make him walk back alone.$a",
-"Festivals.Jellies.Maddie_spouse": "If I'm being honest, like 100% honest... $s#$b# I really love the jellyfisb. A lot.$l",
+"Festivals.Jellies.Maddie_spouse": "If I'm being honest, like 100% honest... $s#$b# I really love the jellyfish. A lot.$l",
 "Festivals.Jellies.Philip": "Ah, sorry about talking your ear off about jellyfish yesterday. #$b#They're just fascinating!#$e# They don't even have a central nervous system, but they're some of the most energy-efficient creatures in the ocean.",
 "Festivals.Jellies.Philip_spouse": "Time for the annual jellyfish update!$h#$b# Instead of a skeleton, jellyfish have mesoglea, which is 85% water. It also contains proteins and amoebocytes that consume bacteria and debris... ” %Philip's struggling to keep a straight face. #He's probably going to keep this joke going for the next decade... ",
 "Festivals.Jellies.Shiro": "You know, we're more like the jellies than you'd think. #$e#We like to stick together, like a family.#$b# And sometimes the current takes us down different paths... $s",
@@ -4351,7 +4351,7 @@
 "Festivals.IceFest.Jeric_spouse": "Hey, @. Be sure to catch me if I slip and fall on the ice, okay?$h",
 "Festivals.IceFest.Kenneth": "They release the fish after the festival.#$b#They'd just go bad if we didn't.",
 "Festivals.IceFest.Kenneth_spouse": "All those fish I caught, yet my favorite catch is you.$h#$e# What? Can't a guy use a terrible pickup line once in a while?$h",
-"Festivals.IceFest.Maddie": "Y'all know that one could die with hypothermia right??RIGHT?#$b#I just don't understand the point of all this$a ",
+"Festivals.IceFest.Maddie": "Y'all know that one could die with hypothermia right??RIGHT?#$b#I just don't understand the point of all this.$a",
 "Festivals.IceFest.Maddie_spouse": "Yoba, it's so cold.$a#$b#You're an amazing person and all, but there are some things love can't conquer, and this cold is one of them. I can't wait to go home.$a",
 "Festivals.IceFest.Philip": "Good luck!$h#$e#Remember to engage your core. Shoulder injuries are the worst.",
 "Festivals.IceFest.Philip_spouse": "I've seen you fish, I know you don't need any warnings about injuries. Good luck!",
@@ -4395,7 +4395,7 @@
 "Festivals.WinterStar.Maddie_spouse": "I don't need to think about material gifts with you around. #$b#I couldn't ask for anything better!",
 "Festivals.WinterStar.Philip": "Happy holidays! I hope you get everything you wished for.$h",
 "Festivals.WinterStar.Philip_spouse": "Oh Yoba, I love holiday food.#$b# Don't hug me, I've got cookies stashed in my pockets.$h",
-"Festivals.WinterStar.Shiro": "You know what @? It's important to make the most out of every moment#$e#Live your life to the fullest while you have it.#$b#You never know what might go missing one day.$s",
+"Festivals.WinterStar.Shiro": "You know what @? It's important to make the most out of every moment.#$e#Live your life to the fullest while you have it.#$b#You never know what might go missing one day.$s",
 "Festivals.WinterStar.Shiro_spouse": "I love you, @. Happy Winter Star.",
 "Festivals.WinterStar.Ysabelle": "I hope I get new tights.$h#$b#My nicest ones have a huge run in them.$s",
 "Festivals.WinterStar.Ysabelle_spouse": "I'm so happy that you're here with me, my love!$h#$b#You're the best gift I have ever received!$l#$b#I hope the coming years will be even more wonderful.$h",
@@ -4426,10 +4426,10 @@
 "Festivals.EoR.Flor": "Happy New Year.$h#$e#Cold... $s#$b#It is quite cold up here.#$e#Such an interesting tradition, this bonfire.#$b#I wonder how this whole event came to be?#$e#Do you know how, @? Maybe we could come up with theories.$h#$e#I believe that the founder of this festival was a closet pyromaniac and only wanted an excuse to create a giant bonfire.$h#$b#I'm interested to delve into that person's psyche.$h",
 "Festivals.EoR.Flor_spouse": "Happy New Year, love.#$e#Hey love... It's cold!$s#$b#Hold me closer please... $l#$b#That's nice.$h#$e#It makes me really happy to realize that when I go to bed tonight... #$b#... that I'll be waking up next to you.$l#$b#There is no better start to a year.$h",
 "Festivals.EoR.Ian": "Happy New Year, @#$e#Phew. It was a bit of a struggle to bring these tables up here.$h#$b#Oh well, it's worth it as long as everyone gets to enjoy it.$h#$e#I'm hoping I'll get more gigs next year... $s",
-"Festivals.EoR.Ian_spouse": "Happy New Year, honey$h#$e#I'm just so happy you came into my life.$l#$b#Life was a real struggle before I met you.$s#$b#I was all on my own, with Lenny ocassionally helping out.$6#$b#But now I have you... $7#$b#... and I guess you have me.$7#$b#Thanks for everything, @.$7",
+"Festivals.EoR.Ian_spouse": "Happy New Year, honey!$h#$e#I'm just so happy you came into my life.$l#$b#Life was a real struggle before I met you.$s#$b#I was all on my own, with Lenny ocassionally helping out.$6#$b#But now I have you... $7#$b#... and I guess you have me.$7#$b#Thanks for everything, @.$7",
 "Festivals.EoR.Jeric": "Happy New Year, @.#$e#Another year, another hustle.$h#$b#I hope things go well for you next year!#$e#Me? Things will be better for me next year.#$e#Why? Because I'm going to work even harder to beat your crops.$h",
 "Festivals.EoR.Jeric_spouse": "Happy New Year, baby.#$e#Come here and give your hubby a kiss?$l#$b#Seriously though, @. I'm grateful.$6#$b#Thanks for being there for me.#$b#You're the first real family I've had since the governor.$s#$b#I love you so much.$7",
-"Festivals.EoR.Kenneth": "Happy New Year, @#$e#I love it when Pika and Gus collaborate.$h#$b#They're probably the best cooks this valley has to offer!$h#$b#Onto a new year of great festivals.$h",
+"Festivals.EoR.Kenneth": "Happy New Year, @.#$e#I love it when Pika and Gus collaborate.$h#$b#They're probably the best cooks this valley has to offer!$h#$b#Onto a new year of great festivals.$h",
 "Festivals.EoR.Kenneth_spouse": "Happy New Year, honey!$h#$eYou know... every single year the bonfire reminded me of grief.$s#$b#Now?$8#$b# Now I look forward to it every year.$7#$b#Because I get to be with you every year.$7#$b#I love you, @.$7",
 "Festivals.EoR.Maddie": "Happy New Year, I guess.#$b#Why do they have to burn all this wood?$a#$b#I hope they didn't cut down any trees for this purpose.$s#$e#I guess it does look kind of serene... $h",
 "Festivals.EoR.Maddie_spouse": "Hey you... #$b#Happy New Year, you dork.$l#$b#I'm really glad I met you, you know.$9#$b#Thanks to you I've learned to open up again.$7#$b#I've learned to be honest with myself.$6#$b#I've learned to love again.$8#$e#I love you, @.$h",
@@ -4462,7 +4462,7 @@
 "EmberNightDialogue.Maru": "Flor doesn't seem to be bothered by the cold.$2#$b#I wonder if people in Ridgeside have developed somewhat of a resistance to the cold.$1",
 "EmberNightDialogue.Sebastian": "It's so cold.$s#$b#Hey, don't judge me!#$b#It's colder up here than it is in Pelican Town.$s",
 "EmberNightDialogue.Pierre": "It's time to welcome a new year.#$b#Hey @!#$b#Come visit me at the shop first thing in the morning, okay?$h#$b#I have some new seeds for sale!$h" ,
-"EmberNightDialogue.Caroline": "Happy New Year, @#$e#It's great to catch up with Olga from time to time.$h#$b#It's fun to hear about Bert's antics, ha ha!$h",
+"EmberNightDialogue.Caroline": "Happy New Year, @!#$e#It's great to catch up with Olga from time to time.$h#$b#It's fun to hear about Bert's antics, ha ha!$h",
 "EmberNightDialogue.Linus": "Oh, don't mind me, @. I'm just waiting for the bonfire.$1#$e#What's with the mysterious cabin over there, though?$0",
 "EmberNightDialogue.Alex": "The hike up here was a good workout!#$b#I should visit this place more often!$1",
 "EmberNightDialogue.George": "Why'd we have to climb up this mountain on a cold night this late?#$b#I should've been in a warm bed by now!$2",
@@ -4513,8 +4513,8 @@
 "Festivals.Gathering.Flor_spouse": "Uhmm... I brought some of my old books to sell.#$b#I wonder if someone will buy them.#$e#Hey Elliott, here's the sculpture design I've been telling you about!$h",
 "Festivals.Gathering.Ian": "Phew, This wood sculpture is almost done.$h#$b#It's not as good as Leah's though.#$b#Oh well, I still hope someone buys it.$h",
 "Festivals.Gathering.Ian_spouse": "Are you having fun, honey?#$b#I have to finish this sculpture first. I'll join you in a while.",
-"Festivals.Gathering.Jeric": "Come right up and see the best stall in the valley!$h#$b#Blood, sweat and tears were involved in making this stall!$h#$e#Hey Shane!Did you forget the decorations!?$a",
-"Festivals.Gathering.Jeric_spouse": "Hey baby, do me a favor and spy on their wares, would you?$h#$b#Ha ha! I'm just kidding. I'm don't feel insecure at all.. Ha ha!$h",
+"Festivals.Gathering.Jeric": "Come right up and see the best stall in the valley!$h#$b#Blood, sweat and tears were involved in making this stall!$h#$e#Hey Shane! Did you forget the decorations!?$a",
+"Festivals.Gathering.Jeric_spouse": "Hey baby, do me a favor and spy on their wares, would you?$h#$b#Ha ha! I'm just kidding. I don't feel insecure at all.. Ha ha!$h",
 "Festivals.Gathering.Kenneth": "I'm interested in seeing Maru's little robot over there.#$b#I'll go take a quick look later.#$e#Oh! I should show Sam the new amplifier I've been working on!$h",
 "Festivals.Gathering.Kenneth_spouse": "Have you visited Pika and Gus's stall, honey? They're selling lots of food!$h#$b#I'll go catch up as soon as I sell some stuff here.$h",
 "Festivals.Gathering.Maddie": "This little bear clock is soooo cute!$9#$b#I want to buy it!$h#$e#Hey Leah! Did you make this?$h",
