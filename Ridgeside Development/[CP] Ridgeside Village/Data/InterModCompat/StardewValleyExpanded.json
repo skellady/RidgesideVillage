@@ -328,8 +328,8 @@
 		"FromFile": "Assets/Maps/InterModMaps/EggFestival-Patch_SVE.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 2, "Height": 9 },
 		"ToArea": { "X": 10, "Y": 60, "Width": 2, "Height": 9 },
-		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "DayEvent": "luau", "LocationName": "Temp" },
-		"PatchMode": "ReplaceByLayer",
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, "DayEvent": "egg festival", "LocationName": "Temp" },
+		"PatchMode": "Overlay",
 		"Update": "OnLocationChange"
 	},
 
