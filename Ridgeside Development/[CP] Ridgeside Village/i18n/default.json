@@ -5274,12 +5274,12 @@
 "Flor.Dialogue.Sun8": "Hello, @! You look like you're having a good day!$h#$b# I passed by your farm the other day and snuck a peek. It looks really incredible!$h",
 
 //10 Hearts
-"Flor.Dialogue.Mon10": "H-hi! Um. Hi. Uh, can I... nevermind.$l#$e# C-can I ask for a hug later$l?",
+"Flor.Dialogue.Mon10": "H-hi! Um. Hi. Uh, can I... nevermind.$l#$e# C-can I ask for a hug later?$l",
 "Flor.Dialogue.Tue10": "I technically can't offer you any counseling because we're in a relationship, but please let me know if you ever need anything or are feeling down.$l#$b# I'll do my best to help as your... uh.#$b# What are we, technically? I-I mean, what term do you prefer?$l",
 "Flor.Dialogue.Wed10": "It's kind of wild to think about how all the nerves and butterflies I get around you are really just a mix of brain chemicals and signals firing in our brains... $h#$b#and yet, I can feel it in my whole body.$l",
 "Flor.Dialogue.Thu10": "I've had kind of a strange day... #$b#I really need a dopamine boost. I might go get a coffee or something sweet for a snack...",
 "Flor.Dialogue.Fri10": "Promise me that you'll tell me if I ever get boring, okay? $s#$b#I would rather know that you're tired of hearing me chatter about psychology and maybe get a little hurt than wonder without ever being sure.$s",
-"Flor.Dialogue.Sat10": "It was really kind of Doctor Harvey to reach out when I came to the valley. $h#$b# I get to help provide behavioral health suppot for valley residents. $h#$b#I don't know if he knows it, but that help is getting me closer and closer to full licensure.$h",
+"Flor.Dialogue.Sat10": "It was really kind of Doctor Harvey to reach out when I came to the valley. $h#$b# I get to help provide behavioral health support for valley residents. $h#$b#I don't know if he knows it, but that help is getting me closer and closer to full licensure.$h",
 "Flor.Dialogue.Sun10": "Working with Doctor Harvey means it will be easier to stay here, if I decide to. $h#$b#Er, if you want me to. Not that I'd make the decision based just on you and me, I mean, that'd be unhealthy,but you are a major factor in my decision, just not in a codependent... $u#$b#I'm going to stop talking now.$l",
 
 //Special Dialogue
@@ -5299,7 +5299,7 @@
 "Flor.Dialogue.Resort_Umbrella_3": "Why do waves sound so soothing? It'd be so easy to fall asleep...",
 "Flor.Dialogue.Resort_Wander": "I'm not really a beach person, but I'm glad I came out here! $h#$b# I'm also really glad I'm wearing sandals. This sand is really hot.$s",
 "Flor.Dialogue.Resort_Bar": "I'm so thirsty! I can't wait to get some lemonade.$l",
-"Flor.Dialogue.Resort": "Hi, @! Are you enjoying yourself?$here",
+"Flor.Dialogue.Resort": "Hi, @! Are you enjoying yourself?$h",
 
 
 "Freddie.Dialogue.Introduction": "Hello there, stranger.#$b#You must be the new farmer everyone has been talking about!$h#$b#Nice to meet you. My name is Freddie.#$b#I live here in Ridgeside with my wife Lola. Come by sometime for a chat, won't you.$h",
@@ -5476,7 +5476,7 @@
 "Ian.Dialogue.Thu8": "Hi @!#$b#How's it going?#$b#Hey, what's your favorite food?#$b#Why?#$b#Oh nothing.$h#$b#I was just curious.$l",
 "Ian.Dialogue.Fri8": "I helped Robin build your renovation.#$b#Knowing it was for you, I tried my best!$h",
 "Ian.Dialogue.Sat8": "I picked up a book at the library the other day to read by myself.#$b#It was hard.$s#$b#But I managed to read all the way through the Table of Contents!$h",
-"Ian.Dialogue.Sun8": "Hi @!#$b#You look even more handsome today.$l^Hi @!#$b#You look even more beautiful today.$l#$b#Ah, w-wait!$u#$b#I'm sorry!$u#$b#W-was that weird?$l#$b#But... I mean it!$l",
+"Ian.Dialogue.Sun8": "Hi @!#$b#You look even more handsome today.$l^You look even more beautiful today.$l#$b#Ah, w-wait!$u#$b#I'm sorry!$u#$b#W-was that weird?$l#$b#But... I mean it!$l",
 
 //10 Hearts
 "Ian.Dialogue.Mon10": "Hey there, @!#$b#How's the farm going?$h#$b#Just say the word if you need any help today.#$b#I'll always put you first.$l",
@@ -6479,7 +6479,7 @@
 "Olga.Dialogue.Resort": "Oh, @! What a lovely place this is.$h#$e#Wait, where is my fool of a husband?$a#$b#Where is my daughter?!$a#$b#Oh, can't I just get one second with these two...$s",
 
 
-"Philip.Dialogue.Introduction": "Oh hello sir.^Oh hello ma'am.  I haven't seen you around before...#$e#Are you the new farmer who just moved into the valley?#$b#Nice to meet you! I'm Philip. I work as a physical therapist for some individuals in the area. I'll see you around!$h",
+"Philip.Dialogue.Introduction": "Oh hello sir. I haven't seen you around before...^Oh hello ma'am. I haven't seen you around before...#$e#Are you the new farmer who just moved into the valley?#$b#Nice to meet you! I'm Philip. I work as a physical therapist for some individuals in the area. I'll see you around!$h",
 
 //Spring
 "Philip.Dialogue.spring_1": "I love running in the spring.#$b#Not too hot, not too cold, and you get to watch the flowers come up day after day.$h",
@@ -7398,7 +7398,7 @@
 //Two kids
 "Corine.MarriageDialogue.TwoKids_0": "Oh dear, Yoba. %kid1 just puked on %kid2 and they both laughed!$u#$b#I don't know whether to laugh or be angry at them both.",
 "Corine.MarriageDialogue.TwoKids_1": "Do you think any of our kids would take after me and pick up fighting?#$b#I don't know if I want them to, truth be told...$s",
-"Corine.MarriageDialogue.TwoKids_2": "Isn't it amazing how %kid1 is taking care of %kid2 all on her own.$h#$b#I mean did you see how %kid1 fed kid %kid2 earlier?",
+"Corine.MarriageDialogue.TwoKids_2": "Isn't it amazing how %kid1 is taking care of %kid2 all on their own.$h#$b#I mean did you see how %kid1 fed kid %kid2 earlier?",
 "Corine.MarriageDialogue.TwoKids_3": "I'm so happy for our little growing family. Thank you for everything. I love you and our kids so, so much.",
 
 //Relationship-dependent
@@ -7588,7 +7588,7 @@
 "Ian.MarriageDialogue.winter_24": "I've always loved decorating the tree.$h#$b#It makes me feel giddy inside.$h",
 
 ///Room
-"Ian.MarriageDialogue.spouseRoom_Ian": "I've been practicing my writing.#$b#Look!#$b#I think my handwriting is getting better!$h#$b#It's easier to write neatly and quickly than it was last week.h#$e#I'll work on my reading tonight, but I think I need a break!",
+"Ian.MarriageDialogue.spouseRoom_Ian": "I've been practicing my writing.#$b#Look!#$b#I think my handwriting is getting better!$h#$b#It's easier to write neatly and quickly than it was last week.$h#$e#I'll work on my reading tonight, but I think I need a break!",
 
 ///Patio
 "Ian.MarriageDialogue.patio_Ian": "Carpentry and whittling wood is relaxing.#$b#I may not be very good at it, but just being able to take my time is enough for me.",
