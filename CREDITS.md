@@ -55,6 +55,10 @@
 * RedxMoonxRose
 * Shekurika
 * theLion
+* pepoluan
+* Floogen
+* Stunky-Mcdoo
+* Stari
 
 ## Translators:
 
