@@ -11,7 +11,6 @@ namespace RidgesideVillage
         {
         private readonly IModHelper Helper;
         private readonly IManifest ModManifest;
-        private readonly IMonitor Monitor;
 
         private ModConfig Config {
             get => ModEntry.Config;
@@ -21,13 +20,12 @@ namespace RidgesideVillage
         public CustomCPTokens(IMod mod) {
             Helper = mod.Helper;
             ModManifest = mod.ModManifest;
-            Monitor = mod.Monitor;
             }
 
         public void RegisterTokens() {
             var cp = Helper.ModRegistry.GetApi<IContentPatcherApi>("Pathoschild.ContentPatcher");
             if (cp is null) {
-                Monitor.Log("Content Patcher is not installed- RSV requires CP to run. Please install CP and restart your game.", LogLevel.Alert);
+                Log.Alert("Content Patcher is not installed- RSV requires CP to run. Please install CP and restart your game.");
                 return;
                 }
 

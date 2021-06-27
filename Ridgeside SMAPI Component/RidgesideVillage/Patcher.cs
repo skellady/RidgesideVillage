@@ -19,13 +19,11 @@ namespace RidgesideVillage
 
         static IModHelper Helper;
         static IManifest Manifest;
-        static IMonitor ModMonitor;
         static IJsonAssetsApi JsonAssetsAPI;
 
         public Patcher(IMod mod) {
             Helper = mod.Helper;
             Manifest = mod.ModManifest;
-            ModMonitor = mod.Monitor;
             }
 
         public void PerformPatching() {
@@ -44,7 +42,7 @@ namespace RidgesideVillage
                     return;
                     }
                 string nameToUse = locationName ?? __instance.Name;
-                ModMonitor.Log($"Player {who.Name} using magic bait at {nameToUse} with original fish result is {__result.Name}", LogLevel.Trace);
+                Log.Trace($"Player {who.Name} using magic bait at {nameToUse} with original fish result is {__result.Name}");
 
                 double catchChance =
                     (who.CurrentTool is StardewValley.Tools.FishingRod rod && rod.getBobberAttachmentIndex() == CURIOSITY_LURE)
@@ -79,18 +77,18 @@ namespace RidgesideVillage
                     int fish_id = JsonAssetsAPI.GetObjectId(fish);
                     // Currently this gives each fish a 20% chance to be caught, could be lower if we add more configuration
                     if (fish_id != -1 && !who.fishCaught.ContainsKey(fish_id) && who.FishingLevel >= MIN_FISHING && Game1.random.NextDouble() < catchChance) {
-                        ModMonitor.Log($"Fish {fish} (ID: {fish_id}) is caught: {who.fishCaught.ContainsKey(fish_id)}, setting fish result to this fish", LogLevel.Trace);
+                        Log.Trace($"Fish {fish} (ID: {fish_id}) is caught: {who.fishCaught.ContainsKey(fish_id)}, setting fish result to this fish");
                         __result = new StardewValley.Object(fish_id, 1);
                         return;
                         }
                     else {
-                        ModMonitor.Log($"Fish {fish} (ID: {fish_id}) is caught: {who.fishCaught.ContainsKey(fish_id)}", LogLevel.Trace);
+                        Log.Trace($"Fish {fish} (ID: {fish_id}) is caught: {who.fishCaught.ContainsKey(fish_id)}");
                         }
                     }
                 return;
                 }
             catch (Exception ex) {
-                ModMonitor.Log($"Failed in {nameof(GetFish_Postfix)}:\n{ex}", LogLevel.Error);
+                Log.Error($"Failed in {nameof(GetFish_Postfix)}:\n{ex}");
                 }
             }
 

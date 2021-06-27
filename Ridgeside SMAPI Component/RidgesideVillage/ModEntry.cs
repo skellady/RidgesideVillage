@@ -38,7 +38,7 @@ namespace RidgesideVillage
 
             if (!Helper.ModRegistry.IsLoaded("spacechase0.JsonAssets"))
             {
-                Monitor.Log("JSON Assets is not loaded! This mod *requires* JSON Assets!", LogLevel.Error);
+                Log.Error("JSON Assets is not loaded! This mod *requires* JSON Assets!");
                 return;
             }
             Patcher.PerformPatching();
@@ -58,7 +58,7 @@ namespace RidgesideVillage
             }
             catch (Exception e)
             {
-                Monitor.Log($"Failed to load config settings. Will use default settings instead. Error: {e}", LogLevel.Debug);
+                Log.Debug($"Failed to load config settings. Will use default settings instead. Error: {e}");
                 Config = new ModConfig();
             }
         }
