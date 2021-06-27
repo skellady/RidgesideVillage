@@ -752,7 +752,8 @@
       "When": {
         "Seasons": "fall",
         "Days": "5",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -766,7 +767,8 @@
       "When": {
         "Days": "10",
         "Seasons": "summer fall winter",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -779,7 +781,8 @@
       },
       "When": {
         "FriendshipLevel": "Yuuma 2",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -792,7 +795,8 @@
       },
       "When": {
         "FriendshipLevel": "Olga 4",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 		
@@ -805,7 +809,8 @@
       },
       "When": {
         "FriendshipLevel": "Aguar 4",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -818,7 +823,8 @@
       },
       "When": {
         "FriendshipLevel": "Freddie 4",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -831,7 +837,8 @@
       },
       "When": {
         "FriendshipLevel": "Pika 6",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -844,7 +851,8 @@
       },
       "When": {
         "FriendshipLevel": "Richard 6",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	
@@ -855,7 +863,8 @@
       "When": {
         "Days": "21",
         "Seasons": "spring",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 	{
@@ -1032,21 +1041,24 @@
 	"QuestName": "mysticfalls_1",
 	"OfferedBy": "Board:RSVNinjaBoard",
 	"When": {
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
 		}
 	},
 	{
 	"QuestName": "mysticfalls_2",
 	"OfferedBy": "Board:RSVNinjaBoard",
 	"When": {
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
 		}
 	},
 	{
 	"QuestName": "mysticfalls_3",
 	"OfferedBy": "Board:RSVNinjaBoard",
 	"When": {
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
 		}
 	},
 	
@@ -1060,7 +1072,8 @@
       },
       "When": {
         "EventSeen": "75160189",
-		"QuestNeverCompleted": "yes"
+		"QuestNeverCompleted": "yes",
+		"QuestNeverAccepted": "yes"
       }
     },
 
