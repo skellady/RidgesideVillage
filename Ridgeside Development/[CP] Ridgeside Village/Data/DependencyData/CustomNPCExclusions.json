@@ -8,8 +8,8 @@
 			"Action": "EditData",
 			"Target": "Data/CustomNPCExclusions",
 			"Entries": {
-				"Kiwi": "ALL",
-				"Jio": "ALL",
+				"Kiwi": "Socialize",
+				"Jio": "Socialize",
 				"Undreya": "ALL",
 				"Helen": "ALL",
 				"Jason": "ALL",				
